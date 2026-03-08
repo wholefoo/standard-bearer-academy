@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block title %}{{ roles[role].name }} Dashboard{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="/">Home</a> <span>&rsaquo;</span> Dashboard
+        </div>
+        <h2>{{ roles[role].name }} Dashboard</h2>
+        <p>{{ roles[role].description }}</p>
+    </div>
+</div>
+
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="section-title" style="margin-bottom: 32px;">
+            <h2>Select a Grade Level</h2>
+        </div>
+        <div class="grade-grid" style="margin-bottom: 48px;">
+            {% for grade_key, grade in grades.items() %}
+            <a href="#" class="grade-card grade-selector" data-grade="{{ grade_key }}" style="text-decoration:none;">
+                <div class="grade-num">{{ grade.short }}</div>
+                <div class="grade-label">{{ grade.name }}</div>
+            </a>
+            {% endfor %}
+        </div>
+
+        <div class="section-title" style="margin-bottom: 32px;">
+            <h2>Subjects</h2>
+            <p>Click a subject to view its course</p>
+        </div>
+        <div class="subject-grid">
+            {% for subj_key, subj in subjects.items() %}
+            <a href="/course/grade1/{{ subj_key }}" class="subject-card subject-link" data-subject="{{ subj_key }}" style="text-decoration:none; color: inherit;">
+                <div class="subject-icon">{{ subj.icon }}</div>
+                <h3>{{ subj.name }}</h3>
+                {% if subj_key == "science" %}
+                <p style="font-size: 12px; color: var(--success); margin-top: 8px; font-family: Arial, sans-serif;">Proof of Concept Available</p>
+                {% else %}
+                <p style="font-size: 12px; color: var(--text-light); margin-top: 8px; font-family: Arial, sans-serif;">Coming Soon</p>
+                {% endif %}
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let selectedGrade = 'grade1';
+
+    document.querySelectorAll('.grade-selector').forEach(card => {
+        card.addEventListener('click', function(e) {
+            e.preventDefault();
+            selectedGrade = this.dataset.grade;
+
+            document.querySelectorAll('.grade-selector').forEach(c => {
+                c.style.borderColor = '';
+                c.style.background = '';
+            });
+            this.style.borderColor = 'var(--primary)';
+            this.style.background = '#f0f4fa';
+
+            document.querySelectorAll('.subject-link').forEach(link => {
+                link.href = '/course/' + selectedGrade + '/' + link.dataset.subject;
+            });
+        });
+    });
+
+    const defaultCard = document.querySelector('[data-grade="grade1"]');
+    if (defaultCard) {
+        defaultCard.style.borderColor = 'var(--primary)';
+        defaultCard.style.background = '#f0f4fa';
+    }
+});
+</script>
+{% endblock %}

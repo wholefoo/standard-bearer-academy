@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}{{ lesson.title }}{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="/">Home</a>
+            <span>&rsaquo;</span> <a href="/dashboard">Dashboard</a>
+            <span>&rsaquo;</span> <a href="/course/{{ grade }}/{{ subject }}">{{ grade_info.name }} {{ subject_info.name }}</a>
+            <span>&rsaquo;</span> Lesson {{ lesson.id }}
+        </div>
+        <h2>Lesson {{ lesson.id }}</h2>
+        <p>{{ grade_info.name }} {{ subject_info.name }} &mdash; The Days of Creation</p>
+    </div>
+</div>
+
+<section class="section" style="padding-top: 16px;">
+    <div class="container" style="max-width: 800px;">
+        <div class="lesson-detail">
+            <h2>{{ lesson.title }}</h2>
+
+            <div class="verse-box">
+                <span class="verse-label">Memory Verse</span>
+                {{ lesson.memory_verse }}
+            </div>
+
+            <div class="lesson-section">
+                <h3>Learning Objective</h3>
+                <p>{{ lesson.objective }}</p>
+            </div>
+
+            <div class="lesson-section">
+                <h3>Lesson Content</h3>
+                {% for paragraph in lesson.content %}
+                <p>{{ paragraph }}</p>
+                {% endfor %}
+            </div>
+
+            <div class="activity-box">
+                <div class="label">Hands-On Activity</div>
+                <p>{{ lesson.activity }}</p>
+            </div>
+
+            <div class="lesson-section">
+                <h3>Discussion Questions</h3>
+                <ul>
+                    {% for question in lesson.discussion %}
+                    <li>{{ question }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            {% if lesson.id > 1 %}
+            <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id - 1 }}" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">&larr; Previous Lesson</a>
+            {% else %}
+            <span></span>
+            {% endif %}
+
+            <a href="/course/{{ grade }}/{{ subject }}" class="btn btn-sm" style="color: var(--text-light);">Back to Course</a>
+
+            {% if lesson.id < 7 %}
+            <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id + 1 }}" class="btn btn-primary">Next Lesson &rarr;</a>
+            {% else %}
+            <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-success">Take the Quiz &rarr;</a>
+            {% endif %}
+        </div>
+    </div>
+</section>
+{% endblock %}

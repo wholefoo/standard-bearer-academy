@@ -1,0 +1,26 @@
+"Act as a Full-Stack Developer and Curriculum Specialist. I want to build a comprehensive K-12 Homeschool Resource Platform on Replit using a Python/Flask or Node.js framework.
+
+The Project Goal: Create a Learning Management System (LMS) that hosts complete courseware for Preschool through High School.
+
+The Worldview Filter (Strict Adherence Required): All content, logic, and curriculum generation must be framed within a politically conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. This includes:
+
+Science: Taught from a Creationist perspective, emphasizing intelligent design and a literal Genesis account.
+
+History: Emphasizing Providential history, Western Civilization, and American Exceptionalism.
+
+Ethics/Literature: Rooted in Biblical scripture and traditional Judeo-Christian values.
+
+Phase 1 Technical Task: > 1. Please provide the file structure for a Replit project that includes directories for User Roles (Parent/Teacher/Student), Grade Levels (PreK-12), and Subject Modules.
+2. Generate the code for a basic app.py or index.js that sets up the homepage and a 'Course Dashboard.'
+3. Provide a 'Proof of Concept' curriculum outline for 1st Grade Science: The Days of Creation, including a lesson plan, a scripture memory verse, and a simple interactive quiz.
+
+Formatting: Present the file structure in a code block and the curriculum outline in a structured Markdown table."
+
+Recommended Tech Stack for Replit
+To make this platform "extensive," I suggest using the following tools within Replit:
+
+Database: Use PostgreSQL (available via Replit's managed database) to store student progress, quiz scores, and the massive amount of curriculum text.
+
+Frontend: Streamlit (Python-based) is the fastest way to build a clean, functional dashboard without deep CSS knowledge. If you want a more "app-like" feel, use Next.js.
+
+AI Integration: You will likely want to use the OpenAI or Anthropic API to help generate the sheer volume of "courseware" text based on your specific worldview prompts.

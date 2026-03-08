@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}{{ grade_info.name }} {{ subject_info.name }}{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="/">Home</a> <span>&rsaquo;</span> <a href="/dashboard">Dashboard</a> <span>&rsaquo;</span> {{ grade_info.name }} {{ subject_info.name }}
+        </div>
+        <h2>{{ subject_info.icon }} {{ grade_info.name }} {{ subject_info.name }}</h2>
+        {% if grade == "grade1" and subject == "science" %}
+        <p>The Days of Creation &mdash; A Biblical Foundation for Science</p>
+        {% else %}
+        <p>Curriculum coming soon. Check back for updates!</p>
+        {% endif %}
+    </div>
+</div>
+
+<section class="section" style="padding-top: 16px;">
+    <div class="container">
+        {% if lessons %}
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px;">
+            <h3 style="color: var(--primary);">Lesson Plans</h3>
+            <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-primary btn-sm">Take the Quiz</a>
+        </div>
+        <ul class="lesson-list">
+            {% for lesson in lessons %}
+            <li>
+                <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id }}" class="lesson-item" style="text-decoration: none; color: inherit;">
+                    <div class="lesson-num">{{ lesson.id }}</div>
+                    <div class="lesson-info">
+                        <h3>{{ lesson.title }}</h3>
+                        <span class="scripture-ref">{{ lesson.scripture }} &mdash; {{ lesson.memory_verse[:60] }}...</span>
+                    </div>
+                    <span class="btn btn-sm btn-outline" style="color: var(--primary); border-color: var(--primary); flex-shrink: 0;">View Lesson</span>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <div style="text-align: center; margin-top: 32px;">
+            <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-primary">Take the Days of Creation Quiz</a>
+        </div>
+        {% else %}
+        <div style="text-align: center; padding: 80px 0;">
+            <div style="font-size: 64px; margin-bottom: 16px;">{{ subject_info.icon }}</div>
+            <h3 style="color: var(--primary); margin-bottom: 8px;">Curriculum In Development</h3>
+            <p style="color: var(--text-light); font-family: Arial, sans-serif;">
+                The {{ grade_info.name }} {{ subject_info.name }} curriculum is currently being developed.<br>
+                Check out <a href="/course/grade1/science">1st Grade Science: Days of Creation</a> for our proof of concept.
+            </p>
+        </div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}

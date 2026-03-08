@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-content">
+        <h2>Raising the Next Generation in Truth</h2>
+        <p class="verse">"Train up a child in the way he should go; even when he is old he will not depart from it." &mdash; Proverbs 22:6 (ESV)</p>
+        <div class="cta-group">
+            <a href="/dashboard?role=parent" class="btn btn-primary">Parent Dashboard</a>
+            <a href="/dashboard?role=teacher" class="btn btn-outline">Teacher Portal</a>
+            <a href="/dashboard?role=student" class="btn btn-outline">Student Login</a>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Choose Your Role</h2>
+            <p>Select how you will be using Covenant Academy today</p>
+        </div>
+        <div class="role-grid">
+            {% for role_key, role in roles.items() %}
+            <div class="role-card">
+                <h3>{{ role.name }}</h3>
+                <p>{{ role.description }}</p>
+                <a href="/dashboard?role={{ role_key }}" class="btn btn-primary btn-sm">Enter as {{ role.name.split('/')[0].strip() if '/' in role.name else role.name }}</a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background: white; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+    <div class="container">
+        <div class="section-title">
+            <h2>Grade Levels</h2>
+            <p>Complete curriculum from Pre-K through 12th Grade</p>
+        </div>
+        <div class="grade-grid">
+            {% for grade_key, grade in grades.items() %}
+            <a href="/dashboard?role=parent#{{ grade_key }}" class="grade-card" style="text-decoration:none;">
+                <div class="grade-num">{{ grade.short }}</div>
+                <div class="grade-label">{{ grade.name }}</div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Core Subjects</h2>
+            <p>Biblical worldview integrated across every discipline</p>
+        </div>
+        <div class="subject-grid">
+            {% for subj_key, subj in subjects.items() %}
+            <div class="subject-card">
+                <div class="subject-icon">{{ subj.icon }}</div>
+                <h3>{{ subj.name }}</h3>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background: white; border-top: 1px solid var(--border);">
+    <div class="container">
+        <div class="section-title">
+            <h2>Our Foundation</h2>
+            <p>Built on the bedrock of Scripture and Biblical truth</p>
+        </div>
+        <div class="role-grid">
+            <div class="role-card">
+                <h3>Creation-Based Science</h3>
+                <p>All science courses are taught from a Creationist perspective, emphasizing intelligent design and the literal Genesis account of creation.</p>
+            </div>
+            <div class="role-card">
+                <h3>Providential History</h3>
+                <p>History courses emphasize God's hand in human events, Western Civilization, and the principles of American Exceptionalism.</p>
+            </div>
+            <div class="role-card">
+                <h3>Scripture-Rooted Ethics</h3>
+                <p>Literature and ethics are grounded in Biblical scripture and traditional Judeo-Christian values throughout every grade level.</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
