@@ -1,0 +1,78 @@
+{
+    "id": "greece",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Ancient Greece and the Spread of Ideas",
+    "subtitle": "Philosophy, Democracy, and God's Preparation for the Gospel",
+    "scripture": "Acts 17:22-31; Daniel 2:39",
+    "primary_source": "Paul's Speech at the Areopagus (Acts 17)",
+    "key_concepts": ["Greek contributions to philosophy and government", "The limits of human wisdom without God", "Alexander the Great and the spread of Greek language and culture", "God's providential preparation for the Gospel"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Acts 17:26-27",
+                "text": "\"From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us.\"",
+                "commentary": "When Paul spoke to the Greek philosophers in Athens, he declared that God is sovereign over all nations and their histories. The rise of Greek civilization, with its common language and culture, was part of God's plan to prepare the world for the spread of the Gospel."
+            },
+            {
+                "reference": "Acts 17:23",
+                "text": "\"For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. So you are ignorant of the very thing you worship — and this is what I am going to proclaim to you.\"",
+                "commentary": "The Greeks, for all their wisdom, could not find the true God through philosophy alone. Their altar 'to an unknown God' reveals the limits of human reason apart from divine revelation. Paul used this as an opportunity to proclaim the one true God who made Himself known through creation and through Christ."
+            },
+            {
+                "reference": "1 Corinthians 1:22-23",
+                "text": "\"Jews demand signs and Greeks look for wisdom, but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles.\"",
+                "commentary": "Paul understood that the Greek love of wisdom, while admirable in some respects, could become an obstacle to receiving the Gospel. True wisdom comes not from human philosophy but from knowing Christ."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Rise of Greek Civilization",
+            "paragraphs": [
+                "Ancient Greece, though never a single unified empire for most of its history, produced some of the most influential ideas in the history of Western civilization. The Greeks developed concepts of democracy, philosophy, literature, art, science, and architecture that continue to shape our world today.",
+                "The Greek city-states, particularly Athens and Sparta, developed different forms of government. Athens created the world's first democracy — a system where citizens (free adult males) could vote directly on laws and policies. Sparta, in contrast, developed a strict military society. While these governments had significant limitations compared to Biblical standards (they excluded women, slaves, and foreigners from citizenship), they introduced important ideas about citizen participation in government."
+            ]
+        },
+        {
+            "heading": "Greek Philosophy: The Search for Truth Without God",
+            "paragraphs": [
+                "Greek philosophers like Socrates, Plato, and Aristotle asked profound questions about truth, justice, beauty, and the purpose of life. Socrates taught his students to question everything and examine their own beliefs. Plato argued that a perfect, invisible world of 'Forms' existed behind the physical world. Aristotle applied logic and observation to nearly every field of knowledge.",
+                "While these philosophers made genuine contributions to human thought, they were ultimately searching for truth apart from God's revelation. Without the Bible, they could not find satisfying answers to the deepest questions of existence. Plato came close to some Biblical truths — he recognized that there must be a higher reality beyond the physical world — but he could not name the God who created it. As Paul later told the Athenians, they were 'ignorant of the very thing they worshipped' (Acts 17:23).",
+                "This is an important lesson: human reason is a gift from God, but it has limits. Apart from Scripture, even the greatest human minds cannot discover the full truth about God, man, and salvation. 'The fear of the Lord is the beginning of knowledge' (Proverbs 1:7)."
+            ]
+        },
+        {
+            "heading": "Alexander the Great: God's Instrument for Preparing the World",
+            "paragraphs": [
+                "In 336 BC, a young Macedonian king named Alexander the Great launched a military campaign that conquered the entire known world in just thirteen years. Alexander's empire stretched from Greece to Egypt to the borders of India. Though he died at only 32 years of age, his conquests changed the world forever.",
+                "Alexander spread Greek language and culture throughout the ancient world — a process called Hellenization. Greek became the common language of trade, education, and communication across the Mediterranean world and the Near East. This was not a coincidence but part of God's providential plan.",
+                "When Jesus came into the world four centuries later, the New Testament was written in Greek — a language understood by people throughout the Roman Empire. The Gospel could spread rapidly because of the common language and connected world that Alexander had created. God used a pagan conqueror to prepare the way for the spread of His Word."
+            ]
+        },
+        {
+            "heading": "Greece in God's Prophetic Plan",
+            "paragraphs": [
+                "The prophet Daniel, writing centuries before Alexander was born, prophesied the rise of the Greek Empire. In Daniel chapter 2, Nebuchadnezzar's dream of a great statue included a 'belly and thighs of bronze' representing the Greek Empire that would follow Persia. In Daniel chapter 8, a vision of a powerful goat defeating a ram prophesied Alexander's conquest of the Persian Empire with remarkable accuracy.",
+                "These prophecies remind us that God knows the end from the beginning. He raised up Greece, just as He raised up every civilization in history, for His own purposes. The Greek love of learning, the spread of a common language, and the development of roads and trade routes all served God's ultimate plan: the coming of Christ and the spread of the Gospel to every nation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "The Greek philosophers asked important questions about truth, justice, and the meaning of life. Why were they unable to find complete answers? What does Proverbs 1:7 tell us about the starting point of true knowledge?",
+            "guidance": "Consider that the Greeks relied on human reason alone. While reason is a gift from God, it is limited by human sinfulness and finitude. True knowledge begins with the fear of the Lord — acknowledging God as the source of all truth."
+        },
+        {
+            "id": 2,
+            "question": "How did Alexander the Great's conquests providentially prepare the world for the coming of Christ and the spread of the Gospel? Give at least two specific examples.",
+            "guidance": "Think about the spread of the Greek language (which the New Testament was written in), the building of roads and trade routes, and the creation of a connected Mediterranean world where ideas could spread quickly."
+        },
+        {
+            "id": 3,
+            "question": "Read Acts 17:22-31. How did Paul use the Greeks' own culture and beliefs as a starting point to share the Gospel? What can we learn from Paul's approach about sharing our faith with people who have different beliefs?",
+            "guidance": "Notice that Paul did not begin by condemning the Athenians but by finding common ground (their altar to an 'unknown God'). He then used this as a bridge to proclaim the true God. Consider how we can respectfully engage with people of different worldviews while still speaking the truth."
+        }
+    ]
+}

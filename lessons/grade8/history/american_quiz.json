@@ -1,0 +1,103 @@
+{
+    "id": "american_quiz",
+    "title": "American History — Providence and Liberty Quiz",
+    "description": "Test your understanding of God's providential hand in American history, from Colonial America to the nation's ongoing calling.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What was the Great Awakening?",
+            "options": [
+                "A political movement to overthrow British rule",
+                "A series of spiritual revivals that swept the American colonies in the 1730s-1740s",
+                "A scientific movement promoting new agricultural techniques",
+                "A trade agreement between the colonies and France"
+            ],
+            "correct": 1,
+            "explanation": "The Great Awakening was a powerful series of spiritual revivals led by preachers like Jonathan Edwards and George Whitefield that swept through the colonies, calling people to repentance and personal faith in Christ."
+        },
+        {
+            "id": 2,
+            "question": "What Biblical principle did the Founders apply when they separated the government into three branches?",
+            "options": [
+                "The Trinity — three persons in one God",
+                "Isaiah 33:22, which identifies God as judge, lawgiver, and king",
+                "The three patriarchs: Abraham, Isaac, and Jacob",
+                "The three days Jonah spent in the whale"
+            ],
+            "correct": 1,
+            "explanation": "Isaiah 33:22 identifies God as judge, lawgiver, and king — three roles that the Founders separated into the judicial, legislative, and executive branches because they believed no fallen human being should hold all three powers."
+        },
+        {
+            "id": 3,
+            "question": "Why did Madison write, 'If men were angels, no government would be necessary'?",
+            "options": [
+                "Because he believed people were basically good and didn't need rules",
+                "Because he wanted to abolish all government",
+                "Because he understood the Biblical doctrine of human sinfulness and the need for checks on power",
+                "Because he thought angels should govern instead of humans"
+            ],
+            "correct": 2,
+            "explanation": "Madison understood the Biblical doctrine of human depravity — that because people are sinful, both government and checks on government are necessary to prevent the abuse of power."
+        },
+        {
+            "id": 4,
+            "question": "What was the significance of the Emancipation Proclamation?",
+            "options": [
+                "It declared independence from Britain",
+                "It established the Constitution",
+                "It declared that enslaved people in Confederate states were forever free",
+                "It ended the War of 1812"
+            ],
+            "correct": 2,
+            "explanation": "The Emancipation Proclamation (January 1, 1863) declared that all enslaved people in Confederate states 'shall be then, thenceforward, and forever free,' transforming the Civil War into an explicit fight for human freedom."
+        },
+        {
+            "id": 5,
+            "question": "In his Second Inaugural Address, what did Abraham Lincoln suggest the Civil War represented?",
+            "options": [
+                "A simple disagreement over states' rights",
+                "God's judgment upon the entire nation for the sin of slavery",
+                "Punishment of the South alone for rebellion",
+                "A test of America's military strength"
+            ],
+            "correct": 1,
+            "explanation": "Lincoln suggested that the Civil War was God's judgment upon the entire nation — North and South — for the sin of slavery, reflecting the Biblical principle that God judges nations for their sins (Proverbs 14:34)."
+        },
+        {
+            "id": 6,
+            "question": "What did John Winthrop mean when he called the Massachusetts Bay Colony 'a city upon a hill'?",
+            "options": [
+                "That the colony was built on a high mountain",
+                "That the colony would be a model Christian community watched by the world",
+                "That the colony was superior to all other nations",
+                "That the colony would become a major trading center"
+            ],
+            "correct": 1,
+            "explanation": "Drawing from Matthew 5:14, Winthrop declared that the colony would serve as a visible example of a godly community — its faithfulness or failure would be observed by the entire world."
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best describes the concept of 'Manifest Destiny'?",
+            "options": [
+                "The belief that America was destined by God's providence to expand across the continent",
+                "A military strategy used during the Revolution",
+                "An economic policy promoting free trade with Europe",
+                "A diplomatic agreement between the United States and Mexico"
+            ],
+            "correct": 0,
+            "explanation": "Manifest Destiny was the belief that America was providentially destined to expand from the Atlantic to the Pacific, spreading liberty, self-government, and the Gospel across the continent."
+        },
+        {
+            "id": 8,
+            "question": "According to John Adams, 'Our Constitution was made only for' what kind of people?",
+            "options": [
+                "A wealthy and educated people",
+                "A moral and religious people",
+                "A militarily strong people",
+                "A people governed by a king"
+            ],
+            "correct": 1,
+            "explanation": "Adams understood that self-government requires self-discipline rooted in moral and religious conviction. Without a virtuous citizenry guided by Biblical principles, the Constitution's system of limited government cannot function properly."
+        }
+    ]
+}

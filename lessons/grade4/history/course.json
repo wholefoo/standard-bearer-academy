@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "history",
+    "title": "America's Godly Heritage — From Columbus to the Constitution",
+    "description": "Discover how God's hand guided the founding of America — from Columbus's voyages to the Constitution that established one nation under God.",
+    "units": [
+        {
+            "id": "godly_heritage",
+            "title": "America's Godly Heritage",
+            "lessons": ["columbus", "pilgrims", "founders", "declaration", "constitution", "one_nation"]
+        }
+    ],
+    "quiz_id": "heritage_quiz"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "abc_quiz",
+    "title": "Bible ABCs Quiz — Letters A through E",
+    "description": "Match each letter to its Bible word! Let's see what you remember!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "A is for ___. Who was the first man God made?",
+            "options": ["David", "Adam", "Eden", "Bethlehem"],
+            "correct": 1,
+            "explanation": "A is for Adam! God made Adam, the very first man, from the dust of the ground (Genesis 2:7)."
+        },
+        {
+            "id": 2,
+            "question": "B is for ___. Where was baby Jesus born?",
+            "options": ["Eden", "Creation", "Bethlehem", "Adam"],
+            "correct": 2,
+            "explanation": "B is for Bethlehem! Baby Jesus was born in the town of Bethlehem (Matthew 2:1)."
+        },
+        {
+            "id": 3,
+            "question": "C is for ___. What do we call everything God made?",
+            "options": ["Creation", "David", "Adam", "Eden"],
+            "correct": 0,
+            "explanation": "C is for Creation! Creation means everything God made — the sky, animals, trees, and people (Genesis 1:1)."
+        },
+        {
+            "id": 4,
+            "question": "D is for ___. Who was the brave boy who trusted God?",
+            "options": ["Eden", "Bethlehem", "Adam", "David"],
+            "correct": 3,
+            "explanation": "D is for David! David was a brave boy who trusted God and later became a great king (1 Samuel 17:45)."
+        },
+        {
+            "id": 5,
+            "question": "E is for ___. What was the name of God's beautiful garden?",
+            "options": ["Bethlehem", "Adam", "Eden", "Creation"],
+            "correct": 2,
+            "explanation": "E is for Eden! The Garden of Eden was the beautiful garden God made for Adam and Eve (Genesis 2:8)."
+        }
+    ]
+}

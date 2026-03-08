@@ -1,0 +1,103 @@
+{
+    "id": "earth_quiz",
+    "title": "Earth Science — Exploring God's World",
+    "description": "Test your understanding of Earth science from a Biblical, young-earth perspective. This quiz covers Earth's structure, rocks and minerals, weather, oceans, volcanoes and earthquakes, and ecology.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Isaiah 45:18, why did God create the Earth?",
+            "options": [
+                "As an experiment to see what would happen",
+                "He formed it to be inhabited — designed for life",
+                "It was an accident resulting from cosmic processes",
+                "So that it could exist without any living things"
+            ],
+            "correct": 1,
+            "explanation": "Isaiah 45:18 states that God 'did not create it to be empty, but formed it to be inhabited.' The Earth was purposefully designed to support life."
+        },
+        {
+            "id": 2,
+            "question": "What does the steady decay of Earth's magnetic field suggest about the age of the Earth?",
+            "options": [
+                "The Earth is billions of years old",
+                "The magnetic field has always been the same strength",
+                "The Earth is young, because the field would have been impossibly strong billions of years ago",
+                "The magnetic field is getting stronger over time"
+            ],
+            "correct": 2,
+            "explanation": "The measured decay rate of the magnetic field, if projected backward, indicates the field would have been unreasonably strong just tens of thousands of years ago — consistent with a young earth, not billions of years."
+        },
+        {
+            "id": 3,
+            "question": "What are polystrate fossils, and why are they significant?",
+            "options": [
+                "Fossils found only in one layer, showing slow deposition",
+                "Fossils that extend through multiple sedimentary layers, indicating rapid deposition",
+                "Fossils found only in igneous rocks",
+                "Fossils that have been completely dissolved by acid rain"
+            ],
+            "correct": 1,
+            "explanation": "Polystrate fossils extend through multiple sedimentary layers. If those layers took millions of years to form, the fossil would have decayed long before being fully buried. Their existence points to rapid deposition, consistent with the Flood."
+        },
+        {
+            "id": 4,
+            "question": "According to Genesis 8:22, what did God promise after the Flood?",
+            "options": [
+                "That there would never be another rainstorm",
+                "That the Earth would eventually be destroyed by climate change",
+                "That seedtime and harvest, cold and heat, summer and winter would never cease",
+                "That humans would no longer need to grow food"
+            ],
+            "correct": 2,
+            "explanation": "God promised that the regular cycles of seasons and weather — seedtime and harvest, cold and heat, summer and winter, day and night — would continue as long as the Earth endures."
+        },
+        {
+            "id": 5,
+            "question": "Why are marine fossils found on the tops of mountains?",
+            "options": [
+                "Ancient people carried them there",
+                "The mountains were once covered by water during the Genesis Flood",
+                "Marine animals once lived at high altitudes",
+                "Wind carried the fossils to the mountaintops"
+            ],
+            "correct": 1,
+            "explanation": "Marine fossils on mountaintops are best explained by the Genesis Flood, which covered the entire Earth with water. Marine organisms were buried in sediment that was later uplifted as mountains formed during and after the Flood."
+        },
+        {
+            "id": 6,
+            "question": "How did the 1980 eruption of Mount St. Helens support young-earth geology?",
+            "options": [
+                "It proved that volcanoes cannot change the landscape",
+                "It showed that layered sedimentary strata and canyons can form rapidly, not requiring millions of years",
+                "It demonstrated that geological processes always take millions of years",
+                "It had no relevance to the age of the Earth"
+            ],
+            "correct": 1,
+            "explanation": "Mount St. Helens deposited layered strata in hours and carved a canyon system in a single day — features that look like they should have taken millions of years. This demonstrated that catastrophic processes can produce geological features rapidly."
+        },
+        {
+            "id": 7,
+            "question": "What is the dominion mandate described in Genesis 1:28?",
+            "options": [
+                "A command to worship nature as sacred",
+                "Permission to exploit the Earth without limits",
+                "God's delegation of authority to humans to rule over and care for creation responsibly",
+                "A command to avoid using any natural resources"
+            ],
+            "correct": 2,
+            "explanation": "The dominion mandate is God's command for humanity to rule over the Earth and its creatures as responsible stewards — using resources wisely while caring for the creation God has entrusted to us."
+        },
+        {
+            "id": 8,
+            "question": "Which of the following best describes the difference between Biblical stewardship and secular environmentalism?",
+            "options": [
+                "There is no difference between the two views",
+                "Biblical stewardship sees God as Creator and Owner; secular environmentalism often treats nature as the highest value",
+                "Secular environmentalism cares about the Earth while Biblical stewardship does not",
+                "Biblical stewardship says humans should not use any natural resources"
+            ],
+            "correct": 1,
+            "explanation": "Biblical stewardship starts with God as Creator and Owner (Psalm 24:1), with humans as His appointed managers. Secular environmentalism often operates from naturalistic assumptions that can elevate nature above human welfare. Both may care about the environment, but from fundamentally different foundations."
+        }
+    ]
+}

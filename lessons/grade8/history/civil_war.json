@@ -1,0 +1,81 @@
+{
+    "id": "civil_war",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Civil War and Moral Crisis",
+    "subtitle": "A Nation Torn Apart and Redeemed Through Sacrifice",
+    "scripture": "Amos 5:24",
+    "primary_source": "Abraham Lincoln, Second Inaugural Address (1865)",
+    "key_concepts": ["The moral evil of slavery and Biblical justice", "The abolitionist movement and its Christian roots", "God's sovereignty over the Civil War", "Lincoln's theology of divine judgment and national repentance"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Amos 5:24",
+                "text": "\"But let justice roll on like a river, righteousness like a never-failing stream!\"",
+                "commentary": "The prophet Amos thundered against injustice and oppression. The abolitionist movement drew deeply on this prophetic tradition, insisting that the institution of slavery was a grave moral evil that violated God's law and demanded repentance."
+            },
+            {
+                "reference": "Galatians 3:28",
+                "text": "\"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.\"",
+                "commentary": "The apostle Paul affirms the fundamental equality of all people in Christ. Christian abolitionists used this verse to argue that the enslavement of fellow human beings — made in the image of God — was incompatible with the Gospel."
+            },
+            {
+                "reference": "Proverbs 14:34",
+                "text": "\"Righteousness exalts a nation, but sin is a disgrace to any people.\"",
+                "commentary": "Abraham Lincoln came to believe that the Civil War was God's judgment upon the entire nation — North and South — for the sin of slavery. The war's terrible cost reminded Americans that national sin brings national consequences."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: America's Greatest Moral Crisis",
+            "paragraphs": [
+                "The Civil War (1861-1865) was the most devastating conflict in American history, claiming over 600,000 lives and tearing the nation apart. At its heart was a profound moral question: Could a nation 'conceived in Liberty, and dedicated to the proposition that all men are created equal' (Lincoln's Gettysburg Address) continue to permit the enslavement of millions of people made in God's image?",
+                "The Civil War was not merely a political or economic dispute — it was a moral and spiritual crisis that forced Americans to confront the deepest contradictions in their national life. Understanding this crisis through a Biblical lens reveals both the terrible consequences of national sin and the redemptive power of God's justice."
+            ]
+        },
+        {
+            "heading": "The Evil of Slavery and the Abolitionist Movement",
+            "paragraphs": [
+                "Slavery was a grave moral evil. The buying, selling, and forced labor of human beings made in the image of God (Genesis 1:27) was a violation of the Biblical commandments against man-stealing (Exodus 21:16), oppression (Exodus 22:21), and the denial of justice (Deuteronomy 24:14-15).",
+                "The abolitionist movement was, at its core, a Christian movement. Leaders like William Lloyd Garrison, Frederick Douglass, and Harriet Beecher Stowe drew their convictions from Scripture. Garrison called slavery 'a sin against God.' Stowe's novel, Uncle Tom's Cabin (1852), portrayed the humanity and faith of enslaved people and stirred the conscience of millions.",
+                "Frederick Douglass, who escaped slavery and became one of America's greatest orators, argued powerfully that the Christianity of slaveholders was a corruption of the true Gospel. In his famous speech, he distinguished between 'the Christianity of this land' (which justified slavery) and 'the Christianity of Christ' (which demanded justice and freedom for all people).",
+                "Churches were central to the abolitionist cause. Quakers were among the first to condemn slavery on Biblical grounds. Methodist, Baptist, and Presbyterian churches debated and ultimately split over the issue. The Underground Railroad, which helped enslaved people escape to freedom, was organized and operated largely by people of faith who believed they were obeying God's command to 'loose the chains of injustice' (Isaiah 58:6)."
+            ]
+        },
+        {
+            "heading": "The War and God's Providence",
+            "paragraphs": [
+                "The Civil War began in April 1861 when Confederate forces fired on Fort Sumter. What many expected to be a short conflict became four years of brutal warfare. Battles like Antietam, Gettysburg, and Shiloh produced casualties on a scale Americans had never imagined.",
+                "Both sides believed God was on their side. But as the war dragged on, thoughtful Americans — especially Abraham Lincoln — began to see the conflict in deeper theological terms. Lincoln observed that both sides 'read the same Bible and pray to the same God,' yet neither side's prayers were fully answered. He concluded that God had His own purposes, which might differ from those of either North or South.",
+                "The Emancipation Proclamation (January 1, 1863) transformed the war into an explicit fight for human freedom. Lincoln declared that all enslaved people in Confederate states 'shall be then, thenceforward, and forever free.' This was a momentous moral turning point — the nation was now fighting not only to preserve the Union but to end the great sin of slavery."
+            ]
+        },
+        {
+            "heading": "Lincoln's Second Inaugural: A Theology of National Judgment",
+            "paragraphs": [
+                "Abraham Lincoln's Second Inaugural Address (March 4, 1865) is one of the most theologically profound speeches in American history. In it, Lincoln suggested that the Civil War was God's judgment upon the entire nation for the sin of slavery.",
+                "Lincoln declared: 'If God wills that [the war] continue until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said \"the judgments of the Lord are true and righteous altogether.\"'",
+                "This remarkable statement reflects the Biblical principle that God judges nations for their sins (Proverbs 14:34). Lincoln did not claim moral superiority for the North — he acknowledged that the entire nation bore responsibility for slavery and that God's justice was being worked out through the terrible cost of war.",
+                "Lincoln concluded with a call to mercy and reconciliation: 'With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds.' This spirit of justice tempered by mercy reflects the heart of the Gospel itself."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did Christian abolitionists use Scripture to argue against slavery? Cite specific Bible verses and explain how they applied to the debate over slavery.",
+            "guidance": "Consider Genesis 1:27 (image of God), Exodus 21:16 (man-stealing), Galatians 3:28 (equality in Christ), and Isaiah 58:6 (loosing the chains of injustice). Think about why the Biblical argument against slavery was ultimately more powerful than political or economic arguments."
+        },
+        {
+            "id": 2,
+            "question": "Read Lincoln's Second Inaugural Address excerpt above. What did Lincoln mean when he suggested that the Civil War was God's judgment on the nation? Do you think this interpretation is consistent with Biblical principles? Why or why not?",
+            "guidance": "Consider Proverbs 14:34 and the Old Testament pattern of God judging nations for their sins. Think about whether Lincoln was right to hold the entire nation — not just the South — responsible for slavery."
+        },
+        {
+            "id": 3,
+            "question": "Frederick Douglass distinguished between 'the Christianity of this land' and 'the Christianity of Christ.' What did he mean by this distinction? Why is it important for Christians to examine whether their practice matches their beliefs?",
+            "guidance": "Consider how some slaveholders used the Bible to justify slavery while abolitionists used the same Bible to condemn it. Think about the importance of reading Scripture honestly and applying it consistently."
+        }
+    ]
+}

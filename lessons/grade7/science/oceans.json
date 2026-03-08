@@ -1,0 +1,78 @@
+{
+    "id": "oceans",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Oceans and the Water Cycle — Genesis Flood Connections",
+    "subtitle": "How the World's Oceans Testify to Creation and the Global Flood",
+    "scripture": "Genesis 7:11-12",
+    "key_concepts": ["Ocean composition and currents", "The Genesis Flood and ocean formation", "Marine fossils on mountaintops", "Ocean floor evidence for catastrophism"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 7:11-12",
+                "text": "\"In the six hundredth year of Noah's life, on the seventeenth day of the second month — on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened. And rain fell on the earth forty days and forty nights.\"",
+                "commentary": "The Flood began with two simultaneous events: the breaking open of underground water sources ('springs of the great deep') and torrential rainfall. This catastrophic event reshaped the Earth's surface, carved out ocean basins, deposited massive sedimentary layers, and buried billions of organisms."
+            },
+            {
+                "reference": "Psalm 104:6-9",
+                "text": "\"You covered it with the watery depths as with a garment; the waters stood above the mountains. But at your rebuke the waters fled... They went up over the mountains, they went down into the valleys, to the place you assigned for them. You set a boundary they cannot cross; never again will they cover the earth.\"",
+                "commentary": "This psalm describes the Flood and its aftermath. The waters covered even the mountains, then God directed them into the newly formed ocean basins. The receding Flood waters carved valleys and canyons as they drained from the continents."
+            },
+            {
+                "reference": "Proverbs 8:29",
+                "text": "\"When he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.\"",
+                "commentary": "God set boundaries for the seas, controlling where water goes and ensuring the stability of the ocean-continent system. This reflects His ongoing governance of the physical world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Oceans — Witness to the Flood",
+            "paragraphs": [
+                "The oceans cover approximately 71% of the Earth's surface and contain about 97% of all water on the planet. They regulate climate, support vast ecosystems, and play a central role in the water cycle. But the oceans also contain powerful evidence related to one of the most significant events in Earth's history: the global Flood described in Genesis 6-9.",
+                "In this lesson, we will explore the oceans — their composition, currents, and features — while examining how they connect to the Biblical account of the Flood and what they reveal about our Creator."
+            ]
+        },
+        {
+            "heading": "Ocean Composition and Currents",
+            "paragraphs": [
+                "Ocean water is a complex solution of dissolved salts, minerals, and gases. The average salinity (salt content) is about 3.5%, which is precisely the right concentration to support marine life. Too much salt would be toxic; too little would not support the biological processes that marine organisms depend on.",
+                "Ocean currents act like a global conveyor belt, redistributing heat around the planet. Warm currents from the equator carry heat toward the poles, while cold currents from the poles moderate tropical temperatures. This system helps maintain the climate balance necessary for life across the globe. The Gulf Stream, for example, keeps Western Europe significantly warmer than it would otherwise be at its latitude.",
+                "The design of the ocean current system — driven by wind, temperature differences, salinity, and the Earth's rotation — is remarkably complex. All of these factors must work together precisely for the system to function. This integrated design points to intelligent engineering, not random chance."
+            ]
+        },
+        {
+            "heading": "The Genesis Flood and the Oceans",
+            "paragraphs": [
+                "The Genesis Flood was the most catastrophic geological event in Earth's history. According to Genesis 7:11, the Flood began when 'all the springs of the great deep burst forth' — a description that suggests massive volcanic and tectonic activity releasing enormous quantities of subterranean water. Combined with 40 days of continuous rainfall, the entire Earth was covered with water.",
+                "Creation geologists believe that the Flood dramatically reshaped the Earth's surface. The pre-Flood world likely had a very different geography, with shallower ocean basins and lower mountains. During and after the Flood, catastrophic tectonic processes deepened the ocean basins and raised the mountains, allowing the floodwaters to drain from the continents into the newly formed oceans.",
+                "This model explains several features that are difficult for secular geology to account for: marine fossils found on the tops of mountains (including the Himalayas), massive sedimentary deposits that span entire continents, and the relatively thin layer of sediment on the ocean floor — far less than expected if the oceans were billions of years old."
+            ]
+        },
+        {
+            "heading": "Marine Fossils on Mountains and Continent-Wide Deposits",
+            "paragraphs": [
+                "One of the most striking geological observations is the presence of marine fossils — seashells, fish, and other ocean creatures — on the tops of the world's highest mountains. How did sea creatures end up thousands of feet above sea level? The Flood provides a straightforward answer: these areas were once covered by water during the global Flood, and the marine organisms were buried in sediment that later was uplifted as mountains formed.",
+                "Additionally, many sedimentary formations extend across vast areas. The Tapeats Sandstone in the Grand Canyon, for example, stretches across much of North America. Such continent-spanning deposits require continent-spanning water — exactly what the Genesis Flood describes. Local floods cannot account for these massive, uniform layers.",
+                "The ocean floor itself provides evidence for a young earth. If the oceans were billions of years old, we would expect a much thicker layer of sediment on the ocean floor from rivers depositing material over those vast time periods. The relatively thin sediment layer is consistent with oceans that are thousands, not billions, of years old."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the presence of marine fossils on mountaintops support the Genesis Flood account? Why is this evidence difficult to explain from a uniformitarian perspective?",
+            "guidance": "Think about the conditions needed to deposit marine fossils at high elevations. Consider the difference between explaining this through slow uplift over millions of years versus rapid burial during a global flood."
+        },
+        {
+            "id": 2,
+            "question": "Read Genesis 7:11-12 and Psalm 104:6-9. How do these passages describe the Flood and its aftermath? How do they help explain the current arrangement of oceans and continents?",
+            "guidance": "Note the two sources of water in Genesis 7:11. Consider how Psalm 104 describes the waters receding into basins God 'assigned' — how does this relate to the formation of today's ocean basins?"
+        },
+        {
+            "id": 3,
+            "question": "Why is the relatively thin layer of sediment on the ocean floor significant for the question of Earth's age? What would we expect to find if the oceans were billions of years old?",
+            "guidance": "Calculate conceptually: if rivers deposit sediment every year, and this has been happening for billions of years, how much sediment should be on the ocean floor? Compare this to what we actually observe."
+        }
+    ]
+}

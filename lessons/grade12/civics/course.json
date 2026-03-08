@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "civics",
+    "title": "Economics & Free Enterprise",
+    "description": "Biblical Stewardship in the Marketplace",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Economics & Free Enterprise — Biblical Stewardship in the Marketplace",
+            "lessons": ["stewardship", "free_enterprise", "supply_demand", "money_banking", "govt_economy", "personal_finance"]
+        }
+    ],
+    "quiz_id": "economics_quiz"
+}

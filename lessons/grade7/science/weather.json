@@ -1,0 +1,78 @@
+{
+    "id": "weather",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Weather and Climate — God's Control Over Nature",
+    "subtitle": "Understanding Atmospheric Systems as Evidence of Divine Design and Sovereignty",
+    "scripture": "Job 37:5-13",
+    "key_concepts": ["Atmosphere layers and their functions", "Water cycle and weather systems", "God's sovereignty over weather in Scripture", "Climate stewardship vs. climate alarmism"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Job 37:5-6",
+                "text": "\"God's voice thunders in marvelous ways; he does great things beyond our understanding. He says to the snow, 'Fall on the earth,' and to the rain shower, 'Be a mighty downpour.'\"",
+                "commentary": "The book of Job repeatedly emphasizes that God is the sovereign controller of all weather phenomena. Snow, rain, storms, and calm all operate under His command. Weather is not random — it is governed by the Creator."
+            },
+            {
+                "reference": "Job 37:12-13",
+                "text": "\"He brings the clouds to punish people, or to water his earth and show his love.\"",
+                "commentary": "Weather serves God's purposes — both in judgment and in blessing. Understanding this helps us approach weather and climate with reverence for God's sovereignty rather than fear of natural forces."
+            },
+            {
+                "reference": "Genesis 8:22",
+                "text": "\"As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.\"",
+                "commentary": "After the Flood, God promised that the regular cycles of seasons and weather would continue as long as the Earth endures. This covenant promise gives us confidence that God sustains the climate systems He designed."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Who Controls the Weather?",
+            "paragraphs": [
+                "Weather affects every person on Earth every day. But have you ever stopped to ask: Who designed these powerful atmospheric systems? Who keeps them running? The Bible's answer is clear — God is sovereign over the weather. He sends rain and snow, controls the winds, and directs the storms (Job 37, Psalm 147:15-18, Nahum 1:3). Understanding weather and climate from a Biblical perspective means recognizing God's hand in every system we study.",
+                "In this lesson, we will explore how the atmosphere works, what causes weather patterns, and how the water cycle demonstrates the genius of our Creator's design."
+            ]
+        },
+        {
+            "heading": "The Atmosphere: A Layered Shield",
+            "paragraphs": [
+                "The Earth's atmosphere is a thin layer of gases — primarily nitrogen (78%) and oxygen (21%) — that surrounds our planet. It is divided into several layers: the troposphere (where weather occurs), the stratosphere (containing the ozone layer), the mesosphere, the thermosphere, and the exosphere.",
+                "Each layer serves a specific purpose. The troposphere holds the air we breathe and the water vapor that produces weather. The stratosphere's ozone layer absorbs harmful ultraviolet radiation from the sun. The upper layers help protect Earth from meteors and extreme solar energy. This layered design is precisely calibrated to sustain life — another fingerprint of the Creator.",
+                "The atmosphere's composition is also finely tuned. Too much oxygen would make everything highly flammable. Too little would suffocate life. The precise balance we have is not the result of random chemical processes but of intentional design by an all-knowing God."
+            ]
+        },
+        {
+            "heading": "The Water Cycle: A Perfect System",
+            "paragraphs": [
+                "The water cycle is one of the most elegant systems in all of creation. Water evaporates from oceans, lakes, and rivers, rises into the atmosphere, condenses into clouds, and falls back to Earth as precipitation. This cycle purifies water, distributes it across the globe, and sustains all living things.",
+                "Remarkably, the Bible described the water cycle thousands of years before modern science understood it. Ecclesiastes 1:7 states, 'All streams flow into the sea, yet the sea is never full. To the place the streams come from, there they return again.' Job 36:27-28 adds, 'He draws up the drops of water, which distill as rain to the streams; the clouds pour down their moisture and abundant showers fall on mankind.'",
+                "The water cycle is a closed system — the Earth has essentially the same amount of water it has always had. This conservation of water is a testament to the wisdom of the Creator, who designed a self-sustaining system to provide for His creation."
+            ]
+        },
+        {
+            "heading": "Weather Systems and God's Sovereignty",
+            "paragraphs": [
+                "Weather is driven by the unequal heating of Earth's surface by the sun. Warm air rises, cool air sinks, and the resulting air movements create wind, storms, and weather fronts. High-pressure systems generally bring clear skies, while low-pressure systems bring clouds and precipitation.",
+                "Severe weather — hurricanes, tornadoes, thunderstorms — demonstrates the immense power built into Earth's atmospheric systems. While these events can be destructive, they also serve important purposes: redistributing heat from the equator toward the poles, replenishing water supplies, and renewing ecosystems. God uses weather for His purposes (Job 37:13).",
+                "As Christians, we should approach the topic of climate with both scientific curiosity and Biblical wisdom. God promised in Genesis 8:22 that the seasons and cycles of nature would continue as long as the Earth endures. While we should be responsible stewards of creation, we should not succumb to fear-based climate alarmism that denies God's sovereign control over His world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the fine-tuning of Earth's atmosphere (its composition, layers, and thickness) point to intelligent design? What would happen if key atmospheric conditions were significantly different?",
+            "guidance": "Consider specific examples: What if oxygen levels were higher or lower? What if the ozone layer didn't exist? How do these factors work together as an integrated system?"
+        },
+        {
+            "id": 2,
+            "question": "Read Job 37:5-13. What does this passage teach about God's relationship to weather? How should this affect the way Christians respond to severe weather events?",
+            "guidance": "Consider what it means that God commands the snow and rain. Think about how trust in God's sovereignty should shape our response to both beautiful and destructive weather."
+        },
+        {
+            "id": 3,
+            "question": "How does Genesis 8:22 provide a foundation for understanding climate? How should this promise influence how Christians evaluate claims about climate change?",
+            "guidance": "Think about what God specifically promised would continue. Consider how this promise relates to both responsible stewardship and avoiding fear-driven responses to climate predictions."
+        }
+    ]
+}

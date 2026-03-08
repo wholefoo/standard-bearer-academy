@@ -1,0 +1,63 @@
+{
+    "id": "heritage_quiz",
+    "title": "America's Godly Heritage Quiz",
+    "description": "Test your knowledge of America's founding and the role of faith in our nation's history!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What did Christopher Columbus name his first landing place, and what does it mean?",
+            "options": ["New World — meaning 'undiscovered land'", "San Salvador — meaning 'Holy Savior'", "America — meaning 'land of the free'", "Plymouth — meaning 'safe harbor'"],
+            "correct": 1,
+            "explanation": "Columbus named his first landing place 'San Salvador,' meaning 'Holy Savior,' to thank God for guiding him safely across the ocean."
+        },
+        {
+            "id": 2,
+            "question": "Why did the Pilgrims leave England and sail to America?",
+            "options": ["To find gold and riches", "To explore new lands for the king", "To worship God freely according to the Bible", "To start a trading company"],
+            "correct": 2,
+            "explanation": "The Pilgrims left England because they were not allowed to worship God the way they believed the Bible taught. They came to America seeking religious freedom."
+        },
+        {
+            "id": 3,
+            "question": "What was the Mayflower Compact?",
+            "options": ["A map of the New World", "A ship's logbook", "An agreement to govern themselves under God's laws", "A letter to the King of England"],
+            "correct": 2,
+            "explanation": "The Mayflower Compact was an agreement the Pilgrims wrote to govern themselves based on Biblical principles of covenant and community. It was one of the first examples of self-government in America."
+        },
+        {
+            "id": 4,
+            "question": "According to the Declaration of Independence, where do our rights come from?",
+            "options": ["The King of England", "The government", "Our Creator (God)", "The Constitution"],
+            "correct": 2,
+            "explanation": "The Declaration of Independence states that all people 'are endowed by their Creator with certain unalienable Rights.' This means our rights come from God, not from any government."
+        },
+        {
+            "id": 5,
+            "question": "Which Bible verse inspired the Founders to create three branches of government?",
+            "options": ["Genesis 1:1", "John 3:16", "Isaiah 33:22", "Psalm 23:1"],
+            "correct": 2,
+            "explanation": "Isaiah 33:22 describes God as judge, lawgiver, and king — three roles that inspired the three branches of government: Judicial, Legislative, and Executive."
+        },
+        {
+            "id": 6,
+            "question": "Why did the Founders divide the government into three branches?",
+            "options": ["Because three is a lucky number", "Because the Bible teaches that people are sinners and no one should have too much power", "Because England had three branches", "Because there were three original colonies"],
+            "correct": 1,
+            "explanation": "The Founders knew from the Bible that all people are sinners (Romans 3:23), so they divided the government into three branches to prevent any one person or group from gaining too much power."
+        },
+        {
+            "id": 7,
+            "question": "What is the official motto of the United States?",
+            "options": ["E Pluribus Unum", "Land of the Free", "In God We Trust", "Liberty and Justice for All"],
+            "correct": 2,
+            "explanation": "'In God We Trust' is the official national motto of the United States, reflecting America's heritage of faith in God."
+        },
+        {
+            "id": 8,
+            "question": "Which Founding Father called the delegates at the Constitutional Convention to prayer?",
+            "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+            "correct": 2,
+            "explanation": "Benjamin Franklin called the delegates to prayer, saying, 'I have lived, sir, a long time, and the longer I live the more convincing proofs I see of this truth — that God governs in the affairs of men.'"
+        }
+    ]
+}

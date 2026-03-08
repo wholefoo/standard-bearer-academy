@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "science",
+    "title": "The Human Body — Fearfully and Wonderfully Made",
+    "description": "An exploration of the major body systems, revealing the incredible design of our Creator as seen in Psalm 139:14.",
+    "units": [
+        {
+            "id": "human_body",
+            "title": "The Human Body Systems",
+            "lessons": ["skeletal", "muscular", "digestive", "circulatory", "respiratory", "nervous"]
+        }
+    ],
+    "quiz_id": "body_quiz"
+}

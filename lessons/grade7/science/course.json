@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "science",
+    "title": "Earth Science — Exploring God's World",
+    "description": "Discover the structure, systems, and beauty of the Earth from a young-earth, Creation-based perspective, recognizing God's intelligent design and our responsibility as stewards of His creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Earth Science — Exploring God's World",
+            "lessons": ["earth_structure", "rocks", "weather", "oceans", "volcanoes", "ecology"]
+        }
+    ],
+    "quiz_id": "earth_quiz"
+}

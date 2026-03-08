@@ -1,0 +1,127 @@
+{
+    "id": "literature_quiz",
+    "title": "American Literature — Faith, Freedom, and the Written Word",
+    "description": "Test your understanding of American literature from the Puritans through the modern era, analyzed through a Biblical and Christian worldview.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "In John Winthrop's 'A Model of Christian Charity,' the phrase 'city upon a hill' was drawn from which passage of Scripture?",
+            "options": [
+                "Romans 13:1",
+                "Matthew 5:14",
+                "Genesis 1:1",
+                "Psalm 23:1"
+            ],
+            "correct": 1,
+            "explanation": "Winthrop drew the 'city upon a hill' metaphor from Matthew 5:14, where Jesus tells His followers, 'You are the light of the world. A city that is set on a hill cannot be hidden.' Winthrop used this to describe the Puritan colony's covenant responsibility before God and the watching world."
+        },
+        {
+            "id": 2,
+            "question": "William Bradford's Of Plymouth Plantation is best described as:",
+            "options": [
+                "A fictional novel about Puritan life",
+                "A providential history that records God's hand guiding the Pilgrims",
+                "A philosophical treatise on self-reliance",
+                "A political argument for democracy"
+            ],
+            "correct": 1,
+            "explanation": "Bradford wrote Of Plymouth Plantation as a providential history, deliberately recording events as evidence of God's faithful guidance of the Pilgrim community. He saw every trial and deliverance as part of God's sovereign plan."
+        },
+        {
+            "id": 3,
+            "question": "Which Revolutionary-era writer used 1 Samuel 8 to argue against monarchy in his pamphlet Common Sense?",
+            "options": [
+                "Thomas Jefferson",
+                "Patrick Henry",
+                "Thomas Paine",
+                "Benjamin Franklin"
+            ],
+            "correct": 2,
+            "explanation": "Thomas Paine devoted a section of Common Sense to a Biblical argument against monarchy, citing 1 Samuel 8 where God warns Israel about the dangers of having a king. Paine argued that monarchy was contrary to God's original design for Israel."
+        },
+        {
+            "id": 4,
+            "question": "The Declaration of Independence states that unalienable rights are endowed by:",
+            "options": [
+                "The government",
+                "The will of the majority",
+                "Their Creator",
+                "The British Crown"
+            ],
+            "correct": 2,
+            "explanation": "Jefferson wrote that people 'are endowed by their Creator with certain unalienable Rights,' grounding human rights in God rather than in government. This means rights are inherent and cannot be legitimately taken away by any human authority."
+        },
+        {
+            "id": 5,
+            "question": "What is the fundamental theological error of Transcendentalism from a Biblical perspective?",
+            "options": [
+                "It teaches that God created the world",
+                "It elevates the human self above God's revealed Word and denies human sinfulness",
+                "It emphasizes community over individualism",
+                "It relies too heavily on Scripture"
+            ],
+            "correct": 1,
+            "explanation": "Transcendentalism replaces the authority of Scripture with individual intuition and denies the Biblical doctrine of human sinfulness (the Fall). Emerson's 'Self-Reliance' directly contradicts Proverbs 3:5-6, which commands trust in the Lord rather than in one's own understanding."
+        },
+        {
+            "id": 6,
+            "question": "In Hawthorne's The Scarlet Letter, what does the contrast between Hester's public shame and Dimmesdale's hidden guilt illustrate?",
+            "options": [
+                "That sin has no real consequences",
+                "That public punishment is always unjust",
+                "That hidden sin is more destructive than acknowledged sin, confirming the Biblical call to confession",
+                "That Puritan society was entirely fair and just"
+            ],
+            "correct": 2,
+            "explanation": "Hawthorne illustrates the Biblical truth of Psalm 32:3-5 and 1 John 1:9 — that concealing sin destroys a person from within, while confession, though painful, brings healing and relief. Dimmesdale's deterioration demonstrates the spiritual cost of hidden guilt."
+        },
+        {
+            "id": 7,
+            "question": "Captain Ahab in Melville's Moby-Dick is best understood as a literary representation of:",
+            "options": [
+                "Christian humility and submission to God",
+                "The Transcendentalist ideal of self-reliance",
+                "Human pride and rebellion against God's sovereignty",
+                "The virtues of persistence and determination"
+            ],
+            "correct": 2,
+            "explanation": "Ahab embodies the sin of pride — the refusal to accept God's sovereignty over creation. His obsessive quest to destroy Moby Dick is an act of rebellion against the order of the universe, and his destruction illustrates Proverbs 16:18: 'Pride goeth before destruction.'"
+        },
+        {
+            "id": 8,
+            "question": "Frederick Douglass's critique of slaveholding Christians distinguished between:",
+            "options": [
+                "Old Testament faith and New Testament faith",
+                "Catholic Christianity and Protestant Christianity",
+                "'The Christianity of this land' (hypocritical) and 'the Christianity of Christ' (genuine)",
+                "Faith and reason"
+            ],
+            "correct": 2,
+            "explanation": "Douglass drew a sharp distinction between the corrupt religion that justified slavery ('the Christianity of this land') and genuine Christianity ('the Christianity of Christ'). His critique was not an attack on Christianity itself but a prophetic call for Christians to live consistently with their faith."
+        },
+        {
+            "id": 9,
+            "question": "T.S. Eliot's literary career is significant because it demonstrates that:",
+            "options": [
+                "All modern literature is necessarily anti-Christian",
+                "An honest confrontation with meaninglessness can lead to faith, and great literature can be faithfully Christian",
+                "Christianity and literary quality are incompatible",
+                "Modern poetry is superior to all previous forms"
+            ],
+            "correct": 1,
+            "explanation": "Eliot's journey from the despair of The Waste Land to the Christian faith expressed in Four Quartets demonstrates that honest intellectual inquiry can lead to God, and that faith and literary excellence are not only compatible but can reinforce each other."
+        },
+        {
+            "id": 10,
+            "question": "The Christian response to postmodern literature should be to:",
+            "options": [
+                "Refuse to read any modern books",
+                "Accept that truth is subjective and relative",
+                "Read with discernment, recognizing valid insights while affirming that objective truth exists in Christ",
+                "Agree that all narratives are equally valid"
+            ],
+            "correct": 2,
+            "explanation": "Christians should read modern and postmodern literature with discernment (1 Thessalonians 5:21), recognizing valid concerns about the misuse of power while firmly affirming that objective truth exists. Jesus declared, 'I am the way, the truth, and the life' (John 14:6), establishing that Truth is not subjective but personal and absolute."
+        }
+    ]
+}

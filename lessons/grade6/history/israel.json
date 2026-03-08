@@ -1,0 +1,77 @@
+{
+    "id": "israel",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Ancient Israel — God's Covenant People",
+    "subtitle": "From Abraham to the Kingdom — The Nation Set Apart",
+    "scripture": "Genesis 12; Deuteronomy 7:6-8; 1 Samuel 8",
+    "primary_source": "The Mosaic Law (Exodus 20 — The Ten Commandments)",
+    "key_concepts": ["God's covenant with Abraham", "The Mosaic Law as the foundation of Western law", "Israel's unique role among the nations", "The rise and fall of the Israelite kingdom"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 12:2-3",
+                "text": "\"I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.\"",
+                "commentary": "God's covenant with Abraham is the foundation of Israel's history and identity. This promise has two parts: God will make Abraham's descendants a great nation, and through them, all nations on earth will be blessed — a promise ultimately fulfilled through Jesus Christ."
+            },
+            {
+                "reference": "Deuteronomy 7:6",
+                "text": "\"For you are a people holy to the Lord your God. The Lord your God has chosen you out of all the peoples on the face of the earth to be his people, his treasured possession.\"",
+                "commentary": "Israel was chosen not because they were the largest or most powerful nation, but because of God's sovereign love and His covenant faithfulness. They were set apart to be a witness to the surrounding nations of the one true God."
+            },
+            {
+                "reference": "Exodus 20:2-3",
+                "text": "\"I am the Lord your God, who brought you out of Egypt, out of the land of slavery. You shall have no other gods before me.\"",
+                "commentary": "The Ten Commandments begin with a reminder that God delivered His people and therefore has the right to command their obedience. This principle — that law comes from a moral Lawgiver — became the foundation of Western legal tradition."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Covenant with Abraham: A Nation with a Purpose",
+            "paragraphs": [
+                "Approximately 2000 years before Christ, God called a man named Abram (later Abraham) out of Ur of the Chaldeans and made a covenant with him. God promised Abraham three things: a land (Canaan), descendants as numerous as the stars, and that through his offspring all nations on earth would be blessed.",
+                "This covenant is the key to understanding not just Israel's history, but all of history. God chose one family, one nation, through which He would reveal Himself, give His law, send His prophets, and ultimately bring the Savior of the world. Every major event in the Old Testament connects back to this covenant promise."
+            ]
+        },
+        {
+            "heading": "The Law of Moses: God's Standard for a Nation",
+            "paragraphs": [
+                "After delivering Israel from Egypt, God gave them His law through Moses at Mount Sinai. The Ten Commandments and the broader Mosaic Law established standards for worship, justice, personal conduct, property rights, and care for the poor. This was not just a religious code — it was a complete framework for an ordered, just society.",
+                "The Mosaic Law has had an enormous influence on Western civilization. Concepts that we take for granted — equal justice under law, the sanctity of human life, the right to private property, the duty to care for the vulnerable — all have their roots in the law God gave to Israel. The American legal tradition, the English common law, and even the concept of a written constitution all draw from the pattern God established with Israel."
+            ]
+        },
+        {
+            "heading": "The Judges and the Kings: Israel's Rise and Struggle",
+            "paragraphs": [
+                "After conquering Canaan under Joshua, Israel was governed by judges — leaders raised up by God in times of crisis. The period of the Judges (approximately 1400-1050 BC) followed a repeated cycle: the people would turn from God, God would allow an enemy to oppress them, the people would cry out to God, and God would raise up a judge to deliver them. This cycle shows both God's justice and His mercy.",
+                "Eventually, the people of Israel demanded a king, wanting to be 'like all the other nations' (1 Samuel 8:5). God warned them through the prophet Samuel that a king would take their sons, daughters, property, and freedom. Despite this warning, Israel insisted, and God gave them Saul as their first king.",
+                "Under King David and his son Solomon, Israel reached the height of its power and glory. Solomon built the magnificent Temple in Jerusalem, and Israel became a prosperous, respected nation. But Solomon's later disobedience — including his marriages to pagan wives who turned his heart from God — led to the division of the kingdom after his death."
+            ]
+        },
+        {
+            "heading": "The Divided Kingdom and Exile: Consequences of Disobedience",
+            "paragraphs": [
+                "After Solomon, the kingdom split into two: the northern kingdom (Israel) and the southern kingdom (Judah). Both kingdoms eventually fell because they abandoned God and turned to idolatry. The northern kingdom fell to Assyria in 722 BC, and the southern kingdom fell to Babylon in 586 BC. The Temple was destroyed, and the people were carried into exile.",
+                "Yet even in judgment, God remained faithful to His covenant. He preserved a remnant of His people, and through the prophets, He promised that one day a descendant of David would sit on an eternal throne — a promise fulfilled in Jesus Christ. The history of Israel teaches that God blesses obedience and disciplines disobedience, but He never breaks His covenant promises."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did God choose Israel to be His special people? Was it because they were better or more powerful than other nations? Read Deuteronomy 7:6-8 for the answer.",
+            "guidance": "Note that God chose Israel not because of their size or greatness, but because of His love and His faithfulness to the promise He made to Abraham. Consider what this teaches about God's grace — He chooses people not based on their merit but based on His purposes."
+        },
+        {
+            "id": 2,
+            "question": "How has the Mosaic Law influenced Western civilization and the American legal system? Give at least two specific examples.",
+            "guidance": "Think about concepts like equal justice under law (Leviticus 19:15), property rights (Exodus 20:15, 17), the sanctity of life (Exodus 20:13), and the duty to tell the truth (Exodus 20:16). Consider how these principles shaped English common law and the U.S. Constitution."
+        },
+        {
+            "id": 3,
+            "question": "In 1 Samuel 8, Israel demanded a king to be 'like all the other nations.' What did God warn them about? What does this teach us about the dangers of wanting to be like the surrounding culture?",
+            "guidance": "Consider that God warned the people a king would take their sons, daughters, produce, and liberty. Think about how the desire to conform to the world's patterns — rather than following God's design — often leads to losing the very freedoms God intended for His people."
+        }
+    ]
+}

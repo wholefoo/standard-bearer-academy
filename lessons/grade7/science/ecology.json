@@ -1,0 +1,85 @@
+{
+    "id": "ecology",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Ecology and Stewardship — The Dominion Mandate",
+    "subtitle": "Understanding Ecosystems and Our God-Given Responsibility to Care for Creation",
+    "scripture": "Genesis 1:28",
+    "key_concepts": ["Ecosystems and food webs", "The dominion mandate", "Biblical stewardship vs. environmentalism", "Interdependence as evidence of design"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'\"",
+                "commentary": "God gave humanity the dominion mandate — the authority and responsibility to rule over creation as God's stewards. This means using and managing the Earth's resources wisely, not worshiping nature or exploiting it recklessly."
+            },
+            {
+                "reference": "Genesis 2:15",
+                "text": "\"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.\"",
+                "commentary": "Even before the Fall, God gave Adam the job of tending and keeping the garden. Stewardship — responsible care of God's creation — is one of humanity's original callings. We are caretakers, not owners, of the Earth."
+            },
+            {
+                "reference": "Psalm 24:1",
+                "text": "\"The earth is the LORD's, and everything in it, the world, and all who live in it.\"",
+                "commentary": "The Earth belongs to God, not to us. We are managers of His property. This means we must use creation's resources responsibly, maintaining the health and productivity of the natural systems God has put in our care."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Ruling and Caring for God's World",
+            "paragraphs": [
+                "Ecology is the study of how living organisms interact with each other and with their environment. From the smallest microorganisms in the soil to the largest whales in the ocean, every creature plays a role in the intricate web of life that God designed. Understanding ecology helps us appreciate the wisdom of the Creator and fulfill our calling as stewards of His creation.",
+                "In this lesson, we will explore how ecosystems work, examine the interdependence of living things as evidence of design, and consider what the Bible teaches about humanity's responsibility to care for the natural world."
+            ]
+        },
+        {
+            "heading": "Ecosystems: Designed to Work Together",
+            "paragraphs": [
+                "An ecosystem is a community of living organisms interacting with their physical environment. Ecosystems include biotic (living) components — plants, animals, fungi, bacteria — and abiotic (non-living) components — sunlight, water, soil, temperature, and air. Every ecosystem, from a tropical rainforest to a desert, displays an intricate balance of these components.",
+                "Within ecosystems, organisms are organized into food chains and food webs. Producers (plants) capture energy from sunlight through photosynthesis. Primary consumers (herbivores) eat plants. Secondary consumers (predators) eat herbivores. Decomposers break down dead organisms and recycle nutrients back into the soil. This cycle of energy and nutrients keeps the ecosystem functioning.",
+                "The complexity and interdependence within ecosystems point powerfully to intelligent design. Many relationships between organisms are so tightly integrated that one could not survive without the other. Bees and flowering plants, for example, depend on each other — bees need nectar for food, and plants need bees for pollination. Such mutually dependent relationships are difficult to explain through gradual evolutionary processes but make perfect sense as the product of a wise Creator who designed organisms to work together from the beginning."
+            ]
+        },
+        {
+            "heading": "The Dominion Mandate: Authority and Responsibility",
+            "paragraphs": [
+                "In Genesis 1:28, God gave humanity the dominion mandate — the command to 'rule over' the Earth and its creatures. This is not a license to exploit or destroy but a delegation of authority that carries great responsibility. Just as a king is responsible for the welfare of his kingdom, humanity is responsible for the welfare of the natural world God has entrusted to us.",
+                "Genesis 2:15 makes this even clearer: God placed Adam in the garden 'to work it and take care of it.' The Hebrew words used here — abad (to serve, cultivate) and shamar (to guard, protect) — show that stewardship involves both productive use and careful preservation. We are to use the Earth's resources to meet human needs while maintaining the health and sustainability of the systems God created.",
+                "This balanced view avoids two extremes. On one hand, some people treat nature as nothing more than raw material to be consumed without regard for consequences. This violates the stewardship principle. On the other hand, some elevate nature to an object of worship, treating environmental concerns as more important than human welfare. This violates the dominion principle and, ultimately, the first commandment. Biblical stewardship holds both responsibilities in proper balance."
+            ]
+        },
+        {
+            "heading": "Biblical Stewardship vs. Secular Environmentalism",
+            "paragraphs": [
+                "Biblical stewardship and secular environmentalism may sometimes reach similar practical conclusions — both want clean water and healthy forests — but they operate from fundamentally different foundations. Biblical stewardship begins with God as Creator and Owner of the Earth (Psalm 24:1), humans as His appointed managers, and the natural world as a resource entrusted to us for responsible use.",
+                "Secular environmentalism often begins with naturalistic assumptions: nature is all there is, humans are just another species, and the Earth must be protected from human activity. At its extreme, this worldview can lead to valuing animal or plant life above human life, opposing economic development that could improve human well-being, or treating the Earth itself as sacred.",
+                "As Christian stewards, we should care deeply about the environment — but our motivation comes from obedience to God, not from worshiping nature. We use resources wisely because they belong to God. We protect habitats because God created those ecosystems with purpose. We avoid waste and pollution because good stewards take care of what has been entrusted to them. And we always remember that human beings, made in God's image, are the crown of creation — more valuable than any animal or plant."
+            ]
+        },
+        {
+            "heading": "Practical Stewardship: What Can You Do?",
+            "paragraphs": [
+                "Biblical stewardship is not just a theological concept — it is a practical calling. Every person can take steps to care for creation responsibly. This includes being mindful of waste, conserving resources, caring for animals humanely, maintaining the health of the land, and supporting responsible resource management.",
+                "Throughout history, Christians have been at the forefront of agricultural innovation, conservation efforts, and responsible resource management — motivated not by nature worship but by obedience to the Creator. As you learn about ecology and the natural world, let your growing knowledge deepen both your worship of the God who designed it all and your commitment to caring for His creation well."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is the dominion mandate (Genesis 1:28), and how does Genesis 2:15 clarify what it means to 'rule over' creation? How does this differ from exploitation?",
+            "guidance": "Consider the Hebrew words for 'work' and 'take care of' in Genesis 2:15. Think about the difference between a king who cares for his people and a tyrant who exploits them."
+        },
+        {
+            "id": 2,
+            "question": "How do food chains and ecosystems demonstrate intelligent design? Why are mutually dependent relationships (like bees and flowers) difficult to explain through gradual evolution?",
+            "guidance": "Think about what would happen to each organism if its partner didn't exist yet. Consider whether these relationships make more sense as designed from the beginning or as slowly evolving over time."
+        },
+        {
+            "id": 3,
+            "question": "Compare and contrast Biblical stewardship with secular environmentalism. What are the key differences in their foundations, and where might they agree or disagree in practice?",
+            "guidance": "Consider the starting assumptions of each view: Who owns the Earth? What is the value of human beings compared to other creatures? How should resources be used? Where do the two views overlap, and where do they diverge?"
+        }
+    ]
+}

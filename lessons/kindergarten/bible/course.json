@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "bible",
+    "title": "God's Numbers — Counting Through Scripture",
+    "description": "Learn to count from 1 to 5 while discovering amazing Bible stories and truths about God!",
+    "units": [
+        {
+            "id": "gods_numbers",
+            "title": "Counting Through Scripture",
+            "lessons": ["num1", "num2", "num3", "num4", "num5"]
+        }
+    ],
+    "quiz_id": "numbers_quiz"
+}

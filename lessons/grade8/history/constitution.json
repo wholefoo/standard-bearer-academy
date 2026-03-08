@@ -1,0 +1,80 @@
+{
+    "id": "constitution",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: The Constitution and Biblical Government",
+    "subtitle": "How Biblical Principles Shaped the Supreme Law of the Land",
+    "scripture": "Isaiah 33:22",
+    "primary_source": "James Madison, Federalist No. 51 (1788)",
+    "key_concepts": ["Separation of powers as a Biblical concept", "Checks and balances and human depravity", "The Bill of Rights and God-given liberties", "Federalism and sphere sovereignty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 33:22",
+                "text": "\"For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; it is he who will save us.\"",
+                "commentary": "This single verse identifies three distinct functions of government — judicial, legislative, and executive — all united in God. The Founders, recognizing that no fallen human being should hold all three powers, separated them into three branches of government. The structure of American government reflects Biblical wisdom."
+            },
+            {
+                "reference": "Jeremiah 17:9",
+                "text": "\"The heart is deceitful above all things and beyond cure. Who can understand it?\"",
+                "commentary": "The Founders' insistence on checks and balances was rooted in the Biblical understanding of human sinfulness. Because human hearts are prone to corruption, power must be divided and checked so that no individual or group can exercise unchecked authority."
+            },
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "The Constitution was designed to create a government that acts justly — protecting the rights of the people — while remaining humble in its scope, recognizing that ultimate authority belongs to God alone."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: A Government Unlike Any Other",
+            "paragraphs": [
+                "In the summer of 1787, fifty-five delegates gathered in Philadelphia to address the weaknesses of the Articles of Confederation. What emerged from that convention was the United States Constitution — a document that established a form of government unlike any the world had ever seen.",
+                "The Constitution was not a product of secular Enlightenment philosophy alone. It was deeply shaped by Biblical principles that the delegates had absorbed through decades of sermons, Scripture study, and the lived experience of self-governing Christian communities. Understanding the Biblical foundations of the Constitution is essential to understanding why it has endured for over two centuries."
+            ]
+        },
+        {
+            "heading": "Separation of Powers: Reflecting God's Design",
+            "paragraphs": [
+                "The Constitution divides the federal government into three branches: the Legislative (Congress, which makes laws), the Executive (the President, who enforces laws), and the Judicial (the Courts, which interpret laws). This structure was directly influenced by Isaiah 33:22, which identifies God as judge, lawgiver, and king.",
+                "The Founders understood that since only God can be trusted with all three powers, no human government should concentrate them in one person or body. Baron de Montesquieu, whose writings the Founders studied extensively, articulated this principle of separation of powers, but the idea itself has deep roots in Scripture.",
+                "James Madison explained in Federalist No. 51: 'If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary.' This famous statement reflects the Biblical doctrine of human depravity — because people are sinful, power must be divided and checked."
+            ]
+        },
+        {
+            "heading": "Checks and Balances: Guarding Against Tyranny",
+            "paragraphs": [
+                "The Constitution does not merely separate powers — it gives each branch the ability to check the others. The President can veto laws passed by Congress. Congress can override a veto with a two-thirds vote. The judiciary can declare laws unconstitutional. Congress can impeach the President or federal judges.",
+                "This intricate system of mutual accountability reflects the Biblical principle that unchecked power corrupts. Lord Acton's famous observation — 'Power tends to corrupt, and absolute power corrupts absolutely' — echoes the Biblical teaching about the fallen nature of humanity.",
+                "The Founders designed a government that assumes the worst about human nature while hoping for the best. They knew that leaders, no matter how virtuous at first, would be tempted to abuse power. The system of checks and balances is a structural expression of the Biblical command to 'test everything' and hold leaders accountable (1 Thessalonians 5:21)."
+            ]
+        },
+        {
+            "heading": "The Bill of Rights: Protecting God-Given Liberties",
+            "paragraphs": [
+                "The first ten amendments to the Constitution, known as the Bill of Rights (ratified 1791), were added to explicitly protect the God-given rights of the people from government overreach. These rights were not created by the government — they were recognized as pre-existing rights endowed by the Creator.",
+                "The First Amendment protects religious liberty, free speech, free press, and the right to petition the government. Religious liberty is listed first because the Founders understood that freedom of conscience — the right to worship God according to one's own convictions — is the most fundamental of all human freedoms.",
+                "The Second Amendment protects the right to bear arms, reflecting the Biblical principle that individuals have the right to defend themselves and their families (Exodus 22:2, Nehemiah 4:14). The Fourth through Eighth Amendments protect due process, fair trials, and property rights — all principles grounded in Biblical law.",
+                "The Ninth and Tenth Amendments make clear that the government's powers are limited: rights not listed are still retained by the people, and powers not delegated to the federal government remain with the states or the people. This reflects the Biblical principle of sphere sovereignty — that God has established multiple institutions (family, church, civil government), each with its own limited jurisdiction."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Isaiah 33:22. How does this verse relate to the structure of the United States government? Why did the Founders believe it was important to separate judicial, legislative, and executive powers?",
+            "guidance": "Consider that God alone is perfectly just, wise, and powerful enough to hold all three roles. Think about what happens historically when a single human being or group holds all three powers."
+        },
+        {
+            "id": 2,
+            "question": "Madison wrote, 'If men were angels, no government would be necessary.' What Biblical doctrine is he reflecting? How does this understanding shape the design of the Constitution?",
+            "guidance": "Consider Jeremiah 17:9 and the doctrine of human depravity. Think about how checks and balances serve as a practical application of the Biblical teaching that human beings are prone to sin and the abuse of power."
+        },
+        {
+            "id": 3,
+            "question": "Why is religious liberty listed first in the Bill of Rights? What does this tell us about the Founders' priorities and their understanding of the relationship between faith and freedom?",
+            "guidance": "Consider why freedom of conscience is foundational to all other freedoms. Think about historical examples of what happens when governments control religious practice."
+        }
+    ]
+}

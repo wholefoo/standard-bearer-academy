@@ -1,0 +1,87 @@
+{
+    "id": "money_banking",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Money, Banking, and the Parable of the Talents",
+    "subtitle": "Sound Money, Faithful Investment, and the Stewardship of Capital",
+    "scripture": "Matthew 25:14-30; Proverbs 22:7; Deuteronomy 25:13-16",
+    "primary_source": "Andrew Jackson, Veto Message on the Bank of the United States (1832)",
+    "key_concepts": ["Functions of money", "Sound money vs. inflation", "Banking and credit", "The Parable of the Talents", "Biblical view of debt", "Interest and usury"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 25:21",
+                "text": "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'\"",
+                "commentary": "In the Parable of the Talents, Jesus teaches that God entrusts resources to individuals and expects them to invest wisely for a productive return. The faithful servants who doubled their master's money were commended. The servant who buried his talent out of fear was condemned. This parable affirms the principles of investment, risk, and productive use of capital."
+            },
+            {
+                "reference": "Proverbs 22:7",
+                "text": "\"The rich rule over the poor, and the borrower is slave to the lender.\"",
+                "commentary": "Scripture warns that excessive debt leads to bondage. While borrowing is not absolutely forbidden, the Bible consistently cautions against it. Debt places the borrower under obligation to the lender, limiting freedom and creating vulnerability. Sound financial management prioritizes savings and avoids unnecessary debt."
+            },
+            {
+                "reference": "Deuteronomy 25:13-16",
+                "text": "\"Do not have two differing weights in your bag — one heavy, one light. Do not have two differing measures in your house — one large, one small. You must have accurate and honest weights and measures.\"",
+                "commentary": "God commands honest measures in economic transactions. This principle extends to money itself: a nation's currency should be a reliable store of value. When governments inflate the money supply — effectively making each dollar worth less — they are practicing a form of dishonest weights and measures, stealing purchasing power from citizens."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Money?",
+            "paragraphs": [
+                "Money is one of the most important inventions in human history. Before money, people traded through barter — exchanging goods directly for other goods. But barter is extremely inefficient. If a farmer wants shoes but the cobbler does not need grain, no trade can occur. Money solves this problem by serving as a medium of exchange that everyone accepts.",
+                "Money serves three functions: it is a medium of exchange (used to buy and sell goods), a unit of account (a standard measure of value), and a store of value (a way to save purchasing power for the future). For money to function properly, it must be durable, portable, divisible, and — most importantly — trustworthy. People must have confidence that money will retain its value."
+            ]
+        },
+        {
+            "heading": "Sound Money and the Sin of Inflation",
+            "paragraphs": [
+                "Throughout most of history, money was backed by precious metals — gold and silver — which are naturally scarce and cannot be created by government decree. This 'hard money' or 'sound money' system limited the government's ability to spend beyond its means because it could not simply create more gold.",
+                "In the modern era, most nations use 'fiat money' — currency that has value only because the government declares it legal tender. The danger of fiat money is that governments can print unlimited quantities, inflating the money supply and reducing the purchasing power of each dollar. This is inflation: too much money chasing too few goods.",
+                "Inflation is a hidden tax. When the government creates new money, it does not create new wealth — it simply dilutes the value of existing money. The people who are hurt most by inflation are savers, retirees, and those on fixed incomes — the very people who have been most responsible with their finances. Deuteronomy 25:13-16 condemns dishonest weights and measures. Inflation is precisely that: a dishonest measure of value imposed by government."
+            ]
+        },
+        {
+            "heading": "Banking: The Power and Peril of Credit",
+            "paragraphs": [
+                "Banks serve an essential function in a market economy: they pool the savings of depositors and lend those funds to borrowers who can use them productively. A farmer borrows money to buy seed and equipment, grows a crop, sells it at harvest, and repays the loan with interest. Both the bank and the farmer benefit, and the community has food.",
+                "However, banking also carries risks. Fractional reserve banking — the practice of lending out most deposits while keeping only a fraction in reserve — means that banks can create credit far beyond their actual reserves. If too many depositors demand their money at once (a 'bank run'), the bank may fail. The history of banking is filled with cycles of boom and bust caused by excessive credit creation.",
+                "The Bible does not condemn lending or the charging of reasonable interest. The Parable of the Talents (Matthew 25:27) explicitly mentions that the unfaithful servant should have at least put his master's money in the bank to earn interest. What Scripture condemns is usury — excessive interest charged to exploit the vulnerable — and the kind of reckless lending and borrowing that leads to bondage."
+            ]
+        },
+        {
+            "heading": "The Parable of the Talents: God's Economics",
+            "paragraphs": [
+                "In Matthew 25:14-30, Jesus tells the story of a master who entrusts his property to three servants before going on a journey. One receives five talents (a talent was a large unit of money), another two, and another one — 'each according to his ability.' The first two servants invest wisely and double their master's money. The third buries his talent in the ground.",
+                "When the master returns, he commends the first two: 'Well done, good and faithful servant!' But he condemns the third as 'wicked' and 'lazy.' The lesson is unmistakable: God expects His people to invest the resources He has entrusted to them — whether money, abilities, or opportunities — and produce a return. Passivity, fear, and unproductive hoarding are failures of stewardship.",
+                "This parable has direct implications for economics. It affirms the legitimacy of investment and profit. It teaches that resources are distributed unequally ('each according to his ability'), and this inequality is not unjust but part of God's design. It rewards productivity and condemns laziness. And it establishes the principle that faithful stewardship of small resources leads to greater responsibility and reward."
+            ]
+        },
+        {
+            "heading": "Debt: A Biblical Warning",
+            "paragraphs": [
+                "Proverbs 22:7 warns that 'the borrower is slave to the lender.' While Scripture does not absolutely prohibit borrowing, it consistently treats debt with caution. The Old Testament law required that debts be forgiven every seven years (Deuteronomy 15:1-2), preventing perpetual indebtedness. The Jubilee year (Leviticus 25) provided an additional reset every fifty years.",
+                "Today, individuals, families, and the national government are burdened with unprecedented levels of debt. Consumer debt, student loans, and national debt have reached levels that would have been unimaginable a generation ago. This debt represents a form of bondage — a claim on future earnings that limits freedom and creates vulnerability.",
+                "Biblical wisdom counsels living within one's means, saving for the future, and avoiding unnecessary debt. Romans 13:8 says, 'Let no debt remain outstanding, except the continuing debt to love one another.' While this is primarily a spiritual exhortation, it reflects the broader Biblical principle that God's people should be lenders, not borrowers — free, not enslaved to financial obligations."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Parable of the Talents (Matthew 25:14-30) apply to modern economics? What principles of investment, stewardship, and productivity does it teach?",
+            "guidance": "Consider how the parable affirms profit-making, rewards risk-taking, condemns unproductive hoarding, and teaches that resources are distributed unequally by design. How does this parable challenge both socialist redistribution and selfish hoarding?"
+        },
+        {
+            "id": 2,
+            "question": "Why is inflation a form of dishonest weights and measures (Deuteronomy 25:13-16)? Who benefits from inflation, and who is harmed by it?",
+            "guidance": "Think about how inflation transfers wealth from savers and fixed-income earners to debtors and the government. Consider why governments have an incentive to inflate the currency and why this is morally problematic."
+        },
+        {
+            "id": 3,
+            "question": "What does Scripture teach about debt? How should Proverbs 22:7 and the Old Testament laws about debt forgiveness (Deuteronomy 15:1-2) inform our personal and national approach to borrowing?",
+            "guidance": "Consider the current levels of consumer, student, and national debt. How does the Biblical warning about debt as bondage apply to a nation that owes trillions of dollars? What practical steps can individuals take to follow Biblical principles regarding debt?"
+        }
+    ]
+}

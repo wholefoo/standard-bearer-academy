@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "science",
+    "title": "God's Amazing Animals — Discovering Creation's Creatures",
+    "description": "Explore the wonderful world of animals that God created, learning about different animal kinds and how their amazing features point to an intelligent Creator.",
+    "units": [
+        {
+            "id": "animals",
+            "title": "God's Amazing Animals",
+            "lessons": ["mammals", "birds", "fish", "reptiles", "insects", "stewardship"]
+        }
+    ],
+    "quiz_id": "animals_quiz"
+}

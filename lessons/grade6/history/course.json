@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "history",
+    "title": "Ancient Civilizations — God's Hand in History",
+    "description": "A survey of the ancient world from Creation through the fall of Rome, revealing God's sovereign plan unfolding through the rise and fall of nations.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Ancient Civilizations and God's Providence",
+            "lessons": ["creation_early", "egypt", "israel", "greece", "rome", "fall_rome"]
+        }
+    ],
+    "quiz_id": "ancient_quiz"
+}

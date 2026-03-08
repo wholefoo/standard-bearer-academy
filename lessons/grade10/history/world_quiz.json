@@ -1,0 +1,127 @@
+{
+    "id": "world_quiz",
+    "title": "World History — The Unfolding of God's Plan",
+    "description": "Test your understanding of world history from the Medieval period to the modern era, examining God's providential hand in the rise and fall of nations.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What was the primary role of Medieval monasteries in preserving Western civilization?",
+            "options": [
+                "They served as military fortresses against invaders",
+                "They copied and preserved Scripture, classical texts, and developed agriculture and education",
+                "They were centers of political power that replaced kings",
+                "They focused exclusively on prayer and had no impact on society"
+            ],
+            "correct": 1,
+            "explanation": "Medieval monasteries were the primary institutions that preserved learning after the fall of Rome. Monks copied the Scriptures and classical texts by hand, developed farming techniques, and established schools and hospitals — rebuilding civilization on a Christian foundation."
+        },
+        {
+            "id": 2,
+            "question": "What was Martin Luther's central theological discovery that launched the Protestant Reformation?",
+            "options": [
+                "That the pope had political authority over all nations",
+                "That salvation comes through faith alone in Christ, not through works or indulgences",
+                "That the Bible should remain in Latin so only scholars could read it",
+                "That the Church should have more political power"
+            ],
+            "correct": 1,
+            "explanation": "Luther's reading of Romans 1:17 led him to the doctrine of justification by faith alone (Sola Fide) — that righteousness before God is received as a gift through faith in Christ, not earned through human works or purchased through indulgences."
+        },
+        {
+            "id": 3,
+            "question": "What does 'Sola Scriptura' mean, and why was it important to the Reformation?",
+            "options": [
+                "It means 'Scripture alone' — the Bible is the ultimate authority for faith and practice",
+                "It means 'only scholars' — only trained clergy should read the Bible",
+                "It means 'tradition alone' — Church tradition is more important than Scripture",
+                "It means 'reason alone' — human reason supersedes the Bible"
+            ],
+            "correct": 0,
+            "explanation": "Sola Scriptura means 'Scripture alone' — the principle that the Bible, not papal decree or Church tradition, is the final authority for Christian faith and practice. This principle was central to the Reformation and essential to the recovery of Biblical truth."
+        },
+        {
+            "id": 4,
+            "question": "How did the Age of Exploration serve God's providential purposes?",
+            "options": [
+                "It had no connection to God's purposes — it was purely economic",
+                "It carried the Gospel to peoples across the globe, fulfilling the Great Commission",
+                "It proved that Christianity should be confined to Europe",
+                "It showed that human achievement can replace God's sovereignty"
+            ],
+            "correct": 1,
+            "explanation": "While human motives were often mixed, God used the Age of Exploration to carry the Gospel to every inhabited continent, fulfilling the Great Commission (Matthew 28:19-20). Missionaries accompanied explorers, establishing churches, schools, and hospitals worldwide."
+        },
+        {
+            "id": 5,
+            "question": "What is the key difference between the American Revolution and the French Revolution?",
+            "options": [
+                "The American Revolution was violent while the French Revolution was peaceful",
+                "The American Revolution was based on Biblical principles and produced lasting liberty; the French Revolution rejected God and produced terror and tyranny",
+                "The French Revolution produced a better form of government than the American Revolution",
+                "There was no significant difference between the two revolutions"
+            ],
+            "correct": 1,
+            "explanation": "The American Revolution was grounded in Biblical principles — rights from the Creator, human sinfulness requiring checks on power — and produced lasting constitutional liberty. The French Revolution rejected God, enthroned 'Reason,' and produced the Reign of Terror and eventually Napoleon's dictatorship."
+        },
+        {
+            "id": 6,
+            "question": "According to Proverbs 1:7, what is the beginning of knowledge?",
+            "options": [
+                "Scientific experimentation",
+                "University education",
+                "The fear of the LORD",
+                "Human reason independent of God"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 1:7 teaches that 'the fear of the LORD is the beginning of knowledge.' True knowledge starts with reverence for God. The Enlightenment's attempt to make human reason supreme, apart from God, led to both great achievements and terrible destruction."
+        },
+        {
+            "id": 7,
+            "question": "Why did communist regimes in the 20th century produce such enormous suffering?",
+            "options": [
+                "Because they had bad economic policies but otherwise respected human rights",
+                "Because they denied God, rejected the sanctity of human life, and elevated the state to ultimate authority",
+                "Because they were too democratic and gave people too much freedom",
+                "Because they followed Biblical principles too strictly"
+            ],
+            "correct": 1,
+            "explanation": "Communist regimes denied God's existence, rejected the Biblical truth that humans are made in His image, and elevated the state to the position of ultimate authority that belongs to God alone. This led inevitably to tyranny and the deaths of an estimated 100 million people."
+        },
+        {
+            "id": 8,
+            "question": "What was the significance of the fall of the Berlin Wall and the collapse of the Soviet Union in 1991?",
+            "options": [
+                "It proved that communist economic planning was superior to free markets",
+                "It showed that societies built on atheistic lies cannot endure, vindicating freedom rooted in truth",
+                "It had no lasting impact on world history",
+                "It demonstrated that military power alone determines the fate of nations"
+            ],
+            "correct": 1,
+            "explanation": "The collapse of the Soviet Union vindicated the principle that societies built on lies and oppression cannot endure. Freedom rooted in God's truth proved stronger than the most powerful communist state in the world, as millions regained their liberty without a shot being fired."
+        },
+        {
+            "id": 9,
+            "question": "Which Christian reformers led efforts to address the social evils of the Industrial Revolution?",
+            "options": [
+                "Karl Marx and Friedrich Engels",
+                "William Wilberforce, Lord Shaftesbury, and George Müller",
+                "Voltaire and Rousseau",
+                "Napoleon Bonaparte and Otto von Bismarck"
+            ],
+            "correct": 1,
+            "explanation": "William Wilberforce led the campaign to abolish the slave trade, Lord Shaftesbury championed laws to protect children and workers, and George Müller established orphanages through faith and prayer. These Christians addressed injustice through Biblical principles of stewardship and compassion."
+        },
+        {
+            "id": 10,
+            "question": "According to Daniel 2:21, who controls the rise and fall of nations?",
+            "options": [
+                "The strongest military power controls all nations",
+                "Nations rise and fall randomly without any purpose",
+                "God — He changes times and seasons, deposes kings and raises up others",
+                "The people alone determine the fate of nations through democratic vote"
+            ],
+            "correct": 2,
+            "explanation": "Daniel 2:21 teaches that God sovereignly controls the rise and fall of nations: 'He changes times and seasons; he deposes kings and raises up others.' The dramatic changes of world history occur under God's providential direction and serve His eternal purposes."
+        }
+    ]
+}

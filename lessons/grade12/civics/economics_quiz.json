@@ -1,0 +1,127 @@
+{
+    "id": "economics_quiz",
+    "title": "Unit 1: Economics & Free Enterprise — Biblical Stewardship in the Marketplace",
+    "description": "Test your understanding of Biblical economics, free enterprise, and personal finance principles.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Genesis 2:15, what was God's original purpose for placing Adam in the Garden of Eden?",
+            "options": [
+                "To rest and enjoy leisure without any responsibilities",
+                "To work it and take care of it",
+                "To name the animals and then do nothing else",
+                "To wait for further instructions from God"
+            ],
+            "correct": 1,
+            "explanation": "Genesis 2:15 states that God placed Adam in the Garden 'to work it and take care of it.' Work was part of God's original design for humanity — a dignified calling, not a curse. The Dominion Mandate establishes productive labor as fundamental to human purpose."
+        },
+        {
+            "id": 2,
+            "question": "Which two of the Ten Commandments directly establish the principle of private property rights?",
+            "options": [
+                "The First and Second Commandments",
+                "The Fourth and Fifth Commandments",
+                "The Eighth ('You shall not steal') and Tenth ('You shall not covet')",
+                "The Sixth and Seventh Commandments"
+            ],
+            "correct": 2,
+            "explanation": "The Eighth Commandment ('You shall not steal') and the Tenth Commandment ('You shall not covet your neighbor's possessions') both presuppose the existence and legitimacy of private property. You cannot steal what no one rightfully owns."
+        },
+        {
+            "id": 3,
+            "question": "In the Parable of the Talents (Matthew 25:14-30), what did the master say to the servant who buried his talent in the ground?",
+            "options": [
+                "'Well done, good and faithful servant'",
+                "'You were wise to play it safe'",
+                "'You wicked, lazy servant' — and took the talent away from him",
+                "'It doesn't matter what you do with your resources'"
+            ],
+            "correct": 2,
+            "explanation": "The master condemned the servant who buried his talent as 'wicked and lazy.' This parable teaches that God expects faithful, productive investment of the resources He entrusts to us. Fearful hoarding and unproductive passivity are failures of stewardship."
+        },
+        {
+            "id": 4,
+            "question": "What is the economic principle illustrated by Joseph's management of Egypt in Genesis 41?",
+            "options": [
+                "The government should control all food production permanently",
+                "Saving during times of plenty to prepare for times of scarcity",
+                "All resources should be distributed equally regardless of contribution",
+                "Famine is always the result of poor farming techniques"
+            ],
+            "correct": 1,
+            "explanation": "Joseph stored surplus grain during seven years of abundance to provide for seven years of famine. This illustrates the economic principle of savings and investment — setting aside resources during prosperous times to prepare for future scarcity."
+        },
+        {
+            "id": 5,
+            "question": "According to Proverbs 22:7, what is the relationship between borrowers and lenders?",
+            "options": [
+                "The borrower has power over the lender",
+                "Borrowing and lending have no moral implications",
+                "The borrower is slave to the lender",
+                "The lender is always sinning by charging interest"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 22:7 warns that 'the borrower is slave to the lender.' Scripture consistently cautions against excessive debt because it creates bondage and limits freedom. While borrowing is not absolutely forbidden, it should be approached with great caution."
+        },
+        {
+            "id": 6,
+            "question": "Why is inflation comparable to 'dishonest weights and measures' condemned in Deuteronomy 25:13-16?",
+            "options": [
+                "Because inflation makes products heavier",
+                "Because governments that inflate the money supply reduce the purchasing power of citizens' savings, effectively stealing their wealth",
+                "Because inflation only affects foreign currencies",
+                "Because inflation always leads to lower prices"
+            ],
+            "correct": 1,
+            "explanation": "When governments print excessive money, each dollar loses purchasing power — a form of hidden taxation that especially harms savers and those on fixed incomes. This is equivalent to using dishonest weights: the 'dollar' no longer measures the same value, violating the Biblical principle of honest measures."
+        },
+        {
+            "id": 7,
+            "question": "In 1 Samuel 8, when God warned Israel about the costs of having a king, what percentage of their produce did He say the king would take?",
+            "options": [
+                "Fifty percent",
+                "Twenty-five percent",
+                "One percent",
+                "A tenth (ten percent)"
+            ],
+            "correct": 3,
+            "explanation": "God warned that the king would take 'a tenth' of their grain, vineyards, and flocks — and described this as oppressive. This provides a Biblical benchmark suggesting that even a ten percent tax rate constitutes a significant burden on the people, making modern tax rates that far exceed this level worthy of serious scrutiny."
+        },
+        {
+            "id": 8,
+            "question": "What is the key difference between the voluntary sharing of the early church in Acts 2:44-45 and modern socialism?",
+            "options": [
+                "There is no meaningful difference between the two",
+                "The early church sharing was compelled by the Roman government",
+                "The early church shared voluntarily out of love; socialism uses government force to redistribute wealth",
+                "Socialism produces better results than voluntary charity"
+            ],
+            "correct": 2,
+            "explanation": "The early church shared their possessions voluntarily, motivated by love for one another. Socialism enforces redistribution through the coercive power of the state. Scripture endorses voluntary generosity (2 Corinthians 9:7: 'not reluctantly or under compulsion') while consistently warning against government overreach."
+        },
+        {
+            "id": 9,
+            "question": "According to Proverbs 3:9, what does the 'firstfruits' principle teach about personal finances?",
+            "options": [
+                "You should spend on yourself first, then give if anything is left over",
+                "You should honor the Lord with the first and best portion of your income before other expenses",
+                "Financial giving is only for wealthy people",
+                "Tithing was only required under the Old Testament law and has no application today"
+            ],
+            "correct": 1,
+            "explanation": "The 'firstfruits' principle means giving to God first — from the top of your income, not from the leftovers. Proverbs 3:9 says, 'Honor the LORD with your wealth, with the firstfruits of all your crops.' This act of worship demonstrates trust in God's provision and sets the right priority for all financial decisions."
+        },
+        {
+            "id": 10,
+            "question": "What does Luke 16:10-12 teach about the relationship between handling money faithfully and being entrusted with greater responsibilities?",
+            "options": [
+                "Financial management has nothing to do with spiritual maturity",
+                "Only wealthy people need to be faithful with money",
+                "Whoever is faithful with very little will be trusted with much; financial faithfulness is a test of character",
+                "Money is inherently evil and should be avoided entirely"
+            ],
+            "correct": 2,
+            "explanation": "Jesus teaches that faithfulness in handling 'worldly wealth' — even small amounts — demonstrates the character necessary for greater responsibilities. How we manage money reveals our hearts and prepares us for the 'true riches' God wants to entrust to us."
+        }
+    ]
+}

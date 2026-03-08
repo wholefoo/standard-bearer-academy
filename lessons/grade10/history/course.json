@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "history",
+    "title": "World History — The Unfolding of God's Plan",
+    "description": "A survey of world history from the Medieval period to the modern era, examining how God's providential hand has guided nations, spread the Gospel, and preserved liberty through the ages.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: World History — The Unfolding of God's Plan",
+            "lessons": ["medieval", "reformation", "exploration", "enlightenment", "modern_nations", "twentieth_century"]
+        }
+    ],
+    "quiz_id": "world_quiz"
+}

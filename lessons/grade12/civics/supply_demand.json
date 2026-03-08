@@ -1,0 +1,87 @@
+{
+    "id": "supply_demand",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Supply, Demand, and God's Provision",
+    "subtitle": "How Markets Coordinate Human Activity Under Divine Providence",
+    "scripture": "Proverbs 31:10-31; Matthew 6:25-34",
+    "primary_source": "Frederic Bastiat, The Law (1850), on the harmony of interests",
+    "key_concepts": ["Law of supply and demand", "Price signals", "Scarcity and allocation", "God's providence through markets", "The harm of price controls"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:16-18",
+                "text": "\"She considers a field and buys it; out of her earnings she plants a vineyard. She sets about her work vigorously; her arms are strong for her tasks. She sees that her trading is profitable, and her lamp does not go out at night.\"",
+                "commentary": "The Proverbs 31 woman is an entrepreneur. She evaluates investments, makes purchases, produces goods, and trades profitably. Scripture holds her up as a model of virtue — not despite her economic activity, but because she conducts it wisely, diligently, and generously."
+            },
+            {
+                "reference": "Matthew 6:26",
+                "text": "\"Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?\"",
+                "commentary": "Jesus teaches that God provides for His creation. While this passage encourages trust in God rather than anxiety, it does not discourage productive work. God's provision often comes through the ordinary means of human labor and economic exchange — the farmer who grows the grain, the baker who makes the bread."
+            },
+            {
+                "reference": "Genesis 41:35-36",
+                "text": "\"They should collect all the food of these good years that are coming and store up the grain under the authority of Pharaoh... This food should be held in reserve for the country, to be used during the seven years of famine.\"",
+                "commentary": "Joseph's wise management of Egypt's economy during the years of plenty and famine demonstrates the importance of understanding supply, anticipating future needs, and managing resources wisely. His plan saved millions of lives."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Problem of Scarcity",
+            "paragraphs": [
+                "Economics begins with a fundamental reality: scarcity. In a fallen world, human wants are virtually unlimited, but the resources available to satisfy those wants are finite. Land, labor, raw materials, and time are all limited. Every society must find a way to answer three basic economic questions: What goods and services will be produced? How will they be produced? Who will receive them?",
+                "There are only two basic mechanisms for answering these questions: the free market (voluntary decisions by individuals) or central planning (government commands). The free market uses prices — determined by supply and demand — to coordinate millions of individual decisions. Central planning uses bureaucratic directives. History has shown overwhelmingly that the market mechanism produces better outcomes for more people."
+            ]
+        },
+        {
+            "heading": "The Law of Supply and Demand",
+            "paragraphs": [
+                "The law of demand states that, all else being equal, as the price of a good rises, the quantity demanded falls, and as the price falls, the quantity demanded rises. This is common sense: when gasoline is expensive, people drive less; when it is cheap, they drive more.",
+                "The law of supply states that, all else being equal, as the price of a good rises, the quantity supplied rises, and as the price falls, the quantity supplied falls. Higher prices make it more profitable for producers to bring goods to market. Lower prices reduce the incentive to produce.",
+                "The interaction of supply and demand determines the market price — the price at which the quantity consumers want to buy equals the quantity producers want to sell. This equilibrium price is not set by any authority; it emerges naturally from the free decisions of buyers and sellers. It is a remarkable example of order arising from voluntary cooperation."
+            ]
+        },
+        {
+            "heading": "Prices as Information: The Knowledge Problem",
+            "paragraphs": [
+                "Economist Friedrich Hayek explained that prices serve as signals that communicate information across the entire economy. When a frost destroys orange crops in Florida, the price of oranges rises. This price increase tells consumers to buy fewer oranges and tells producers in other regions to increase their supply. No central planner needs to issue orders — the price system coordinates responses automatically.",
+                "This is what Hayek called the 'knowledge problem.' No individual or committee can possibly know the preferences of millions of consumers, the capabilities of thousands of producers, and the availability of countless resources. But the price system aggregates this dispersed knowledge into a single number — the price — that guides decisions efficiently.",
+                "When governments impose price controls (setting prices artificially high or low), they destroy this information system. Price ceilings (maximum prices) create shortages because producers have no incentive to supply goods at below-market prices. Price floors (minimum prices) create surpluses because consumers will not buy at above-market prices. In both cases, government interference makes everyone worse off."
+            ]
+        },
+        {
+            "heading": "Joseph and the Economics of Provision",
+            "paragraphs": [
+                "The story of Joseph in Genesis 41 provides a powerful Biblical illustration of sound economic principles. When God revealed through Pharaoh's dreams that seven years of abundance would be followed by seven years of famine, Joseph devised a plan: store surplus grain during the good years to provide for the lean years.",
+                "This is the economic principle of savings and investment. During times of prosperity, wise individuals and nations save and invest rather than consuming everything. These reserves provide security during inevitable downturns. Joseph's plan was not socialism — it was prudent stewardship under divine guidance.",
+                "The broader lesson is that God's providence often works through ordinary economic means. God did not rain bread from heaven during the Egyptian famine (as He did for Israel in the wilderness). Instead, He provided through the wisdom of a faithful steward who understood the principles of supply, storage, and distribution."
+            ]
+        },
+        {
+            "heading": "The Proverbs 31 Woman: A Model of Enterprise",
+            "paragraphs": [
+                "Proverbs 31:10-31 describes a woman who is, among many virtues, a shrewd entrepreneur. She evaluates real estate investments (v. 16), manufactures goods (v. 13, 19, 24), manages employees (v. 15), and trades profitably (v. 18). She responds to market signals: she identifies what people need, produces it efficiently, and brings it to market.",
+                "This passage demolishes the false notion that economic activity is somehow unspiritual or beneath a godly person. The Proverbs 31 woman's enterprise is presented as a direct expression of her wisdom, diligence, and fear of the Lord (v. 30). She creates value, provides for her household, and gives generously to the poor (v. 20) — all through productive economic engagement.",
+                "Her example teaches that understanding supply and demand, making wise investments, and working diligently are not merely secular skills but expressions of Biblical wisdom. Christians should bring this same diligence and integrity to their economic lives."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain how the price system communicates information across the economy. Why do price controls (ceilings or floors) consistently produce shortages or surpluses?",
+            "guidance": "Use a specific example (such as rent control or minimum wage) to illustrate how government interference with prices distorts the information signals that coordinate economic activity."
+        },
+        {
+            "id": 2,
+            "question": "How does Joseph's management of Egypt's economy in Genesis 41 illustrate sound economic principles? What can modern nations learn from his approach?",
+            "guidance": "Consider the principles of savings during prosperity, planning for future scarcity, and the role of wise leadership in economic management. How does this differ from both reckless consumption and socialist central planning?"
+        },
+        {
+            "id": 3,
+            "question": "How does the Proverbs 31 woman exemplify both economic competence and spiritual virtue? What does her example teach about the relationship between faith and enterprise?",
+            "guidance": "Consider how she combines shrewd business decisions with generosity, diligence with compassion, and profitability with godly character. What does this say about the false dichotomy between 'spiritual' and 'secular' work?"
+        }
+    ]
+}

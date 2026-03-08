@@ -1,0 +1,79 @@
+{
+    "id": "reformation",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: The Reformation and Religious Liberty",
+    "subtitle": "How the Recovery of Biblical Truth Transformed the World",
+    "scripture": "Romans 1:17",
+    "primary_source": "Martin Luther's 95 Theses (1517)",
+    "key_concepts": ["Sola Scriptura", "Sola Fide", "The Priesthood of All Believers", "Religious Liberty", "The Counter-Reformation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:17",
+                "text": "\"For in the gospel the righteousness of God is revealed — a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'\"",
+                "commentary": "This verse was the catalyst for Martin Luther's spiritual awakening. After years of trying to earn God's favor through works and rituals, Luther discovered that salvation comes by faith alone in Christ alone. This rediscovery changed the course of history."
+            },
+            {
+                "reference": "2 Timothy 3:16-17",
+                "text": "\"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.\"",
+                "commentary": "The Reformers' insistence on Sola Scriptura — Scripture alone as the ultimate authority — was grounded in this passage. They argued that the Bible, not tradition or papal decree, must be the final authority for faith and practice."
+            },
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"",
+                "commentary": "The Reformation was fundamentally about spiritual freedom — freedom from the bondage of works-based religion and freedom to approach God directly through Christ. This spiritual liberty eventually gave birth to political and religious liberty in the Western world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Need for Reformation",
+            "paragraphs": [
+                "By the early 16th century, the Roman Catholic Church had accumulated significant power — not only spiritual but also political and economic. While many faithful believers remained within the Church, serious abuses had developed: the sale of indulgences (payments to reduce time in purgatory), the appointment of corrupt clergy, and the suppression of Scripture in the common language.",
+                "God, in His providence, was preparing a return to Biblical truth. Scholars like John Wycliffe in England and Jan Hus in Bohemia had already challenged Church corruption, and the invention of the printing press by Johannes Gutenberg around 1440 made it possible to spread ideas — especially the Bible — to ordinary people as never before."
+            ]
+        },
+        {
+            "heading": "Martin Luther and the 95 Theses",
+            "paragraphs": [
+                "On October 31, 1517, a German monk named Martin Luther nailed a document known as the 95 Theses to the door of the Castle Church in Wittenberg. Luther challenged the sale of indulgences and called the Church to return to Biblical teaching. He did not initially intend to break from Rome; he wanted reform from within.",
+                "Luther's central discovery was the doctrine of justification by faith alone (Sola Fide). Reading Romans 1:17, he realized that righteousness before God is not earned through human effort but received as a gift through faith in Jesus Christ. This truth, which had been obscured by centuries of tradition, became the cornerstone of the Protestant Reformation.",
+                "Luther also championed Sola Scriptura — the principle that the Bible alone is the ultimate authority for Christian faith and practice. When confronted by Church authorities at the Diet of Worms in 1521 and ordered to recant, Luther famously declared: 'My conscience is captive to the Word of God. I cannot and will not recant anything, for to go against conscience is neither right nor safe. Here I stand. I can do no other. God help me.'"
+            ]
+        },
+        {
+            "heading": "The Spread of the Reformation",
+            "paragraphs": [
+                "The Reformation spread rapidly across Europe. In Switzerland, Huldrych Zwingli and later John Calvin led reform movements. Calvin's theology of God's sovereignty over all of life — including government, economics, and education — profoundly influenced the development of Western civilization.",
+                "In England, the Reformation took a distinct path. While Henry VIII's break with Rome was driven partly by personal motives, God used these events to establish a tradition of English-language Scripture and worship that would ultimately shape the faith of millions — including the Pilgrims and Puritans who founded the American colonies.",
+                "The Reformation also produced the Anabaptist movement, which emphasized believer's baptism and the separation of church and state. While persecuted by both Catholics and other Protestants, the Anabaptists contributed important ideas about religious liberty and the voluntary nature of faith that would later influence American constitutionalism."
+            ]
+        },
+        {
+            "heading": "The Reformation's Legacy: Religious and Political Liberty",
+            "paragraphs": [
+                "The Reformation's most enduring legacy is the principle of religious liberty. By asserting that each person must answer to God according to Scripture and conscience, the Reformers laid the foundation for freedom of religion. If no earthly authority — not pope, king, or parliament — can stand between an individual and God, then the state has no right to dictate matters of faith.",
+                "This principle directly shaped the American founding. The First Amendment's guarantee of religious freedom is rooted in Reformation theology: the government must not establish a state religion or prohibit the free exercise of faith. The Pilgrims, Puritans, Baptists, and other groups that settled America brought with them the Reformation conviction that liberty of conscience is a God-given right.",
+                "The Reformation also transformed education, economics, and culture. Luther insisted that every Christian should be able to read the Bible, leading to widespread literacy and the establishment of schools. The Protestant work ethic — the idea that all honest labor is service to God — fueled economic growth and innovation. The Reformation was not merely a theological event; it was a civilization-shaping movement guided by God's providence."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why was the rediscovery of justification by faith alone (Sola Fide) so revolutionary? How does this doctrine differ from a works-based understanding of salvation, and why does it matter?",
+            "guidance": "Consider Romans 1:17 and Ephesians 2:8-9. Think about how the sale of indulgences contradicted Biblical teaching and how Luther's discovery restored the Gospel to its rightful centrality."
+        },
+        {
+            "id": 2,
+            "question": "How did the Reformation lead to the development of religious liberty? Trace the connection from Sola Scriptura and the priesthood of all believers to the First Amendment of the U.S. Constitution.",
+            "guidance": "Think about how the Reformation shifted authority from institutions to Scripture and individual conscience. Consider how this influenced the Pilgrims, Puritans, and Baptists who shaped American religious freedom."
+        },
+        {
+            "id": 3,
+            "question": "Luther said, 'My conscience is captive to the Word of God.' What does this statement reveal about the relationship between Scripture, conscience, and civil authority? When, if ever, should a Christian defy the authorities?",
+            "guidance": "Consider Acts 5:29 ('We must obey God rather than human beings') alongside Romans 13:1-7. Think about how the Reformers' example informs our understanding of civil disobedience rooted in faithfulness to God's Word."
+        }
+    ]
+}

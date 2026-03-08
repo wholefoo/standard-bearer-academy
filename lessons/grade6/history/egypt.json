@@ -1,0 +1,77 @@
+{
+    "id": "egypt",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Ancient Egypt and the Exodus",
+    "subtitle": "From the Land of Pharaohs to the Deliverance of God's People",
+    "scripture": "Exodus 1-15",
+    "primary_source": "The Ipuwer Papyrus (ancient Egyptian document describing plagues)",
+    "key_concepts": ["Egypt as a powerful ancient civilization", "God's sovereignty over pagan empires", "The Exodus as God's greatest Old Testament deliverance", "Pharaoh's hardened heart and God's justice"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Exodus 9:16",
+                "text": "\"But I have raised you up for this very purpose, that I might show you my power and that my name might be proclaimed in all the earth.\"",
+                "commentary": "God tells Pharaoh that He raised up the Egyptian empire for a specific purpose — to demonstrate His power to the whole world through the Exodus. Even the mightiest human empires serve God's larger plan."
+            },
+            {
+                "reference": "Exodus 14:13-14",
+                "text": "\"Moses answered the people, 'Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today. The Egyptians you see today you will never see again. The Lord will fight for you; you need only to be still.'\"",
+                "commentary": "At the Red Sea, with the Egyptian army behind them and the water before them, God's people were trapped — by human reckoning. But God delivered them in a way that demonstrated His absolute power over nature and nations."
+            },
+            {
+                "reference": "Psalm 105:37-38",
+                "text": "\"He brought out Israel, laden with silver and gold, and from among their tribes no one faltered. Egypt was glad when they left, because dread of Israel had fallen on them.\"",
+                "commentary": "The Exodus fulfilled God's promise to Abraham that his descendants would leave their captivity with great wealth. God kept His covenant promise across centuries — a powerful demonstration of His faithfulness."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Ancient Egypt: A Civilization of Power and Splendor",
+            "paragraphs": [
+                "Ancient Egypt was one of the most remarkable civilizations in human history. Built along the Nile River, Egypt developed a sophisticated culture that included monumental architecture (the pyramids and sphinx), advanced mathematics, a system of writing called hieroglyphics, and a complex religious system centered on the worship of many gods.",
+                "The Pharaohs of Egypt were considered living gods by their people — they held absolute power over every aspect of Egyptian life. Egypt's wealth, military power, and cultural achievements made it the dominant superpower of the ancient Near East for nearly two thousand years. Yet from a Biblical perspective, Egypt's greatness had a purpose far beyond what the Pharaohs intended."
+            ]
+        },
+        {
+            "heading": "Israel in Egypt: From Joseph to Slavery",
+            "paragraphs": [
+                "God's people first came to Egypt through Joseph, the son of Jacob (Israel). Sold into slavery by his jealous brothers, Joseph rose to become the second most powerful man in Egypt — all by God's providence. As Joseph told his brothers, 'You intended to harm me, but God intended it for good, to accomplish what is now being done, the saving of many lives' (Genesis 50:20).",
+                "For generations, the Israelites lived in Egypt and grew into a great multitude. But a new Pharaoh arose 'who did not know Joseph' (Exodus 1:8), and he enslaved the Israelites, forcing them into brutal labor. For over 400 years, God's people suffered in bondage — but God had not forgotten His covenant with Abraham. He was preparing a deliverer."
+            ]
+        },
+        {
+            "heading": "Moses and the Exodus: God's Power Displayed",
+            "paragraphs": [
+                "God raised up Moses, an Israelite raised in Pharaoh's own household, to lead His people out of Egypt. When Pharaoh refused to let the Israelites go, God sent ten devastating plagues upon Egypt — each one specifically targeting an Egyptian god. The plague of darkness defeated Ra, the sun god. The plague on the Nile defeated Hapi, the river god. The final plague, the death of the firstborn, defeated Pharaoh himself, who was considered divine.",
+                "Through the plagues, God demonstrated that He alone is the true God and that all the gods of Egypt were powerless before Him. The Passover, when the angel of death 'passed over' the homes of the Israelites marked with lamb's blood, became one of the most important events in all of Scripture — pointing forward to Jesus Christ, the Lamb of God who takes away the sin of the world.",
+                "The crossing of the Red Sea was the climax of the Exodus. God parted the waters so that His people could walk through on dry ground, then closed the waters over the pursuing Egyptian army. This event proved once and for all that the God of Israel is sovereign over the mightiest empires on earth."
+            ]
+        },
+        {
+            "heading": "What Egypt Teaches Us About God's Providence",
+            "paragraphs": [
+                "The story of Egypt and the Exodus is not simply ancient history — it is a revelation of how God works in the world. God used Egypt's power, wealth, and pride to set the stage for the greatest display of divine deliverance in the Old Testament. Pharaoh thought he was in control, but God declared, 'I have raised you up for this very purpose' (Exodus 9:16).",
+                "This pattern repeats throughout history: God raises up nations and brings them down according to His sovereign plan. No empire is too powerful for God to humble, and no people are too weak for God to deliver. This is the providential view of history — the understanding that behind every rise and fall of nations stands the hand of Almighty God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did each of the ten plagues of Egypt target a specific Egyptian god? What was God demonstrating about Himself through these plagues?",
+            "guidance": "Research which Egyptian gods each plague challenged (e.g., the Nile plague challenged Hapi, darkness challenged Ra). Think about what this systematic destruction of Egyptian religion reveals about the power of the true God."
+        },
+        {
+            "id": 2,
+            "question": "Read Exodus 9:16. What does this verse tell us about God's sovereignty over powerful nations? How does this apply to nations today?",
+            "guidance": "Consider that God told Pharaoh his entire empire existed to serve God's purposes. Think about how this principle applies to modern superpowers and to the rise and fall of nations throughout history."
+        },
+        {
+            "id": 3,
+            "question": "How does the Passover lamb point forward to Jesus Christ? Why is this connection important for understanding the Bible as one unified story?",
+            "guidance": "Compare Exodus 12 with John 1:29. The lamb's blood saved the Israelites from the angel of death; Christ's blood saves believers from eternal death. This shows that the Old Testament and New Testament tell one connected story of God's redemption."
+        }
+    ]
+}

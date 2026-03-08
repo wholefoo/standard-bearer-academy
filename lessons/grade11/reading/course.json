@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "reading",
+    "title": "American Literature",
+    "description": "Faith, Freedom, and the Written Word",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: American Literature Through a Biblical Lens",
+            "lessons": ["puritan", "revolutionary", "transcendentalism", "civil_war_lit", "renaissance", "modern"]
+        }
+    ],
+    "quiz_id": "literature_quiz"
+}

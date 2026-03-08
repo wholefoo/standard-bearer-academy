@@ -1,0 +1,86 @@
+{
+    "id": "revolutionary",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Revolutionary Literature",
+    "subtitle": "Paine, Henry, Jefferson, and the Literature of Liberty",
+    "scripture": "Galatians 5:1",
+    "primary_source": "Patrick Henry, 'Give Me Liberty or Give Me Death' (1775)",
+    "key_concepts": ["Rhetoric and persuasion", "Natural rights philosophy", "Biblical foundations of the Declaration", "The power of political speech"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.\"",
+                "commentary": "The American Revolution was deeply influenced by the Biblical understanding that liberty is a God-given condition, not a government grant. The Founders drew a direct line from spiritual liberty to political liberty, arguing that a people whom God created free should not submit to tyranny."
+            },
+            {
+                "reference": "Proverbs 29:2",
+                "text": "\"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.\"",
+                "commentary": "Revolutionary writers like Patrick Henry argued that the British Crown had become a wicked ruler, violating the rights God had given to the colonists. This Biblical principle — that unjust rule provokes righteous resistance — undergirded the entire Revolution."
+            },
+            {
+                "reference": "Exodus 3:7-8",
+                "text": "\"And the Lord said, I have surely seen the affliction of my people which are in Egypt... and I am come down to deliver them.\"",
+                "commentary": "The Founders frequently compared their cause to the Exodus. Just as God delivered Israel from the tyranny of Pharaoh, they believed God was delivering the colonies from the tyranny of the British Crown. This parallel shaped the literature and rhetoric of the Revolution."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Literature as a Weapon of Liberty",
+            "paragraphs": [
+                "The American Revolution was fought with muskets and cannons, but it was ignited by words. Long before the first shot was fired at Lexington and Concord, writers and orators were making the case for independence. The literature of the Revolutionary period is among the most powerful persuasive writing in human history, and much of it draws directly or indirectly from Biblical principles of justice, liberty, and human dignity.",
+                "In this lesson, we examine three of the most important voices of the Revolution: Patrick Henry, Thomas Paine, and Thomas Jefferson. Each used the written and spoken word to articulate the cause of liberty in language that still resonates today."
+            ]
+        },
+        {
+            "heading": "Patrick Henry: 'Give Me Liberty or Give Me Death'",
+            "paragraphs": [
+                "On March 23, 1775, Patrick Henry stood before the Virginia Convention and delivered one of the most electrifying speeches in American history. Arguing that war with Britain was inevitable and necessary, Henry used Biblical allusions, classical rhetoric, and passionate logic to convince his fellow delegates to prepare for armed conflict.",
+                "Henry's speech is masterful in its structure. He begins by acknowledging the difficulty of his position, appealing to his audience's sense of duty: 'Should I keep back my opinions at such a time, through fear of giving offense, I should consider myself as guilty of treason towards my country, and of an act of disloyalty toward the Majesty of Heaven.' Notice how Henry places loyalty to God above loyalty to earthly authority — a distinctly Biblical priority.",
+                "His famous conclusion — 'Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!' — echoes the Biblical willingness to suffer for righteousness rather than submit to evil. Henry's invocation of 'Almighty God' was not mere rhetorical flourish; it reflected his genuine conviction that the cause of liberty was sanctioned by divine authority."
+            ]
+        },
+        {
+            "heading": "Thomas Paine: Common Sense",
+            "paragraphs": [
+                "Thomas Paine's pamphlet Common Sense (January 1776) was the most widely read publication of the Revolutionary era. Written in accessible, forceful prose, it made the case for independence in terms that ordinary colonists could understand and embrace.",
+                "Paine's argument drew heavily from Scripture. He devoted an entire section to demolishing the idea of monarchy by appealing to 1 Samuel 8, where God warns Israel about the dangers of having a king. Paine wrote: 'Government by kings was first introduced into the world by the Heathens, from whom the children of Israel copied the custom. It was the most prosperous invention the Devil ever set on foot for the promotion of idolatry.' Whether one agrees with all of Paine's theology, his use of Scripture to argue against tyranny demonstrates how deeply Biblical thinking permeated the Revolutionary era.",
+                "Common Sense sold over 500,000 copies in a population of roughly 2.5 million — the equivalent of selling over 60 million copies today. It transformed public opinion and made independence seem not just possible but morally necessary. Paine's literary achievement reminds us that clear, courageous writing can change the course of history."
+            ]
+        },
+        {
+            "heading": "Thomas Jefferson: The Declaration of Independence",
+            "paragraphs": [
+                "The Declaration of Independence (1776) is the most important document in American history and one of the finest works of political literature ever composed. Thomas Jefferson, its primary author, crafted a document that accomplished three things: it declared the philosophical basis for independence, it listed the specific grievances against King George III, and it formally announced the separation of the colonies from Britain.",
+                "The Declaration's opening lines contain the foundational principles of American government: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.' These words establish that rights come not from government but from God ('their Creator'), that these rights are inherent and cannot be taken away ('unalienable'), and that government exists to protect these God-given rights.",
+                "As a work of literature, the Declaration is remarkable for its precision, its rhythm, and its moral clarity. Jefferson's list of grievances against the King follows a devastating rhetorical pattern, beginning each charge with 'He has...' to build an overwhelming case. The document's conclusion, with the signers pledging 'our Lives, our Fortunes and our sacred Honor,' elevates the cause of independence to a sacred covenant — an echo of the Biblical pattern of binding oneself to God and to one another in solemn commitment."
+            ]
+        },
+        {
+            "heading": "The Literary Legacy of the Revolution",
+            "paragraphs": [
+                "Revolutionary literature established several principles that would shape American writing for generations: the conviction that words have the power to change the world, the belief that liberty is worth any sacrifice, and the understanding that political arguments are strongest when grounded in transcendent moral principles rather than mere self-interest.",
+                "The Revolutionary writers were not creating 'art for art's sake' — they were using language as a tool for justice and freedom. Their example challenges us to consider the moral purpose of our own writing and speech. As Proverbs 18:21 teaches, 'Death and life are in the power of the tongue.' The Founders wielded the power of language in the service of life and liberty, and their words continue to inspire the cause of freedom around the world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Analyze Patrick Henry's rhetorical strategies in 'Give Me Liberty or Give Me Death.' How does he use Biblical allusions, logical arguments, and emotional appeals to persuade his audience?",
+            "guidance": "Identify specific passages where Henry appeals to God, to reason, and to emotion. Consider why this combination of appeals was effective for his audience of Virginia delegates."
+        },
+        {
+            "id": 2,
+            "question": "Thomas Paine used 1 Samuel 8 to argue against monarchy. Read 1 Samuel 8:10-18 and explain how Paine applied this passage to the situation of the American colonies. Was this a legitimate use of Scripture? Why or why not?",
+            "guidance": "Consider whether Paine's application is consistent with the original context of 1 Samuel 8. Think about the principles the passage teaches about the dangers of concentrated governmental power."
+        },
+        {
+            "id": 3,
+            "question": "The Declaration of Independence states that rights come from 'the Creator.' Why is it significant that Jefferson grounded rights in God rather than in government or popular opinion? What are the implications of this for understanding rights today?",
+            "guidance": "Consider what happens to the concept of rights if they come from government (government can revoke them) versus if they come from God (they are inherent and unalienable). How does this affect debates about rights in our own time?"
+        }
+    ]
+}

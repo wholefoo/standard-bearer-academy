@@ -1,0 +1,80 @@
+{
+    "id": "revolution",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: The American Revolution and God's Providence",
+    "subtitle": "How God Guided the Birth of a New Nation",
+    "scripture": "Proverbs 21:1",
+    "primary_source": "Patrick Henry, \"Give Me Liberty or Give Me Death\" (1775)",
+    "key_concepts": ["Taxation without representation as a violation of Biblical justice", "The role of pastors and churches in the Revolution", "Providential events during the war", "The Biblical basis for resisting tyranny"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 21:1",
+                "text": "\"The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will.\"",
+                "commentary": "God is sovereign over the affairs of nations. The remarkable events of the American Revolution — improbable victories, providential weather, and the preservation of Washington's army — reveal the hand of God directing the course of history."
+            },
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"",
+                "commentary": "While Paul speaks primarily of spiritual freedom, the American Founders understood that the God who desires spiritual liberty for His people also desires that they live free from political tyranny. Liberty is a gift from God to be guarded and defended."
+            },
+            {
+                "reference": "Acts 5:29",
+                "text": "\"We must obey God rather than human beings!\"",
+                "commentary": "The apostles established the principle that when human authority commands what God forbids or forbids what God commands, believers have a duty to obey God. The American colonists applied this principle when they concluded that resistance to tyranny was obedience to God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Was the Revolution Justified?",
+            "paragraphs": [
+                "The American Revolution was not merely a political event — it was a profoundly moral and spiritual decision. The colonists did not take the step of rebellion lightly. They spent years petitioning the king, seeking peaceful redress, and debating whether armed resistance was morally permissible.",
+                "The question that confronted the colonists was deeply Biblical: When, if ever, is it right to resist established authority? Romans 13 teaches submission to governing authorities, but Acts 5:29 teaches that God's authority is higher than man's. The Founders ultimately concluded that when a government systematically violates the God-given rights of its people, resistance is not rebellion against God — it is obedience to Him."
+            ]
+        },
+        {
+            "heading": "The Causes: Tyranny and Violated Rights",
+            "paragraphs": [
+                "The British Parliament imposed a series of taxes on the colonies — the Stamp Act (1765), the Townshend Acts (1767), and the Tea Act (1773) — without giving the colonists any representation in Parliament. The colonists saw this as a violation of the ancient English principle, rooted in the Magna Carta, that a free people cannot be taxed without their consent.",
+                "Beyond taxation, the British government quartered soldiers in colonists' homes, suspended colonial legislatures, and denied colonists the right to trial by jury. Each of these actions violated principles that the colonists understood as grounded in Biblical justice: the right to property (Exodus 20:15), the right to due process (Deuteronomy 19:15), and the right to self-governance under God's law.",
+                "The colonists' grievances were not selfish complaints about money — they were principled objections rooted in their understanding of God-given rights and the limits of governmental authority."
+            ]
+        },
+        {
+            "heading": "The Black Robe Regiment: Pastors and the Revolution",
+            "paragraphs": [
+                "The clergy of Colonial America played a decisive role in the Revolution. Known as the 'Black Robe Regiment' because of their ministerial robes, pastors throughout the colonies preached sermons on liberty, covenant, and the duty to resist tyranny.",
+                "Reverend Jonas Clark of Lexington, Massachusetts, was so influential that the British specifically targeted him. When the Battles of Lexington and Concord erupted on April 19, 1775, the minutemen who stood on Lexington Green were members of Clark's congregation. Many pastors not only preached in favor of liberty but took up arms themselves.",
+                "Patrick Henry's famous speech, 'Give Me Liberty or Give Me Death' (March 23, 1775), was delivered in a church — St. John's Church in Richmond, Virginia. Henry concluded his speech with words that echo the spirit of the Reformation: 'Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!'"
+            ]
+        },
+        {
+            "heading": "Providence on the Battlefield",
+            "paragraphs": [
+                "The American Revolution is filled with events that the Founders themselves attributed to Divine Providence. George Washington's army was outmatched in size, training, and equipment by the most powerful military in the world. Yet time and again, remarkable circumstances preserved the American cause.",
+                "At the Battle of Long Island (August 1776), Washington's army was trapped by the British with their backs to the East River. Facing certain destruction, a providential fog rolled in, allowing the entire army to escape across the river by boat under cover of darkness. Washington himself later wrote that the hand of Providence was 'so conspicuous' in the Revolution that no one who reflected on it could fail to see it.",
+                "The winter at Valley Forge (1777-1778) tested the army's faith and endurance. Washington knelt in prayer in the snow, seeking God's guidance. The army emerged from that terrible winter stronger and more disciplined, thanks in part to the arrival of Baron von Steuben, whose training transformed the Continental Army.",
+                "The final victory at Yorktown (1781) came through a remarkable convergence of events — the arrival of the French fleet, a perfectly timed march south, and British miscalculations — that many saw as the providential hand of God securing American independence."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "The colonists debated whether the Revolution was morally justified. Using Romans 13 and Acts 5:29, explain the Biblical case for and against the Revolution. Which argument do you find more persuasive, and why?",
+            "guidance": "Consider the tension between submission to authority and obedience to God's higher law. Think about what the colonists believed about the source of their rights and the purpose of government."
+        },
+        {
+            "id": 2,
+            "question": "George Washington and other Founders frequently attributed events of the Revolution to 'Providence.' What specific events do you think most clearly show God's hand in the American Revolution?",
+            "guidance": "Consider the fog at Long Island, the survival at Valley Forge, and the convergence of events at Yorktown. Think about what it means to see God's hand in historical events."
+        },
+        {
+            "id": 3,
+            "question": "Why were pastors and churches so important to the American Revolution? What does this tell us about the relationship between faith and political liberty?",
+            "guidance": "Consider the role of the 'Black Robe Regiment' and the fact that many key Revolutionary events took place in or near churches. Think about why people who take their faith seriously often care deeply about political freedom."
+        }
+    ]
+}

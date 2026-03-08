@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "history",
+    "title": "American History — Providence and Liberty",
+    "description": "Exploring the hand of God in the founding, growth, and destiny of the United States of America.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Providence and Liberty",
+            "lessons": ["colonial", "revolution", "constitution", "westward", "civil_war", "city_on_hill"]
+        }
+    ],
+    "quiz_id": "american_quiz"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "ancient_quiz",
+    "title": "Ancient Civilizations — God's Hand in History",
+    "description": "Test your understanding of ancient civilizations and God's providential plan throughout history.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the Bible, why did God confuse the languages at the Tower of Babel?",
+            "options": [
+                "Because the people were building a tower to honor God",
+                "Because the people were rebelling against God's command to fill the earth and were trying to make a name for themselves",
+                "Because the people spoke too many languages already",
+                "Because God wanted to destroy the tower for safety reasons"
+            ],
+            "correct": 1,
+            "explanation": "In Genesis 11:4, the people wanted to make a name for themselves and avoid being scattered — directly disobeying God's command to fill the earth. God confused their languages to scatter them and accomplish His purpose."
+        },
+        {
+            "id": 2,
+            "question": "What was God's purpose in sending the ten plagues upon Egypt?",
+            "options": [
+                "To punish the Egyptian people for being wealthy",
+                "To demonstrate His power over the false gods of Egypt and deliver His people from slavery",
+                "To destroy Egypt permanently",
+                "To teach Moses how to perform magic"
+            ],
+            "correct": 1,
+            "explanation": "Each plague targeted a specific Egyptian god, demonstrating that the God of Israel is the one true God. God told Pharaoh, 'I have raised you up for this very purpose, that I might show you my power' (Exodus 9:16)."
+        },
+        {
+            "id": 3,
+            "question": "What did God promise Abraham in the covenant described in Genesis 12:2-3?",
+            "options": [
+                "That Abraham would become the king of Egypt",
+                "That Abraham would live forever on earth",
+                "That Abraham would become a great nation and that all peoples on earth would be blessed through him",
+                "That Abraham would conquer the Roman Empire"
+            ],
+            "correct": 2,
+            "explanation": "God promised Abraham a land, numerous descendants, and that through his offspring all nations would be blessed — a promise ultimately fulfilled through Jesus Christ."
+        },
+        {
+            "id": 4,
+            "question": "Why is the Mosaic Law (including the Ten Commandments) important for Western civilization?",
+            "options": [
+                "It established the first democratic government",
+                "It provided the foundation for concepts like equal justice, sanctity of life, and property rights that influenced Western law",
+                "It was adopted word-for-word as the U.S. Constitution",
+                "It only applied to ancient Israel and has no modern significance"
+            ],
+            "correct": 1,
+            "explanation": "The Mosaic Law established principles of justice, human dignity, property rights, and moral standards that deeply influenced English common law and the American legal tradition."
+        },
+        {
+            "id": 5,
+            "question": "How did Alexander the Great's conquests providentially prepare the world for the spread of the Gospel?",
+            "options": [
+                "He converted to Christianity and made it the official religion",
+                "He spread Greek language and culture throughout the known world, creating conditions for the Gospel to spread easily",
+                "He translated the Bible into Greek himself",
+                "He built churches throughout his empire"
+            ],
+            "correct": 1,
+            "explanation": "Alexander spread the Greek language throughout the Mediterranean world and Near East. This common language later allowed the New Testament to be written in Greek and understood by people across the Roman Empire."
+        },
+        {
+            "id": 6,
+            "question": "What does Galatians 4:4 mean when it says Jesus came in 'the fullness of time'?",
+            "options": [
+                "Jesus was born too late to make a difference",
+                "Jesus was born at exactly the right moment in history, when God had prepared the perfect conditions for the Gospel to spread",
+                "Jesus came at a random time that had no special significance",
+                "Jesus came when the Roman Empire was at its weakest point"
+            ],
+            "correct": 1,
+            "explanation": "God orchestrated the conditions of the Roman Empire — common language, roads, peace, and legal system — so that when Christ came, the Gospel could spread rapidly throughout the known world."
+        },
+        {
+            "id": 7,
+            "question": "According to Proverbs 14:34, what causes a nation to decline?",
+            "options": [
+                "Having too small a military",
+                "Not enough trade with other nations",
+                "Sin and moral decay",
+                "Too much education"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 14:34 states, 'Righteousness exalts a nation, but sin is a disgrace to any people.' Rome's moral decay — corruption, family breakdown, and loss of civic virtue — weakened the empire from within before it fell to outside invaders."
+        },
+        {
+            "id": 8,
+            "question": "After the fall of Rome, who preserved literacy, learning, and civilization in Europe?",
+            "options": [
+                "The Roman Senate, which continued to meet in secret",
+                "The barbarian tribes who conquered Rome",
+                "The Christian Church, especially monks in monasteries who copied texts and established schools",
+                "Greek philosophers who rebuilt their academies"
+            ],
+            "correct": 2,
+            "explanation": "After Rome fell, the Christian Church preserved learning by copying manuscripts, establishing schools and hospitals, providing leadership in communities, and sending missionaries to spread both the Gospel and civilization throughout Europe."
+        }
+    ]
+}

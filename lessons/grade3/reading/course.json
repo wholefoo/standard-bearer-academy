@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "reading",
+    "title": "Stories of Faith — Reading and Writing with Purpose",
+    "description": "A language arts course that builds reading, writing, and grammar skills through Biblical examples and Scripture-based content.",
+    "units": [
+        {
+            "id": "language_arts",
+            "title": "Reading and Writing with Purpose",
+            "lessons": ["parts_of_speech", "comprehension", "writing", "vocabulary", "book_report"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "numbers_quiz",
+    "title": "God's Numbers — Counting Through Scripture",
+    "description": "Let's see what you learned about the numbers 1 through 5 and their Bible stories!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "How many gods are there?",
+            "options": ["Two", "One", "Three", "Ten"],
+            "correct": 1,
+            "explanation": "There is only ONE God! The Bible says, 'The LORD our God, the LORD is one' (Deuteronomy 6:4)."
+        },
+        {
+            "id": 2,
+            "question": "How many stone tablets did God give to Moses?",
+            "options": ["One", "Three", "Two", "Five"],
+            "correct": 2,
+            "explanation": "God gave Moses TWO stone tablets with the Ten Commandments written on them (Exodus 31:18)."
+        },
+        {
+            "id": 3,
+            "question": "How many days was Jonah inside the big fish?",
+            "options": ["One day", "Two days", "Four days", "Three days"],
+            "correct": 3,
+            "explanation": "Jonah was inside the great fish for THREE days and three nights (Jonah 1:17)."
+        },
+        {
+            "id": 4,
+            "question": "How many Gospels are in the Bible?",
+            "options": ["Two", "Three", "Five", "Four"],
+            "correct": 3,
+            "explanation": "There are FOUR Gospels in the Bible: Matthew, Mark, Luke, and John."
+        },
+        {
+            "id": 5,
+            "question": "How many loaves of bread did the little boy give to Jesus?",
+            "options": ["Three", "Ten", "Five", "Two"],
+            "correct": 2,
+            "explanation": "The little boy had FIVE small loaves of bread, and Jesus used them to feed over 5,000 people (John 6:9-11)!"
+        }
+    ]
+}

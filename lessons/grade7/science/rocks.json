@@ -1,0 +1,78 @@
+{
+    "id": "rocks",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Rocks and Minerals — Evidence of a Young Earth",
+    "subtitle": "How the Rock Record Points to Creation and the Global Flood",
+    "scripture": "Genesis 1:9-10",
+    "key_concepts": ["Three types of rocks: igneous, sedimentary, metamorphic", "Rapid formation vs. uniformitarianism", "Fossil record and the Flood", "Polystrate fossils and rapid burial"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:9-10",
+                "text": "\"And God said, 'Let the water under the sky be gathered to one place, and let dry ground appear.' And it was so. God called the dry ground 'land,' and the gathered waters he called 'seas.' And God saw that it was good.\"",
+                "commentary": "On the third day of Creation, God separated the land from the seas, forming the original rocks and landmasses. This was a supernatural act of creation, not a process requiring billions of years."
+            },
+            {
+                "reference": "2 Peter 3:3-6",
+                "text": "\"Above all, you must understand that in the last days scoffers will come... They deliberately forget that long ago by God's word the heavens came into being and the earth was formed out of water and by water. By these waters also the world of that time was deluged and destroyed.\"",
+                "commentary": "Peter warns that people will deliberately ignore two key events: Creation and the Flood. Both events dramatically shaped the geology we observe today, and both are essential for correctly interpreting the rock record."
+            },
+            {
+                "reference": "Psalm 104:8",
+                "text": "\"The mountains rose, the valleys sank down to the place that you appointed for them.\"",
+                "commentary": "This verse describes the geological reshaping of the Earth, likely during and after the Flood, when mountains were raised and ocean basins were deepened to receive the receding floodwaters."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Reading the Rocks",
+            "paragraphs": [
+                "Rocks are the history books of the Earth. But like any history book, the way you read them depends on your starting assumptions. Secular geologists begin with the assumption of uniformitarianism — the idea that present-day processes, acting slowly over billions of years, produced all the geological features we see. Biblical geologists start with a different framework: the Earth was created by God approximately 6,000 years ago, and a catastrophic global Flood during Noah's time dramatically reshaped the planet.",
+                "In this lesson, we will study the three major types of rocks and examine how the evidence they contain is better explained by Creation and the Flood than by billions of years of slow processes."
+            ]
+        },
+        {
+            "heading": "The Three Rock Types",
+            "paragraphs": [
+                "Igneous rocks form when molten rock (magma or lava) cools and solidifies. Examples include granite and basalt. Granite, which makes up much of the continental crust, contains radiohalos — tiny discoloration rings formed by the decay of radioactive elements — that suggest rapid formation rather than slow cooling over millions of years.",
+                "Sedimentary rocks form when particles of sand, mud, and other materials settle and harden into layers. Limestone, sandstone, and shale are common examples. Sedimentary rocks are especially significant because they contain fossils — the preserved remains of plants and animals. The vast majority of fossils are found in sedimentary layers, which creation scientists believe were deposited rapidly during the global Flood.",
+                "Metamorphic rocks are rocks that have been changed by intense heat and pressure. Marble (from limestone) and slate (from shale) are examples. These transformations can occur rapidly under extreme conditions, such as those produced during and after the catastrophic events of the Flood."
+            ]
+        },
+        {
+            "heading": "The Fossil Record and the Flood",
+            "paragraphs": [
+                "Fossils require rapid burial to form. An animal that dies and is left on the surface will decompose or be scavenged — it will not become a fossil. The existence of billions of well-preserved fossils around the world points to a catastrophic event that buried vast numbers of creatures quickly under tons of sediment. The Genesis Flood provides exactly the right conditions for massive fossil formation.",
+                "Polystrate fossils — fossils that extend through multiple sedimentary layers — provide powerful evidence for rapid deposition. Trees fossilized in an upright position cutting through what secular geologists say represent millions of years of deposits show that those layers must have been laid down quickly, not over vast ages. The Flood explains these features naturally.",
+                "The order of fossils in the rock layers is also consistent with the Flood model. Marine creatures are generally found in the lowest layers (buried first as the floodwaters rose), while land-dwelling animals and humans are found in higher layers. This sorting reflects the order of burial during a rising global flood, not an evolutionary progression over millions of years."
+            ]
+        },
+        {
+            "heading": "Evidence for a Young Earth in the Rocks",
+            "paragraphs": [
+                "Several lines of geological evidence support a young earth. Soft tissue and original proteins have been found in dinosaur bones — materials that could not survive for 65 million years. The amount of sediment on the ocean floor is far less than expected if the oceans were billions of years old. The rate of erosion of the continents, if projected over billions of years, would have worn the continents flat many times over.",
+                "Radiometric dating methods, which are used to assign millions and billions of years to rocks, rely on assumptions about the original conditions and the constancy of decay rates — assumptions that cannot be verified for the unobserved past. Creation scientists have documented multiple cases where these methods give wildly inconsistent or clearly wrong dates for rocks of known age.",
+                "When we approach the rock record with the Bible as our starting point, the evidence fits remarkably well. The rocks testify not to billions of years of random processes, but to a world created by God and dramatically reshaped by the Flood of Noah's day."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the starting assumption (uniformitarianism vs. catastrophism) so important in interpreting the rock record? How does your starting point affect your conclusions?",
+            "guidance": "Think about how the same rock layers and fossils can be interpreted differently depending on whether you assume slow processes over billions of years or rapid processes during a global catastrophe."
+        },
+        {
+            "id": 2,
+            "question": "What are polystrate fossils, and why do they present a challenge to the uniformitarian view? How does the Flood model explain them?",
+            "guidance": "Consider what it means for a tree fossil to extend through layers that supposedly represent millions of years. What does this tell us about how fast those layers were deposited?"
+        },
+        {
+            "id": 3,
+            "question": "Read 2 Peter 3:3-6. According to Peter, what two events do scoffers deliberately forget? Why would ignoring these events lead to wrong conclusions about Earth's history?",
+            "guidance": "Consider how Creation and the Flood are the two major geological events in the Bible. If someone ignores both, how would that affect their interpretation of the rock record?"
+        }
+    ]
+}

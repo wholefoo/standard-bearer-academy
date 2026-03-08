@@ -12,6 +12,7 @@ app.secret_key = os.environ.get("SECRET_KEY", "homeschool-lms-dev-key")
 
 GRADE_LEVELS = {
     "prek": {"name": "Pre-Kindergarten", "short": "PreK", "order": 0},
+    "kindergarten": {"name": "Kindergarten", "short": "K", "order": 0.5},
     "grade1": {"name": "1st Grade", "short": "1st", "order": 1},
     "grade2": {"name": "2nd Grade", "short": "2nd", "order": 2},
     "grade3": {"name": "3rd Grade", "short": "3rd", "order": 3},

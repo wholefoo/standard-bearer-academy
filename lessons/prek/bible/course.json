@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "bible",
+    "title": "Bible ABCs — Learning Letters Through Scripture",
+    "description": "Learn the letters A through E with fun Bible words and stories! Perfect for little learners ages 3-5.",
+    "units": [
+        {
+            "id": "abc_letters",
+            "title": "Letters A-E with Bible Words",
+            "lessons": ["a", "b", "c", "d", "e"]
+        }
+    ],
+    "quiz_id": "abc_quiz"
+}

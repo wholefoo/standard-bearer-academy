@@ -1,0 +1,63 @@
+{
+    "id": "animals_quiz",
+    "title": "God's Amazing Animals Quiz",
+    "description": "Test your knowledge of God's amazing animal creation and what makes each animal kind special!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What makes mammals different from other animals?",
+            "options": ["They have scales", "They have fur or hair and feed babies milk", "They have feathers", "They breathe through gills"],
+            "correct": 1,
+            "explanation": "Mammals are warm-blooded animals that have fur or hair and feed their babies milk. God designed them with these special features."
+        },
+        {
+            "id": 2,
+            "question": "On which day of Creation did God make birds?",
+            "options": ["Day 3", "Day 4", "Day 5", "Day 6"],
+            "correct": 2,
+            "explanation": "God created birds on Day 5 of Creation along with the sea creatures (Genesis 1:20-21)."
+        },
+        {
+            "id": 3,
+            "question": "How do fish breathe underwater?",
+            "options": ["They hold their breath", "Through gills that God designed", "They come up for air", "They don't need to breathe"],
+            "correct": 1,
+            "explanation": "God designed fish with special organs called gills that take oxygen right out of the water."
+        },
+        {
+            "id": 4,
+            "question": "What kind of skin do reptiles have?",
+            "options": ["Furry skin", "Feathery skin", "Dry, scaly skin", "Slimy skin"],
+            "correct": 2,
+            "explanation": "Reptiles have dry, scaly skin. God designed their scales to protect them and help them survive."
+        },
+        {
+            "id": 5,
+            "question": "How many legs do all insects have?",
+            "options": ["4 legs", "6 legs", "8 legs", "10 legs"],
+            "correct": 1,
+            "explanation": "All insects have exactly 6 legs. This is one of the features God designed to identify the insect kind."
+        },
+        {
+            "id": 6,
+            "question": "What does the Bible tell us to learn from the ant?",
+            "options": ["To be lazy", "To be wise and hardworking", "To be fast", "To be quiet"],
+            "correct": 1,
+            "explanation": "Proverbs 6:6 says, 'Go to the ant, you sluggard; consider its ways and be wise!' God wants us to learn hard work from the ant."
+        },
+        {
+            "id": 7,
+            "question": "What is stewardship?",
+            "options": ["Ignoring animals", "Taking care of what God has given us", "Only caring for pets", "Being afraid of animals"],
+            "correct": 1,
+            "explanation": "Stewardship means taking care of what belongs to God. He gave humans the responsibility to care for His creation (Genesis 1:26, 28)."
+        },
+        {
+            "id": 8,
+            "question": "What does 'according to their kinds' mean in Genesis?",
+            "options": ["Animals can turn into other animals", "God created each animal kind special and unique", "All animals are the same", "Animals created themselves"],
+            "correct": 1,
+            "explanation": "God created each animal 'according to its kind,' meaning each kind of animal was specially designed and created by God from the very beginning (Genesis 1:24-25)."
+        }
+    ]
+}

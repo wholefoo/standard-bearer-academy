@@ -1,0 +1,85 @@
+{
+    "id": "puritan",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Puritan Literature",
+    "subtitle": "Bradford, Winthrop, and the City on a Hill",
+    "scripture": "Matthew 5:14-16",
+    "primary_source": "John Winthrop, A Model of Christian Charity (1630)",
+    "key_concepts": ["Puritan covenant theology", "Providential worldview in literature", "City on a Hill metaphor", "Bradford's Of Plymouth Plantation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 5:14",
+                "text": "\"You are the light of the world. A city that is set on a hill cannot be hidden.\"",
+                "commentary": "John Winthrop drew directly from this verse in his famous sermon aboard the Arbella. The Puritans understood their settlement as a covenant community, watched by the world as an example of what a society built on Biblical principles could achieve."
+            },
+            {
+                "reference": "Psalm 107:23-31",
+                "text": "\"They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.\"",
+                "commentary": "William Bradford's Of Plymouth Plantation is saturated with this sense of divine providence. Every storm survived, every harvest gathered, every danger overcome was recorded as evidence of God's faithful hand guiding His covenant people to the New World."
+            },
+            {
+                "reference": "Deuteronomy 29:9",
+                "text": "\"Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.\"",
+                "commentary": "The Puritans modeled their communities on the Biblical concept of covenant. Their literature reflects the conviction that obedience to God's Word brings blessing, while unfaithfulness brings judgment — a theme that permeates all Puritan writing."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Puritans and the Power of the Written Word",
+            "paragraphs": [
+                "The story of American literature begins not with novelists or poets seeking fame, but with men and women of deep faith who wrote to glorify God, record His providence, and instruct future generations. The Puritans who settled New England in the early 1600s were among the most literate people in the world, and their commitment to Scripture shaped everything they wrote.",
+                "Puritan literature is not mere historical record — it is theological testimony. Every journal entry, every sermon, every poem was composed with the awareness that God was sovereign over all events and that human beings were accountable to Him. Understanding Puritan literature is essential because it establishes the spiritual and intellectual foundations upon which American culture was built."
+            ]
+        },
+        {
+            "heading": "William Bradford: Of Plymouth Plantation",
+            "paragraphs": [
+                "William Bradford served as governor of Plymouth Colony for over thirty years, and his history Of Plymouth Plantation (written 1630-1651) is one of the most important works of early American literature. Bradford wrote not as a detached historian but as a man who saw God's hand in every detail of the Pilgrims' journey.",
+                "Bradford's account of the Mayflower crossing, the harsh first winter, and the providential appearance of Squanto reads like a continuation of Biblical history. He deliberately echoed the language of the Hebrew Exodus, presenting the Pilgrims as a covenant people led by God through the wilderness to a promised land. When half the colony perished in the first winter, Bradford recorded it as a trial of faith; when Squanto appeared and taught them to plant corn, Bradford called it 'a special instrument sent of God for their good beyond their expectation.'",
+                "Bradford's literary style is plain and direct — the Puritan 'plain style' that valued clarity and truth over ornament. The Puritans believed that flowery language could obscure God's truth, so they wrote with deliberate simplicity. This commitment to plainness in writing reflected their commitment to plainness in worship and life."
+            ]
+        },
+        {
+            "heading": "John Winthrop: A Model of Christian Charity",
+            "paragraphs": [
+                "In 1630, aboard the ship Arbella, John Winthrop delivered a sermon that would echo through American history for centuries. A Model of Christian Charity laid out his vision for the Massachusetts Bay Colony as a covenant community bound together by Christian love and mutual obligation.",
+                "Winthrop's most famous passage declared: 'We shall be as a city upon a hill. The eyes of all people are upon us.' Drawing from Matthew 5:14, Winthrop understood that the Puritan experiment would be watched by the entire world. If they honored their covenant with God, they would be blessed and serve as an example to all nations. If they broke their covenant, they would face judgment and become 'a story and a by-word through the world.'",
+                "This sermon established a pattern of American self-understanding that persists to this day: the idea that America has a special calling and responsibility before God. Winthrop was not promoting national pride — he was issuing a solemn warning that privilege brings accountability. The covenant theology that undergirds this sermon is rooted directly in Scripture's teaching about God's relationship with His people."
+            ]
+        },
+        {
+            "heading": "Puritan Poetry: Anne Bradstreet and Edward Taylor",
+            "paragraphs": [
+                "Puritan literature was not limited to prose. Anne Bradstreet, often called America's first published poet, wrote verse that combined personal emotion with theological depth. Her poem 'Upon the Burning of Our House' (1666) movingly describes her struggle to accept the loss of her home, concluding with a declaration of faith: 'Thou hast an house on high erect, / Framed by that mighty Architect.' Bradstreet's ability to move from grief to trust in God's sovereignty demonstrates the Puritan commitment to living out theology in everyday life.",
+                "Edward Taylor, a pastor-poet, wrote richly metaphorical 'Preparatory Meditations' as part of his preparation for administering the Lord's Supper. Taylor's poetry is more ornate than the typical plain style, yet it remains deeply theological, exploring themes of grace, redemption, and the soul's relationship with Christ. Together, Bradstreet and Taylor demonstrate that Puritan faith could produce literature of genuine beauty and lasting power."
+            ]
+        },
+        {
+            "heading": "The Legacy of Puritan Literature",
+            "paragraphs": [
+                "Puritan literature established several enduring themes in American writing: the sense of divine mission, the importance of individual conscience, the belief that words carry moral weight, and the conviction that history is guided by God's providential hand. These themes would be developed, challenged, and sometimes distorted by later generations of American writers, but they never fully disappeared.",
+                "As we study subsequent periods of American literature, we will measure each movement against this Puritan foundation. The Puritans remind us that great literature is not merely entertaining — it is purposeful, truthful, and accountable to the God who gave human beings the gift of language."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does William Bradford's Of Plymouth Plantation reflect a providential view of history? Identify at least two specific events that Bradford interprets as evidence of God's guidance.",
+            "guidance": "Consider the Mayflower crossing, the first winter, Squanto's arrival, and the harvest. How does Bradford's perspective differ from a secular historian who might describe the same events?"
+        },
+        {
+            "id": 2,
+            "question": "Explain John Winthrop's 'city on a hill' metaphor. What responsibility did Winthrop believe came with this calling? How does this idea connect to the Biblical concept of covenant?",
+            "guidance": "Think about the relationship between privilege and accountability in Scripture. Consider passages like Luke 12:48: 'To whom much is given, much will be required.'"
+        },
+        {
+            "id": 3,
+            "question": "Read Anne Bradstreet's 'Upon the Burning of Our House.' How does the poem demonstrate the Puritan practice of finding spiritual meaning in everyday events? What does her conclusion reveal about her theology?",
+            "guidance": "Consider how Bradstreet moves from natural grief to spiritual trust. How does her response compare to Job's response to loss in Scripture?"
+        }
+    ]
+}

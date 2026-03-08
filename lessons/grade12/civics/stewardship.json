@@ -1,0 +1,87 @@
+{
+    "id": "stewardship",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Biblical Foundations of Work and Stewardship",
+    "subtitle": "The Dignity of Labor and the Mandate to Steward Creation",
+    "scripture": "Genesis 2:15; Colossians 3:23-24",
+    "primary_source": "John Calvin, Institutes of the Christian Religion, on Vocation and Calling",
+    "key_concepts": ["Dominion mandate", "Work as worship", "Stewardship vs. ownership", "The Protestant work ethic", "Vocation and calling"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 2:15",
+                "text": "\"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.\"",
+                "commentary": "Before the Fall, God gave Adam meaningful work. Labor is not a curse — it is part of God's original design for humanity. Man was created to be productive, to cultivate, and to steward the resources God entrusted to him."
+            },
+            {
+                "reference": "Colossians 3:23-24",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.\"",
+                "commentary": "Paul teaches that all honest work, regardless of its nature, is ultimately service to God. This elevates every vocation — from farmer to physician to entrepreneur — to an act of worship when done with excellence and integrity."
+            },
+            {
+                "reference": "Psalm 24:1",
+                "text": "\"The earth is the LORD's, and everything in it, the world, and all who live in it.\"",
+                "commentary": "All resources, wealth, and property ultimately belong to God. Human beings are stewards, not absolute owners. This foundational truth shapes how Christians approach economics: we manage God's resources according to His principles."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Economics Begins with Theology",
+            "paragraphs": [
+                "Economics is not a morally neutral discipline. Every economic system rests on assumptions about human nature, the purpose of work, the meaning of property, and the role of government. These are ultimately theological questions. How a society answers them determines whether it builds an economy that produces freedom and flourishing or one that leads to poverty and oppression.",
+                "The Christian worldview provides a coherent foundation for understanding economics. Scripture teaches that God created a world of abundance, that He made human beings in His image with the capacity for creativity and enterprise, and that He commands us to steward His creation faithfully. These truths have profound implications for how we think about work, wealth, trade, and economic policy."
+            ]
+        },
+        {
+            "heading": "The Dominion Mandate: Humanity's First Commission",
+            "paragraphs": [
+                "In Genesis 1:28, God commands Adam and Eve to 'be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.' This is often called the Dominion Mandate or the Cultural Mandate.",
+                "This command establishes several economic principles. First, human beings are called to be productive — to cultivate, develop, and improve the world God has made. Second, resources are meant to be used wisely, not hoarded or wasted. Third, work is inherently dignified because it fulfills God's purpose for humanity. The Dominion Mandate is the theological foundation of all legitimate economic activity.",
+                "The Fall brought sin into the world and made work more difficult (Genesis 3:17-19), but it did not eliminate the mandate. Human beings are still called to be productive stewards, though now they must contend with the effects of sin — laziness, greed, dishonesty, and exploitation."
+            ]
+        },
+        {
+            "heading": "Stewardship vs. Ownership",
+            "paragraphs": [
+                "A critical distinction in Biblical economics is between stewardship and absolute ownership. Psalm 24:1 declares that the earth and everything in it belongs to the Lord. Human beings do not have ultimate ownership of anything — they are trustees of God's property.",
+                "This does not mean that private property is wrong. Scripture consistently affirms the right to own and manage property (Exodus 20:15, 17; Acts 5:4). But it means that property rights exist within a moral framework. Owners are accountable to God for how they use their resources. The parable of the talents (Matthew 25:14-30) illustrates this: God entrusts resources to individuals and expects them to invest wisely and produce a return.",
+                "Stewardship means that wealth is not an end in itself but a tool for serving God, providing for one's family, and blessing others. The accumulation of wealth through honest industry is praiseworthy (Proverbs 10:4), but hoarding, exploitation, and materialism are condemned throughout Scripture."
+            ]
+        },
+        {
+            "heading": "The Protestant Work Ethic and Western Prosperity",
+            "paragraphs": [
+                "Sociologist Max Weber observed that the nations most influenced by Protestant Christianity — particularly Calvinist theology — developed the strongest economies in the modern world. This is not a coincidence. The Reformation recovered the Biblical teaching that all lawful vocations are callings from God, not just clergy or religious occupations.",
+                "Martin Luther taught that a cobbler who makes shoes to the glory of God serves God just as truly as a monk who prays in a monastery. John Calvin emphasized that Christians should work diligently, live frugally, invest wisely, and use their profits to serve their communities. These ideas — sometimes called the 'Protestant work ethic' — produced a culture of enterprise, savings, investment, and innovation that fueled the economic rise of the West.",
+                "The connection between Biblical theology and economic prosperity is not merely historical. Nations that protect property rights, encourage honest labor, and maintain the rule of law — all principles rooted in Scripture — consistently outperform nations built on collectivism, corruption, or central planning."
+            ]
+        },
+        {
+            "heading": "Modern Application: Work as Worship",
+            "paragraphs": [
+                "In a culture that often treats work as a necessary evil or merely a means to acquire consumer goods, the Biblical view of vocation is countercultural. Christians are called to view their work — whether in business, education, medicine, agriculture, trades, or any other field — as an act of service to God and neighbor.",
+                "This perspective transforms how we approach our careers. It means pursuing excellence, maintaining integrity, treating employees and customers justly, and using the fruits of our labor to honor God. It also means rejecting the idolatry of work (making career success an ultimate value) and the idolatry of leisure (treating work as something to be avoided).",
+                "As you prepare to enter the workforce, remember that your economic life is inseparable from your spiritual life. How you work, what you do with your earnings, and how you treat others in the marketplace are all matters of faithfulness to God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the difference between stewardship and absolute ownership. How does Psalm 24:1 shape a Christian's approach to wealth and property?",
+            "guidance": "Consider how the concept of stewardship creates both freedom (to use resources productively) and accountability (to God for how they are used). Compare this with secular views that treat property as an absolute right with no moral obligations attached."
+        },
+        {
+            "id": 2,
+            "question": "How does the Dominion Mandate in Genesis 1:28 provide a theological foundation for economic activity? What does it teach about the dignity of work?",
+            "guidance": "Think about how the command to 'subdue' and 'have dominion' implies productive engagement with the world. Consider how this mandate applies to modern occupations like farming, engineering, medicine, and entrepreneurship."
+        },
+        {
+            "id": 3,
+            "question": "Why did nations influenced by the Protestant Reformation tend to develop stronger economies? What specific theological ideas contributed to this outcome?",
+            "guidance": "Consider the concepts of vocation as calling, the dignity of all honest labor, the virtue of savings and investment, and the importance of integrity in business. How do these ideas contrast with economic systems not rooted in Biblical principles?"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "colonial",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Colonial America and the Great Awakening",
+    "subtitle": "How God Planted the Seeds of a Christian Nation",
+    "scripture": "2 Chronicles 7:14",
+    "primary_source": "Jonathan Edwards, \"Sinners in the Hands of an Angry God\" (1741)",
+    "key_concepts": ["Colonial settlements and religious liberty", "The Puritan vision of a godly commonwealth", "The Great Awakening and spiritual revival", "The role of the church in colonial life"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "2 Chronicles 7:14",
+                "text": "\"If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.\"",
+                "commentary": "This verse captures the heart of the Great Awakening — a movement in which colonists humbled themselves before God, repented, and sought spiritual renewal. The revival that swept the colonies in the 1730s and 1740s was an answer to this very promise."
+            },
+            {
+                "reference": "Matthew 5:14",
+                "text": "\"You are the light of the world. A town built on a hill cannot be hidden.\"",
+                "commentary": "John Winthrop famously applied this verse to the Massachusetts Bay Colony, declaring that the Puritan settlement would be a 'city upon a hill' — a model Christian community watched by the entire world. This vision shaped the American identity for centuries."
+            },
+            {
+                "reference": "Psalm 33:12",
+                "text": "\"Blessed is the nation whose God is the LORD, the people he chose for his inheritance.\"",
+                "commentary": "The early colonists believed that America could be a nation blessed by God if its people remained faithful to Him. This conviction drove both the Puritan experiment and the revivals of the Great Awakening."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Did Colonists Come to America?",
+            "paragraphs": [
+                "The story of Colonial America is, at its heart, a story of faith. While economic opportunity played a role, the driving force behind many of the earliest settlements was the desire for religious liberty — the freedom to worship God according to the dictates of Scripture rather than the commands of a king or a state church.",
+                "The Pilgrims who landed at Plymouth in 1620 and the Puritans who established the Massachusetts Bay Colony in 1630 were not merely seeking a new home. They were seeking to build a new kind of society — one ordered by Biblical principles, governed by covenantal agreements, and devoted to the glory of God."
+            ]
+        },
+        {
+            "heading": "The Puritan Vision: A City Upon a Hill",
+            "paragraphs": [
+                "In 1630, aboard the ship Arbella, John Winthrop delivered one of the most important sermons in American history: 'A Model of Christian Charity.' In it, he declared that the Massachusetts Bay Colony would be 'as a city upon a hill' — a phrase drawn from Jesus' words in Matthew 5:14. Winthrop believed that if the colonists honored their covenant with God, He would bless them and make their community an example to the world.",
+                "The Puritans organized their society around the local church. Town meetings were held in meetinghouses. Laws were grounded in Biblical principles. Education was established so that every person could read the Bible — Harvard College was founded in 1636 primarily to train ministers of the Gospel. The Puritans understood that a free and virtuous society required a people who knew God's Word.",
+                "This vision was not without its challenges. The Puritans sometimes enforced religious conformity too strictly, as seen in the exile of Roger Williams and Anne Hutchinson. Yet the underlying principle — that a society should be built upon the Word of God — became a foundational idea in American culture."
+            ]
+        },
+        {
+            "heading": "The Great Awakening: Revival Sweeps the Colonies",
+            "paragraphs": [
+                "By the early 1700s, many colonists had drifted from the fervent faith of their forefathers. Church attendance declined, and spiritual life grew cold. But God was preparing a great revival.",
+                "The Great Awakening (approximately 1730-1745) was a series of powerful spiritual revivals that swept through the American colonies. Preachers like Jonathan Edwards, George Whitefield, and Gilbert Tennent called colonists to repentance, personal conversion, and a living faith in Jesus Christ.",
+                "Jonathan Edwards' famous sermon, 'Sinners in the Hands of an Angry God' (1741), shook entire congregations with its vivid portrayal of God's justice and the urgent need for salvation. George Whitefield, a gifted English evangelist, preached to massive crowds throughout the colonies, drawing people from every denomination and social class.",
+                "The Great Awakening had profound effects beyond the churches. It united the colonies spiritually for the first time, creating a shared identity across colonial boundaries. It taught that every individual — regardless of wealth, status, or education — stood equal before God. This idea of spiritual equality would later influence the political concept of equality expressed in the Declaration of Independence."
+            ]
+        },
+        {
+            "heading": "The Seeds of Liberty",
+            "paragraphs": [
+                "The Great Awakening also planted seeds of resistance to tyranny. If every person is accountable directly to God, then no king or bishop has absolute authority over a person's conscience. The revivalists preached that true authority comes from God, not from earthly rulers — a message that would become the foundation of the American Revolution just a few decades later.",
+                "Colonial pastors, often called the 'Black Robe Regiment,' played a crucial role in shaping the political thought of their communities. They preached sermons on liberty, covenant, and the duty to resist unjust authority. The pulpit was, in many ways, the most influential institution in colonial America.",
+                "By the mid-1700s, the colonists had developed a distinct identity: they were a people who valued religious liberty, covenantal government, personal responsibility, and the authority of Scripture. These convictions, born in the churches of Colonial America and strengthened by the Great Awakening, would soon be tested in the fires of revolution."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What did John Winthrop mean when he called the Massachusetts Bay Colony 'a city upon a hill'? How does this vision reflect Biblical principles?",
+            "guidance": "Consider Matthew 5:14 and the Puritan belief that their community would serve as a model of godly living for the world. Think about the responsibilities and challenges that come with such a calling."
+        },
+        {
+            "id": 2,
+            "question": "How did the Great Awakening prepare the colonies for the American Revolution? What connections can you draw between spiritual revival and the desire for political liberty?",
+            "guidance": "Think about how the Great Awakening emphasized individual accountability before God, equality of all people, and the idea that authority comes from God rather than from earthly rulers."
+        },
+        {
+            "id": 3,
+            "question": "Read 2 Chronicles 7:14. How does this verse apply to the Great Awakening? Do you think it still applies to America today? Why or why not?",
+            "guidance": "Consider the pattern of spiritual decline followed by repentance and revival. Think about what it means for a people to 'humble themselves' and 'seek God's face' in a national context."
+        }
+    ]
+}

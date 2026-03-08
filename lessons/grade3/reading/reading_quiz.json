@@ -1,0 +1,63 @@
+{
+    "id": "reading_quiz",
+    "title": "Stories of Faith — Reading and Writing with Purpose",
+    "description": "Test your knowledge of grammar, reading comprehension, writing, and vocabulary!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which word in this sentence is a noun? 'Moses led the people through the desert.'",
+            "options": ["Led", "Through", "Moses", "The"],
+            "correct": 2,
+            "explanation": "Moses is a noun because it names a person. Nouns name people, places, or things."
+        },
+        {
+            "id": 2,
+            "question": "Which word in this sentence is a verb? 'God created the heavens and the earth.'",
+            "options": ["God", "Created", "Heavens", "Earth"],
+            "correct": 1,
+            "explanation": "Created is a verb because it shows an action — something God did."
+        },
+        {
+            "id": 3,
+            "question": "In Psalm 23, who is the shepherd?",
+            "options": ["King David", "Moses", "The Lord", "Abraham"],
+            "correct": 2,
+            "explanation": "In Psalm 23, David says 'The Lord is my shepherd,' meaning God is the shepherd who cares for us."
+        },
+        {
+            "id": 4,
+            "question": "What does every complete sentence need?",
+            "options": ["An adjective and an adverb", "A subject and a predicate", "Three nouns", "At least ten words"],
+            "correct": 1,
+            "explanation": "Every complete sentence needs a subject (who or what it is about) and a predicate (what the subject does)."
+        },
+        {
+            "id": 5,
+            "question": "What punctuation mark goes at the end of a question?",
+            "options": ["Period", "Exclamation point", "Question mark", "Comma"],
+            "correct": 2,
+            "explanation": "A question mark (?) goes at the end of an interrogative sentence — a sentence that asks a question."
+        },
+        {
+            "id": 6,
+            "question": "What does the word 'diligent' mean?",
+            "options": ["Lazy and careless", "Hardworking and careful", "Angry and upset", "Quiet and shy"],
+            "correct": 1,
+            "explanation": "Diligent means hardworking and careful. Proverbs 12:24 teaches that diligent hands will rule."
+        },
+        {
+            "id": 7,
+            "question": "What are context clues?",
+            "options": ["Pictures in a book", "Hints in a sentence that help you figure out a word's meaning", "The title of a story", "Words that rhyme"],
+            "correct": 1,
+            "explanation": "Context clues are words and sentences around an unknown word that give hints about its meaning."
+        },
+        {
+            "id": 8,
+            "question": "When writing a book report about a Bible story, which of these should you include?",
+            "options": ["Only the ending of the story", "Characters, setting, and what happened", "Just a drawing", "Only the memory verse"],
+            "correct": 1,
+            "explanation": "A good book report includes the characters, the setting, a summary of what happened (beginning, middle, end), and the lesson of the story."
+        }
+    ]
+}
