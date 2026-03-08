@@ -8,8 +8,8 @@
             <a href="/">Home</a> <span>&rsaquo;</span> <a href="/dashboard">Dashboard</a> <span>&rsaquo;</span> {{ grade_info.name }} {{ subject_info.name }}
         </div>
         <h2>{{ subject_info.icon }} {{ grade_info.name }} {{ subject_info.name }}</h2>
-        {% if grade == "grade1" and subject == "science" %}
-        <p>The Days of Creation &mdash; A Biblical Foundation for Science</p>
+        {% if course_data %}
+        <p>{{ course_data.title }} &mdash; {{ course_data.description }}</p>
         {% else %}
         <p>Curriculum coming soon. Check back for updates!</p>
         {% endif %}
@@ -23,14 +23,30 @@
             <h3 style="color: var(--primary);">Lesson Plans</h3>
             <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-primary btn-sm">Take the Quiz</a>
         </div>
+
+        {% set current_unit = namespace(id='') %}
         <ul class="lesson-list">
             {% for lesson in lessons %}
+            {% if lesson.unit_id is defined and lesson.unit_id != current_unit.id %}
+            {% set current_unit.id = lesson.unit_id %}
+            <li style="list-style: none; margin: 24px 0 12px 0;">
+                <h4 style="color: var(--primary); font-size: 16px; font-family: Arial, sans-serif; text-transform: uppercase; letter-spacing: 1px;">{{ lesson.unit_title }}</h4>
+            </li>
+            {% endif %}
             <li>
                 <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id }}" class="lesson-item" style="text-decoration: none; color: inherit;">
-                    <div class="lesson-num">{{ lesson.id }}</div>
+                    <div class="lesson-num">{{ lesson.lesson_number }}</div>
                     <div class="lesson-info">
                         <h3>{{ lesson.title }}</h3>
-                        <span class="scripture-ref">{{ lesson.scripture }} &mdash; {{ lesson.memory_verse[:60] }}...</span>
+                        <span class="scripture-ref">
+                            {{ lesson.scripture }}
+                            {% if lesson.memory_verse is defined %}
+                             &mdash; {{ lesson.memory_verse[:60] }}...
+                            {% endif %}
+                            {% if lesson.primary_source is defined %}
+                             | Primary Source: {{ lesson.primary_source }}
+                            {% endif %}
+                        </span>
                     </div>
                     <span class="btn btn-sm btn-outline" style="color: var(--primary); border-color: var(--primary); flex-shrink: 0;">View Lesson</span>
                 </a>
@@ -39,7 +55,7 @@
         </ul>
 
         <div style="text-align: center; margin-top: 32px;">
-            <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-primary">Take the Days of Creation Quiz</a>
+            <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-primary">Take the {{ course_data.title if course_data else '' }} Quiz</a>
         </div>
         {% else %}
         <div style="text-align: center; padding: 80px 0;">
@@ -47,7 +63,7 @@
             <h3 style="color: var(--primary); margin-bottom: 8px;">Curriculum In Development</h3>
             <p style="color: var(--text-light); font-family: Arial, sans-serif;">
                 The {{ grade_info.name }} {{ subject_info.name }} curriculum is currently being developed.<br>
-                Check out <a href="/course/grade1/science">1st Grade Science: Days of Creation</a> for our proof of concept.
+                Explore our available courses: <a href="/course/grade1/science">1st Grade Science</a> or <a href="/course/grade9/civics">High School Civics</a>.
             </p>
         </div>
         {% endif %}

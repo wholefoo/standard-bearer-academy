@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "science",
+    "title": "The Days of Creation",
+    "description": "A Biblical Foundation for Science — exploring God's creative work in Genesis 1-2",
+    "units": [
+        {
+            "id": "creation",
+            "title": "The Seven Days of Creation",
+            "lessons": ["day1", "day2", "day3", "day4", "day5", "day6", "day7"]
+        }
+    ],
+    "quiz_id": "creation_quiz"
+}

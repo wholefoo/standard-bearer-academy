@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}Quiz: Days of Creation{% endblock %}
+{% block title %}Quiz: {{ quiz_data.title }}{% endblock %}
 
 {% block content %}
 <div class="page-header">
@@ -10,7 +10,7 @@
             <span>&rsaquo;</span> <a href="/course/{{ grade }}/{{ subject }}">{{ grade_info.name }} {{ subject_info.name }}</a>
             <span>&rsaquo;</span> Quiz
         </div>
-        <h2>{{ subject_info.icon }} Days of Creation Quiz</h2>
+        <h2>{{ subject_info.icon }} {{ quiz_data.title }} Quiz</h2>
         <p>{{ grade_info.name }} {{ subject_info.name }} &mdash; Test your knowledge!</p>
     </div>
 </div>
@@ -18,8 +18,8 @@
 <section class="section" style="padding-top: 16px;">
     <div class="quiz-container container">
         <div class="quiz-header">
-            <h2>The Days of Creation</h2>
-            <p>Answer all 10 questions, then submit to see your score. You can do it!</p>
+            <h2>{{ quiz_data.title }}</h2>
+            <p>{{ quiz_data.description }}</p>
         </div>
 
         <form id="quizForm">
@@ -63,25 +63,31 @@ document.getElementById('submitQuiz').addEventListener('click', function() {
     const form = document.getElementById('quizForm');
     const answers = {};
     let unanswered = 0;
+    const totalQuestions = {{ questions|length }};
 
-    {% for q in questions %}
-    const q{{ q.id }} = form.querySelector('input[name="q{{ q.id }}"]:checked');
-    if (q{{ q.id }}) {
-        answers["{{ q.id }}"] = parseInt(q{{ q.id }}.value);
-    } else {
-        unanswered++;
+    for (let i = 1; i <= totalQuestions; i++) {
+        const selected = form.querySelector('input[name="q' + i + '"]:checked');
+        if (selected) {
+            answers[String(i)] = parseInt(selected.value);
+        } else {
+            unanswered++;
+        }
     }
-    {% endfor %}
 
     if (unanswered > 0) {
-        alert('Please answer all ' + {{ questions|length }} + ' questions before submitting. You have ' + unanswered + ' unanswered.');
+        alert('Please answer all ' + totalQuestions + ' questions before submitting. You have ' + unanswered + ' unanswered.');
         return;
     }
 
     fetch('/api/quiz/submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ answers: answers })
+        body: JSON.stringify({
+            answers: answers,
+            grade: '{{ grade }}',
+            subject: '{{ subject }}',
+            quiz_id: '{{ quiz_data.id }}'
+        })
     })
     .then(r => r.json())
     .then(data => {
@@ -101,28 +107,27 @@ document.getElementById('submitQuiz').addEventListener('click', function() {
             });
 
             const explanation = document.getElementById('explanation-' + r.id);
-            explanation.textContent = (r.correct ? '✓ Correct! ' : '✗ Incorrect. ') + r.explanation;
+            explanation.textContent = (r.correct ? '\u2713 Correct! ' : '\u2717 Incorrect. ') + r.explanation;
             explanation.classList.add('show');
             explanation.style.color = r.correct ? 'var(--success)' : 'var(--danger)';
         });
 
-        const resultsBox = document.getElementById('resultsBox');
         document.getElementById('scoreDisplay').textContent = data.percentage + '%';
         document.getElementById('scoreFraction').textContent = data.score + ' out of ' + data.total + ' correct';
 
         let message = '';
         if (data.percentage === 100) {
-            message = 'Perfect score! You know God\'s creation story wonderfully!';
+            message = 'Perfect score! Outstanding work!';
         } else if (data.percentage >= 80) {
-            message = 'Great job! You have a strong understanding of the Days of Creation!';
+            message = 'Great job! You have a strong understanding of the material!';
         } else if (data.percentage >= 60) {
             message = 'Good effort! Review the lessons and try again to improve your score.';
         } else {
             message = 'Keep studying! Go through each lesson again and you will do better next time.';
         }
         document.getElementById('scoreMessage').textContent = message;
-        resultsBox.classList.add('show');
-        resultsBox.scrollIntoView({ behavior: 'smooth' });
+        document.getElementById('resultsBox').classList.add('show');
+        document.getElementById('resultsBox').scrollIntoView({ behavior: 'smooth' });
     });
 });
 </script>

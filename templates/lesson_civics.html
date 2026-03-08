@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block title %}{{ lesson.title }}{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="/">Home</a>
+            <span>&rsaquo;</span> <a href="/dashboard">Dashboard</a>
+            <span>&rsaquo;</span> <a href="/course/{{ grade }}/{{ subject }}">{{ grade_info.name }} {{ subject_info.name }}</a>
+            <span>&rsaquo;</span> Lesson {{ lesson.lesson_number }}
+        </div>
+        <h2>{{ lesson.title }}</h2>
+        <p>{{ grade_info.name }} {{ subject_info.name }}{% if course_data %} &mdash; {{ course_data.title }}{% endif %}</p>
+    </div>
+</div>
+
+<section class="section" style="padding-top: 16px;">
+    <div class="container">
+        <div class="civics-layout">
+            <div class="civics-main">
+                <div class="lesson-detail">
+                    {% if lesson.subtitle is defined %}
+                    <p class="lesson-subtitle">{{ lesson.subtitle }}</p>
+                    {% endif %}
+
+                    {% if lesson.key_concepts is defined %}
+                    <div class="key-concepts-bar">
+                        <span class="kc-label">Key Concepts:</span>
+                        {% for concept in lesson.key_concepts %}
+                        <span class="kc-tag">{{ concept }}</span>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+
+                    {% if lesson.primary_source is defined %}
+                    <div class="primary-source-bar">
+                        <span class="ps-label">Primary Source:</span> {{ lesson.primary_source }}
+                    </div>
+                    {% endif %}
+
+                    <div class="lesson-section">
+                        {% for section in lesson.content %}
+                        <h3>{{ section.heading }}</h3>
+                        {% for paragraph in section.paragraphs %}
+                        <p>{{ paragraph }}</p>
+                        {% endfor %}
+                        {% endfor %}
+                    </div>
+
+                    {% if lesson.reflection_questions is defined %}
+                    <div class="reflection-section">
+                        <h3>Reflection Questions</h3>
+                        <p style="font-size: 14px; color: var(--text-light); margin-bottom: 20px;">
+                            Write thoughtful responses to the following questions. Use evidence from the lesson text, Scripture references, and primary sources to support your answers.
+                        </p>
+                        {% for rq in lesson.reflection_questions %}
+                        <div class="reflection-card">
+                            <div class="rq-number">{{ rq.id }}</div>
+                            <div class="rq-content">
+                                <p class="rq-question">{{ rq.question }}</p>
+                                <p class="rq-guidance"><strong>Guidance:</strong> {{ rq.guidance }}</p>
+                                <textarea class="rq-textarea" placeholder="Write your response here..." rows="5"></textarea>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 24px;">
+                    {% if prev_lesson %}
+                    <a href="/lesson/{{ grade }}/{{ subject }}/{{ prev_lesson.id }}" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">&larr; Previous Lesson</a>
+                    {% else %}
+                    <span></span>
+                    {% endif %}
+
+                    <a href="/course/{{ grade }}/{{ subject }}" class="btn btn-sm" style="color: var(--text-light);">Back to Course</a>
+
+                    {% if next_lesson %}
+                    <a href="/lesson/{{ grade }}/{{ subject }}/{{ next_lesson.id }}" class="btn btn-primary">Next Lesson &rarr;</a>
+                    {% else %}
+                    <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-success">Take the Quiz &rarr;</a>
+                    {% endif %}
+                </div>
+            </div>
+
+            {% if lesson.scripture_connection is defined %}
+            <aside class="scripture-sidebar">
+                <div class="sidebar-header">
+                    <h3>Scripture Connection</h3>
+                </div>
+                {% for verse in lesson.scripture_connection.verses %}
+                <div class="sidebar-verse">
+                    <div class="sv-reference">{{ verse.reference }}</div>
+                    <blockquote class="sv-text">{{ verse.text }}</blockquote>
+                    <p class="sv-commentary">{{ verse.commentary }}</p>
+                </div>
+                {% endfor %}
+            </aside>
+            {% endif %}
+        </div>
+    </div>
+</section>
+{% endblock %}

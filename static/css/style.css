@@ -687,4 +687,220 @@ footer a {
     .lesson-detail {
         padding: 24px;
     }
+
+    .civics-layout {
+        flex-direction: column;
+    }
+
+    .civics-main {
+        max-width: 100%;
+    }
+
+    .scripture-sidebar {
+        position: static;
+        width: 100%;
+    }
+}
+
+.civics-layout {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+}
+
+.civics-main {
+    flex: 1;
+    min-width: 0;
+    max-width: 800px;
+}
+
+.scripture-sidebar {
+    width: 320px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 80px;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+    background: var(--bg-white);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.sidebar-header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 16px 20px;
+    border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.sidebar-header h3 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.sidebar-verse {
+    padding: 20px;
+    border-bottom: 1px solid var(--border);
+}
+
+.sidebar-verse:last-child {
+    border-bottom: none;
+}
+
+.sv-reference {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 8px;
+}
+
+.sv-text {
+    font-style: italic;
+    font-size: 15px;
+    color: var(--primary-dark);
+    border-left: 3px solid var(--accent);
+    padding: 8px 12px;
+    margin: 0 0 12px 0;
+    background: #fdf6e3;
+    border-radius: 0 6px 6px 0;
+    line-height: 1.6;
+}
+
+.sv-commentary {
+    font-size: 13px;
+    color: var(--text-light);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.lesson-subtitle {
+    font-size: 16px;
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.key-concepts-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    background: #f0f4fa;
+    border-radius: 8px;
+}
+
+.kc-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--primary);
+    font-weight: 700;
+    font-family: 'Arial', sans-serif;
+}
+
+.kc-tag {
+    font-size: 12px;
+    background: var(--primary);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-family: 'Arial', sans-serif;
+}
+
+.primary-source-bar {
+    font-size: 14px;
+    color: var(--text);
+    padding: 10px 16px;
+    background: #fdf6e3;
+    border-left: 3px solid var(--accent);
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 24px;
+    font-family: 'Arial', sans-serif;
+}
+
+.ps-label {
+    font-weight: 700;
+    color: var(--accent);
+}
+
+.reflection-section {
+    margin-top: 40px;
+    padding-top: 32px;
+    border-top: 2px solid var(--border);
+}
+
+.reflection-section h3 {
+    font-size: 22px;
+    color: var(--primary);
+    margin-bottom: 8px;
+}
+
+.reflection-card {
+    display: flex;
+    gap: 16px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 16px;
+}
+
+.rq-number {
+    background: var(--accent);
+    color: var(--primary-dark);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.rq-content {
+    flex: 1;
+}
+
+.rq-question {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.rq-guidance {
+    font-size: 13px;
+    color: var(--text-light);
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.rq-textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: 'Georgia', serif;
+    font-size: 14px;
+    line-height: 1.6;
+    resize: vertical;
+    color: var(--text);
+    background: white;
+}
+
+.rq-textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(30,58,95,0.1);
 }

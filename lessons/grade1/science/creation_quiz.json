@@ -1,0 +1,97 @@
+{
+    "id": "creation_quiz",
+    "title": "The Days of Creation",
+    "description": "Test your knowledge of God's creation week from Genesis 1-2!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What did God create on Day 1?",
+            "options": ["Animals", "Light", "Stars", "Plants"],
+            "correct": 1,
+            "explanation": "God created light on Day 1 and separated it from darkness (Genesis 1:3-5)."
+        },
+        {
+            "id": 2,
+            "question": "What did God create on Day 2?",
+            "options": ["The Sky (Expanse)", "Fish", "The Sun", "People"],
+            "correct": 0,
+            "explanation": "God created the sky (expanse/firmament) on Day 2, separating the waters above from the waters below (Genesis 1:6-8)."
+        },
+        {
+            "id": 3,
+            "question": "What did God create on Day 3?",
+            "options": ["Birds", "Stars", "Land, Seas, and Plants", "Light"],
+            "correct": 2,
+            "explanation": "God created dry land, seas, and all vegetation on Day 3 (Genesis 1:9-13)."
+        },
+        {
+            "id": 4,
+            "question": "What did God create on Day 4?",
+            "options": ["Sky", "Sun, Moon, and Stars", "Animals", "People"],
+            "correct": 1,
+            "explanation": "God created the sun, moon, and stars on Day 4 to govern day and night and to mark seasons (Genesis 1:14-19)."
+        },
+        {
+            "id": 5,
+            "question": "What did God create on Day 5?",
+            "options": ["Land Animals", "Plants", "Sea Creatures and Birds", "Light"],
+            "correct": 2,
+            "explanation": "God created all sea creatures and birds on Day 5 (Genesis 1:20-23)."
+        },
+        {
+            "id": 6,
+            "question": "What makes humans special compared to the rest of creation?",
+            "options": [
+                "Humans are bigger than animals",
+                "Humans were made in God's image",
+                "Humans were created first",
+                "Humans can swim"
+            ],
+            "correct": 1,
+            "explanation": "Humans are uniquely made in God's image, meaning we can think, love, create, and have a relationship with God (Genesis 1:27)."
+        },
+        {
+            "id": 7,
+            "question": "Why did God rest on Day 7?",
+            "options": [
+                "He was tired from all the work",
+                "He ran out of things to create",
+                "To set an example and make the day holy",
+                "He needed to sleep"
+            ],
+            "correct": 2,
+            "explanation": "God rested on Day 7 not because He was tired, but to bless the day, make it holy, and set an example of rest for us (Genesis 2:2-3)."
+        },
+        {
+            "id": 8,
+            "question": "According to Genesis 1:11, plants were created to reproduce how?",
+            "options": [
+                "By evolving over millions of years",
+                "According to their kind",
+                "Randomly without any pattern",
+                "By changing into new types of plants"
+            ],
+            "correct": 1,
+            "explanation": "God designed each plant to produce seeds 'according to its kind' — apple trees always produce apples, oak trees always produce acorns (Genesis 1:11)."
+        },
+        {
+            "id": 9,
+            "question": "How many days did it take God to create everything?",
+            "options": ["5 days", "6 days", "7 days", "Millions of years"],
+            "correct": 1,
+            "explanation": "God created everything in 6 days and rested on the 7th day (Genesis 2:1-3). Creation was complete in six literal days."
+        },
+        {
+            "id": 10,
+            "question": "What did God say when He looked at everything He had made?",
+            "options": [
+                "It was okay",
+                "It needed more work",
+                "It was very good",
+                "It was almost done"
+            ],
+            "correct": 2,
+            "explanation": "After creating mankind on Day 6, God looked at all He had made and declared it 'very good' (Genesis 1:31)."
+        }
+    ]
+}

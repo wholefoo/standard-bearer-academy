@@ -1,0 +1,88 @@
+{
+    "id": "1_3",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 1.3: Stewardship of Power",
+    "subtitle": "Human Depravity and the Necessity of Checks and Balances",
+    "scripture": "Jeremiah 17:9",
+    "primary_source": "Federalist No. 51 (James Madison, 1788)",
+    "key_concepts": ["Human depravity (Original Sin)", "Checks and balances", "Separation of powers", "Limited government"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Jeremiah 17:9",
+                "text": "\"The heart is deceitful above all things and beyond cure. Who can understand it?\"",
+                "commentary": "The prophet Jeremiah articulates the Biblical doctrine of human depravity — the teaching that sin has corrupted every aspect of human nature, including our desire for power. This is not a pessimistic view of humanity; it is a realistic one that the Founders understood deeply. Because human hearts are 'deceitful above all things,' no person or group can be trusted with unlimited power."
+            },
+            {
+                "reference": "Romans 3:23",
+                "text": "\"For all have sinned and fall short of the glory of God.\"",
+                "commentary": "The universality of sin means that corruption is not limited to certain classes, parties, or individuals. Kings sin. Presidents sin. Judges sin. Legislators sin. Because every person is a sinner, every institution run by people needs accountability and restraint."
+            },
+            {
+                "reference": "Proverbs 11:14",
+                "text": "\"For lack of guidance a nation falls, but victory is won through many advisers.\"",
+                "commentary": "Scripture affirms the wisdom of distributing decision-making power rather than concentrating it. Multiple advisors provide checks against individual error and corruption — a principle directly reflected in the American system of separated powers."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Problem of Power",
+            "paragraphs": [
+                "Lord Acton famously observed that 'power tends to corrupt, and absolute power corrupts absolutely.' But this was not a new idea in the nineteenth century — it is a truth as old as the Bible itself. The story of Scripture, from the fall of Adam to the tyranny of Pharaoh to the failures of Israel's kings, consistently demonstrates that human beings cannot be trusted with unchecked power.",
+                "The question for every society is not whether people in power will be tempted to abuse it — they will — but how to structure government so that the inevitable human tendency toward corruption is checked, balanced, and restrained. America's Founders, deeply influenced by their understanding of Biblical human nature, designed a system specifically to address this problem."
+            ]
+        },
+        {
+            "heading": "The Biblical Doctrine of Human Depravity",
+            "paragraphs": [
+                "The Bible teaches that human beings, though made in God's image, are fallen creatures affected by sin in every area of life. This is known as the doctrine of 'total depravity' — not that every person is as bad as they could possibly be, but that sin touches every part of our nature: our minds, our wills, our emotions, and our desires.",
+                "Jeremiah 17:9 captures this truth powerfully: 'The heart is deceitful above all things and beyond cure.' When applied to politics, this doctrine has profound implications. If human hearts are deceitful, then no ruler — however wise, educated, or well-intentioned — can be trusted with absolute power. Power must be divided, checked, and accountable.",
+                "This stands in sharp contrast to utopian political philosophies that assume human beings can be perfected through better education, better economic systems, or better government programs. The Marxist vision of a workers' paradise, the progressive dream of perfecting society through government intervention — all of these founder on the rock of human nature as the Bible describes it. You cannot solve the problem of sin through politics."
+            ]
+        },
+        {
+            "heading": "The Founders and Original Sin",
+            "paragraphs": [
+                "America's Founding Fathers were not naive idealists. They were students of history, philosophy, and above all, the Bible. They understood that the greatest threat to liberty was not foreign invasion but the concentration of power in the hands of fallen human beings.",
+                "James Madison wrote in Federalist No. 51: 'If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary.' This single sentence captures the Biblical worldview applied to political science. Because men are not angels — because we are sinful creatures — we need government. But because the people who run government are also not angels, we need controls on government itself.",
+                "Madison continued: 'In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it to control itself.' This is the genius of the American constitutional system — it acknowledges human sinfulness and builds safeguards against it."
+            ]
+        },
+        {
+            "heading": "The System of Checks and Balances",
+            "paragraphs": [
+                "The Constitution establishes three separate branches of government — Legislative (Congress), Executive (the President), and Judicial (the Courts) — each with distinct powers and the ability to check the others. This separation of powers is not an arbitrary design choice; it flows directly from the Biblical understanding of human nature.",
+                "Congress makes the laws, but the President can veto them. The President enforces the laws, but Congress controls the funding. The Courts interpret the laws, but judges are nominated by the President and confirmed by the Senate. Each branch has enough power to fulfill its function but not enough to dominate the others.",
+                "Additionally, the Constitution divides power between the federal government and the states (federalism), and the Bill of Rights places certain freedoms entirely beyond the reach of government. These layers of protection reflect the Founders' deep conviction that power concentrated in any single institution — no matter how democratically elected — will eventually be abused.",
+                "The entire system is designed around a Biblical truth: fallen human beings need external constraints because they cannot be trusted to restrain themselves. As Madison recognized, this is not a flaw in the system — it is the system's greatest strength."
+            ]
+        },
+        {
+            "heading": "Historical Warnings: When Checks Fail",
+            "paragraphs": [
+                "History provides abundant evidence of what happens when checks and balances are weakened or removed. The French Revolution began with noble ideals of 'liberty, equality, fraternity' but quickly descended into the Reign of Terror because it concentrated power in the hands of a revolutionary committee with no checks on its authority.",
+                "The twentieth century saw the rise of totalitarian regimes — Communist Russia, Nazi Germany, Maoist China — that systematically destroyed checks on government power. The result was the murder of over 100 million people. In each case, the regime rejected the Biblical view of human nature, believed that the right people with the right ideology could be trusted with absolute power, and proved catastrophically wrong.",
+                "Even in America, the Founders' design has been tested. The growth of executive power through executive orders, the expansion of the administrative state through unelected bureaucracies, and the tendency of courts to legislate from the bench are all examples of how the boundaries between branches can erode over time. Vigilant citizenship — understanding and defending the Constitution's design — is essential for preserving liberty."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read James Madison's quote from Federalist No. 51: 'If men were angels, no government would be necessary.' How does this statement reflect the Biblical doctrine of human depravity? Why is this understanding essential for designing good government?",
+            "guidance": "Consider what would change about government if people truly were perfect. Then think about why the Founders believed that restraining power was more important than empowering the right leaders."
+        },
+        {
+            "id": 2,
+            "question": "Explain how the system of checks and balances works in the U.S. Constitution. Choose one specific check (e.g., the presidential veto, Senate confirmation of judges) and explain how it prevents the abuse of power.",
+            "guidance": "Describe the specific mechanism you chose, then explain the problem it was designed to prevent. What could happen if this check were removed?"
+        },
+        {
+            "id": 3,
+            "question": "Compare the American Revolution's outcome with the French Revolution's outcome. How did each revolution's view of human nature influence its results? What role did Biblical principles play in shaping the American system?",
+            "guidance": "Think about the assumptions each revolution made about people and power. Consider why the American system has endured for over 200 years while the French Revolution collapsed into tyranny within a decade."
+        }
+    ]
+}

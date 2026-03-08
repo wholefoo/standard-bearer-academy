@@ -1,0 +1,89 @@
+{
+    "id": "1_1",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1.1: The Source of Authority",
+    "subtitle": "Government as a Divine Institution — Delegated Authority from God",
+    "scripture": "Romans 13:1-7",
+    "primary_source": "The Magna Carta (1215)",
+    "key_concepts": ["Government as a divine institution", "Delegated authority", "Social Contract vs. Covenantal view"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 13:1",
+                "text": "\"Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.\"",
+                "commentary": "The Apostle Paul teaches that civil government is not a human invention but an institution ordained by God Himself. This does not mean every government acts rightly, but that the principle of ordered authority comes from the Creator."
+            },
+            {
+                "reference": "Romans 13:4",
+                "text": "\"For the one in authority is God's servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason.\"",
+                "commentary": "Government's God-given purpose is to restrain evil and promote the good. When a government fulfills this role, it operates within its divine mandate. When it fails to do so, it acts outside the authority God has delegated to it."
+            },
+            {
+                "reference": "1 Peter 2:13-14",
+                "text": "\"Submit yourselves for the Lord's sake to every human authority: whether to the emperor, as the supreme authority, or to governors, who are sent by him to punish those who do wrong and to commend those who do right.\"",
+                "commentary": "Peter confirms that governmental authority has a specific, limited purpose: to punish wrongdoers and commend the righteous. This establishes the Biblical principle that government power is not unlimited — it has a defined scope set by God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Where Does Authority Come From?",
+            "paragraphs": [
+                "Every society throughout history has organized itself under some form of government. But this raises a fundamental question that has shaped the course of Western Civilization: Where does the authority to govern come from? How you answer this question determines everything about how you view the rights of individuals, the limits of government, and the nature of law itself.",
+                "In this lesson, we will examine two competing answers to this question: the secular theory of the 'Social Contract' and the Biblical concept of 'Covenantal Government.' Understanding the difference between these two views is essential for every citizen who wants to think clearly about liberty, justice, and the proper role of civil authority."
+            ]
+        },
+        {
+            "heading": "The Secular View: The Social Contract",
+            "paragraphs": [
+                "Enlightenment philosophers like Thomas Hobbes, John Locke, and Jean-Jacques Rousseau proposed that government originates from a 'social contract' — an agreement among people to form a society and surrender some individual freedoms in exchange for protection and order.",
+                "In Hobbes' view (Leviathan, 1651), life without government would be 'solitary, poor, nasty, brutish, and short.' People create government out of fear and self-interest. This view leads logically to a powerful, centralized state because the contract is driven by human necessity rather than divine design.",
+                "Locke offered a more moderate view, arguing that people have natural rights to life, liberty, and property that exist before government. Government's job is to protect these pre-existing rights. Locke's ideas strongly influenced America's Founding Fathers, but even Locke grounded his philosophy in 'the law of Nature,' which he acknowledged came from God.",
+                "Rousseau went further, arguing that the 'general will' of the people is the ultimate authority. This concept, taken to its logical conclusion, can justify majority tyranny — if the collective will is supreme, individual rights can be overridden by popular vote. The French Revolution, which embraced Rousseau's ideas, demonstrated the dangerous consequences of this thinking."
+            ]
+        },
+        {
+            "heading": "The Biblical View: Covenantal Government",
+            "paragraphs": [
+                "The Bible presents a fundamentally different understanding. According to Scripture, authority does not originate with the people — it originates with God. Romans 13:1 states plainly: 'There is no authority except that which God has established.' Government is not a human invention; it is a divine institution.",
+                "This means that rulers are not ultimately accountable to the people alone — they are accountable to God. They are, as Paul writes, 'God's servants' (Romans 13:4). Their authority is delegated, not absolute. Just as a manager in a company has real authority but is still answerable to the owner, civil magistrates have real authority but are answerable to the King of Kings.",
+                "The Covenantal view holds that God has established three primary institutions, each with its own sphere of authority: the Family (Genesis 2:24), the Church (Matthew 16:18), and Civil Government (Romans 13:1-7). Each has a distinct purpose, and none should overreach into the others' domain. When government tries to replace the family or control the church, it violates God's design.",
+                "This understanding of 'sphere sovereignty' — that each institution has its own God-given jurisdiction — is the foundation of limited government. Government is powerful within its proper sphere (punishing evil, maintaining order), but it has no authority to do whatever it pleases. Its power is bounded by God's law."
+            ]
+        },
+        {
+            "heading": "The Magna Carta: A Historical Turning Point",
+            "paragraphs": [
+                "The Magna Carta (1215) is one of the most important documents in the history of liberty. When the English barons forced King John to sign this charter, they were asserting a revolutionary principle: even the king is not above the law.",
+                "But where did this idea come from? The barons were deeply influenced by the Christian understanding that all earthly authority is delegated by God and therefore limited. If the king's power comes from God, then the king must exercise that power according to God's standards of justice. The Magna Carta declared that the king could not imprison free men, seize property, or impose taxes without lawful judgment — principles rooted in Biblical concepts of justice and due process.",
+                "This document planted the seeds that would eventually grow into constitutional government, the rule of law, and the protections of individual liberty that we enjoy today. The Magna Carta demonstrates that the Covenantal view of government — authority delegated by God and therefore limited — produces freedom, while the view that authority comes from human will alone tends toward tyranny."
+            ]
+        },
+        {
+            "heading": "Why This Matters Today",
+            "paragraphs": [
+                "The question of where authority comes from is not merely academic — it has real consequences for how we live. If government authority comes from God, then there are things government may not do, regardless of popular opinion. There are God-given rights that no legislature can legitimately take away. There is a higher law — God's law — against which all human laws must be measured.",
+                "If, on the other hand, authority comes only from the people, then the people (or their representatives) can redefine rights, restructure the family, and reshape morality by majority vote. History shows that societies which abandon the concept of a higher moral law inevitably drift toward either anarchy or tyranny.",
+                "As future citizens, voters, and leaders, you must understand that America's Founders largely embraced the Covenantal view. The Declaration of Independence affirms that rights come from 'the Creator' — not from government. The Constitution limits government power precisely because the Founders believed that human authority is delegated and therefore bounded. This heritage of ordered liberty under God is worth understanding, preserving, and defending."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Compare and contrast the 'Social Contract' view and the 'Covenantal' view of government. In your own words, explain the key difference in where each view says authority comes from.",
+            "guidance": "Consider how each view answers the question: 'Who or what is the ultimate source of a government's right to rule?' Think about the implications of each answer for individual rights and the limits of government power."
+        },
+        {
+            "id": 2,
+            "question": "Read Romans 13:1-7 carefully. According to this passage, what is the purpose of civil government? What does Paul mean when he calls rulers 'God's servants'? Does this mean Christians must obey every law a government passes? Why or why not?",
+            "guidance": "Think about the specific roles Paul assigns to government (punishing evil, commending good). Consider examples from Scripture where believers rightly resisted unjust government authority (Daniel 3, Acts 5:29)."
+        },
+        {
+            "id": 3,
+            "question": "How did the Magna Carta reflect Biblical principles of justice and limited government? Why is it significant that the document limited the king's power rather than simply replacing the king with a different ruler?",
+            "guidance": "Consider the difference between changing who has power and limiting power itself. How does the Christian concept of delegated authority support the idea that even kings must follow the law?"
+        }
+    ]
+}

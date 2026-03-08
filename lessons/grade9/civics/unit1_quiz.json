@@ -1,0 +1,127 @@
+{
+    "id": "unit1_quiz",
+    "title": "Unit 1: The Foundations of Liberty",
+    "description": "Test your understanding of the Biblical and Constitutional foundations of American government.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Romans 13:1, where does governmental authority ultimately come from?",
+            "options": [
+                "From the will of the majority",
+                "From military strength",
+                "From God",
+                "From a social contract among the people"
+            ],
+            "correct": 2,
+            "explanation": "Romans 13:1 states, 'There is no authority except that which God has established.' Governmental authority is delegated by God, not derived from human agreement alone."
+        },
+        {
+            "id": 2,
+            "question": "What is the key difference between the 'Social Contract' view and the 'Covenantal' view of government?",
+            "options": [
+                "The Social Contract says government comes from the people; the Covenantal view says it comes from God",
+                "The Social Contract is older than the Covenantal view",
+                "The Covenantal view supports monarchy while the Social Contract supports democracy",
+                "There is no meaningful difference between the two views"
+            ],
+            "correct": 0,
+            "explanation": "The Social Contract theory holds that government authority comes from an agreement among the people. The Covenantal view holds that authority originates with God and is delegated to human institutions."
+        },
+        {
+            "id": 3,
+            "question": "According to the Declaration of Independence, what is the PURPOSE of government?",
+            "options": [
+                "To redistribute wealth equally",
+                "To secure the God-given rights of the people",
+                "To establish a state religion",
+                "To ensure that everyone has the same outcome in life"
+            ],
+            "correct": 1,
+            "explanation": "The Declaration states that governments are instituted 'to secure these rights' — the unalienable rights endowed by the Creator, including Life, Liberty, and the Pursuit of Happiness."
+        },
+        {
+            "id": 4,
+            "question": "What does 'unalienable rights' mean?",
+            "options": [
+                "Rights that the government can take away if necessary",
+                "Rights that only apply to American citizens",
+                "Rights that cannot be rightfully taken away because they come from God",
+                "Rights that are guaranteed by the United Nations"
+            ],
+            "correct": 2,
+            "explanation": "Unalienable rights are rights endowed by the Creator that cannot be legitimately taken away by any human authority. They belong to every person by virtue of being made in God's image."
+        },
+        {
+            "id": 5,
+            "question": "Why did James Madison write, 'If men were angels, no government would be necessary'?",
+            "options": [
+                "Because he believed people were basically good",
+                "Because he understood the Biblical doctrine of human depravity and the need for checks on power",
+                "Because he wanted to abolish government entirely",
+                "Because he thought angels should rule instead of humans"
+            ],
+            "correct": 1,
+            "explanation": "Madison understood that because of human sinfulness (depravity), both government and checks on government are necessary. If people were perfect, no external controls would be needed."
+        },
+        {
+            "id": 6,
+            "question": "What system did Jethro advise Moses to establish in Exodus 18?",
+            "options": [
+                "A monarchy with absolute power",
+                "A direct democracy where everyone votes on everything",
+                "A system of delegated judges over thousands, hundreds, fifties, and tens",
+                "A military dictatorship to control the Israelites"
+            ],
+            "correct": 2,
+            "explanation": "Jethro advised Moses to delegate authority by appointing capable, God-fearing leaders over groups of thousands, hundreds, fifties, and tens — a precursor to representative, federalist governance."
+        },
+        {
+            "id": 7,
+            "question": "According to Deuteronomy 17:18-20, what was the king of Israel required to do?",
+            "options": [
+                "Rule however he saw fit, since he was chosen by God",
+                "Write a personal copy of God's law, read it daily, and obey it",
+                "Ignore the law if it conflicted with his authority",
+                "Create new laws to replace God's commandments"
+            ],
+            "correct": 1,
+            "explanation": "Even the king of Israel was under God's law. He had to copy it personally, study it daily, and obey it — establishing the principle that rulers are bound by a higher law."
+        },
+        {
+            "id": 8,
+            "question": "In 1 Samuel 8, when Israel demanded a king, what did God warn them would happen?",
+            "options": [
+                "The king would bring them prosperity and peace",
+                "The king would take their sons, daughters, property, and liberty",
+                "The king would eliminate all other forms of government",
+                "Nothing bad would happen because God would control the king"
+            ],
+            "correct": 1,
+            "explanation": "God warned through Samuel that a king would take their sons for his army, daughters for his service, property for his use, and a portion of their produce — a description of government overreach that remains relevant today."
+        },
+        {
+            "id": 9,
+            "question": "What is the doctrine of the Imago Dei, and why is it important for human rights?",
+            "options": [
+                "It teaches that some people are more valuable than others based on ability",
+                "It teaches that every person is made in God's image and therefore has inherent dignity and rights",
+                "It teaches that rights come from the government, not from God",
+                "It teaches that only religious people have rights"
+            ],
+            "correct": 1,
+            "explanation": "The Imago Dei (image of God) doctrine teaches that every human being is made in God's image (Genesis 1:27), which is the foundation of inherent human dignity and God-given rights."
+        },
+        {
+            "id": 10,
+            "question": "Why did the American Founders design a system of checks and balances?",
+            "options": [
+                "To make government as inefficient as possible",
+                "Because they believed that concentrated power, in the hands of fallen human beings, will inevitably be abused",
+                "Because they wanted to copy the British parliamentary system exactly",
+                "Because they believed the states should have no power at all"
+            ],
+            "correct": 1,
+            "explanation": "The Founders understood the Biblical principle of human depravity — that sinful people cannot be trusted with unchecked power. The system of checks and balances prevents any one branch from becoming tyrannical."
+        }
+    ]
+}

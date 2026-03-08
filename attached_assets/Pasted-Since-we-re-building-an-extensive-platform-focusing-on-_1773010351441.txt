@@ -1,0 +1,47 @@
+Since we're building an extensive platform, focusing on **High School Civics** is a great way to establish the "worldview foundation" for the older students while testing the more advanced features of your Replit app (like essay prompts and primary source analysis).
+
+Here is a targeted prompt you can use in Replit (or with an AI coder like Replit Agent) to build out this specific module.
+
+---
+
+### The "High School Civics" Module Prompt
+
+> "Build a 'High School Civics & Government' module for my Replit LMS.
+> **Content Guidelines:** This module must be written from a **politically conservative, Judeo-Evangelical Christian** perspective. It should emphasize:
+> * The **Biblical basis for civil government** (Romans 13, 1 Peter 2).
+> * **Originalist interpretation** of the U.S. Constitution.
+> * The concept of **Natural Law** and God-given rights as stated in the Declaration of Independence.
+> * **Limited Government** and the importance of individual liberty.
+> 
+> 
+> **Technical Requirements for Replit:**
+> 1. **Unit 1: The Foundations of Liberty.** Create a lesson page that includes a reading section, three 'Reflection Questions' for the student, and a 'Scripture Connection' sidebar.
+> 2. **Interactive Component:** Write a Python function (for `utils.py`) that generates a 5-question multiple-choice quiz based on the Unit 1 content.
+> 3. **Database Integration:** Provide the SQL schema to store 'Completed_Lessons' and 'Quiz_Scores' for a student profile.
+> 
+> 
+> **The Lesson Content:** Please generate a full text for 'Lesson 1.1: The Source of Authority,' contrasting the secular 'Social Contract' with the 'Covenantal' view of government."
+
+---
+
+### Curriculum Blueprint: High School Civics (Unit 1)
+
+Here is a sample of how the data should be structured in your platform to reflect your worldview:
+
+| Lesson Title | Key Concepts | Scripture Focus | Primary Source |
+| --- | --- | --- | --- |
+| **1.1: The Source of Authority** | Government as a divine institution; delegated authority. | Romans 13:1-7 | *The Magna Carta* |
+| **1.2: Rights vs. Privileges** | Rights come from the Creator, not the State; Unalienable rights. | Genesis 1:27 | *Declaration of Independence* |
+| **1.3: Stewardship of Power** | Human depravity (Original Sin) necessitates Checks and Balances. | Jeremiah 17:9 | *Federalist No. 51* |
+| **1.4: The Hebrew Republic** | Examining the governance of Ancient Israel as a precursor to modern republics. | Exodus 18:21 | *Exodus* / Moses' System |
+
+---
+
+### Technical Tip for Replit
+
+Since you want **complete** courseware (PreK-12), the file size will eventually become huge.
+
+* **Don't hardcode the lessons.** Instead, create a `lessons` folder in Replit and store each lesson as a **JSON or Markdown file**.
+* Your app can then "pull" the content based on the grade level and subject. This makes it easy to update the worldview-specific language across the entire platform without digging through thousands of lines of code.
+
+**Would you like me to generate the specific Python code to 'pull' these Markdown lessons into a web dashboard, or should we move on to the Preschool 'Alphabet & Scripture' module next?**

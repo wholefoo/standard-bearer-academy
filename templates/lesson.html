@@ -8,10 +8,10 @@
             <a href="/">Home</a>
             <span>&rsaquo;</span> <a href="/dashboard">Dashboard</a>
             <span>&rsaquo;</span> <a href="/course/{{ grade }}/{{ subject }}">{{ grade_info.name }} {{ subject_info.name }}</a>
-            <span>&rsaquo;</span> Lesson {{ lesson.id }}
+            <span>&rsaquo;</span> Lesson {{ lesson.lesson_number }}
         </div>
-        <h2>Lesson {{ lesson.id }}</h2>
-        <p>{{ grade_info.name }} {{ subject_info.name }} &mdash; The Days of Creation</p>
+        <h2>Lesson {{ lesson.lesson_number }}</h2>
+        <p>{{ grade_info.name }} {{ subject_info.name }}{% if course_data %} &mdash; {{ course_data.title }}{% endif %}</p>
     </div>
 </div>
 
@@ -20,10 +20,12 @@
         <div class="lesson-detail">
             <h2>{{ lesson.title }}</h2>
 
+            {% if lesson.memory_verse is defined %}
             <div class="verse-box">
                 <span class="verse-label">Memory Verse</span>
                 {{ lesson.memory_verse }}
             </div>
+            {% endif %}
 
             <div class="lesson-section">
                 <h3>Learning Objective</h3>
@@ -37,11 +39,14 @@
                 {% endfor %}
             </div>
 
+            {% if lesson.activity is defined %}
             <div class="activity-box">
                 <div class="label">Hands-On Activity</div>
                 <p>{{ lesson.activity }}</p>
             </div>
+            {% endif %}
 
+            {% if lesson.discussion is defined %}
             <div class="lesson-section">
                 <h3>Discussion Questions</h3>
                 <ul>
@@ -50,19 +55,20 @@
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
         </div>
 
         <div style="display: flex; justify-content: space-between; align-items: center;">
-            {% if lesson.id > 1 %}
-            <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id - 1 }}" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">&larr; Previous Lesson</a>
+            {% if prev_lesson %}
+            <a href="/lesson/{{ grade }}/{{ subject }}/{{ prev_lesson.id }}" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">&larr; Previous Lesson</a>
             {% else %}
             <span></span>
             {% endif %}
 
             <a href="/course/{{ grade }}/{{ subject }}" class="btn btn-sm" style="color: var(--text-light);">Back to Course</a>
 
-            {% if lesson.id < 7 %}
-            <a href="/lesson/{{ grade }}/{{ subject }}/{{ lesson.id + 1 }}" class="btn btn-primary">Next Lesson &rarr;</a>
+            {% if next_lesson %}
+            <a href="/lesson/{{ grade }}/{{ subject }}/{{ next_lesson.id }}" class="btn btn-primary">Next Lesson &rarr;</a>
             {% else %}
             <a href="/quiz/{{ grade }}/{{ subject }}" class="btn btn-success">Take the Quiz &rarr;</a>
             {% endif %}

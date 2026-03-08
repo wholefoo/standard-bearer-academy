@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "civics",
+    "title": "Civics & Government",
+    "description": "The Biblical and Constitutional Foundations of American Liberty",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Foundations of Liberty",
+            "lessons": ["1_1", "1_2", "1_3", "1_4"]
+        }
+    ],
+    "quiz_id": "unit1_quiz"
+}
