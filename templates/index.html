@@ -25,24 +25,6 @@
     </div>
 </section>
 
-<section class="section" style="padding-top: 0;">
-    <div class="container">
-        <div class="section-title">
-            <h2>Choose Your Role</h2>
-            <p>Select how you will be using Standard Bearer Academy today</p>
-        </div>
-        <div class="role-grid">
-            {% for role_key, role in roles.items() %}
-            <div class="role-card">
-                <h3>{{ role.name }}</h3>
-                <p>{{ role.description }}</p>
-                <a href="/dashboard?role={{ role_key }}" class="btn btn-primary btn-sm">Enter as {{ role.name.split('/')[0].strip() if '/' in role.name else role.name }}</a>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-</section>
-
 <section class="section" style="background: white; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
     <div class="container">
         <div class="section-title">
