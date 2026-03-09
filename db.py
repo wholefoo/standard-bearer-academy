@@ -9,7 +9,15 @@ logger = logging.getLogger(__name__)
 def get_db():
     database_url = os.environ.get("DATABASE_URL")
     if not database_url:
-        raise ConnectionError("DATABASE_URL environment variable is not set")
+        pghost = os.environ.get("PGHOST")
+        pgport = os.environ.get("PGPORT", "5432")
+        pguser = os.environ.get("PGUSER")
+        pgpassword = os.environ.get("PGPASSWORD")
+        pgdatabase = os.environ.get("PGDATABASE")
+        if pghost and pguser and pgdatabase:
+            database_url = f"postgresql://{pguser}:{pgpassword}@{pghost}:{pgport}/{pgdatabase}"
+        else:
+            raise ConnectionError("No database connection info available")
     return psycopg2.connect(database_url, cursor_factory=RealDictCursor)
 
 
