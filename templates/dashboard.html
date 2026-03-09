@@ -19,22 +19,9 @@
         </div>
         <div class="grade-grid" style="margin-bottom: 48px;">
             {% for grade_key, grade in grades.items() %}
-            <a href="#" class="grade-card grade-selector" data-grade="{{ grade_key }}" style="text-decoration:none;">
+            <a href="/grade/{{ grade_key }}" class="grade-card" style="text-decoration:none;">
                 <div class="grade-num">{{ grade.short }}</div>
                 <div class="grade-label">{{ grade.name }}</div>
-            </a>
-            {% endfor %}
-        </div>
-
-        <div class="section-title" style="margin-bottom: 32px;">
-            <h2>Subjects</h2>
-            <p>Select a grade above, then click a subject to view its course</p>
-        </div>
-        <div class="subject-grid" style="margin-bottom: 48px;">
-            {% for subj_key, subj in subjects.items() %}
-            <a href="/course/grade1/{{ subj_key }}" class="subject-card subject-link" data-subject="{{ subj_key }}" style="text-decoration:none; color: inherit;">
-                <div class="subject-icon">{{ subj.icon }}</div>
-                <h3>{{ subj.name }}</h3>
             </a>
             {% endfor %}
         </div>
@@ -63,43 +50,3 @@
 </section>
 {% endblock %}
 
-{% block scripts %}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    let selectedGrade = urlParams.get('grade') || 'grade1';
-
-    function selectGrade(gradeKey) {
-        selectedGrade = gradeKey;
-        document.querySelectorAll('.grade-selector').forEach(c => {
-            c.style.borderColor = '';
-            c.style.background = '';
-        });
-        const activeCard = document.querySelector('[data-grade="' + gradeKey + '"]');
-        if (activeCard) {
-            activeCard.style.borderColor = 'var(--primary)';
-            activeCard.style.background = '#f0f4fa';
-        }
-        document.querySelectorAll('.subject-link').forEach(link => {
-            link.href = '/course/' + selectedGrade + '/' + link.dataset.subject;
-        });
-    }
-
-    document.querySelectorAll('.grade-selector').forEach(card => {
-        card.addEventListener('click', function(e) {
-            e.preventDefault();
-            selectGrade(this.dataset.grade);
-        });
-    });
-
-    selectGrade(selectedGrade);
-
-    if (urlParams.get('grade')) {
-        const gradeSection = document.querySelector('.grade-grid');
-        if (gradeSection) {
-            gradeSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-    }
-});
-</script>
-{% endblock %}
