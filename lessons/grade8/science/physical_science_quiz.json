@@ -1,0 +1,103 @@
+{
+    "id": "physical_science_quiz",
+    "title": "Physical Science — Laws of the Creator",
+    "description": "Test your understanding of matter, energy, forces, waves, and light.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is matter?",
+            "options": [
+                "Anything that produces light",
+                "Anything that has mass and takes up space",
+                "Only solid objects",
+                "Energy in motion"
+            ],
+            "correct": 1,
+            "explanation": "Matter is defined as anything that has mass and takes up space. This includes solids, liquids, and gases."
+        },
+        {
+            "id": 2,
+            "question": "Why does ice float on water?",
+            "options": [
+                "Ice has more mass than water",
+                "Ice is colder than water",
+                "Ice is less dense than liquid water",
+                "Water pushes ice upward with magnetic force"
+            ],
+            "correct": 2,
+            "explanation": "Ice is less dense than liquid water because water expands when it freezes. This unique property, designed by God, protects aquatic life by insulating water beneath the ice."
+        },
+        {
+            "id": 3,
+            "question": "What determines what element an atom is?",
+            "options": [
+                "The number of electrons",
+                "The number of neutrons",
+                "The number of protons",
+                "The size of the atom"
+            ],
+            "correct": 2,
+            "explanation": "The atomic number — the number of protons in the nucleus — determines the identity of an element. Every atom with 6 protons is carbon, every atom with 79 protons is gold, etc."
+        },
+        {
+            "id": 4,
+            "question": "Newton's First Law of Motion describes the concept of:",
+            "options": [
+                "Gravity",
+                "Inertia",
+                "Energy conservation",
+                "Wave frequency"
+            ],
+            "correct": 1,
+            "explanation": "Newton's First Law describes inertia — the tendency of an object at rest to stay at rest, and an object in motion to stay in motion, unless acted upon by an unbalanced force."
+        },
+        {
+            "id": 5,
+            "question": "The Law of Conservation of Energy states that energy:",
+            "options": [
+                "Can be created but not destroyed",
+                "Is always increasing in the universe",
+                "Cannot be created or destroyed, only transformed",
+                "Only exists in the form of heat"
+            ],
+            "correct": 2,
+            "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed by natural processes — it can only change from one form to another."
+        },
+        {
+            "id": 6,
+            "question": "Sound waves are what type of wave?",
+            "options": [
+                "Transverse waves",
+                "Electromagnetic waves",
+                "Longitudinal waves",
+                "Surface waves"
+            ],
+            "correct": 2,
+            "explanation": "Sound waves are longitudinal waves — the air particles compress and expand in the same direction that the sound travels."
+        },
+        {
+            "id": 7,
+            "question": "What happens when light passes from air into water?",
+            "options": [
+                "It speeds up and bends toward the surface",
+                "It slows down and bends, a process called refraction",
+                "It stops completely",
+                "It changes color permanently"
+            ],
+            "correct": 1,
+            "explanation": "When light passes from air into water, it slows down and bends (refracts). This is why objects underwater appear to be in a slightly different position than they actually are."
+        },
+        {
+            "id": 8,
+            "question": "According to Newton's Second Law, the formula F = ma means that:",
+            "options": [
+                "Force equals mass divided by acceleration",
+                "More massive objects always move faster",
+                "Force equals mass times acceleration",
+                "Acceleration is independent of force"
+            ],
+            "correct": 2,
+            "explanation": "F = ma means that force equals mass times acceleration. A greater force produces greater acceleration, and a more massive object requires more force to achieve the same acceleration."
+        }
+    ]
+}

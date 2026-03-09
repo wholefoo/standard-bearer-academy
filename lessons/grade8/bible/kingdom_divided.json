@@ -1,0 +1,79 @@
+{
+    "id": "kingdom_divided",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "The Kingdom United and Divided",
+    "subtitle": "From Saul to Solomon and the Division of the Kingdom",
+    "scripture": "1 Samuel 8-16; 2 Samuel 7; 1 Kings 1-12",
+    "primary_source": "2 Samuel 7:16 — The Davidic Covenant",
+    "key_concepts": ["The Davidic Covenant", "The dangers of rejecting God's rule", "Sin and consequences in leadership", "The temple and God's dwelling", "The kingdom divided by disobedience"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Samuel 8:7",
+                "text": "\"And the LORD told him: 'Listen to all that the people are saying to you; it is not you they have rejected, but they have rejected me as their king.'\"",
+                "commentary": "When Israel demanded a human king 'like all the other nations,' God told Samuel that this was fundamentally a rejection of God's own kingship over Israel. The desire to be like the world rather than distinct under God's rule is a recurring temptation throughout Scripture."
+            },
+            {
+                "reference": "2 Samuel 7:16",
+                "text": "\"Your house and your kingdom will endure forever before me; your throne will be established forever.\"",
+                "commentary": "The Davidic Covenant is one of the most significant promises in the Bible. God promised David that his dynasty would endure forever — a promise that finds its ultimate fulfillment in Jesus Christ, the 'Son of David' who sits on an eternal throne."
+            },
+            {
+                "reference": "1 Kings 11:11",
+                "text": "\"So the LORD said to Solomon, 'Since this is your attitude and you have not kept my covenant and my decrees, which I commanded you, I will most certainly tear the kingdom away from you and give it to one of your subordinates.'\"",
+                "commentary": "Solomon's unfaithfulness — particularly his tolerance of idolatry through his foreign wives — brought severe consequences. God's judgment on Solomon demonstrates that even the wisest and most blessed leader is not above God's law."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Israel Demands a King",
+            "paragraphs": [
+                "The period of the Judges ended with Israel in spiritual crisis. The prophet Samuel served as the last judge, faithfully leading the nation. But when Samuel grew old, the elders of Israel demanded a king 'such as all the other nations have' (1 Samuel 8:5).",
+                "God told Samuel that this demand was not merely a rejection of Samuel's leadership but a rejection of God's own kingship. Nevertheless, God granted their request, warning them through Samuel about the costs of human monarchy: taxation, military conscription, and the loss of freedoms. This passage is one of the Bible's most important warnings about the tendency of government to expand its power at the expense of individual liberty."
+            ]
+        },
+        {
+            "heading": "Saul and David: Two Models of Kingship",
+            "paragraphs": [
+                "Saul, Israel's first king, began well but quickly revealed his character through disobedience and pride. When confronted by Samuel, Saul made excuses rather than repenting. God rejected Saul's dynasty and chose David — 'a man after God's own heart' — to replace him.",
+                "David, though deeply flawed (his sins with Bathsheba and the murder of Uriah were grievous), demonstrated genuine repentance when confronted with his sin (2 Samuel 12; Psalm 51). The contrast between Saul and David illustrates a crucial principle: God does not demand perfection from leaders, but He does require genuine humility and repentance.",
+                "God made a covenant with David that surpassed all expectations: 'Your house and your kingdom will endure forever before me; your throne will be established forever' (2 Samuel 7:16). This Davidic Covenant is the foundation of all messianic prophecy — the promise that a descendant of David would reign eternally. Jesus Christ, 'the Son of David,' is the fulfillment of this promise."
+            ]
+        },
+        {
+            "heading": "Solomon: Wisdom, Glory, and Failure",
+            "paragraphs": [
+                "David's son Solomon began his reign by asking God for wisdom, and God granted him wisdom beyond all others. Solomon built the magnificent Temple in Jerusalem — the permanent dwelling place of God's presence that replaced the portable Tabernacle. His reign was marked by unprecedented peace, prosperity, and international influence.",
+                "Yet Solomon's story is also a tragic warning. Despite his wisdom, Solomon multiplied wives from pagan nations who 'turned his heart after other gods' (1 Kings 11:4). He violated the specific instructions God had given for Israel's kings in Deuteronomy 17. His unfaithfulness brought God's judgment: the kingdom would be torn in two after his death.",
+                "Solomon's failure teaches that knowledge and wisdom alone are insufficient — faithfulness to God's covenant requires obedience from the heart, not merely intellectual understanding."
+            ]
+        },
+        {
+            "heading": "The Kingdom Divided",
+            "paragraphs": [
+                "After Solomon's death, his son Rehoboam foolishly refused to lighten the heavy burdens Solomon had placed on the people. The ten northern tribes rebelled and formed the kingdom of Israel under Jeroboam, while only Judah and Benjamin remained loyal to David's dynasty, forming the kingdom of Judah.",
+                "Jeroboam immediately established idol worship in the northern kingdom to prevent his people from traveling to Jerusalem's Temple. This act of political expediency led the northern kingdom into persistent idolatry from which it never recovered. The division of the kingdom was both a consequence of Solomon's sin and a fulfillment of God's prophetic warning.",
+                "From this point forward, the Old Testament traces two parallel histories: the northern kingdom of Israel, which had no faithful king and would fall to Assyria in 722 BC, and the southern kingdom of Judah, which had occasional righteous kings but would eventually fall to Babylon in 586 BC. Both kingdoms' stories demonstrate the devastating consequences of covenant unfaithfulness."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did God consider Israel's demand for a king a rejection of His own rule? What does this teach us about the temptation to be 'like the world' rather than following God's distinct plan?",
+            "guidance": "Consider 1 Samuel 8:5-7. Think about situations today where Christians might be tempted to adopt worldly patterns rather than following God's design."
+        },
+        {
+            "id": 2,
+            "question": "Compare and contrast the responses of Saul and David when confronted with their sin. What makes David 'a man after God's own heart' despite his serious failures?",
+            "guidance": "Read 1 Samuel 15:13-23 (Saul's excuses) and Psalm 51 (David's repentance). Focus on the difference between making excuses and genuinely repenting."
+        },
+        {
+            "id": 3,
+            "question": "How does the Davidic Covenant (2 Samuel 7:16) point to Jesus Christ? Why is it significant that Jesus is called 'the Son of David'?",
+            "guidance": "Consider how the promise of an eternal throne could only be fulfilled by someone who reigns forever. Look at how the New Testament connects Jesus to David's line (Matthew 1:1; Luke 1:32-33)."
+        }
+    ]
+}

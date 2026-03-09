@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "science",
+    "title": "Environmental Science — Stewardship of God's Earth",
+    "description": "A Biblical approach to environmental science, exploring ecosystems, resources, and humanity's God-given mandate to be faithful stewards of creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Stewardship of God's Earth",
+            "lessons": ["ecosystems_design", "water_resources", "atmosphere_climate", "soil_agriculture", "energy_resources", "conservation_stewardship"]
+        }
+    ],
+    "quiz_id": "environmental_quiz"
+}

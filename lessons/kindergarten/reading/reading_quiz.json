@@ -1,0 +1,42 @@
+{
+    "id": "reading_quiz",
+    "title": "Phonics and Bible Stories Quiz",
+    "description": "Let's see what you learned about letters, sounds, and reading!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which of these is a vowel?",
+            "options": ["B", "A", "D", "G"],
+            "correct": 1,
+            "explanation": "A is a vowel! The five vowels are A, E, I, O, and U."
+        },
+        {
+            "id": 2,
+            "question": "What sound does the letter B make?",
+            "options": ["sss", "mmm", "buh", "tuh"],
+            "correct": 2,
+            "explanation": "B says 'buh' like in Bible and boy!"
+        },
+        {
+            "id": 3,
+            "question": "When you put sounds together to make a word, it is called:",
+            "options": ["Sorting", "Counting", "Blending", "Coloring"],
+            "correct": 2,
+            "explanation": "Blending is when you put sounds together to make a word, like c-a-t makes cat!"
+        },
+        {
+            "id": 4,
+            "question": "Which of these is a sight word?",
+            "options": ["Elephant", "The", "Dinosaur", "Butterfly"],
+            "correct": 1,
+            "explanation": "'The' is one of the most common sight words! We see it in almost every sentence."
+        },
+        {
+            "id": 5,
+            "question": "What does the Bible sentence 'God is love' teach us?",
+            "options": ["God is far away", "God does not care", "God loves us very much", "God is sleeping"],
+            "correct": 2,
+            "explanation": "The Bible tells us 'God is love' in 1 John 4:8. God loves us very, very much!"
+        }
+    ]
+}

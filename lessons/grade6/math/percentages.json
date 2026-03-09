@@ -1,0 +1,76 @@
+{
+    "id": "percentages",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Percentages",
+    "subtitle": "Understanding Parts per Hundred and Their Applications",
+    "scripture": "Genesis 14:20",
+    "primary_source": "Ancient Roman Tax Records and the Development of Percent",
+    "key_concepts": ["Percent as a ratio per 100", "Converting between fractions, decimals, and percents", "Finding percentages of numbers", "Tithes and giving"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 14:20",
+                "text": "\"And praise be to God Most High, who delivered your enemies into your hand. Then Abram gave him a tenth of everything.\"",
+                "commentary": "Abraham gave a tithe — one tenth, or 10% — to Melchizedek. The concept of a tithe is fundamentally a percentage. Understanding percentages helps us comprehend God's principles of giving and stewardship."
+            },
+            {
+                "reference": "Malachi 3:10",
+                "text": "\"Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says the LORD Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.\"",
+                "commentary": "God invites His people to trust Him with their resources through faithful percentage-based giving. The tithe is 10%, but God's blessings in return overflow beyond measure."
+            },
+            {
+                "reference": "2 Corinthians 9:7",
+                "text": "\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"",
+                "commentary": "While the tithe gives us a percentage guideline, giving is ultimately a matter of the heart. Understanding percentages helps us plan our giving thoughtfully, but generosity flows from gratitude to God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Percentage?",
+            "paragraphs": [
+                "A percentage (or percent) is a ratio that compares a number to 100. The word 'percent' comes from the Latin 'per centum,' meaning 'per hundred.' When we say 25%, we mean 25 out of 100, or 25/100. Percentages give us a standardized way to express parts of a whole, making it easy to compare different quantities.",
+                "Percentages are used everywhere: in shopping (20% off sale), banking (3% interest rate), grades (scored 85%), sports (free-throw percentage of 75%), and nutrition (10% of daily value). Understanding percentages is essential for making wise decisions about money, health, and many other areas of life."
+            ]
+        },
+        {
+            "heading": "Converting Between Fractions, Decimals, and Percentages",
+            "paragraphs": [
+                "Fractions, decimals, and percentages are three different ways of expressing the same value. To convert a fraction to a percent, divide the numerator by the denominator and multiply by 100. For example, 3/4 = 0.75 = 75%. To convert a decimal to a percent, multiply by 100 (move the decimal point two places to the right). For example, 0.35 = 35%.",
+                "To convert a percent to a decimal, divide by 100 (move the decimal point two places to the left). For example, 42% = 0.42. To convert a percent to a fraction, write the percent over 100 and simplify. For example, 60% = 60/100 = 3/5. Being able to move fluently between these three forms is a critical math skill."
+            ]
+        },
+        {
+            "heading": "Finding a Percentage of a Number",
+            "paragraphs": [
+                "To find a percentage of a number, convert the percent to a decimal and multiply. For example, what is 15% of 200? Convert 15% to 0.15, then multiply: 0.15 × 200 = 30. So 15% of 200 is 30.",
+                "This skill has many practical applications. If a $50 item is 20% off, the discount is 0.20 × $50 = $10, so the sale price is $40. If you earn $500 and want to tithe 10%, you would give 0.10 × $500 = $50. Being able to calculate percentages quickly helps you make informed decisions every day."
+            ]
+        },
+        {
+            "heading": "The Tithe: God's Percentage Principle",
+            "paragraphs": [
+                "The tithe is one of the oldest and most well-known examples of a percentage in the Bible. Abraham gave a tithe — 10% — to Melchizedek (Genesis 14:20). Later, God commanded the Israelites to tithe to support the Levites, the priests, and the poor (Leviticus 27:30, Deuteronomy 14:28-29).",
+                "The principle of the tithe teaches us something important about percentages and proportional thinking: the amount you give is proportional to what you have received. A person who earns $1,000 per month would tithe $100. A person who earns $5,000 would tithe $500. The percentage stays the same, but the amount adjusts to the person's income. This proportional approach to giving is fair, generous, and built on the mathematical concept of percentages."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why do you think God chose a percentage (10%) for the tithe rather than a fixed dollar amount? How does proportional giving reflect God's fairness?",
+            "guidance": "Consider that a fixed amount would be easy for the wealthy but hard for the poor. Think about how a percentage-based approach adjusts to each person's ability."
+        },
+        {
+            "id": 2,
+            "question": "A store advertises '30% off everything.' If a jacket costs $80, what is the sale price? Show your work and explain each step.",
+            "guidance": "Calculate the discount: 0.30 × $80 = $24. Subtract from the original price: $80 - $24 = $56. Explain why you convert the percent to a decimal before multiplying."
+        },
+        {
+            "id": 3,
+            "question": "How does understanding percentages help you be a better steward of your money? Give examples of how you might use percentage calculations in your daily life.",
+            "guidance": "Think about budgeting (allocating percentages to saving, giving, and spending), understanding sales, calculating tips, and evaluating financial decisions."
+        }
+    ]
+}

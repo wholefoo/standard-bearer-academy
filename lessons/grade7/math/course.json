@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "math",
+    "title": "Pre-Algebra — Foundations of Mathematical Thinking",
+    "description": "Build the essential pre-algebra skills of integers, expressions, equations, ratios, and proportions, recognizing the order and logic God built into the language of mathematics.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Pre-Algebra — Foundations of Mathematical Thinking",
+            "lessons": ["integers", "expressions", "equations", "ratios", "proportions", "graphing"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "civics_quiz",
+    "title": "Rules and Responsibilities Quiz",
+    "description": "Let's see what you learned about being a good helper and following rules!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Why do we have rules?",
+            "options": ["To make us sad", "To keep us safe and help us get along", "Rules are not important", "To be mean"],
+            "correct": 1,
+            "explanation": "Rules help keep us safe and help us get along with each other! God gave us rules because He loves us."
+        },
+        {
+            "id": 2,
+            "question": "What is one way to be a helper at home?",
+            "options": ["Leave toys on the floor", "Pick up your toys", "Never listen", "Hide from chores"],
+            "correct": 1,
+            "explanation": "Picking up your toys is a great way to help at home! God is happy when we serve our family."
+        },
+        {
+            "id": 3,
+            "question": "Who are community helpers?",
+            "options": ["Firefighters, police, and doctors", "Only people who play games", "Nobody helps the community", "Only kids"],
+            "correct": 0,
+            "explanation": "Firefighters, police officers, and doctors are all community helpers! God gives them special gifts to serve others."
+        },
+        {
+            "id": 4,
+            "question": "What is the Golden Rule?",
+            "options": ["Always go first", "Treat others the way you want to be treated", "Never share anything", "Only help yourself"],
+            "correct": 1,
+            "explanation": "The Golden Rule says 'Do to others what you would have them do to you' (Matthew 7:12). Treat others the way you want to be treated!"
+        },
+        {
+            "id": 5,
+            "question": "What makes God happy?",
+            "options": ["Being mean to others", "Never following rules", "Being kind and helping others", "Ignoring people"],
+            "correct": 2,
+            "explanation": "God is happy when we are kind and help others! Being a good helper shows God's love to everyone around us."
+        }
+    ]
+}

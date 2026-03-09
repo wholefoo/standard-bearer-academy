@@ -1,0 +1,82 @@
+{
+    "id": "cell_processes",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Cell Processes — Energy and Reproduction",
+    "subtitle": "How Cells Sustain Life Through Divinely Designed Processes",
+    "scripture": "Colossians 1:17",
+    "primary_source": "Hans Krebs' Discovery of the Citric Acid Cycle (1937)",
+    "key_concepts": ["Photosynthesis", "Cellular respiration", "Mitosis and meiosis", "ATP as energy currency"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The molecular processes within cells — from the precise folding of enzymes to the orderly division of chromosomes — are sustained moment by moment by Christ. The consistency and reliability of these processes reflect His faithful sustaining power."
+            },
+            {
+                "reference": "Genesis 1:11-12",
+                "text": "\"Then God said, 'Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.' And it was so.\"",
+                "commentary": "God designed plants with the ability to capture sunlight and convert it into food through photosynthesis — a process so complex that scientists still cannot fully replicate it artificially."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Living Cell at Work",
+            "paragraphs": [
+                "A cell is not a static structure — it is a dynamic, bustling center of activity. Every second, thousands of chemical reactions occur within each cell, converting nutrients into energy, building new molecules, repairing damage, and — when the time is right — dividing to produce new cells. These processes are essential to life, and their precision and coordination point unmistakably to intentional design.",
+                "In this lesson, we will examine two of the most important cellular processes: how cells obtain energy and how they reproduce. Both reveal layers of complexity that defy naturalistic explanation."
+            ]
+        },
+        {
+            "heading": "Photosynthesis: Capturing the Sun's Energy",
+            "paragraphs": [
+                "Photosynthesis is the process by which green plants, algae, and certain bacteria convert light energy into chemical energy stored in glucose. This process occurs primarily in the chloroplasts of plant cells and can be summarized by the equation: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂.",
+                "Photosynthesis involves two major stages: the light-dependent reactions (which occur in the thylakoid membranes and capture light energy to produce ATP and NADPH) and the Calvin Cycle (which uses that energy to fix carbon dioxide into glucose). The molecular machinery involved — including Photosystem I, Photosystem II, and the enzyme RuBisCO — is extraordinarily complex and precisely tuned.",
+                "Despite decades of research and billions of dollars in funding, scientists have been unable to create an artificial system that matches the efficiency of a single leaf. This should give us pause: if the best human minds cannot replicate photosynthesis, is it reasonable to believe it arose by undirected chemical accidents?"
+            ]
+        },
+        {
+            "heading": "Cellular Respiration: Powering the Cell",
+            "paragraphs": [
+                "Cellular respiration is the complement of photosynthesis — the process by which cells break down glucose to release energy in the form of ATP (adenosine triphosphate). It occurs in three stages: glycolysis (in the cytoplasm), the Krebs Cycle (in the mitochondrial matrix), and the electron transport chain (on the inner mitochondrial membrane).",
+                "A single molecule of glucose can yield up to 36-38 molecules of ATP through this process. The electron transport chain alone involves a series of protein complexes that pass electrons in precise sequence, pumping hydrogen ions across a membrane to drive ATP synthase — a molecular turbine that literally spins to produce ATP. This rotary motor is one of the most remarkable molecular machines ever discovered.",
+                "The interdependence of photosynthesis and cellular respiration — plants produce oxygen and glucose that animals need, while animals produce carbon dioxide and water that plants need — reveals an ecological design of extraordinary elegance, consistent with a Creator who designed all living things to work together."
+            ]
+        },
+        {
+            "heading": "Mitosis: Faithful Cell Division",
+            "paragraphs": [
+                "Mitosis is the process by which a cell divides to produce two genetically identical daughter cells. It is essential for growth, tissue repair, and maintenance of the body. Mitosis proceeds through four phases: prophase, metaphase, anaphase, and telophase, followed by cytokinesis (division of the cytoplasm).",
+                "During mitosis, the cell must accurately duplicate all of its DNA (over 3 billion base pairs in human cells) and distribute it equally to both daughter cells. The accuracy of this process is remarkable — the error rate is approximately one mistake per billion base pairs copied, thanks to sophisticated proofreading and repair mechanisms built into the DNA replication machinery.",
+                "The precision of mitosis reflects the faithfulness of the Creator who designed it. Our bodies produce millions of new cells every day, and the overwhelming majority are perfect copies — a testament to the quality of the original design."
+            ]
+        },
+        {
+            "heading": "Meiosis: The Basis of Sexual Reproduction",
+            "paragraphs": [
+                "Meiosis is a specialized form of cell division that produces gametes (sex cells) with half the normal number of chromosomes. When two gametes unite at fertilization, the full chromosome number is restored. This process ensures genetic diversity within each kind of organism while maintaining the stability of the species.",
+                "Meiosis includes two rounds of division (meiosis I and meiosis II) and introduces genetic variation through crossing over (exchange of DNA segments between homologous chromosomes) and independent assortment (random distribution of maternal and paternal chromosomes). These mechanisms produce an enormous number of possible genetic combinations — over 8 million for humans from independent assortment alone.",
+                "This built-in variability allows organisms to adapt to changing environments — a process often misidentified as 'evolution' but more accurately described as variation within created kinds. God designed His creatures with the genetic flexibility to thrive in diverse conditions, while remaining true to their original kind."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain how photosynthesis and cellular respiration are complementary processes. What does their interdependence suggest about the design of ecosystems?",
+            "guidance": "Trace the inputs and outputs of each process and show how they form a cycle. Consider whether such interdependence could arise gradually or must have been designed together."
+        },
+        {
+            "id": 2,
+            "question": "Describe the ATP synthase molecular motor. Why is it significant that a molecular machine operates on the same rotary principle as human-designed motors?",
+            "guidance": "Think about what we know from everyday experience about the origin of complex machines and motors. Apply that reasoning to molecular machines within the cell."
+        },
+        {
+            "id": 3,
+            "question": "How does meiosis provide genetic variation while maintaining the stability of created kinds? Why is this distinction important?",
+            "guidance": "Consider the difference between variation within a kind (e.g., different dog breeds) and the hypothetical transformation from one kind to another. How does meiosis support the former without requiring the latter?"
+        }
+    ]
+}

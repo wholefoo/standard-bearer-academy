@@ -1,0 +1,63 @@
+{
+    "id": "math_quiz",
+    "title": "Multiplication and Division Quiz",
+    "description": "Test your knowledge of multiplication and division!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is 4 × 7?",
+            "options": ["21", "24", "28", "32"],
+            "correct": 2,
+            "explanation": "4 × 7 = 28. You can think of it as 4 groups of 7 or skip count by 7 four times: 7, 14, 21, 28."
+        },
+        {
+            "id": 2,
+            "question": "A garden has 3 rows with 6 flowers in each row. How many flowers are there?",
+            "options": ["9", "12", "18", "24"],
+            "correct": 2,
+            "explanation": "3 rows × 6 flowers = 18 flowers. This is an array problem."
+        },
+        {
+            "id": 3,
+            "question": "What property says that 5 × 3 is the same as 3 × 5?",
+            "options": ["Associative property", "Commutative property", "Identity property", "Distributive property"],
+            "correct": 1,
+            "explanation": "The commutative property of multiplication says that the order of the numbers does not change the answer."
+        },
+        {
+            "id": 4,
+            "question": "What is 45 ÷ 9?",
+            "options": ["4", "5", "6", "7"],
+            "correct": 1,
+            "explanation": "45 ÷ 9 = 5, because 9 × 5 = 45."
+        },
+        {
+            "id": 5,
+            "question": "If you share 20 stickers equally among 4 friends, how many does each friend get?",
+            "options": ["4", "5", "6", "8"],
+            "correct": 1,
+            "explanation": "20 ÷ 4 = 5 stickers for each friend."
+        },
+        {
+            "id": 6,
+            "question": "What is the remainder when you divide 17 by 5?",
+            "options": ["0", "1", "2", "3"],
+            "correct": 2,
+            "explanation": "17 ÷ 5 = 3 remainder 2, because 5 × 3 = 15 and 17 - 15 = 2."
+        },
+        {
+            "id": 7,
+            "question": "Which number completes this fact family? 6 × ___ = 48, 48 ÷ 6 = ___",
+            "options": ["6", "7", "8", "9"],
+            "correct": 2,
+            "explanation": "6 × 8 = 48 and 48 ÷ 6 = 8. The missing number is 8."
+        },
+        {
+            "id": 8,
+            "question": "In the 9 times table, the digits of each answer always add up to what number?",
+            "options": ["5", "7", "9", "10"],
+            "correct": 2,
+            "explanation": "In the 9 times table, the digits of each product always add up to 9. For example: 9 × 4 = 36, and 3 + 6 = 9."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "division_practice",
+    "lesson_number": 5,
+    "title": "Division Practice — Building Fluency",
+    "scripture": "Proverbs 4:7",
+    "memory_verse": "\"The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.\" — Proverbs 4:7 (NIV)",
+    "objective": "Students will practice division facts and use multiplication to check their answers.",
+    "content": [
+        "The best way to get better at division is to practice every day, just like the best way to grow in faith is to read God's Word every day. The more you practice, the faster and more confident you become.",
+        "Use your times tables to help you divide. To solve 56 ÷ 8, ask yourself: 'What times 8 equals 56?' The answer is 7, because 7 × 8 = 56. So 56 ÷ 8 = 7.",
+        "You can always check your division answer with multiplication. If 42 ÷ 6 = 7, then check: 7 × 6 = 42. It works! If there is a remainder, multiply and add: 29 ÷ 5 = 5 R4. Check: 5 × 5 + 4 = 29.",
+        "Fact families show how multiplication and division are connected. The numbers 3, 7, and 21 make a fact family: 3 × 7 = 21, 7 × 3 = 21, 21 ÷ 3 = 7, and 21 ÷ 7 = 3. Every set of three numbers has a fact family."
+    ],
+    "activity": "Write fact families for these sets of numbers: (4, 5, 20), (6, 8, 48), and (9, 3, 27). Then solve 10 division problems and check each answer using multiplication.",
+    "discussion": [
+        "How do times tables help you with division?",
+        "Why is it important to check your work?",
+        "How does practicing math connect to the proverb about getting wisdom?"
+    ]
+}

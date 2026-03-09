@@ -1,0 +1,103 @@
+{
+    "id": "world_lit_quiz",
+    "title": "World Literature — Stories of Faith Across Cultures",
+    "description": "Test your understanding of world literature, literary themes, and how to read great works through a Christian worldview.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Philippians 4:8, what standard should Christians use when evaluating literature?",
+            "options": [
+                "Only read books written by Christian authors",
+                "Whatever is true, noble, right, pure, lovely, admirable, excellent, or praiseworthy",
+                "Avoid all literature that is not directly about the Bible",
+                "Read only books that are entertaining and easy to understand"
+            ],
+            "correct": 1,
+            "explanation": "Paul gives us criteria for evaluating what we think about, including what we read. We should seek out works that are true, noble, right, pure, lovely, admirable, excellent, and praiseworthy — which can be found in literature from many cultures."
+        },
+        {
+            "id": 2,
+            "question": "Why do themes like the battle between good and evil appear in literature from almost every culture throughout history?",
+            "options": [
+                "Because all authors copied the same original story",
+                "Because these themes reflect realities built into the human heart by God, since all people are made in His image",
+                "Because ancient writers had no other ideas",
+                "Because publishers required these themes"
+            ],
+            "correct": 1,
+            "explanation": "Universal themes in literature reflect the common human nature given to us by God. Because all people are made in God's image, writers from every culture express truths about good and evil, sacrifice, redemption, and the search for meaning."
+        },
+        {
+            "id": 3,
+            "question": "In Acts 17:28, the Apostle Paul quoted pagan Greek poets. What does this teach us about reading literature from non-Christian cultures?",
+            "options": [
+                "All pagan literature is completely true",
+                "Christians should never read non-Christian writings",
+                "Truth can be found in literature from many cultures, and Christians can engage it with discernment",
+                "Greek literature is more important than the Bible"
+            ],
+            "correct": 2,
+            "explanation": "Paul's use of pagan poets shows that Christians can engage with literature from many cultures, recognizing truth wherever it is found while evaluating everything against the standard of Scripture."
+        },
+        {
+            "id": 4,
+            "question": "What is an allegory?",
+            "options": [
+                "A poem that rhymes in every line",
+                "A story in which characters, events, and settings represent deeper moral or spiritual truths",
+                "A historical account of real events",
+                "A type of ancient Greek drama"
+            ],
+            "correct": 1,
+            "explanation": "An allegory is a story where the characters, events, and settings have a symbolic meaning beyond the surface narrative. They are used to convey deeper moral, spiritual, or philosophical truths, much as Jesus used parables."
+        },
+        {
+            "id": 5,
+            "question": "Which ancient literary work is considered one of the oldest epic poems and tells the story of a king searching for immortality?",
+            "options": [
+                "The Odyssey",
+                "Beowulf",
+                "The Epic of Gilgamesh",
+                "The Aeneid"
+            ],
+            "correct": 2,
+            "explanation": "The Epic of Gilgamesh from ancient Mesopotamia is one of the oldest known works of literature. Its themes of mortality, the search for meaning, and a great flood narrative echo truths found in Scripture."
+        },
+        {
+            "id": 6,
+            "question": "What does it mean to read literature with a 'Christian worldview'?",
+            "options": [
+                "Rejecting every book that is not explicitly Christian",
+                "Reading only the Bible and no other books",
+                "Evaluating what we read against the truth of Scripture, recognizing both truth and error in literature",
+                "Accepting everything an author writes without question"
+            ],
+            "correct": 2,
+            "explanation": "Reading with a Christian worldview means engaging thoughtfully with literature while evaluating its messages against Biblical truth. This allows us to appreciate excellent writing, recognize universal truths, and identify false philosophies."
+        },
+        {
+            "id": 7,
+            "question": "Medieval literature such as Beowulf and The Canterbury Tales often explores which recurring theme that reflects Christian teaching?",
+            "options": [
+                "The superiority of wealth over virtue",
+                "The battle between good and evil and the importance of moral courage",
+                "The idea that fate controls everything and human choices do not matter",
+                "The belief that all religions are equally true"
+            ],
+            "correct": 1,
+            "explanation": "Medieval literature, deeply influenced by Christianity, frequently explores the battle between good and evil and the importance of moral courage, reflecting the Biblical reality that we are in a spiritual battle and must choose righteousness."
+        },
+        {
+            "id": 8,
+            "question": "Why is poetry considered a powerful form of literary expression across all cultures?",
+            "options": [
+                "Because poems are always short and easy to read",
+                "Because poetry uses rhythm, imagery, and figurative language to express deep truths about human experience and God's creation",
+                "Because only educated people can write poetry",
+                "Because poetry does not require any skill or thought"
+            ],
+            "correct": 1,
+            "explanation": "Poetry uses concentrated language — rhythm, imagery, metaphor, and other literary devices — to express deep truths about human experience, beauty, and God's creation. The Bible itself contains extensive poetry in Psalms, Proverbs, and other books."
+        }
+    ]
+}

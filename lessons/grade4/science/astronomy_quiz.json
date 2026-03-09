@@ -1,0 +1,63 @@
+{
+    "id": "astronomy_quiz",
+    "title": "Astronomy — The Heavens Declare God's Glory",
+    "description": "Test your knowledge of God's amazing universe — the sun, moon, planets, stars, and galaxies!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "On which day of creation did God make the sun, moon, and stars?",
+            "options": ["Day 1", "Day 3", "Day 4", "Day 6"],
+            "correct": 2,
+            "explanation": "God created the sun, moon, and stars on Day 4 of creation (Genesis 1:14-19)."
+        },
+        {
+            "id": 2,
+            "question": "Why is the sun's distance from Earth so important?",
+            "options": ["It makes pretty sunsets", "It is at just the right distance to support life", "It does not matter", "It makes the moon glow"],
+            "correct": 1,
+            "explanation": "God placed the sun at exactly the right distance — about 93 million miles — so Earth would have the right temperature to support life."
+        },
+        {
+            "id": 3,
+            "question": "How does the moon produce its light?",
+            "options": ["It has its own light source", "It reflects the light of the sun", "It glows from volcanic activity", "It is powered by electricity"],
+            "correct": 1,
+            "explanation": "The moon does not make its own light — it reflects the light of the sun, just as Christians are called to reflect Christ's light."
+        },
+        {
+            "id": 4,
+            "question": "Which planet is the largest in our solar system?",
+            "options": ["Saturn", "Earth", "Jupiter", "Neptune"],
+            "correct": 2,
+            "explanation": "Jupiter is the largest planet in our solar system, with a giant storm called the Great Red Spot."
+        },
+        {
+            "id": 5,
+            "question": "What makes Earth unique among all the planets?",
+            "options": ["It is the largest planet", "It has rings", "It is the only planet designed to support life", "It is closest to the sun"],
+            "correct": 2,
+            "explanation": "God specifically designed Earth with the right temperature, atmosphere, and water to support life."
+        },
+        {
+            "id": 6,
+            "question": "According to Psalm 147:4, what does God do with every star?",
+            "options": ["He counts them and calls them each by name", "He lets them burn out", "He moves them every night", "He hides them behind clouds"],
+            "correct": 0,
+            "explanation": "Psalm 147:4 says God 'determines the number of the stars and calls them each by name.'"
+        },
+        {
+            "id": 7,
+            "question": "What is a galaxy?",
+            "options": ["A single large star", "A type of planet", "A huge collection of stars, gas, dust, and planets", "A meteor shower"],
+            "correct": 2,
+            "explanation": "A galaxy is a huge collection of stars, gas, dust, and planets held together by gravity. Our Milky Way has between 100 and 400 billion stars."
+        },
+        {
+            "id": 8,
+            "question": "Which astronaut took communion on the moon to honor God?",
+            "options": ["Neil Armstrong", "John Glenn", "Buzz Aldrin", "Alan Shepard"],
+            "correct": 2,
+            "explanation": "Buzz Aldrin, a Christian, took communion on the moon's surface during the Apollo 11 mission and read from John 15:5."
+        }
+    ]
+}

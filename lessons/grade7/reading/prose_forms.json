@@ -1,0 +1,77 @@
+{
+    "id": "prose_forms",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Forms of Prose",
+    "subtitle": "Short Stories, Essays, and Narratives — Telling Truth Through Story",
+    "scripture": "2 Samuel 12:1-7",
+    "key_concepts": ["Short story elements", "Essay structure", "Narrative vs. expository prose", "Theme and purpose", "Biblical narrative as literature"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "2 Samuel 12:1",
+                "text": "\"The LORD sent Nathan to David. When he came to him, he told him a story.\"",
+                "commentary": "God used the prophet Nathan to tell David a story — a parable about a rich man who stole a poor man's lamb. The narrative pierced David's heart in a way that a direct accusation might not have. Story has unique power to reveal truth."
+            },
+            {
+                "reference": "John 20:31",
+                "text": "\"But these are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.\"",
+                "commentary": "The Gospels are prose narratives written with a specific purpose — to lead readers to faith. Good prose always has a purpose, whether to inform, persuade, entertain, or transform."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Prose?",
+            "paragraphs": [
+                "Prose is ordinary written or spoken language without the metrical structure of poetry. It flows in sentences and paragraphs. Most of what you read — novels, textbooks, articles, letters — is prose. While poetry condenses and structures language, prose expands and develops ideas through sustained narrative or argument.",
+                "The Bible contains both poetry and prose. Genesis, the historical books, the Gospels, and Acts are primarily prose narratives. The epistles are prose essays and letters. Understanding the characteristics of different prose forms helps you read both Scripture and literature more effectively."
+            ]
+        },
+        {
+            "heading": "The Short Story",
+            "paragraphs": [
+                "A short story is a brief fictional narrative that focuses on a single event, conflict, or moment of change. The essential elements include characters (who), setting (where and when), plot (what happens), conflict (the central problem), and theme (the underlying message).",
+                "The plot typically follows a structure: exposition (introduction), rising action (building tension), climax (the turning point), falling action (events after the climax), and resolution (the conclusion). Nathan's parable to David follows this structure perfectly — the story of the poor man's lamb builds to the devastating climax: 'You are the man!'"
+            ]
+        },
+        {
+            "heading": "The Essay",
+            "paragraphs": [
+                "An essay is a short prose composition that presents an author's argument, analysis, or reflection on a topic. There are several types: persuasive essays argue a position, expository essays explain or inform, narrative essays tell a personal story, and descriptive essays paint a picture with words.",
+                "A well-structured essay has an introduction with a clear thesis statement, body paragraphs that develop the thesis with evidence and reasoning, and a conclusion that summarizes and reinforces the main idea. Paul's epistles function much like persuasive essays — he states his thesis, supports it with Scripture and argument, and calls for a response."
+            ]
+        },
+        {
+            "heading": "Narrative vs. Expository Prose",
+            "paragraphs": [
+                "Narrative prose tells a story — it has characters, events, and a sequence of actions. The book of Genesis is narrative prose: 'In the beginning God created the heavens and the earth.' It moves through time, describing what happened.",
+                "Expository prose explains, informs, or analyzes. A science textbook, a how-to article, and a theological commentary are expository. The key difference is purpose: narrative shows through story; exposition tells through explanation. Both are valuable, and skilled readers recognize which form they are reading so they can adjust their approach."
+            ]
+        },
+        {
+            "heading": "Theme and Purpose in Prose",
+            "paragraphs": [
+                "Every piece of good prose has a theme — an underlying truth or message the author wants to communicate. The theme of the parable of the prodigal son is God's lavish forgiveness. The theme of the book of Ruth is faithful love and divine providence. Theme is rarely stated directly; it emerges from the characters, events, and details of the story.",
+                "Purpose is the author's reason for writing. John explicitly states his purpose: 'these are written that you may believe.' Other authors may write to entertain, to warn, to inspire, or to challenge. Identifying theme and purpose transforms you from a passive reader into an active, critical thinker."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read the parable of Nathan in 2 Samuel 12:1-7. Identify the characters, conflict, climax, and theme. Why was a story more effective than a direct confrontation in this situation?",
+            "guidance": "Note how David reacted to the story emotionally before realizing it was about him. Consider how narrative can bypass defenses and speak to the heart."
+        },
+        {
+            "id": 2,
+            "question": "Compare narrative and expository prose by giving one Biblical example of each. How does the purpose of each passage shape the way it is written?",
+            "guidance": "Narrative example: a story from Genesis, Judges, or the Gospels. Expository example: a passage from Romans or Hebrews that explains doctrine."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between a story's plot and its theme? Using a parable of Jesus (such as the Good Samaritan or the Lost Sheep), explain both the plot and the theme.",
+            "guidance": "The plot is what happens — the sequence of events. The theme is the deeper truth or lesson the story communicates."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "reading",
+    "title": "World Literature — A Christian Perspective",
+    "description": "Exploring great works of world literature through the lens of Biblical truth and Christian worldview.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: World Literature — A Christian Perspective",
+            "lessons": ["ancient_epics", "greek_drama", "roman_rhetoric", "medieval_literature", "renaissance_works", "modern_world_lit"]
+        }
+    ],
+    "quiz_id": "literature_quiz"
+}

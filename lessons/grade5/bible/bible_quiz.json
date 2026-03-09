@@ -1,0 +1,63 @@
+{
+    "id": "bible_quiz",
+    "title": "Wisdom Literature Quiz",
+    "description": "Test your knowledge of Psalms, Proverbs, and Ecclesiastes — the Bible's wisdom books!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Proverbs 9:10, what is the beginning of wisdom?",
+            "options": ["Reading many books", "The fear of the LORD", "Going to school", "Being older than others"],
+            "correct": 1,
+            "explanation": "Proverbs 9:10 says 'The fear of the LORD is the beginning of wisdom.' True wisdom starts with respecting and honoring God."
+        },
+        {
+            "id": 2,
+            "question": "How many psalms are in the book of Psalms?",
+            "options": ["50", "100", "150", "200"],
+            "correct": 2,
+            "explanation": "The book of Psalms contains 150 individual psalms written by various authors over many centuries."
+        },
+        {
+            "id": 3,
+            "question": "In Psalm 23, what does David call God?",
+            "options": ["My King", "My Shepherd", "My Teacher", "My Judge"],
+            "correct": 1,
+            "explanation": "David, who had been a shepherd himself, called God 'my shepherd' to show how God provides, protects, and guides His people."
+        },
+        {
+            "id": 4,
+            "question": "Who wrote most of the book of Proverbs?",
+            "options": ["David", "Moses", "Solomon", "Paul"],
+            "correct": 2,
+            "explanation": "King Solomon, the wisest man who ever lived, wrote most of the book of Proverbs."
+        },
+        {
+            "id": 5,
+            "question": "What did Solomon ask God for when he became king?",
+            "options": ["Great riches", "A large army", "Wisdom", "A long life"],
+            "correct": 2,
+            "explanation": "Solomon asked God for wisdom to lead His people, and God was so pleased that He also gave Solomon riches and honor (1 Kings 3:5-12)."
+        },
+        {
+            "id": 6,
+            "question": "According to Proverbs 22:1, what is more desirable than great riches?",
+            "options": ["A big house", "A good name", "Many friends", "Fine clothing"],
+            "correct": 1,
+            "explanation": "Proverbs 22:1 says 'A good name is more desirable than great riches' — our character and reputation matter more than money."
+        },
+        {
+            "id": 7,
+            "question": "What is the main message of the book of Ecclesiastes?",
+            "options": ["Money makes you happy", "True meaning is found only in God", "Life has no purpose", "Work is not important"],
+            "correct": 1,
+            "explanation": "Ecclesiastes concludes that without God, everything is meaningless. True purpose and meaning come from fearing God and keeping His commandments."
+        },
+        {
+            "id": 8,
+            "question": "Ecclesiastes 3:1 says there is a time for everything. What does this teach us?",
+            "options": ["We should always be busy", "God has a purpose for every season of life", "Time moves too slowly", "We should never rest"],
+            "correct": 1,
+            "explanation": "Ecclesiastes 3 teaches that God has appointed a purpose for every season — times of joy, sorrow, work, rest, and everything in between."
+        }
+    ]
+}

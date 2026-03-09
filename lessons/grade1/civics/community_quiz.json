@@ -1,0 +1,54 @@
+{
+    "id": "community_quiz",
+    "title": "My Community Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Why do we have rules?",
+            "options": ["To make us sad", "To keep us safe and happy", "To be mean", "For no reason"],
+            "correct": 1
+        },
+        {
+            "id": "q2",
+            "question": "Who keeps us safe by putting out fires?",
+            "options": ["Teachers", "Mail carriers", "Firefighters", "Librarians"],
+            "correct": 2
+        },
+        {
+            "id": "q3",
+            "question": "Who is the leader of our country?",
+            "options": ["The mayor", "The governor", "The teacher", "The president"],
+            "correct": 3
+        },
+        {
+            "id": "q4",
+            "question": "What did Jesus say is the second greatest commandment?",
+            "options": ["Run fast", "Love your neighbor as yourself", "Eat your vegetables", "Go to sleep early"],
+            "correct": 1
+        },
+        {
+            "id": "q5",
+            "question": "What does the Bible say we should do for our leaders?",
+            "options": ["Ignore them", "Pray for them", "Be mean to them", "Forget about them"],
+            "correct": 1
+        },
+        {
+            "id": "q6",
+            "question": "Where do our freedoms come from?",
+            "options": ["From school", "From the store", "From God", "From TV"],
+            "correct": 2
+        },
+        {
+            "id": "q7",
+            "question": "What is a good way to be a good neighbor?",
+            "options": ["Being mean", "Being kind and helpful", "Not sharing", "Ignoring others"],
+            "correct": 1
+        },
+        {
+            "id": "q8",
+            "question": "Who is the leader of a city or town?",
+            "options": ["The president", "The governor", "The mayor", "The principal"],
+            "correct": 2
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "coordinate_plane",
+    "lesson_number": 6,
+    "title": "The Coordinate Plane — Mapping God's World",
+    "scripture": "Job 38:4-5",
+    "memory_verse": "\"Where were you when I laid the earth's foundation? Tell me, if you understand. Who marked off its dimensions?\" — Job 38:4-5 (NIV)",
+    "objective": "Students will learn to plot and identify points on a coordinate plane using ordered pairs.",
+    "content": [
+        "A coordinate plane is formed by two number lines that cross at a point called the origin (0, 0). The horizontal line is the x-axis and the vertical line is the y-axis.",
+        "Every point on the coordinate plane is described by an ordered pair (x, y). The first number tells how far to move right or left from the origin. The second number tells how far to move up or down.",
+        "For example, the point (3, 5) means move 3 units to the right and 5 units up. The point (-2, 4) means move 2 units to the left and 4 units up.",
+        "God laid the foundations of the earth with perfect measurements, as He told Job. The coordinate plane helps us map and measure the world He created. Every point has an exact location — nothing is random in God's design."
+    ],
+    "activity": "On graph paper, draw a coordinate plane. Plot these points and connect them in order to make a picture: (1,1), (3,5), (5,1), (1,3), (5,3), (1,1). What shape did you draw? Then create your own picture using at least 8 plotted points.",
+    "discussion": [
+        "Why do we need two numbers to describe a point on a plane?",
+        "How are coordinate planes used in real life (maps, GPS)?",
+        "How does precise measurement reflect God's character?"
+    ]
+}

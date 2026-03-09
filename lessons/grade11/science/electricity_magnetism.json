@@ -1,0 +1,95 @@
+{
+    "id": "electricity_magnetism",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Electricity and Magnetism",
+    "subtitle": "The Invisible Forces That Power Our World",
+    "scripture": "Psalm 97:4",
+    "primary_source": "Michael Faraday's Experimental Researches in Electricity (1839)",
+    "key_concepts": ["Electric charge and Coulomb's Law", "Current, voltage, and resistance", "Ohm's Law and circuits", "Magnetism and electromagnetic induction", "Faraday's contributions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 97:4",
+                "text": "\"His lightning lights up the world; the earth sees and trembles.\"",
+                "commentary": "Lightning is one of the most dramatic displays of electrical energy in nature. The same electromagnetic force that produces lightning also powers our homes, our technology, and the chemical bonds in our bodies. God's creation is permeated with this invisible but powerful force."
+            },
+            {
+                "reference": "Psalm 104:24",
+                "text": "\"How many are your works, Lord! In wisdom you made them all; the earth is full of your creatures.\"",
+                "commentary": "The electromagnetic force is responsible for virtually all the phenomena we experience in daily life — light, chemistry, biology, technology. The incredible versatility of this single force reflects the wisdom with which God designed the physical world."
+            },
+            {
+                "reference": "Job 37:3",
+                "text": "\"He unleashes his lightning beneath the whole heaven and sends it to the ends of the earth.\"",
+                "commentary": "The book of Job repeatedly draws attention to electrical phenomena in nature as evidence of God's sovereign power over creation. The study of electricity and magnetism reveals the mechanisms behind these displays of divine power."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Electromagnetic Force",
+            "paragraphs": [
+                "Electricity and magnetism, once thought to be separate phenomena, are actually two aspects of a single fundamental force: electromagnetism. This force is responsible for holding atoms together, enabling chemical reactions, producing light, and powering virtually all modern technology. After gravity, it is the force we encounter most often in daily life — and it is far, far stronger than gravity.",
+                "The unification of electricity and magnetism is one of the great achievements of physics, accomplished through the work of scientists like Michael Faraday and James Clerk Maxwell. Both were devout Christians who saw their discoveries as revealing the elegant simplicity of God's design."
+            ]
+        },
+        {
+            "heading": "Electric Charge and Coulomb's Law",
+            "paragraphs": [
+                "Electric charge is a fundamental property of matter. There are two types of charge: positive (carried by protons) and negative (carried by electrons). Like charges repel; unlike charges attract. Most matter is electrically neutral because it contains equal numbers of protons and electrons.",
+                "Coulomb's Law describes the force between two charged objects: F = kq₁q₂/r², where k is Coulomb's constant (8.99 × 10⁹ N·m²/C²), q₁ and q₂ are the charges, and r is the distance between them. Notice the similarity to Newton's Law of Gravitation — both are inverse-square laws. This mathematical parallel suggests a deep underlying unity in God's physical laws.",
+                "The electromagnetic force is approximately 10³⁶ times stronger than gravity. The reason gravity seems more prominent in daily life is that most objects are electrically neutral, so electric forces cancel out, while mass is always positive, so gravitational forces always add up."
+            ]
+        },
+        {
+            "heading": "Current, Voltage, and Resistance",
+            "paragraphs": [
+                "Electric current is the flow of electric charge through a conductor, measured in Amperes (A). One Ampere equals one Coulomb of charge passing a point per second. In metal conductors, current consists of electrons flowing from negative to positive terminal, though by convention, current direction is defined as positive to negative.",
+                "Voltage (measured in Volts) is the electric potential difference between two points — it represents the energy per unit charge available to drive current through a circuit. A battery creates a voltage by using chemical energy to separate charges.",
+                "Resistance (measured in Ohms, Ω) is the opposition to current flow. Different materials have different resistivities — copper is an excellent conductor with low resistance, while rubber is an insulator with extremely high resistance. Resistance depends on the material, length, cross-sectional area, and temperature of a conductor."
+            ]
+        },
+        {
+            "heading": "Ohm's Law and Circuits",
+            "paragraphs": [
+                "Ohm's Law is the fundamental relationship between voltage, current, and resistance: V = IR, where V is voltage, I is current, and R is resistance. This simple equation allows us to analyze and design electrical circuits.",
+                "In a series circuit, components are connected end-to-end, and the same current flows through each. The total resistance is the sum of individual resistances: R_total = R₁ + R₂ + R₃. In a parallel circuit, components are connected across the same two points, and the voltage across each is the same. The total resistance is found by: 1/R_total = 1/R₁ + 1/R₂ + 1/R₃.",
+                "Circuit analysis also involves Kirchhoff's Laws: the junction rule (total current entering a junction equals total current leaving) and the loop rule (the sum of all voltage changes around a closed loop is zero). These laws are direct consequences of conservation of charge and conservation of energy — fundamental principles that reflect the consistency of God's creation."
+            ]
+        },
+        {
+            "heading": "Magnetism and Electromagnetic Induction",
+            "paragraphs": [
+                "Magnetism arises from moving electric charges. Every electric current produces a magnetic field, and every changing magnetic field produces an electric field. This deep connection between electricity and magnetism was discovered by Hans Christian Ørsted in 1820 and explored extensively by Michael Faraday.",
+                "Faraday's Law of Electromagnetic Induction states that a changing magnetic field through a loop of wire induces a voltage (and thus a current) in the wire. This principle is the basis of electric generators, transformers, and virtually all methods of electrical power generation. When you flip a light switch, the electricity flowing to the bulb was generated by Faraday's principle — spinning magnets inside generators at power plants.",
+                "Faraday also introduced the concept of electromagnetic fields — invisible regions of influence surrounding charges and magnets. This conceptual breakthrough, later formalized mathematically by James Clerk Maxwell, unified electricity, magnetism, and light into a single framework."
+            ]
+        },
+        {
+            "heading": "Michael Faraday: Faith and Discovery",
+            "paragraphs": [
+                "Michael Faraday (1791-1867) was one of the most influential scientists in history, despite having almost no formal education. A devout member of the Sandemanian church, Faraday believed deeply that the laws of nature reflected the unity and consistency of God.",
+                "Faraday's faith directly influenced his science. He believed that because God is one, the forces of nature must ultimately be unified. This conviction drove him to search for connections between electricity, magnetism, light, and gravity — and he found the first three were indeed aspects of a single force.",
+                "Faraday wrote: 'The book of nature which we have to read is written by the finger of God.' His discoveries of electromagnetic induction, the laws of electrolysis, and the concept of fields transformed physics and enabled the electrical age in which we live. His life demonstrates that deep Christian faith and groundbreaking science are not only compatible but mutually reinforcing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain Ohm's Law and how it is used to analyze electrical circuits. Design a simple circuit with a battery and two resistors in series, and calculate the current flowing through it.",
+            "guidance": "Use V = IR. Choose a battery voltage (e.g., 12V) and two resistance values (e.g., 3Ω and 5Ω). Calculate total resistance and then current. Show your work step by step."
+        },
+        {
+            "id": 2,
+            "question": "Faraday believed that because God is one, the forces of nature must be unified. How did this theological conviction guide his scientific discoveries? What does the unification of electricity and magnetism tell us about the nature of creation?",
+            "guidance": "Consider how belief in a single Creator might lead scientists to expect simplicity and unity in natural laws. Reflect on how Faraday's faith was a motivation, not an obstacle, to his discoveries."
+        },
+        {
+            "id": 3,
+            "question": "The electromagnetic force is vastly stronger than gravity, yet gravity dominates at large scales. Why is this the case? What does this tell us about the design of the universe?",
+            "guidance": "Consider the role of electrical neutrality in atoms. Think about how both forces are necessary — electromagnetism for chemistry and biology, gravity for the structure of the cosmos — and how their relative strengths are precisely tuned."
+        }
+    ]
+}

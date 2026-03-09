@@ -1,0 +1,80 @@
+{
+    "id": "medieval_lit",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Medieval Literature",
+    "subtitle": "Chaucer, Allegory, and the Christian Imagination",
+    "scripture": "Psalm 119:105",
+    "primary_source": "The Canterbury Tales by Geoffrey Chaucer (c. 1387)",
+    "key_concepts": ["Medieval allegory", "Chaucer's social commentary", "The pilgrimage motif", "Morality plays", "Christian satire"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 119:105",
+                "text": "\"Your word is a lamp for my feet, a light on my path.\"",
+                "commentary": "Medieval literature frequently used the metaphor of life as a journey or pilgrimage, with God's Word as the guiding light. Chaucer's Canterbury Tales frames storytelling as part of a pilgrimage — a journey toward a holy destination."
+            },
+            {
+                "reference": "Hebrews 11:13-16",
+                "text": "\"They were longing for a better country — a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared a city for them.\"",
+                "commentary": "The medieval understanding of pilgrimage reflected the Biblical truth that believers are strangers and pilgrims on earth, journeying toward their heavenly home."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Medieval Literary World",
+            "paragraphs": [
+                "The medieval period (roughly 1066-1485 in English literature) was shaped by the Norman Conquest, the growth of the Catholic Church's influence, and the emergence of Middle English as a literary language. During this era, literature served as a vehicle for moral instruction, spiritual reflection, and social commentary — all within a thoroughly Christian framework.",
+                "Medieval writers assumed a universe created and governed by God, where every event had spiritual significance. This worldview produced literature rich in symbolism, allegory, and moral purpose. Stories were not merely entertainment; they were meant to teach truth about God, humanity, and the moral order."
+            ]
+        },
+        {
+            "heading": "Geoffrey Chaucer and The Canterbury Tales",
+            "paragraphs": [
+                "Geoffrey Chaucer (c. 1343-1400) is often called the 'Father of English Literature.' His masterwork, The Canterbury Tales, presents a group of pilgrims traveling from London to the shrine of Thomas Becket at Canterbury Cathedral. Each pilgrim tells a story along the way, creating a rich tapestry of medieval life.",
+                "Chaucer's genius lies in his character portraits. The Prologue introduces pilgrims from every level of medieval society — from the noble Knight to the corrupt Pardoner, from the devout Parson to the worldly Wife of Bath. Through these characters, Chaucer holds up a mirror to English society, exposing both its virtues and its vices.",
+                "Chaucer's satire of corrupt churchmen — the greedy Friar, the worldly Monk, the dishonest Pardoner — reflects not a rejection of Christianity but a deep commitment to authentic faith. By contrast, his portrait of the Parson presents the ideal of a truly faithful minister: poor in worldly goods but rich in holiness, who teaches 'Christ's gospel truly' and follows it himself before preaching it to others."
+            ]
+        },
+        {
+            "heading": "Allegory and Moral Literature",
+            "paragraphs": [
+                "Medieval writers excelled in allegory — stories in which characters, events, and settings represent abstract moral or spiritual truths. The greatest English allegory of this period is Piers Plowman by William Langland, a long dream-vision poem that follows the narrator's search for Truth, which ultimately leads to Christ.",
+                "The morality play tradition — dramatic works like Everyman (c. 1485) — personified virtues and vices as characters. In Everyman, the title character is summoned by Death and discovers that only Good Deeds will accompany him before God's judgment. These plays taught theology through drama, making complex spiritual truths accessible to ordinary people.",
+                "Sir Gawain and the Green Knight, another masterpiece of the period, tests the virtue of a knight of the Round Table through a supernatural challenge. The poem explores themes of honesty, temptation, and repentance, ultimately affirming that true honor comes not from perfection but from humble confession of failure."
+            ]
+        },
+        {
+            "heading": "The Pearl Poet and Christian Mystery",
+            "paragraphs": [
+                "The anonymous author of Sir Gawain and the Green Knight also composed Pearl, a deeply moving poem about a father grieving the death of his young daughter. In a dream vision, the father sees his daughter in heaven, transformed into a radiant bride of Christ. She teaches him that God's grace, not human merit, opens the gates of heaven.",
+                "Pearl demonstrates the medieval literary tradition at its finest: using beauty of language to express profound theological truth. The poem's intricate structure — with its repeated imagery of pearls, gardens, and heavenly Jerusalem — mirrors the perfection and order of God's creation."
+            ]
+        },
+        {
+            "heading": "The Legacy of Medieval Literature",
+            "paragraphs": [
+                "Medieval literature established enduring literary forms — the frame narrative, the allegory, the romance, and the morality play — that continue to influence English literature today. C.S. Lewis's The Chronicles of Narnia and Tolkien's Lord of the Rings both draw deeply on medieval literary traditions.",
+                "More importantly, medieval literature demonstrates that the greatest English writing has always been shaped by Christian faith. The questions these writers asked — How should we live? What is true virtue? How do we find God? — remain the most important questions literature can address."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Chaucer use the character of the Parson to present the ideal of authentic Christian ministry? How does this contrast with his portraits of the Friar and the Pardoner?",
+            "guidance": "Consider what qualities Chaucer admires in the Parson and what vices he satirizes in the corrupt churchmen. What does this tell us about Chaucer's view of true Christianity?"
+        },
+        {
+            "id": 2,
+            "question": "Why was allegory such a popular literary form in the medieval period? How does the allegorical approach reflect a Christian worldview that sees spiritual meaning in earthly events?",
+            "guidance": "Think about how a culture that believes in an invisible spiritual reality behind visible events would naturally produce literature that uses physical stories to teach spiritual truths."
+        },
+        {
+            "id": 3,
+            "question": "How does the pilgrimage motif in The Canterbury Tales reflect the Biblical understanding of life as a journey toward God? Read Hebrews 11:13-16 and connect it to Chaucer's framework.",
+            "guidance": "Consider how framing stories within a pilgrimage gives them spiritual context and purpose, and how this reflects the Christian view that all of life is a journey toward our heavenly home."
+        }
+    ]
+}

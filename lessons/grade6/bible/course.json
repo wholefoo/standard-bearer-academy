@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "bible",
+    "title": "The Gospels — Walking with Jesus",
+    "description": "A deep study of the four Gospels exploring the life, ministry, teachings, death, and resurrection of Jesus Christ — the central figure of all history.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Gospels — Walking with Jesus",
+            "lessons": ["birth_of_jesus", "baptism_temptation", "sermon_on_mount", "parables", "miracles_of_jesus", "death_resurrection"]
+        }
+    ],
+    "quiz_id": "gospels_quiz"
+}

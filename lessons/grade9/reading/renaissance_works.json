@@ -1,0 +1,80 @@
+{
+    "id": "renaissance_works",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Renaissance and Reformation Literature",
+    "subtitle": "Shakespeare, Milton, and the Battle for Truth",
+    "scripture": "John 8:32",
+    "primary_source": "William Shakespeare, Hamlet — 'To be or not to be' soliloquy (c. 1600)",
+    "key_concepts": ["Renaissance humanism and Christian response", "Shakespeare's moral vision", "Milton's Paradise Lost", "The Reformation's impact on literature"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "John 8:32",
+                "text": "\"Then you will know the truth, and the truth will set you free.\"",
+                "commentary": "The Renaissance and Reformation were both driven by a passion for truth — the Renaissance rediscovering classical learning, and the Reformation recovering Biblical truth. Jesus declared that truth brings freedom, a principle that shaped the greatest literature of this era."
+            },
+            {
+                "reference": "2 Corinthians 4:4",
+                "text": "\"The god of this age has blinded the minds of unbelievers, so that they cannot see the light of the gospel that displays the glory of Christ.\"",
+                "commentary": "Milton's Paradise Lost dramatizes this cosmic conflict between truth and deception, light and darkness. The great literature of the Renaissance and Reformation grapples with the reality of spiritual warfare."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Two Revolutions in Thought",
+            "paragraphs": [
+                "The 15th and 16th centuries witnessed two great intellectual movements that transformed Western civilization and its literature. The Renaissance ('rebirth') recovered classical Greek and Roman learning and celebrated human potential. The Reformation recovered the authority of Scripture and the doctrine of salvation by grace alone through faith alone.",
+                "These movements produced a golden age of literature. Shakespeare explored the depths of human nature on stage, while Milton crafted an epic poem that retold the Biblical story of creation, fall, and redemption. Understanding both movements is essential for reading Western literature with discernment."
+            ]
+        },
+        {
+            "heading": "Shakespeare: The Greatest Writer in the English Language",
+            "paragraphs": [
+                "William Shakespeare (1564-1616) is widely regarded as the greatest writer in the English language. His plays explore every facet of human experience — love, ambition, jealousy, mercy, justice, betrayal, and redemption. Shakespeare's genius lies in his ability to create characters of extraordinary psychological depth who wrestle with moral questions that remain relevant today.",
+                "In Hamlet, the prince of Denmark confronts questions about duty, justice, the afterlife, and the meaning of suffering. His famous soliloquy 'To be or not to be' wrestles with the fear of death and what lies beyond — a question that only the Gospel can fully answer. Hamlet's world is one of moral complexity, where characters must choose between right and wrong with imperfect knowledge and conflicting loyalties.",
+                "In The Merchant of Venice, Shakespeare explores the tension between justice and mercy — a theme central to the Gospel itself. Portia's famous speech ('The quality of mercy is not strained') echoes the Biblical truth that God's mercy triumphs over judgment (James 2:13). Shakespeare's plays consistently affirm that the moral order is real, that actions have consequences, and that mercy is the highest virtue."
+            ]
+        },
+        {
+            "heading": "Milton's Paradise Lost",
+            "paragraphs": [
+                "John Milton's Paradise Lost (1667) is the greatest epic poem in the English language and one of the most ambitious works of literature ever attempted. Milton set out to 'justify the ways of God to men' by retelling the Biblical story of Satan's rebellion, the creation of the world, and the Fall of Adam and Eve.",
+                "Milton's Satan is one of literature's most complex characters — proud, eloquent, and tragically self-deceived. His famous declaration 'Better to reign in Hell than serve in Heaven' captures the essence of sinful pride: the preference for autonomy over submission to God, even when that autonomy leads to destruction.",
+                "Paradise Lost presents the Fall not as an abstract theological doctrine but as a vivid, heartbreaking drama. When Adam chooses to eat the forbidden fruit out of loyalty to Eve, we see the terrible cost of sin — and the even greater wonder of God's promise of redemption (Genesis 3:15). Milton's poem is both a literary masterpiece and a profound meditation on the Christian understanding of sin, free will, and grace."
+            ]
+        },
+        {
+            "heading": "The Reformation and the Written Word",
+            "paragraphs": [
+                "The Protestant Reformation had an enormous impact on literature. Martin Luther's translation of the Bible into German and William Tyndale's English translation put Scripture into the hands of ordinary people. The invention of the printing press made books widely available for the first time in history.",
+                "The Reformation's emphasis on the authority of Scripture and the priesthood of all believers created a culture of reading and literacy. The Geneva Bible (1560) and later the King James Bible (1611) shaped the English language itself, contributing phrases and rhythms that permeate English literature to this day. John Bunyan's The Pilgrim's Progress (1678), written by a self-educated Baptist preacher, became one of the most widely read books in English — demonstrating that the Reformation's impact extended far beyond theology into literary culture."
+            ]
+        },
+        {
+            "heading": "Reading Shakespeare and Milton as a Christian",
+            "paragraphs": [
+                "Shakespeare and Milton wrote within a Christian cultural framework, even when their characters express doubt or despair. Their works assume a moral universe governed by divine justice and mercy. Reading them carefully helps us understand how the Christian worldview shaped Western culture and produced literature of unsurpassed depth and beauty.",
+                "These works also challenge us to think deeply about the great questions of life: What is the nature of evil? Why do good people suffer? What is the relationship between justice and mercy? How do we exercise free will responsibly? Engaging with these questions through great literature prepares us to articulate our faith thoughtfully and defend it persuasively."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "In Paradise Lost, Satan declares 'Better to reign in Hell than serve in Heaven.' What does this reveal about the nature of pride and sin? How does this attitude manifest in our world today?",
+            "guidance": "Consider Isaiah 14:12-15 and the Biblical account of Satan's fall. Think about how the desire for autonomy from God — the refusal to submit to His authority — is the root of all sin."
+        },
+        {
+            "id": 2,
+            "question": "How did the Protestant Reformation's emphasis on Scripture transform literature and literacy? Why was putting the Bible in the common language such a revolutionary act?",
+            "guidance": "Consider the role of the printing press, the impact of Bible translations on language and culture, and how widespread literacy changed society. Think about why authorities tried to suppress vernacular Bibles."
+        },
+        {
+            "id": 3,
+            "question": "Shakespeare's plays explore the tension between justice and mercy. How does the Gospel resolve this tension? Use Portia's speech from The Merchant of Venice and Romans 3:23-26 to support your answer.",
+            "guidance": "Consider how the cross satisfies both God's justice (sin is punished) and God's mercy (sinners are forgiven). Think about how Shakespeare's exploration of this theme points toward the Gospel even when it is not explicitly stated."
+        }
+    ]
+}

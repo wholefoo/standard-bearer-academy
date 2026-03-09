@@ -1,0 +1,78 @@
+{
+    "id": "patriarchs",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "The Patriarchs",
+    "subtitle": "God's Covenant with Abraham, Isaac, and Jacob",
+    "scripture": "Genesis 12-50",
+    "primary_source": "Genesis 12:1-3 — The Abrahamic Covenant",
+    "key_concepts": ["The Abrahamic Covenant", "Faith and obedience", "God's sovereign election", "The covenant promises: land, descendants, blessing", "Providence in Joseph's life"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 12:2-3",
+                "text": "\"I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.\"",
+                "commentary": "The Abrahamic Covenant is one of the most important passages in the entire Bible. God makes an unconditional promise to Abraham involving three elements: a great nation (descendants), a great name (blessing), and a universal blessing through his offspring — ultimately fulfilled in Christ."
+            },
+            {
+                "reference": "Genesis 15:6",
+                "text": "\"Abram believed the LORD, and he credited it to him as righteousness.\"",
+                "commentary": "This verse establishes the foundational principle of justification by faith. Abraham was counted righteous not because of his works but because he believed God's promise. The Apostle Paul would later point to this verse as proof that salvation has always been by grace through faith."
+            },
+            {
+                "reference": "Genesis 50:20",
+                "text": "\"You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.\"",
+                "commentary": "Joseph's declaration to his brothers reveals God's sovereign providence — His ability to work through even the evil actions of men to accomplish His good purposes. This is a powerful testimony to God's faithfulness to His covenant promises."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Call of Abraham: A New Beginning",
+            "paragraphs": [
+                "After the catastrophe of the Flood and the scattering at Babel, humanity continued in rebellion against God. But in Genesis 12, God initiated a new chapter in His redemptive plan by calling one man — Abram (later Abraham) — out of the pagan city of Ur in Mesopotamia.",
+                "God's call to Abraham was both a command and a promise: 'Go from your country, your people and your father's household to the land I will show you.' In response, Abraham obeyed by faith, leaving everything familiar behind to follow God into an unknown future. This act of faith became the model for all who would follow God throughout the rest of Scripture."
+            ]
+        },
+        {
+            "heading": "The Abrahamic Covenant: God's Unconditional Promise",
+            "paragraphs": [
+                "The covenant God made with Abraham in Genesis 12, confirmed in Genesis 15 and 17, is unconditional — meaning it depends on God's faithfulness, not Abraham's perfection. God promised Abraham three things: a land (Canaan), descendants as numerous as the stars, and that through his offspring all nations would be blessed.",
+                "In Genesis 15, God performed a dramatic covenant ceremony. He had Abraham cut animals in half and arranged them in two rows. Then God alone — represented by a smoking firepot and blazing torch — passed between the pieces. In ancient Near Eastern culture, this meant that God was taking the entire obligation of the covenant upon Himself. If the covenant failed, it would be God's own life at stake. This foreshadows the cross, where God in Christ bore the curse of the broken covenant."
+            ]
+        },
+        {
+            "heading": "Isaac and Jacob: The Covenant Continues",
+            "paragraphs": [
+                "God's covenant promises passed from Abraham to his son Isaac, and from Isaac to his son Jacob. In each generation, God sovereignly chose the recipient of the covenant blessing — not always the firstborn, and not always the one who seemed most deserving.",
+                "Isaac was the child of promise, born miraculously to Abraham and Sarah in their old age. His near-sacrifice on Mount Moriah (Genesis 22) is one of the most powerful foreshadowings of Christ in the Old Testament — a beloved son, offered on a mountain, with God providing a substitute ram.",
+                "Jacob, despite his deceptive character, was chosen by God before birth to receive the covenant blessing (Genesis 25:23). God later renamed him 'Israel,' meaning 'he struggles with God,' and his twelve sons became the twelve tribes of the nation of Israel. Jacob's story demonstrates that God's covenant faithfulness is not based on human merit but on divine grace."
+            ]
+        },
+        {
+            "heading": "Joseph: Providence and Preservation",
+            "paragraphs": [
+                "The story of Joseph (Genesis 37-50) is one of the greatest narratives in all of literature. Sold into slavery by his jealous brothers, falsely accused and imprisoned in Egypt, Joseph endured years of suffering before God elevated him to become the second most powerful man in Egypt.",
+                "Through Joseph's position, God preserved the entire family of Israel during a devastating famine, bringing the seventy members of Jacob's family to Egypt where they would grow into a great nation. Joseph's words to his brothers — 'You intended to harm me, but God intended it for good' — summarize the great theme of God's sovereign providence that runs throughout the Old Testament.",
+                "The patriarchal period establishes the pattern for all of Scripture: God makes covenant promises, human beings fail and struggle, but God remains faithful and works through all circumstances to advance His redemptive plan."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it significant that the Abrahamic Covenant is unconditional? How does this differ from a contract between two equal parties?",
+            "guidance": "Consider what it means that God alone passed between the pieces in Genesis 15. Think about how this covenant depends entirely on God's faithfulness, not human performance."
+        },
+        {
+            "id": 2,
+            "question": "How does the near-sacrifice of Isaac on Mount Moriah foreshadow the sacrifice of Christ? List at least three parallels between Genesis 22 and the crucifixion.",
+            "guidance": "Consider: a beloved son, a journey to a mountain, the son carrying the wood, God providing a substitute, and the location (Moriah is traditionally identified with the Temple Mount in Jerusalem)."
+        },
+        {
+            "id": 3,
+            "question": "What does Joseph's story teach us about God's providence? How can understanding Genesis 50:20 help us respond to difficult circumstances in our own lives?",
+            "guidance": "Think about how God used even the evil actions of Joseph's brothers to accomplish His good purposes. Consider how this applies when we face injustice or suffering."
+        }
+    ]
+}

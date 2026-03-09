@@ -1,0 +1,81 @@
+{
+    "id": "stoichiometry",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Stoichiometry — The Mathematics of Chemistry",
+    "subtitle": "Moles, Molar Mass, and Quantitative Relationships in Reactions",
+    "scripture": "Proverbs 11:1",
+    "primary_source": "Amedeo Avogadro's Hypothesis (1811)",
+    "key_concepts": ["The mole concept", "Avogadro's number", "Molar mass", "Mole-to-mole ratios", "Limiting reagents and percent yield"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"The LORD detests dishonest scales, but accurate weights find favor with him.\"",
+                "commentary": "God values precise measurement. Stoichiometry — the careful measurement and calculation of quantities in chemical reactions — reflects the Biblical principle that accuracy and honesty in measurement matter. Chemistry demands precision, and precision reflects the orderly character of God."
+            },
+            {
+                "reference": "Isaiah 40:12",
+                "text": "\"Who has measured the waters in the hollow of his hand, or with the breadth of his hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?\"",
+                "commentary": "God Himself measures with perfect precision. He weighed the mountains and measured the seas. Stoichiometry allows chemists to follow God's example by measuring matter with accuracy and purpose."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Counting the Uncountable",
+            "paragraphs": [
+                "Atoms are far too small to count individually. A single gram of hydrogen contains approximately 602 billion trillion atoms. Yet chemists need to know exactly how many atoms or molecules are involved in a reaction to predict how much product will form. Stoichiometry is the branch of chemistry that deals with the quantitative relationships between reactants and products in chemical reactions.",
+                "The key to stoichiometry is the mole — a unit that bridges the gap between the atomic world (too small to see) and the laboratory world (measured in grams). Understanding the mole concept is essential for all quantitative chemistry."
+            ]
+        },
+        {
+            "heading": "The Mole and Avogadro's Number",
+            "paragraphs": [
+                "A mole is defined as exactly 6.022 × 10²³ particles (atoms, molecules, ions, or formula units). This number, called Avogadro's number (Nₐ), is named after Italian scientist Amedeo Avogadro, who proposed in 1811 that equal volumes of gases at the same temperature and pressure contain equal numbers of particles.",
+                "The mole connects counting and weighing. One mole of any element has a mass in grams equal to its atomic mass in atomic mass units (amu). One mole of carbon atoms weighs 12.01 grams. One mole of iron atoms weighs 55.85 grams. One mole of water molecules weighs 18.02 grams (the sum of 2 hydrogen atoms and 1 oxygen atom).",
+                "This elegant relationship allows chemists to 'count' atoms by weighing them. If you weigh out 18.02 grams of water, you know you have exactly one mole — 6.022 × 10²³ molecules. This connection between mass and number is a remarkable feature of how matter is organized."
+            ]
+        },
+        {
+            "heading": "Mole Ratios and Stoichiometric Calculations",
+            "paragraphs": [
+                "Balanced chemical equations provide mole ratios — the proportions in which reactants combine and products form. In the equation 2H₂ + O₂ → 2H₂O, the coefficients tell us that 2 moles of hydrogen react with 1 mole of oxygen to produce 2 moles of water.",
+                "These mole ratios are the heart of stoichiometric calculations. To find how much product forms from a given amount of reactant: (1) Convert the given mass to moles using molar mass, (2) Use the mole ratio from the balanced equation to find moles of the desired substance, (3) Convert back to grams using molar mass if needed.",
+                "For example, how many grams of water are produced by burning 4.0 grams of hydrogen? Step 1: 4.0 g H₂ ÷ 2.02 g/mol = 1.98 mol H₂. Step 2: Using the 2:2 ratio, 1.98 mol H₂ produces 1.98 mol H₂O. Step 3: 1.98 mol × 18.02 g/mol = 35.7 g H₂O."
+            ]
+        },
+        {
+            "heading": "Limiting Reagents and Percent Yield",
+            "paragraphs": [
+                "In most reactions, reactants are not present in perfect stoichiometric proportions. The limiting reagent is the reactant that runs out first, determining the maximum amount of product that can form. The excess reagent is left over after the reaction is complete.",
+                "Think of it like making sandwiches: if you have 10 slices of bread and 3 slices of cheese, the cheese is the limiting 'reagent' — you can only make 3 sandwiches, no matter how much bread you have.",
+                "Percent yield compares the actual amount of product obtained to the theoretical maximum: Percent Yield = (Actual Yield ÷ Theoretical Yield) × 100%. In practice, reactions rarely achieve 100% yield due to side reactions, incomplete reactions, or loss during transfer. Understanding yield is important for efficient use of resources — a practical application of Biblical stewardship."
+            ]
+        },
+        {
+            "heading": "Stoichiometry and God's Precise Design",
+            "paragraphs": [
+                "The fact that chemical reactions follow exact mathematical proportions is a profound testimony to the orderly design of creation. Atoms combine in fixed ratios — always. Water is always H₂O, never H₃O or HO₂. Carbon dioxide is always CO₂. This constancy makes chemistry predictable, science possible, and life sustainable.",
+                "In biological systems, stoichiometry is essential. The cellular respiration equation C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O precisely describes how your body extracts energy from glucose. Enzymes ensure these reactions proceed efficiently, maintaining the exact stoichiometric balance needed for life. This mathematical precision in biochemistry points unmistakably to an intelligent Creator who designed life with extraordinary care."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the mole concept and why it is essential for chemistry. How does Avogadro's number bridge the gap between atomic-scale quantities and laboratory measurements?",
+            "guidance": "Think about the relationship between molar mass and atomic mass. Consider why chemists need to count atoms by weighing them."
+        },
+        {
+            "id": 2,
+            "question": "Perform a stoichiometric calculation: In the reaction 2Al + 3Cl₂ → 2AlCl₃, how many grams of AlCl₃ can be produced from 5.4 grams of aluminum? (Al = 27.0 g/mol, Cl = 35.5 g/mol)",
+            "guidance": "Follow the three-step process: convert grams to moles, use the mole ratio, convert back to grams. Show each step clearly."
+        },
+        {
+            "id": 3,
+            "question": "How does the concept of precise stoichiometric ratios — atoms always combining in fixed proportions — reflect God's orderly design? Reference Proverbs 11:1 or Isaiah 40:12.",
+            "guidance": "Consider what would happen if chemical ratios were random rather than fixed. Think about how the constancy of chemical proportions makes life and science possible."
+        }
+    ]
+}

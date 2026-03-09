@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "civics",
+    "title": "American Government — The Constitution in Action",
+    "description": "Study the structure and principles of American government, from the Constitution's design to how the three branches function together to preserve liberty under God.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: American Government",
+            "lessons": ["constitutional_foundations", "legislative_branch", "executive_branch", "judicial_branch", "federalism", "citizen_duties"]
+        }
+    ],
+    "quiz_id": "government_quiz"
+}

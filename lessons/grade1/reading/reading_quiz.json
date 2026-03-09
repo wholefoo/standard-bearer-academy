@@ -1,0 +1,63 @@
+{
+    "id": "reading_quiz",
+    "title": "Reading with Purpose — Phonics and Comprehension Quiz",
+    "description": "Test your phonics and reading comprehension skills!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which letters are vowels?",
+            "options": ["B, C, D, F, G", "A, E, I, O, U", "S, T, R, N, L", "X, Y, Z, W, Q"],
+            "correct": 1,
+            "explanation": "The five vowels are A, E, I, O, and U. Every word has at least one vowel."
+        },
+        {
+            "id": 2,
+            "question": "What does the silent 'e' do in a word like 'hope'?",
+            "options": ["It makes the word shorter", "It makes the vowel say its name", "It makes the word louder", "It adds a new syllable"],
+            "correct": 1,
+            "explanation": "The silent 'e' at the end makes the vowel say its long sound (its name). 'Hop' becomes 'hope.'"
+        },
+        {
+            "id": 3,
+            "question": "What is the short vowel sound in the word 'cat'?",
+            "options": ["Long A (ay)", "Short A (ah)", "Short E (eh)", "Long E (ee)"],
+            "correct": 1,
+            "explanation": "The word 'cat' has the short A sound, which says 'ah.'"
+        },
+        {
+            "id": 4,
+            "question": "Which word begins with a consonant blend?",
+            "options": ["cat", "sun", "bless", "map"],
+            "correct": 2,
+            "explanation": "'Bless' begins with the consonant blend 'bl,' where two consonant sounds blend together."
+        },
+        {
+            "id": 5,
+            "question": "What should you do to understand a story you are reading?",
+            "options": ["Read as fast as possible", "Skip the hard words", "Ask who, what, and where questions", "Only look at the pictures"],
+            "correct": 2,
+            "explanation": "Asking who, what, and where questions helps us understand and remember what we read."
+        },
+        {
+            "id": 6,
+            "question": "What does a question mark (?) at the end of a sentence mean?",
+            "options": ["The sentence is finished", "Someone is asking a question", "Someone is excited", "It is a command"],
+            "correct": 1,
+            "explanation": "A question mark means someone is asking a question and your voice should go up at the end."
+        },
+        {
+            "id": 7,
+            "question": "Which of these is a sight word?",
+            "options": ["Elephant", "The", "Beautiful", "Wonderful"],
+            "correct": 1,
+            "explanation": "'The' is one of the most common sight words. It appears in almost every sentence we read."
+        },
+        {
+            "id": 8,
+            "question": "In the story of David and the lion, what did David do?",
+            "options": ["He ran away", "He hid in a cave", "He trusted God and saved his sheep", "He called for help"],
+            "correct": 2,
+            "explanation": "David was brave, trusted God, and fought the lion to save his father's sheep."
+        }
+    ]
+}

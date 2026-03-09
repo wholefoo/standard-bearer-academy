@@ -1,0 +1,63 @@
+{
+    "id": "government_quiz",
+    "title": "Our Government and Constitution Quiz",
+    "description": "Test your knowledge of America's government, the Constitution, and what it means to be a good citizen!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the Bible, who established the idea of government?",
+            "options": ["The President", "God", "The Pilgrims", "Christopher Columbus"],
+            "correct": 1,
+            "explanation": "Romans 13:1 teaches that God established the idea of government to keep order and protect people."
+        },
+        {
+            "id": 2,
+            "question": "What are the first three words of the Constitution?",
+            "options": ["In God's Name", "We the People", "God Bless America", "The United States"],
+            "correct": 1,
+            "explanation": "The Constitution begins with 'We the People,' showing that the government belongs to the citizens."
+        },
+        {
+            "id": 3,
+            "question": "Which branch of government makes the laws?",
+            "options": ["Executive Branch", "Judicial Branch", "Legislative Branch", "Military Branch"],
+            "correct": 2,
+            "explanation": "The Legislative Branch — Congress — is responsible for making the laws of the United States."
+        },
+        {
+            "id": 4,
+            "question": "Who leads the Executive Branch of government?",
+            "options": ["The Governor", "The President", "The Supreme Court", "Congress"],
+            "correct": 1,
+            "explanation": "The President of the United States leads the Executive Branch and is responsible for carrying out the laws."
+        },
+        {
+            "id": 5,
+            "question": "What is the Bill of Rights?",
+            "options": ["A list of taxes", "The first ten amendments to the Constitution", "A list of presidents", "A law about voting"],
+            "correct": 1,
+            "explanation": "The Bill of Rights is the first ten amendments to the Constitution, protecting freedoms like religion, speech, and the press."
+        },
+        {
+            "id": 6,
+            "question": "Which amendment protects freedom of religion and freedom of speech?",
+            "options": ["The Second Amendment", "The Fifth Amendment", "The First Amendment", "The Tenth Amendment"],
+            "correct": 2,
+            "explanation": "The First Amendment protects freedom of religion, freedom of speech, and freedom of the press."
+        },
+        {
+            "id": 7,
+            "question": "Who is the leader of your state government?",
+            "options": ["The President", "The Mayor", "The Governor", "The Senator"],
+            "correct": 2,
+            "explanation": "Each state is led by a Governor, who serves a role similar to the President but at the state level."
+        },
+        {
+            "id": 8,
+            "question": "What does the Bible verse Micah 6:8 tell us to do?",
+            "options": ["To be rich and powerful", "To act justly, love mercy, and walk humbly with God", "To build big buildings", "To travel the world"],
+            "correct": 1,
+            "explanation": "Micah 6:8 teaches us to act justly, love mercy, and walk humbly with God — which are qualities of a good citizen."
+        }
+    ]
+}

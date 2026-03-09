@@ -1,0 +1,20 @@
+{
+    "id": "place_value",
+    "lesson_number": 1,
+    "title": "Place Value — Ones, Tens, and Hundreds",
+    "scripture": "Genesis 1:1",
+    "memory_verse": "\"In the beginning God created the heavens and the earth.\" — Genesis 1:1 (NIV)",
+    "objective": "Students will understand place value for ones, tens, and hundreds, and how God uses order in all of creation.",
+    "content": [
+        "Every number is made up of digits, and each digit has a special place. The place tells us how much that digit is worth.",
+        "In the number 345, the 5 is in the ones place (worth 5), the 4 is in the tens place (worth 40), and the 3 is in the hundreds place (worth 300).",
+        "Just like God put everything in its right place during creation, every digit has its right place in a number. When we understand place value, we can read and write numbers up to 999!",
+        "Let's practice: In the number 276, the 6 is in the ones place, the 7 is in the tens place, and the 2 is in the hundreds place. So 276 = 200 + 70 + 6."
+    ],
+    "activity": "Use blocks or small objects to build numbers. Group 10 ones into a ten, and 10 tens into a hundred. Build the numbers 153, 247, and 389 using your groups.",
+    "discussion": [
+        "Why is it important that each digit has its own place?",
+        "How does understanding place value help us count bigger numbers?",
+        "How is God's order in creation like the order in our number system?"
+    ]
+}

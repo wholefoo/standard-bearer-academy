@@ -1,0 +1,54 @@
+{
+    "id": "branches_quiz",
+    "title": "The Three Branches of Government Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Which Bible verse inspired the Founders' idea of three branches of government?",
+            "options": ["Genesis 1:1", "Isaiah 33:22", "John 3:16", "Psalm 23:1"],
+            "correct": 1
+        },
+        {
+            "id": "q2",
+            "question": "Which branch of government is responsible for making the laws?",
+            "options": ["Executive Branch", "Judicial Branch", "Legislative Branch", "Military Branch"],
+            "correct": 2
+        },
+        {
+            "id": "q3",
+            "question": "How many justices serve on the Supreme Court?",
+            "options": ["5", "7", "9", "12"],
+            "correct": 2
+        },
+        {
+            "id": "q4",
+            "question": "What is the President's main job?",
+            "options": ["To make laws", "To interpret laws", "To enforce laws", "To write the Constitution"],
+            "correct": 2
+        },
+        {
+            "id": "q5",
+            "question": "What are the two parts of Congress?",
+            "options": ["The Supreme Court and the Cabinet", "The Senate and the House of Representatives", "The President and the Vice President", "The Army and the Navy"],
+            "correct": 1
+        },
+        {
+            "id": "q6",
+            "question": "What is the system called that prevents any branch from having too much power?",
+            "options": ["Separation of church and state", "Checks and balances", "The Bill of Rights", "Federalism"],
+            "correct": 1
+        },
+        {
+            "id": "q7",
+            "question": "What are the first three words of the Constitution?",
+            "options": ["In God's name", "We the People", "Congress shall make", "The President shall"],
+            "correct": 1
+        },
+        {
+            "id": "q8",
+            "question": "Why did the Founders divide power among three branches?",
+            "options": ["Because they liked the number three", "Because the Bible has three testaments", "Because they believed no one person should have too much power", "Because England had three kings"],
+            "correct": 2
+        }
+    ]
+}

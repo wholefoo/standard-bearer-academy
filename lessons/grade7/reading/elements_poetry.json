@@ -1,0 +1,77 @@
+{
+    "id": "elements_poetry",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Elements of Poetry",
+    "subtitle": "Discovering Rhythm, Rhyme, and Structure in the Beauty of Verse",
+    "scripture": "Psalm 150:1-6",
+    "key_concepts": ["Stanza and line", "Rhyme scheme", "Meter and rhythm", "Types of poems: lyric, narrative, sonnet", "Poetry in the Psalms"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 150:1",
+                "text": "\"Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens.\"",
+                "commentary": "The Psalms are poetry — songs and prayers composed with deliberate structure, rhythm, and imagery. The book of Psalms demonstrates that poetry is not merely human art; it is a form God Himself chose for expressing praise, lament, and truth."
+            },
+            {
+                "reference": "Psalm 19:14",
+                "text": "\"May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my Redeemer.\"",
+                "commentary": "The psalmist cares about both the content and the craft of his words. Poetry invites us to choose words carefully and arrange them beautifully — making our communication pleasing to God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Poetry?",
+            "paragraphs": [
+                "Poetry is a form of literary expression that uses concentrated, carefully chosen language to evoke emotion, paint images, and convey truth. Unlike prose, which flows in sentences and paragraphs, poetry is organized in lines and stanzas, often with attention to rhythm, sound, and structure.",
+                "Poetry is one of the oldest forms of literature. The earliest books of the Bible — Job and portions of Genesis — contain poetry. The Psalms, Proverbs, Song of Solomon, and large sections of the prophets are all written as Hebrew poetry. God chose this form to communicate some of His most profound truths."
+            ]
+        },
+        {
+            "heading": "Lines, Stanzas, and Structure",
+            "paragraphs": [
+                "The basic unit of poetry is the line — a single row of words. Lines are grouped into stanzas, which function like paragraphs in prose. A couplet is a two-line stanza, a tercet has three lines, a quatrain has four. The way lines are grouped affects the poem's pace and meaning.",
+                "Some poems follow strict structural forms. A sonnet has 14 lines with a specific rhyme scheme. A haiku has three lines with a 5-7-5 syllable pattern. A limerick has five lines with an AABBA rhyme scheme. Other poems use free verse — no set rhyme or meter — relying instead on imagery and line breaks for effect."
+            ]
+        },
+        {
+            "heading": "Rhyme and Rhyme Scheme",
+            "paragraphs": [
+                "Rhyme occurs when words share the same ending sound: light/night, grace/place. End rhyme appears at the ends of lines and creates a pattern called a rhyme scheme, labeled with letters. In an ABAB pattern, the first and third lines rhyme, and the second and fourth lines rhyme.",
+                "Not all poetry rhymes. Hebrew poetry, including the Psalms, uses parallelism rather than end rhyme. In parallelism, the second line restates, contrasts, or extends the idea of the first: 'The LORD is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters' (Psalm 23:1-2). Each pair of lines builds on the same idea in a slightly different way."
+            ]
+        },
+        {
+            "heading": "Meter and Rhythm",
+            "paragraphs": [
+                "Meter is the pattern of stressed and unstressed syllables in a line of poetry. In English, the most common meter is iambic — an unstressed syllable followed by a stressed one: da-DUM. 'Shall I com-PARE thee TO a SUM-mer's DAY?' has five iambic feet, making it iambic pentameter.",
+                "Rhythm gives poetry its musical quality. Even free verse has rhythm created by the natural cadence of language, line length, and punctuation. Reading poetry aloud helps you hear its rhythm and understand how the poet used sound to reinforce meaning."
+            ]
+        },
+        {
+            "heading": "Types of Poems",
+            "paragraphs": [
+                "Lyric poems express personal thoughts and emotions. The Psalms are lyric poetry — David pours out his heart in praise, sorrow, and longing. Narrative poems tell stories in verse. Epic poems like Beowulf and Paradise Lost are extended narrative poems that deal with heroic themes.",
+                "Sonnets are 14-line poems that follow specific rhyme schemes and often explore themes of love, faith, or mortality. The English (Shakespearean) sonnet has three quatrains and a couplet (ABAB CDCD EFEF GG). The Italian (Petrarchan) sonnet divides into an octave and a sestet. Learning to recognize these forms deepens your appreciation of poetic craft."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Psalm 23 and identify examples of parallelism. How does the second line in each pair expand or deepen the meaning of the first?",
+            "guidance": "Look for pairs of lines that say similar things in different words. Note how the second line often provides a concrete image for an abstract idea."
+        },
+        {
+            "id": 2,
+            "question": "Why do you think God chose poetry as the form for the Psalms rather than plain prose? What can poetry do that prose cannot?",
+            "guidance": "Consider how rhythm, imagery, and emotion in poetry make truths more memorable and moving. Think about how singing and reciting poetry engages the heart as well as the mind."
+        },
+        {
+            "id": 3,
+            "question": "Write a four-line poem (quatrain) with an ABAB rhyme scheme about an aspect of God's creation. Label the rhyme scheme and identify any rhythm pattern you used.",
+            "guidance": "Choose a subject like the ocean, stars, seasons, or mountains. Make sure lines 1 and 3 rhyme, and lines 2 and 4 rhyme."
+        }
+    ]
+}

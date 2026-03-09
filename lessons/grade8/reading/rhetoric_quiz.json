@@ -1,0 +1,103 @@
+{
+    "id": "rhetoric_quiz",
+    "title": "Rhetoric and Persuasion — Speaking Truth",
+    "description": "Test your understanding of rhetoric, logical arguments, persuasive writing, speech analysis, and Biblical rhetoric.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What are the three modes of persuasion identified by Aristotle?",
+            "options": [
+                "Introduction, body, conclusion",
+                "Ethos, pathos, logos",
+                "Claim, evidence, reasoning",
+                "Deductive, inductive, abductive"
+            ],
+            "correct": 1,
+            "explanation": "Aristotle identified three modes of persuasion: ethos (appeal to character/credibility), pathos (appeal to emotion), and logos (appeal to logic/reason)."
+        },
+        {
+            "id": 2,
+            "question": "Which type of reasoning starts with a general principle and applies it to a specific case?",
+            "options": [
+                "Inductive reasoning",
+                "Emotional reasoning",
+                "Deductive reasoning",
+                "Circular reasoning"
+            ],
+            "correct": 2,
+            "explanation": "Deductive reasoning starts with a general principle (major premise), applies it to a specific case (minor premise), and reaches a conclusion. If both premises are true and the logic is valid, the conclusion is guaranteed."
+        },
+        {
+            "id": 3,
+            "question": "An 'ad hominem' fallacy occurs when someone:",
+            "options": [
+                "Uses too many statistics in an argument",
+                "Attacks the person making the argument rather than the argument itself",
+                "Presents too many supporting points",
+                "Uses emotional language in a speech"
+            ],
+            "correct": 1,
+            "explanation": "An ad hominem fallacy attacks the character of the person making the argument rather than addressing the argument's content. This is a logical error because the truth of a claim does not depend on who states it."
+        },
+        {
+            "id": 4,
+            "question": "What is a thesis statement?",
+            "options": [
+                "The first sentence of any paragraph",
+                "A question that introduces an essay",
+                "A single sentence stating your position on an issue",
+                "The conclusion of a persuasive essay"
+            ],
+            "correct": 2,
+            "explanation": "A thesis statement is a single sentence that clearly states your position on an issue and often previews your supporting reasons. It is the foundation of a persuasive essay."
+        },
+        {
+            "id": 5,
+            "question": "In Patrick Henry's famous speech, what was the primary rhetorical purpose of his closing words 'Give me liberty, or give me death!'?",
+            "options": [
+                "To appeal to logos through logical reasoning",
+                "To create a powerful emotional climax (pathos)",
+                "To establish his credibility as a speaker",
+                "To introduce a new counterargument"
+            ],
+            "correct": 1,
+            "explanation": "Henry's dramatic closing was a powerful appeal to pathos — an emotional climax that left his audience with an unforgettable statement about the value of liberty over life itself."
+        },
+        {
+            "id": 6,
+            "question": "What type of parallelism is used in Psalm 1:6 — 'For the LORD watches over the way of the righteous, but the way of the wicked leads to destruction'?",
+            "options": [
+                "Synonymous parallelism",
+                "Antithetical parallelism",
+                "Synthetic parallelism",
+                "Climactic parallelism"
+            ],
+            "correct": 1,
+            "explanation": "This is antithetical parallelism — the second line contrasts with the first. The righteous way is protected by God, while the wicked way leads to destruction. The contrast reinforces the message."
+        },
+        {
+            "id": 7,
+            "question": "Why are Jesus' parables considered effective rhetorical devices?",
+            "options": [
+                "They use technical theological language",
+                "They present truth through engaging stories that bypass intellectual resistance",
+                "They are very long and detailed",
+                "They only appeal to scholars"
+            ],
+            "correct": 1,
+            "explanation": "Parables wrap truth in memorable stories that engage the listener's emotions and imagination. People who might resist a direct theological statement will engage with a compelling story and arrive at the intended conclusion themselves."
+        },
+        {
+            "id": 8,
+            "question": "According to Ephesians 4:15, how should Christians communicate truth?",
+            "options": [
+                "As loudly as possible",
+                "Only when asked",
+                "In love",
+                "Through written arguments only"
+            ],
+            "correct": 2,
+            "explanation": "Ephesians 4:15 calls believers to 'speak the truth in love.' Christian communication should combine courageous honesty with genuine compassion — defending truth while maintaining grace and respect toward others."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "light_optics",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Light and Optics",
+    "subtitle": "The Physics of God's First Creation",
+    "scripture": "Genesis 1:3",
+    "key_concepts": ["Electromagnetic spectrum", "Reflection and refraction", "Lenses and mirrors", "Color and visible light"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:3",
+                "text": "\"And God said, 'Let there be light,' and there was light.\"",
+                "commentary": "Light was the first thing God created after the heavens and the earth. This first creative act reveals that light holds a special place in God's design — it is essential for life, vision, and understanding the physical world."
+            },
+            {
+                "reference": "1 John 1:5",
+                "text": "\"This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all.\"",
+                "commentary": "Scripture uses light as a metaphor for God's nature — His purity, truth, and goodness. The physical properties of light reflect spiritual realities about the character of God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Nature of Light",
+            "paragraphs": [
+                "Light is a form of electromagnetic radiation — energy that travels in waves through space. Unlike sound, light does not require a medium; it can travel through the vacuum of space. Light travels at an astonishing speed of approximately 300,000 kilometers per second (186,000 miles per second) — the fastest speed in the universe.",
+                "Light behaves both as a wave and as a stream of particles called photons. This dual nature puzzled scientists for centuries, but it reflects the complex and wonderful design of God's creation. The speed of light is so fundamental to physics that it serves as a universal constant, represented by the letter 'c' in Einstein's famous equation E = mc²."
+            ]
+        },
+        {
+            "heading": "The Electromagnetic Spectrum",
+            "paragraphs": [
+                "Visible light — the light we can see — is only a small portion of the electromagnetic spectrum. The full spectrum includes (from longest wavelength to shortest): radio waves, microwaves, infrared radiation, visible light, ultraviolet radiation, X-rays, and gamma rays. All of these travel at the speed of light but differ in wavelength and frequency.",
+                "Visible light spans wavelengths from about 700 nanometers (red) to 400 nanometers (violet). When all visible wavelengths combine, we see white light. A prism or raindrop can separate white light into its component colors — red, orange, yellow, green, blue, indigo, and violet — creating a rainbow. God set the rainbow as a sign of His covenant with Noah (Genesis 9:13), and the physics of light refraction makes this beautiful display possible."
+            ]
+        },
+        {
+            "heading": "Reflection and Refraction",
+            "paragraphs": [
+                "When light strikes a surface, it can be reflected, absorbed, or transmitted. Reflection occurs when light bounces off a surface. The law of reflection states that the angle of incidence (incoming light) equals the angle of reflection (outgoing light). Smooth surfaces like mirrors produce clear reflections, while rough surfaces scatter light in many directions.",
+                "Refraction occurs when light passes from one medium to another (such as from air to water) and changes speed, causing it to bend. This is why a straw in a glass of water appears bent at the surface. Refraction is also what allows lenses to focus light, making eyeglasses, cameras, telescopes, and microscopes possible.",
+                "God designed the human eye with a remarkable lens system that refracts light to form clear images on the retina. The eye's ability to automatically adjust focus, adapt to different light levels, and perceive millions of colors is one of the strongest evidences of intelligent design in the human body."
+            ]
+        },
+        {
+            "heading": "Lenses and Mirrors",
+            "paragraphs": [
+                "Lenses are transparent objects that refract light to form images. A convex lens (thicker in the middle) converges light rays to a focal point, producing magnified images. Convex lenses are used in magnifying glasses, cameras, and the human eye. A concave lens (thinner in the middle) diverges light rays, spreading them apart. Concave lenses are used to correct nearsightedness.",
+                "Mirrors reflect light to form images. A flat (plane) mirror produces an image that appears to be behind the mirror. Concave mirrors (curved inward) converge reflected light and can magnify images, as in makeup mirrors and telescopes. Convex mirrors (curved outward) diverge reflected light and provide a wide field of view, as in car side mirrors.",
+                "The development of optical instruments — from Galileo's telescope to modern electron microscopes — has allowed humanity to explore both the vastness of the cosmos and the intricacy of the microscopic world. Each new discovery reveals more of the glory and complexity of God's creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it significant that light was the first thing God created (Genesis 1:3)? How does light function as both a physical necessity and a spiritual symbol in Scripture?",
+            "guidance": "Consider light's role in supporting life (photosynthesis, vision) and its use as a metaphor for God's truth, purity, and presence throughout the Bible."
+        },
+        {
+            "id": 2,
+            "question": "Explain how refraction makes rainbows possible. How does the physics of light connect to God's covenant promise in Genesis 9:13?",
+            "guidance": "Describe how water droplets refract and separate white light into its component colors. Consider how God uses natural physical processes to display His covenant signs."
+        },
+        {
+            "id": 3,
+            "question": "How is the human eye an example of intelligent design? Describe at least three features of the eye that demonstrate purposeful engineering.",
+            "guidance": "Consider the lens system, the ability to focus at different distances, adaptation to light levels, and color perception. Think about whether such a complex system could arise by chance."
+        }
+    ]
+}

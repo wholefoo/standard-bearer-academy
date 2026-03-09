@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "civics",
+    "title": "Constitutional Law — Original Intent and Application",
+    "description": "A study of the U.S. Constitution as understood by its Framers, examining original intent, landmark cases, and the Biblical principles that undergird American constitutional government.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Original Intent and Application",
+            "lessons": ["original_intent", "first_amendment", "second_fourth_amendments", "federalism_separation", "judicial_review", "constitutional_future"]
+        }
+    ],
+    "quiz_id": "constitutional_quiz"
+}

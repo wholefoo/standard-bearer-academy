@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "bible",
+    "title": "Old Testament Survey — God's Covenant Story",
+    "description": "A comprehensive survey of the Old Testament tracing God's covenant faithfulness from Creation through the prophets, revealing His sovereign plan of redemption.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: God's Covenant Story",
+            "lessons": ["creation_fall", "patriarchs", "exodus_law", "conquest_judges", "kingdom_divided", "prophets_exile"]
+        }
+    ],
+    "quiz_id": "ot_survey_quiz"
+}

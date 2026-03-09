@@ -1,0 +1,127 @@
+{
+    "id": "capstone_quiz",
+    "title": "Senior Capstone — A Biblical Worldview for Life Quiz",
+    "description": "Test your understanding of worldview integration, vocation, marriage and family, the Church, cultural engagement, and living with an eternal perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What does it mean to have a 'Biblical worldview'?",
+            "options": [
+                "Believing the Bible is a good book with helpful stories",
+                "Interpreting all of reality — truth, morality, purpose, and destiny — through the lens of Scripture",
+                "Attending church regularly and reading the Bible occasionally",
+                "Agreeing with whatever your pastor says about current events"
+            ],
+            "correct": 1,
+            "explanation": "A Biblical worldview means using Scripture as the ultimate framework for understanding all of reality — not just 'religious' matters but every area of life including science, ethics, politics, art, relationships, and purpose."
+        },
+        {
+            "id": 2,
+            "question": "According to Ephesians 2:10, what is the relationship between the believer and good works?",
+            "options": [
+                "Good works earn salvation and God's favor",
+                "Good works are unnecessary because salvation is by faith alone",
+                "God has prepared specific good works in advance for each believer to accomplish",
+                "Good works are only for pastors and missionaries"
+            ],
+            "correct": 2,
+            "explanation": "Ephesians 2:10 teaches that believers are 'God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.' Good works do not earn salvation but are the purpose for which God created and redeemed us."
+        },
+        {
+            "id": 3,
+            "question": "What did Martin Luther's doctrine of vocation teach about the relationship between 'sacred' and 'secular' work?",
+            "options": [
+                "That only pastors and missionaries do truly important work",
+                "That secular work is inherently sinful and should be avoided",
+                "That there is no sacred-secular divide — God serves the world through the ordinary work of ordinary people in every legitimate calling",
+                "That Christians should never work in non-religious occupations"
+            ],
+            "correct": 2,
+            "explanation": "Luther rejected the medieval hierarchy that elevated 'religious' callings above 'secular' ones. He taught that God serves the world through the faithful work of people in every legitimate vocation — the farmer, teacher, and merchant serve God just as truly as the pastor."
+        },
+        {
+            "id": 4,
+            "question": "According to the Biblical view, what is marriage?",
+            "options": [
+                "A social contract that can be redefined by each generation",
+                "A covenantal, complementary, and permanent union of husband and wife established by God at creation",
+                "An outdated institution that has no relevance in modern society",
+                "A purely legal arrangement for the purpose of sharing property"
+            ],
+            "correct": 1,
+            "explanation": "The Bible defines marriage as a covenantal (binding commitment), complementary (male and female), and permanent (lifelong) union established by God at creation (Genesis 2:24) and affirmed by Jesus (Matthew 19:4-6). Marriage is also a picture of Christ's relationship with the Church."
+        },
+        {
+            "id": 5,
+            "question": "Why does the Bible assign parents — rather than the state — the primary responsibility for raising children?",
+            "options": [
+                "Because the state did not exist when the Bible was written",
+                "Because God designed the family as the primary context for moral, spiritual, and educational formation",
+                "Because parents always know more than teachers and government officials",
+                "Because education was not important in Biblical times"
+            ],
+            "correct": 1,
+            "explanation": "Deuteronomy 6:6-7 commands parents to teach God's commandments to their children continually. God designed the family as the foundational institution for the formation of the next generation, with parents bearing the primary responsibility that may be delegated to others but never abdicated."
+        },
+        {
+            "id": 6,
+            "question": "According to 1 Corinthians 12, why does the Church have members with diverse gifts?",
+            "options": [
+                "So that members can compete with each other for recognition",
+                "Because God could not find enough people with the same gifts",
+                "So that the Body of Christ is fully equipped for every aspect of its mission, with each member contributing something essential",
+                "Diversity of gifts is accidental and has no theological significance"
+            ],
+            "correct": 2,
+            "explanation": "Paul teaches that the diversity of gifts in the Church is intentional — God deliberately distributes different gifts to different members so that the Body is equipped for its full mission. Every member is essential, and no gift is more important than another."
+        },
+        {
+            "id": 7,
+            "question": "What did Abraham Kuyper mean when he said there is 'not a square inch' over which Christ does not cry 'Mine'?",
+            "options": [
+                "That Christians should seek to take political control of every nation",
+                "That Christ's lordship extends over every area of life — art, science, politics, education, business — not just the Church",
+                "That all land on earth belongs to the Church",
+                "That Christians should only associate with other Christians"
+            ],
+            "correct": 1,
+            "explanation": "Kuyper's famous declaration affirms that Christ is sovereign over all of creation, not just the 'religious' sphere. This means Christians have a calling to bring a Biblical worldview into every area of human endeavor, serving faithfully in every sphere of life."
+        },
+        {
+            "id": 8,
+            "question": "What is the Biblical posture toward culture that avoids both withdrawal and accommodation?",
+            "options": [
+                "Indifference — culture does not matter to God",
+                "Domination — Christians should impose their beliefs by force",
+                "Engagement — participating actively in culture while maintaining faithfulness to Christ",
+                "Accommodation — conforming to culture to avoid conflict"
+            ],
+            "correct": 2,
+            "explanation": "The Biblical model, exemplified by Daniel and taught by Jesus (Matthew 5:13-16), is faithful engagement — being 'in the world but not of it.' Christians are called to be salt and light, actively participating in culture while maintaining their distinctive convictions."
+        },
+        {
+            "id": 9,
+            "question": "According to C.S. Lewis in 'The Weight of Glory,' why are there 'no ordinary people'?",
+            "options": [
+                "Because everyone is famous in some way",
+                "Because every human being is an immortal soul whose existence extends into eternity",
+                "Because Lewis believed in reincarnation",
+                "Because all people are equally talented and gifted"
+            ],
+            "correct": 1,
+            "explanation": "Lewis argued that every human being is an eternal soul of infinite value. Nations and civilizations are mortal, but the people we encounter every day — neighbors, classmates, strangers — will live forever. This truth should profoundly shape how we treat every person."
+        },
+        {
+            "id": 10,
+            "question": "What does 1 Corinthians 15:58 teach about the relationship between the resurrection hope and present-day faithfulness?",
+            "options": [
+                "That since heaven awaits, we should not bother working hard in this life",
+                "That the resurrection is only a metaphor for personal growth",
+                "That because our labor in the Lord is 'not in vain,' we should give ourselves fully to God's work with confidence that nothing done for Christ is wasted",
+                "That only spiritual work has eternal significance"
+            ],
+            "correct": 2,
+            "explanation": "Paul's conclusion to the great resurrection chapter is a call to action: because the resurrection is real and our labor in the Lord is not in vain, we should 'stand firm' and 'always give ourselves fully to the work of the Lord.' The eternal hope fuels present faithfulness."
+        }
+    ]
+}

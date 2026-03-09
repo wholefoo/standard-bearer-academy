@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "civics",
+    "title": "My Community — Rules, Leaders, and Helpers",
+    "description": "Learn about rules, community helpers, and how God wants us to be good neighbors and citizens.",
+    "units": [
+        {
+            "id": "community",
+            "title": "My Community",
+            "lessons": ["rules_and_laws", "community_helpers", "our_leaders", "being_a_good_neighbor", "our_country"]
+        }
+    ],
+    "quiz_id": "community_quiz"
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "civics",
+    "title": "Rights and Responsibilities — Being a Good Citizen",
+    "description": "Learn about the rights God has given us, the responsibilities of citizenship, and how Biblical principles shape good government and good citizens.",
+    "units": [
+        {
+            "id": "rights_responsibilities",
+            "title": "Rights and Responsibilities",
+            "lessons": ["god_given_rights", "bill_of_rights", "civic_duties", "community_service", "state_government", "being_informed"]
+        }
+    ],
+    "quiz_id": "civics_quiz"
+}

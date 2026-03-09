@@ -1,0 +1,76 @@
+{
+    "id": "proportions",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Solving Proportions",
+    "subtitle": "Using Cross-Multiplication to Find Unknown Values",
+    "scripture": "1 Kings 6:2-3",
+    "primary_source": "Vitruvius, De Architectura — Proportions in Architecture (c. 30 BC)",
+    "key_concepts": ["Proportions as equal ratios", "Cross-multiplication", "Solving for unknown values", "Proportions in architecture and design"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Kings 6:2-3",
+                "text": "\"The temple that King Solomon built for the LORD was sixty cubits long, twenty cubits wide and thirty cubits high. The portico at the front of the main hall of the temple extended the width of the temple, that is twenty cubits, and projected ten cubits from the front of the temple.\"",
+                "commentary": "Solomon's Temple was built with precise proportions given by God. The 3:1:1.5 ratio of length to width to height demonstrates that God values mathematical harmony in design. Architecture, art, and creation all reflect God's love of proportion."
+            },
+            {
+                "reference": "Exodus 26:1-2",
+                "text": "\"Make the tabernacle with ten curtains of finely twisted linen... All the curtains are to be the same size — twenty-eight cubits long and four cubits wide.\"",
+                "commentary": "The Tabernacle was built with consistent proportions throughout, ensuring harmony and beauty. When every part is in proper proportion, the whole structure reflects God's orderly design."
+            },
+            {
+                "reference": "Proverbs 8:27-29",
+                "text": "\"I was there when he set the heavens in place, when he marked out the horizon on the face of the deep, when he established the clouds above and fixed securely the fountains of the deep, when he gave the sea its boundary so the waters would not overstep his command.\"",
+                "commentary": "God set boundaries and proportions in creation itself. The mathematical relationships He established — in planetary orbits, atomic structures, and natural patterns — all reflect His wisdom as the master Designer."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Proportion?",
+            "paragraphs": [
+                "A proportion is an equation that states two ratios are equal. For example, 2/3 = 8/12 is a proportion because both ratios simplify to the same value. Proportions are one of the most useful tools in mathematics because they allow us to find unknown quantities when we know the relationship between two pairs of values.",
+                "You encounter proportions constantly in daily life, even when you do not realize it. When a map says 1 inch = 50 miles and you measure 3 inches on the map, you set up a proportion to find the actual distance: 1/50 = 3/x. When a recipe serves 4 and you need to serve 10, you use a proportion to scale the ingredients. Proportional reasoning is essential for problem-solving."
+            ]
+        },
+        {
+            "heading": "Cross-Multiplication: The Key Technique",
+            "paragraphs": [
+                "Cross-multiplication is the primary method for solving proportions. If a/b = c/d, then a × d = b × c. This technique transforms a proportion into a simple equation that you can solve for the unknown value.",
+                "For example, solve: 3/5 = x/20. Cross-multiply: 3 × 20 = 5 × x, which gives 60 = 5x. Divide both sides by 5: x = 12. You can check your answer by substituting back: 3/5 = 12/20. Simplify 12/20 by dividing by 4: 3/5. Since both sides are equal, the answer is correct."
+            ]
+        },
+        {
+            "heading": "Setting Up Proportions from Word Problems",
+            "paragraphs": [
+                "The trickiest part of proportion problems is often setting them up correctly. The key rule is: keep the same units in the same positions. If the first ratio compares miles to hours, the second ratio must also compare miles to hours, not hours to miles.",
+                "Example: If a car travels 180 miles in 3 hours, how far will it travel in 5 hours at the same speed? Set up the proportion with miles on top and hours on bottom: 180/3 = x/5. Cross-multiply: 180 × 5 = 3 × x, so 900 = 3x, and x = 300 miles. Always label your ratios to make sure the units match up correctly."
+            ]
+        },
+        {
+            "heading": "Proportions in Architecture and God's Design",
+            "paragraphs": [
+                "Proportions have been central to architecture and art throughout history. The ancient Roman architect Vitruvius wrote that beautiful buildings require correct proportions, just as the human body has proportional relationships between its parts. He noted that a person's arm span equals their height, and that the body follows mathematical ratios that create a sense of harmony and beauty.",
+                "God Himself specified precise proportions for the Tabernacle, the Ark of the Covenant, and Solomon's Temple. These structures were not only functional but beautiful, reflecting God's character through mathematical harmony. The golden ratio (approximately 1:1.618) appears in architecture, art, and nature, suggesting that God embedded a universal standard of beauty in the mathematical fabric of creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to keep units consistent when setting up a proportion? What could go wrong if you mix up the positions of units?",
+            "guidance": "Think about what would happen if you put miles/hours on one side and hours/miles on the other. Consider how mismatched units lead to incorrect answers."
+        },
+        {
+            "id": 2,
+            "question": "God gave precise proportions for the Tabernacle and Solomon's Temple. Why do you think God cared about the mathematical relationships in these structures?",
+            "guidance": "Consider that God is a God of order and beauty. Think about how proportional harmony in architecture reflects God's character and creates an environment suitable for worship."
+        },
+        {
+            "id": 3,
+            "question": "How can proportional reasoning help you solve problems in everyday life? Give two specific examples.",
+            "guidance": "Think about scaling recipes, reading maps, calculating travel time, comparing prices, or adjusting measurements in building projects."
+        }
+    ]
+}

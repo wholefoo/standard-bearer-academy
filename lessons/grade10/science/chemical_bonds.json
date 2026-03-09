@@ -1,0 +1,81 @@
+{
+    "id": "chemical_bonds",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Chemical Bonds — How God Connects the Elements",
+    "subtitle": "Ionic, Covalent, and Metallic Bonding",
+    "scripture": "Ecclesiastes 4:12",
+    "primary_source": "Gilbert N. Lewis's 'The Atom and the Molecule' (1916)",
+    "key_concepts": ["Ionic bonds", "Covalent bonds", "Metallic bonds", "Lewis dot structures", "Polarity and electronegativity"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 4:12",
+                "text": "\"Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.\"",
+                "commentary": "Just as Solomon teaches that bonds between people create strength, chemical bonds between atoms create the stable substances that make up our world. The strength and variety of chemical bonds are essential to the complexity of God's creation."
+            },
+            {
+                "reference": "Genesis 2:7",
+                "text": "\"Then the LORD God formed a man from the dust of the ground and breathed into him the breath of life, and the man became a living being.\"",
+                "commentary": "God formed man from the elements of the earth — elements held together by chemical bonds. The chemistry of the human body, with its thousands of precisely bonded molecules, reflects the intimate care of the Creator in forming us."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Atoms Bond",
+            "paragraphs": [
+                "Individual atoms, with the exception of noble gases, are rarely found in isolation. They combine with other atoms by forming chemical bonds — attractive forces that hold atoms together in molecules and compounds. The driving force behind bonding is the tendency of atoms to achieve a stable electron configuration, typically a full outer shell of electrons.",
+                "There are three main types of chemical bonds: ionic bonds (transfer of electrons), covalent bonds (sharing of electrons), and metallic bonds (sea of shared electrons). Each type produces substances with distinct properties, and together they account for the incredible diversity of materials in creation."
+            ]
+        },
+        {
+            "heading": "Ionic Bonds: Transfer of Electrons",
+            "paragraphs": [
+                "Ionic bonds form when one atom transfers one or more electrons to another atom. This typically occurs between metals (which easily lose electrons) and nonmetals (which readily gain electrons). The resulting positive ion (cation) and negative ion (anion) are attracted to each other by electrostatic force.",
+                "For example, when sodium (Na) reacts with chlorine (Cl), sodium transfers one electron to chlorine. Sodium becomes Na⁺ and chlorine becomes Cl⁻. The resulting compound, sodium chloride (NaCl), is ordinary table salt — a substance Jesus used as a metaphor for His followers (Matthew 5:13).",
+                "Ionic compounds form crystal lattices — highly ordered three-dimensional arrangements of alternating positive and negative ions. These structures give ionic compounds their characteristic properties: high melting points, brittleness, and the ability to conduct electricity when dissolved in water or melted."
+            ]
+        },
+        {
+            "heading": "Covalent Bonds: Sharing of Electrons",
+            "paragraphs": [
+                "Covalent bonds form when two nonmetal atoms share one or more pairs of electrons. Each shared pair constitutes one bond. A single bond shares one pair, a double bond shares two pairs, and a triple bond shares three pairs.",
+                "Water (H₂O) is perhaps the most important covalently bonded compound in creation. Each hydrogen atom shares one electron with the oxygen atom, giving oxygen a full outer shell of 8 electrons and each hydrogen a full shell of 2. The bent shape of the water molecule and oxygen's high electronegativity make water a polar molecule — slightly negative near the oxygen and slightly positive near the hydrogens.",
+                "Lewis dot structures are a valuable tool for visualizing covalent bonds. In these diagrams, valence electrons are represented as dots around atomic symbols, and shared pairs are shown as lines between atoms. Gilbert Lewis introduced this system in 1916, providing a simple way to understand molecular structure."
+            ]
+        },
+        {
+            "heading": "Polarity and Electronegativity",
+            "paragraphs": [
+                "Not all covalent bonds share electrons equally. When two atoms with different electronegativities form a bond, the shared electrons are pulled closer to the more electronegative atom, creating a polar covalent bond. The molecule has a partial negative charge (δ⁻) near the more electronegative atom and a partial positive charge (δ⁺) near the less electronegative atom.",
+                "Molecular polarity determines many important properties. Polar molecules like water dissolve ionic compounds and other polar substances. Nonpolar molecules like oil do not mix with water. This principle — 'like dissolves like' — governs much of the chemistry in living organisms, from cell membrane structure to nutrient transport.",
+                "The polarity of water gives it extraordinary properties: high surface tension, capillary action (allowing water to rise in plant roots), and the ability to act as a universal solvent for biological systems. These properties are essential for life and point to deliberate design."
+            ]
+        },
+        {
+            "heading": "Metallic Bonds: The Electron Sea",
+            "paragraphs": [
+                "In metals, atoms release their valence electrons into a shared 'sea' of electrons that moves freely throughout the metallic structure. This metallic bonding explains why metals conduct electricity (free electrons carry current), are malleable and ductile (layers of atoms can slide over each other without breaking bonds), and have luster (free electrons interact with light).",
+                "God has provided metals with properties perfectly suited for human use. Copper's excellent conductivity makes it ideal for electrical wiring. Iron's strength makes it essential for construction. Gold's resistance to corrosion makes it valuable for enduring applications. The variety of metallic properties reflects the Creator's provision for human civilization and stewardship of the earth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Compare and contrast ionic and covalent bonds. What determines which type of bond will form between two atoms?",
+            "guidance": "Consider the role of electronegativity difference between atoms. Think about what happens with large differences versus small differences in electronegativity."
+        },
+        {
+            "id": 2,
+            "question": "Why is water's polarity so important for life? How does the molecular structure of water demonstrate purposeful design?",
+            "guidance": "Consider water's role as a solvent, its high heat capacity, surface tension, and capillary action. Think about how these properties depend on the specific bond angles and electronegativity of oxygen."
+        },
+        {
+            "id": 3,
+            "question": "How does the concept of chemical bonding — atoms connecting to form something greater than themselves — serve as an analogy for Biblical community? Reference Ecclesiastes 4:12.",
+            "guidance": "Think about how individual atoms achieve stability through bonding, just as individual believers find strength in community. Consider how different types of bonds serve different purposes."
+        }
+    ]
+}

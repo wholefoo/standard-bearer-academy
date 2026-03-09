@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "bible",
+    "title": "Senior Capstone",
+    "description": "A Biblical Worldview for Life — Integrating Faith, Knowledge, and Calling",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Senior Capstone — A Biblical Worldview for Life",
+            "lessons": ["worldview_integration", "vocation_calling", "marriage_family", "church_community", "cultural_engagement", "eternal_perspective"]
+        }
+    ],
+    "quiz_id": "capstone_quiz"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "equivalent_ratios",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Equivalent Ratios",
+    "subtitle": "Finding Equal Relationships and Building Ratio Tables",
+    "scripture": "Ezekiel 45:10",
+    "primary_source": "Ancient Egyptian Mathematical Papyri and Proportional Reasoning",
+    "key_concepts": ["Equivalent ratios", "Ratio tables", "Multiplying and dividing to find equivalents", "Scaling recipes and plans"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ezekiel 45:10",
+                "text": "\"You are to use accurate scales, an accurate ephah and an accurate bath.\"",
+                "commentary": "God commands His people to use consistent and fair measurements. Equivalent ratios are at the heart of fair measurement — they ensure that the same proportional relationship holds whether you are measuring small or large quantities."
+            },
+            {
+                "reference": "Exodus 30:23-25",
+                "text": "\"Take the following fine spices: 500 shekels of liquid myrrh, half as much of fragrant cinnamon, 250 shekels of fragrant calamus, 500 shekels of cassia... Make these into a sacred anointing oil.\"",
+                "commentary": "God gave Moses a precise recipe for the anointing oil, with specific ratios of ingredients. To make more or less oil while keeping the same quality, you would need to use equivalent ratios — the same concept we study in this lesson."
+            },
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+                "commentary": "Jesus teaches that faithfulness scales proportionally. This spiritual principle mirrors the mathematical concept of equivalent ratios — the same relationship holds whether the scale is small or large."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Are Equivalent Ratios?",
+            "paragraphs": [
+                "Equivalent ratios are ratios that express the same relationship between quantities even though the numbers are different. For example, 1:2, 2:4, 3:6, and 5:10 are all equivalent ratios — in each case, the second quantity is exactly twice the first. Just as 1/2, 2/4, and 3/6 are all equivalent fractions, these ratios represent the same proportional relationship.",
+                "You can find equivalent ratios by multiplying or dividing both parts of the ratio by the same number. If the ratio of red marbles to blue marbles is 3:5, you can find an equivalent ratio by multiplying both parts by 2 to get 6:10, or by 3 to get 9:15. As long as you multiply (or divide) both parts by the same number, the relationship stays the same."
+            ]
+        },
+        {
+            "heading": "Using Ratio Tables",
+            "paragraphs": [
+                "A ratio table is an organized way to list equivalent ratios. To create a ratio table, start with the given ratio and multiply both parts by the same whole numbers to generate additional equivalent ratios. For example, if a recipe uses 2 cups of flour for every 3 eggs, a ratio table would look like: 2:3, 4:6, 6:9, 8:12, 10:15.",
+                "Ratio tables are extremely useful for solving real-world problems. They help you scale recipes up or down, convert measurements, plan purchases, and solve many types of proportion problems. Ancient Egyptians used ratio tables thousands of years ago to plan the construction of pyramids and to divide food and resources fairly."
+            ]
+        },
+        {
+            "heading": "Determining If Two Ratios Are Equivalent",
+            "paragraphs": [
+                "To check whether two ratios are equivalent, you can simplify both ratios to their lowest terms and see if they match. For example, are 8:12 and 10:15 equivalent? Simplify 8:12 by dividing by 4 to get 2:3. Simplify 10:15 by dividing by 5 to get 2:3. Since both simplify to 2:3, they are equivalent.",
+                "Another method is cross-multiplication. For the ratios a:b and c:d, if a × d = b × c, the ratios are equivalent. For 8:12 and 10:15: 8 × 15 = 120 and 12 × 10 = 120. Since the products are equal, the ratios are equivalent. This method is especially useful when the ratios do not simplify to small whole numbers."
+            ]
+        },
+        {
+            "heading": "Applications: Scaling in the Real World",
+            "paragraphs": [
+                "Equivalent ratios are used constantly in everyday life. When you double a recipe, you use equivalent ratios to keep the proportions of ingredients correct. When architects draw blueprints, they use a scale (such as 1 inch = 10 feet) that is based on equivalent ratios. When a map says '1 cm = 50 km,' it is expressing a ratio relationship that helps you determine real-world distances.",
+                "In the Bible, God often specified exact proportions for construction and offerings. The Tabernacle, the Temple, and even the anointing oil all had God-given ratios that had to be followed precisely. These examples show that proportional reasoning — understanding and applying equivalent ratios — has been important throughout human history and is built into the order of God's creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to multiply or divide both parts of a ratio by the same number when finding equivalent ratios? What happens if you change only one part?",
+            "guidance": "Think about what a ratio represents — a comparison between two quantities. If you change one part without changing the other, you change the relationship. Consider a concrete example like a recipe."
+        },
+        {
+            "id": 2,
+            "question": "God gave precise proportions for the anointing oil in Exodus 30. Why would the proportions matter? What would happen if someone changed the ratios?",
+            "guidance": "Consider that exact proportions produce specific results in both chemistry and cooking. Think about why God values precision and faithfulness to His instructions."
+        },
+        {
+            "id": 3,
+            "question": "Jesus said, 'Whoever can be trusted with very little can also be trusted with much' (Luke 16:10). How does this spiritual principle relate to the mathematical concept of equivalent ratios?",
+            "guidance": "Think about how equivalent ratios maintain the same relationship at every scale. Consider how faithfulness, like a ratio, should remain constant whether the stakes are small or large."
+        }
+    ]
+}

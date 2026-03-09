@@ -1,0 +1,84 @@
+{
+    "id": "world_war_one",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "World War I and the Collapse of Christendom",
+    "subtitle": "How the Great War Shattered the Old Order and Tested the Faith of Nations",
+    "scripture": "Matthew 24:6-7",
+    "primary_source": "Woodrow Wilson, 'War Message to Congress' (1917)",
+    "key_concepts": ["Causes of World War I", "The collapse of European Christian civilization", "American entry into the war", "The Treaty of Versailles and its consequences"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 24:6-7",
+                "text": "\"You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. Nation will rise against nation, and kingdom against kingdom.\"",
+                "commentary": "Jesus warned His disciples that wars and conflicts would characterize human history. World War I — the most devastating conflict the world had yet seen — demonstrated the consequences of nations abandoning Biblical principles of justice and pursuing power without moral restraint."
+            },
+            {
+                "reference": "Proverbs 16:18",
+                "text": "\"Pride goes before destruction, a haughty spirit before a fall.\"",
+                "commentary": "The imperial ambitions and national pride that drove the European powers into war illustrate this proverb. The great empires that entered the war confident in their power and destiny emerged shattered, their pride crushed by the devastating reality of modern warfare."
+            },
+            {
+                "reference": "James 4:1-2",
+                "text": "\"What causes fights and quarrels among you? Don't they come from your desires that battle within you? You desire but do not have, so you kill.\"",
+                "commentary": "James identifies the root cause of conflict: the sinful desires of the human heart. The competing ambitions, territorial disputes, and nationalist passions that ignited World War I were ultimately expressions of humanity's fallen nature."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The End of an Era",
+            "paragraphs": [
+                "On June 28, 1914, the assassination of Archduke Franz Ferdinand of Austria-Hungary triggered a chain of events that would plunge the world into the most destructive conflict in human history up to that point. World War I (1914-1918) killed approximately 20 million people, toppled four empires, and fundamentally altered the political, cultural, and spiritual landscape of Western civilization.",
+                "For centuries, Europe had been the heartland of Christendom — a civilization shaped by Christian faith, classical learning, and the rule of law. By 1914, however, the intellectual foundations of European Christianity had been eroding for generations. The Enlightenment, Darwinism, and secular nationalism had weakened the Biblical worldview that had given Western civilization its moral framework. The Great War revealed how far Europe had drifted from its Christian foundations."
+            ]
+        },
+        {
+            "heading": "Causes of the Great War",
+            "paragraphs": [
+                "Historians identify four main causes of World War I, often summarized as MAIN: Militarism (the arms race between European powers), Alliances (the entangling treaty obligations that drew nations into conflict), Imperialism (the competition for colonies and global influence), and Nationalism (the fierce devotion to one's nation that prioritized national glory above all else).",
+                "From a Christian perspective, each of these causes reflects a deeper spiritual problem. Militarism placed trust in human power rather than God's sovereignty. The alliance system created obligations that overrode moral judgment. Imperialism treated other peoples as means to national ends, violating the principle that all humans are made in God's image. And nationalism elevated the nation-state to an idol, demanding ultimate loyalty that belongs to God alone.",
+                "The immediate trigger — the assassination in Sarajevo — exposed how fragile the peace of Europe really was. Within weeks, the alliance system transformed a regional crisis into a continental war, and eventually a global one."
+            ]
+        },
+        {
+            "heading": "The War and Its Horrors",
+            "paragraphs": [
+                "The war that European leaders expected to be 'over by Christmas' ground on for four devastating years. Trench warfare on the Western Front created a nightmare of mud, barbed wire, poison gas, and machine guns. Battles like the Somme (1916), where nearly 20,000 British soldiers died on the first day alone, shattered romantic notions of warfare and exposed the terrible cost of industrial-age combat.",
+                "The scale of death and suffering raised profound theological questions. How could a good God allow such carnage? Many Europeans lost their faith in the trenches; others found their faith deepened by suffering. The war forced Christians to grapple with the reality of human depravity in ways that the optimistic theology of the pre-war era had largely ignored."
+            ]
+        },
+        {
+            "heading": "America Enters the War",
+            "paragraphs": [
+                "The United States initially maintained neutrality, following the tradition of avoiding European entanglements that dated back to George Washington's Farewell Address. However, unrestricted German submarine warfare, the Zimmermann Telegram (Germany's attempt to ally with Mexico against the United States), and President Wilson's conviction that America had a moral duty to make the world 'safe for democracy' led to American entry in April 1917.",
+                "Wilson framed American involvement in distinctly moral and even religious terms. His 'War Message to Congress' presented the war as a struggle between democratic freedom and autocratic tyranny. American intervention tipped the balance, and Germany agreed to an armistice on November 11, 1918. The question of whether Wilson was right to intervene — and whether his idealistic vision for the postwar order was wise — remains debated today."
+            ]
+        },
+        {
+            "heading": "The Treaty of Versailles and Its Consequences",
+            "paragraphs": [
+                "The Treaty of Versailles (1919) imposed harsh terms on Germany, including massive reparations, territorial losses, military restrictions, and the 'war guilt' clause that blamed Germany entirely for the conflict. While the Allied leaders sought to punish Germany and prevent future aggression, the treaty's severity created resentment and economic hardship that would fuel the rise of Adolf Hitler and the Nazi movement.",
+                "Wilson's Fourteen Points — his idealistic plan for a just peace based on national self-determination, free trade, and collective security through the League of Nations — were largely rejected by the other Allied leaders, who sought territorial gains and revenge. The failure of Wilson's vision demonstrated the limits of idealism when it is not grounded in a realistic understanding of human nature and the consequences of sin. The Treaty of Versailles did not bring lasting peace; it planted the seeds of an even more terrible war."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the four causes of World War I (Militarism, Alliances, Imperialism, Nationalism) each reflect a departure from Biblical principles? Which do you consider the most dangerous, and why?",
+            "guidance": "Consider how each cause involves misplaced trust, idolatry of the nation, or disregard for the dignity of others. Think about modern parallels."
+        },
+        {
+            "id": 2,
+            "question": "Was Woodrow Wilson right to frame American entry into World War I in moral and religious terms? What are the strengths and dangers of using moral language to justify military intervention?",
+            "guidance": "Consider the difference between a just war fought for legitimate moral reasons and the misuse of moral language to sanctify national interests. Think about Biblical criteria for just warfare."
+        },
+        {
+            "id": 3,
+            "question": "How did the Treaty of Versailles demonstrate the consequences of pursuing revenge rather than justice? What Biblical principles should have guided the peacemakers at Versailles?",
+            "guidance": "Consider the difference between justice (which aims to restore right order) and vengeance (which aims to inflict suffering). Think about how the treaty's harshness contributed to the rise of Hitler."
+        }
+    ]
+}

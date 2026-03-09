@@ -1,0 +1,82 @@
+{
+    "id": "radical_functions",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Radical Functions — Roots and Irrational Numbers",
+    "subtitle": "Square Roots, nth Roots, and Radical Equations",
+    "scripture": "Job 11:7-8",
+    "primary_source": "Pythagoras and the Discovery of Irrational Numbers (circa 500 B.C.)",
+    "key_concepts": ["Square roots and nth roots", "Simplifying radical expressions", "Operations with radicals", "Solving radical equations", "Rational exponents"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Job 11:7-8",
+                "text": "\"Can you fathom the mysteries of God? Can you probe the limits of the Almighty? They are higher than the heavens above — what can you do? They are deeper than the depths below — what can you know?\"",
+                "commentary": "Irrational numbers like √2 — numbers whose decimal representations never end and never repeat — hint at the infinite depth of mathematical truth. Just as God's wisdom is unfathomable, the number line contains depths that can never be fully expressed in finite terms."
+            },
+            {
+                "reference": "Romans 11:33",
+                "text": "\"Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!\"",
+                "commentary": "The discovery that √2 cannot be expressed as a fraction stunned ancient mathematicians. It revealed that mathematical reality is richer and deeper than anyone imagined — a fitting metaphor for the unsearchable riches of God's wisdom."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Discovery of Irrational Numbers",
+            "paragraphs": [
+                "The ancient Pythagoreans believed that all numbers could be expressed as ratios of whole numbers — that is, as fractions. This belief was shattered when one of their members (tradition says Hippasus) proved that √2 is irrational — it cannot be expressed as any fraction. According to legend, this discovery so disturbed the Pythagoreans that they drowned Hippasus at sea.",
+                "The existence of irrational numbers reveals that mathematical reality is richer than simple fractions can capture. The square root of 2 equals approximately 1.41421356..., with digits continuing forever without repeating. Yet this 'messy' number arises from the simple question: what number multiplied by itself equals 2? Radical expressions give us the tools to work with these fascinating numbers."
+            ]
+        },
+        {
+            "heading": "Square Roots and nth Roots",
+            "paragraphs": [
+                "The square root of a number a, written √a, is the non-negative number that when multiplied by itself gives a. So √9 = 3 because 3 × 3 = 9. The cube root ³√a is the number that cubed equals a: ³√8 = 2 because 2³ = 8. In general, the nth root ⁿ√a is the number that raised to the nth power gives a.",
+                "Perfect squares (1, 4, 9, 16, 25, ...) have whole-number square roots. Non-perfect squares have irrational square roots. To simplify radicals, factor out perfect squares: √50 = √(25 × 2) = 5√2. Similarly, √72 = √(36 × 2) = 6√2.",
+                "The domain of even-index root functions (square root, fourth root, etc.) is restricted to non-negative radicands because even roots of negative numbers are not real. Odd-index root functions (cube root, fifth root, etc.) accept all real numbers because negative numbers can have odd roots: ³√(-8) = -2."
+            ]
+        },
+        {
+            "heading": "Operations with Radicals",
+            "paragraphs": [
+                "Radicals can be added and subtracted only if they have the same index and the same radicand (like terms). For example: 3√5 + 7√5 = 10√5, but 3√5 + 7√3 cannot be simplified further. Sometimes simplifying first reveals like terms: √12 + √27 = 2√3 + 3√3 = 5√3.",
+                "Multiplication uses the property √a × √b = √(ab): √3 × √6 = √18 = 3√2. Division uses √a / √b = √(a/b). When a radical appears in a denominator, we rationalize it by multiplying numerator and denominator by the appropriate radical: 1/√3 = √3/3.",
+                "For binomial denominators containing radicals, multiply by the conjugate. To rationalize 1/(√5 + 2), multiply by (√5 - 2)/(√5 - 2): the denominator becomes (√5)² - 2² = 5 - 4 = 1, giving the result √5 - 2."
+            ]
+        },
+        {
+            "heading": "Rational Exponents",
+            "paragraphs": [
+                "Radicals can be expressed using rational (fractional) exponents: ⁿ√a = a^(1/n). This means √x = x^(1/2), ³√x = x^(1/3), and so on. More generally, a^(m/n) = ⁿ√(aᵐ) = (ⁿ√a)ᵐ.",
+                "Rational exponents follow the same rules as integer exponents: x^(1/2) × x^(1/3) = x^(5/6), (x^(2/3))³ = x², and x^(-1/2) = 1/x^(1/2) = 1/√x.",
+                "The connection between radicals and exponents is one of the beautiful unifying principles in algebra. What appears as two different notations turns out to be two expressions of the same mathematical relationship — a harmony that reflects the underlying unity of mathematical truth."
+            ]
+        },
+        {
+            "heading": "Solving Radical Equations",
+            "paragraphs": [
+                "A radical equation contains a variable under a radical sign. To solve, isolate the radical, then raise both sides to the appropriate power to eliminate it. For example: √(x + 3) = 5 → x + 3 = 25 → x = 22. For cube roots: ³√(2x - 1) = 3 → 2x - 1 = 27 → x = 14.",
+                "When squaring both sides, extraneous solutions may be introduced. Always check your answers in the original equation. For example, solving √(x) = x - 6: squaring gives x = x² - 12x + 36, or x² - 13x + 36 = 0, giving x = 9 or x = 4. Checking: √9 = 3 = 9 - 6 ✓, but √4 = 2 ≠ 4 - 6 = -2 ✗. Only x = 9 is valid.",
+                "Radical functions like f(x) = √x model many natural relationships. The period of a pendulum is proportional to the square root of its length. The speed of a wave is related to the square root of the tension in the medium. These relationships reveal the mathematical principles God embedded in the physical world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Simplify: √(200) + 3√(50) - √(32). Show each step of simplification.",
+            "guidance": "Factor each radicand to identify perfect square factors. Simplify each term, then combine like radicals."
+        },
+        {
+            "id": 2,
+            "question": "Solve the equation √(2x + 7) = x - 1. Check for extraneous solutions and explain why they can occur.",
+            "guidance": "Isolate the radical (already done), square both sides, solve the resulting quadratic, and check both solutions in the original equation. Extraneous solutions arise because squaring is not a reversible operation."
+        },
+        {
+            "id": 3,
+            "question": "How does the existence of irrational numbers like √2 — numbers that can never be fully expressed as fractions or terminating decimals — remind us of the infinite nature of God's wisdom (Romans 11:33)?",
+            "guidance": "Consider that irrational numbers have infinite, non-repeating decimal expansions. Think about how mathematical reality exceeds our ability to fully express it, much as God's wisdom exceeds our comprehension."
+        }
+    ]
+}

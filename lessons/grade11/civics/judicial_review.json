@@ -1,0 +1,88 @@
+{
+    "id": "judicial_review",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Judicial Review and the Courts",
+    "subtitle": "The Power of the Judiciary and Its Proper Limits",
+    "scripture": "Deuteronomy 1:16-17",
+    "primary_source": "Marbury v. Madison (1803) — Chief Justice John Marshall",
+    "key_concepts": ["Judicial review", "Judicial activism vs. judicial restraint", "Marbury v. Madison", "The countermajoritarian difficulty", "Judicial supremacy", "Natural law and higher law"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Deuteronomy 1:16-17",
+                "text": "\"And I charged your judges at that time, 'Hear the disputes between your people and judge fairly, whether the case is between two Israelites or between an Israelite and a foreigner residing among you. Do not show partiality in judging; hear both small and great alike. Do not be afraid of anyone, for judgment belongs to God.'\"",
+                "commentary": "Moses instructed Israel's judges to be impartial, fair, and courageous — judging according to God's law rather than human preference. Judges are ministers of justice, not legislators. Their role is to apply the law, not to create it."
+            },
+            {
+                "reference": "2 Chronicles 19:6-7",
+                "text": "\"He told them, 'Consider carefully what you do, because you are not judging for mere mortals but for the LORD, who is with you whenever you give a verdict. Now let the fear of the LORD be upon you. Judge carefully, for with the LORD our God there is no injustice or partiality or bribery.'\"",
+                "commentary": "King Jehoshaphat reminded his appointed judges that they exercised delegated authority from God. Judges who twist the law to achieve desired outcomes violate this sacred trust. Their duty is to discern what the law requires, not to impose their own policy preferences."
+            },
+            {
+                "reference": "Isaiah 10:1-2",
+                "text": "\"Woe to those who make unjust laws, to those who issue oppressive decrees, to deprive the poor of their rights and withhold justice from the oppressed of my people.\"",
+                "commentary": "God holds accountable those who use legal authority to create unjust rules. When judges effectively make law through expansive interpretation, they risk becoming the very tyrants against whom this prophetic warning is directed."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Power of Judicial Review",
+            "paragraphs": [
+                "Judicial review is the power of the courts to declare laws or executive actions unconstitutional and therefore void. This power, though not explicitly stated in the Constitution, was established by Chief Justice John Marshall in Marbury v. Madison (1803) and has become one of the most significant features of American constitutional government.",
+                "When exercised properly, judicial review is an essential check on government power — it ensures that the legislative and executive branches remain within the limits the Constitution sets. When exercised improperly, however, it becomes a tool for unelected judges to impose their own policy preferences on the nation, effectively amending the Constitution without the consent of the people."
+            ]
+        },
+        {
+            "heading": "Marbury v. Madison: The Origin of Judicial Review",
+            "paragraphs": [
+                "The case arose from a political dispute. In the final days of President John Adams' administration, William Marbury was appointed as a justice of the peace, but his commission was not delivered before Thomas Jefferson took office. Jefferson's Secretary of State, James Madison, refused to deliver it. Marbury asked the Supreme Court to order Madison to deliver the commission.",
+                "Chief Justice Marshall's opinion was a masterful exercise in constitutional reasoning. He concluded that Marbury had a right to his commission and that Madison was wrong to withhold it. However, Marshall also concluded that the Supreme Court lacked jurisdiction to issue the order because the section of the Judiciary Act of 1789 that granted such jurisdiction was unconstitutional — it gave the Court powers beyond what Article III of the Constitution authorized.",
+                "The lasting significance of Marbury lies in Marshall's assertion that 'it is emphatically the province and duty of the judicial department to say what the law is.' This established the principle that the courts have the authority — and the responsibility — to measure acts of Congress against the Constitution and to strike down those that conflict with it."
+            ]
+        },
+        {
+            "heading": "Judicial Activism vs. Judicial Restraint",
+            "paragraphs": [
+                "The great debate in constitutional law concerns how judges should use the power of judicial review. Two competing philosophies define this debate: judicial activism and judicial restraint.",
+                "Judicial activism occurs when judges go beyond interpreting the law and effectively create new law or policy from the bench. Activist judges often rely on broad, abstract constitutional principles — 'due process,' 'equal protection,' 'liberty' — and give them meanings far beyond their original understanding. They may find 'rights' in the Constitution that the text does not mention and that the Framers never intended, or they may strike down democratically enacted laws based on their own policy preferences rather than clear constitutional commands.",
+                "Judicial restraint holds that judges should interpret the law as written, defer to the elected branches on policy questions, and only strike down laws that clearly violate the Constitution's text and original meaning. Restrained judges recognize that in a democracy, most policy decisions should be made by elected representatives accountable to the people — not by unelected judges with life tenure.",
+                "The distinction between activism and restraint often parallels the distinction between living constitutionalism and originalism discussed in Lesson 1. Activist judges tend to treat the Constitution as a 'living document' whose meaning evolves, while restrained judges tend to follow its original meaning."
+            ]
+        },
+        {
+            "heading": "The Problem of Judicial Supremacy",
+            "paragraphs": [
+                "In recent decades, the courts have increasingly claimed not just the power to review laws but the power of final and exclusive interpretation of the Constitution. This doctrine of 'judicial supremacy' holds that whatever the Supreme Court says the Constitution means, that is what it means — period. The other branches and the states must simply accept the Court's word.",
+                "This claim goes well beyond what the Framers intended. Thomas Jefferson warned that making the judiciary the 'ultimate arbiter of all constitutional questions' would be 'a very dangerous doctrine indeed, and one which would place us under the despotism of an oligarchy.' Abraham Lincoln, while respecting the courts, insisted that Supreme Court decisions bind the parties in a case but do not settle constitutional questions for all time — otherwise 'the people will have ceased to be their own rulers.'",
+                "The Biblical model of delegated authority supports the view that no single branch — including the judiciary — should be the final word on all constitutional questions. Just as God distributes authority among multiple institutions (family, church, state), the Constitution distributes interpretive authority among multiple branches and levels of government. Each branch must interpret the Constitution in performing its own functions."
+            ]
+        },
+        {
+            "heading": "Higher Law and the Duty of Judges",
+            "paragraphs": [
+                "The American Founders believed in a higher law — the law of God — that stands above all human law. The Declaration of Independence appeals to 'the Laws of Nature and of Nature's God.' Sir William Blackstone, whose Commentaries on the Laws of England profoundly influenced American legal thought, wrote that all human law must conform to 'the law of God' and that 'no human laws are of any validity, if contrary to this.'",
+                "This higher-law tradition has important implications for the judiciary. Judges are not free to make law according to their own preferences, but neither are they mere technicians who mechanically apply whatever the legislature enacts. They are ministers of justice who must ensure that human law conforms to the enduring principles of the Constitution — which itself reflects, however imperfectly, the higher law of the Creator.",
+                "The proper role of the judge, therefore, is neither unchecked activism nor blind deference but faithful interpretation: applying the law as written, according to its original meaning, in light of the constitutional principles of ordered liberty that the Framers intended to protect."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the concept of judicial review as established in Marbury v. Madison. Why is this power important for protecting constitutional government, and what are its potential dangers?",
+            "guidance": "Consider both sides: judicial review can protect the Constitution from legislative overreach, but it can also become a tool for judges to impose their own preferences. What safeguards exist to prevent abuse of this power?"
+        },
+        {
+            "id": 2,
+            "question": "Compare judicial activism and judicial restraint. Which approach is more consistent with the original design of the Constitution and the Biblical view of delegated authority? Support your answer with specific arguments.",
+            "guidance": "Think about the Framers' understanding of the judicial role, the principle that judges should apply rather than make law, and the Biblical model of judges as faithful servants who administer justice according to established standards (Deuteronomy 1:16-17)."
+        },
+        {
+            "id": 3,
+            "question": "Why did Jefferson and Lincoln reject the doctrine of judicial supremacy? How does the Biblical principle of distributed authority support the idea that no single branch should have the final word on all constitutional questions?",
+            "guidance": "Consider the dangers of concentrating all interpretive power in one institution. How does the Framers' commitment to checks and balances apply to constitutional interpretation itself?"
+        }
+    ]
+}

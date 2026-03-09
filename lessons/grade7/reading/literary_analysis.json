@@ -1,0 +1,77 @@
+{
+    "id": "literary_analysis",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Literary Analysis",
+    "subtitle": "Reading Deeply — Understanding What Authors Mean and How They Say It",
+    "scripture": "Acts 17:11",
+    "key_concepts": ["Author's purpose and audience", "Tone and mood", "Point of view", "Symbolism", "Critical reading skills"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Acts 17:11",
+                "text": "\"Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.\"",
+                "commentary": "The Bereans are praised for examining texts carefully and critically. Literary analysis is the discipline of reading carefully — asking questions about what an author says, how they say it, and why. God calls us to be thoughtful, discerning readers."
+            },
+            {
+                "reference": "2 Timothy 2:15",
+                "text": "\"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.\"",
+                "commentary": "Correctly handling any text — especially Scripture — requires careful analysis. We must understand context, genre, language, and purpose to interpret accurately."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Literary Analysis?",
+            "paragraphs": [
+                "Literary analysis goes beyond asking 'What happened?' to ask 'How did the author craft this?' and 'Why did the author make these choices?' It examines the techniques, structures, and language a writer uses to achieve a particular effect on the reader.",
+                "When we analyze literature, we become better readers, better writers, and better thinkers. We learn to look beneath the surface, recognize patterns, and evaluate arguments. These skills apply not only to novels and poems but also to news articles, speeches, advertisements, and Scripture itself."
+            ]
+        },
+        {
+            "heading": "Author's Purpose and Audience",
+            "paragraphs": [
+                "Every author writes with a purpose: to inform, persuade, entertain, express feelings, or call to action. Identifying the purpose helps you understand why certain details are included and others are left out. Luke wrote his Gospel to give Theophilus 'an orderly account' — his purpose was historical accuracy and persuasion.",
+                "Authors also write for a specific audience. Paul's letter to the Romans was written to a church in the capital of the Roman Empire — a mixed community of Jewish and Gentile believers. Understanding the audience helps us interpret why Paul emphasized certain themes (like the relationship between law and grace) and how his arguments would have been received."
+            ]
+        },
+        {
+            "heading": "Tone and Mood",
+            "paragraphs": [
+                "Tone is the author's attitude toward the subject, revealed through word choice, sentence structure, and detail. A tone can be serious, humorous, sarcastic, reverent, angry, or hopeful. Paul's tone in Galatians is urgent and passionate; in Philippians, it is joyful and warm.",
+                "Mood is the emotional atmosphere the writing creates in the reader. A dark, stormy setting creates a tense mood. A description of a peaceful garden creates a calm mood. Writers deliberately craft mood through imagery, pacing, and diction (word choice). Recognizing tone and mood helps you understand the emotional dimension of a text."
+            ]
+        },
+        {
+            "heading": "Point of View",
+            "paragraphs": [
+                "Point of view determines who is telling the story and how much they know. First person ('I') lets you see through one character's eyes. Third person limited follows one character but from the outside. Third person omniscient knows the thoughts and feelings of all characters. The Gospels are written in third person; the Psalms are often first person.",
+                "Point of view shapes your experience as a reader. A first-person account feels intimate and personal. An omniscient narrator provides a broader perspective. When analyzing literature, ask: Who is telling this story? What do they know? What might they be leaving out? These questions deepen your understanding significantly."
+            ]
+        },
+        {
+            "heading": "Symbolism",
+            "paragraphs": [
+                "A symbol is an object, person, or event that represents something beyond its literal meaning. In Scripture, water often symbolizes cleansing and new life. Light symbolizes truth and goodness. Darkness represents sin and ignorance. A lamb symbolizes innocence and sacrifice — ultimately pointing to Jesus, 'the Lamb of God.'",
+                "In literature, symbols carry layers of meaning. A journey may symbolize personal growth. A locked door may represent a hidden truth or an obstacle. Recognizing symbols enriches your reading because you perceive meaning that casual readers miss. The ability to think symbolically also deepens your understanding of Biblical prophecy and typology."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose a passage from one of the Gospels (such as the calming of the storm in Mark 4:35-41). Identify the tone, mood, and point of view. How do these elements affect your experience as a reader?",
+            "guidance": "Consider the descriptive details, the disciples' fear, Jesus' calm authority. What mood does Mark create? What is his attitude toward the event?"
+        },
+        {
+            "id": 2,
+            "question": "What does it mean to be a 'Berean' reader (Acts 17:11)? How can the skills of literary analysis help you read the Bible more faithfully and accurately?",
+            "guidance": "Think about how understanding context, audience, purpose, and genre prevents misinterpretation. Consider how careful reading honors the Author."
+        },
+        {
+            "id": 3,
+            "question": "Identify a symbol that appears in both the Old and New Testaments (such as a lamb, bread, water, or light). Explain what it represents in each context and how the meaning develops across Scripture.",
+            "guidance": "Trace the symbol from its first appearance through to its fulfillment in Christ. Note how the symbol gains depth and richness as the Biblical story unfolds."
+        }
+    ]
+}

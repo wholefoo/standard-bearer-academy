@@ -1,0 +1,117 @@
+{
+    "id": "biology_quiz",
+    "title": "Biology — The Design of Life: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the fundamental unit of all living organisms?",
+            "options": ["The atom", "The cell", "The organ", "The molecule"],
+            "correct": 1,
+            "explanation": "Cell theory establishes that the cell is the basic unit of life. All living organisms are composed of one or more cells."
+        },
+        {
+            "id": 2,
+            "question": "What does 'irreducible complexity' mean in the context of cell biology?",
+            "options": [
+                "A system that is too complex for scientists to understand",
+                "A system that requires all its parts to be present simultaneously to function",
+                "A system that becomes more complex over time through mutation",
+                "A system that can be reduced to simpler components and still work"
+            ],
+            "correct": 1,
+            "explanation": "Irreducible complexity describes systems where removing any single component causes the entire system to cease functioning — evidence that the system could not have evolved gradually."
+        },
+        {
+            "id": 3,
+            "question": "What is the role of ATP in the cell?",
+            "options": [
+                "It stores genetic information",
+                "It serves as the cell's primary energy currency",
+                "It forms the structural framework of the cell membrane",
+                "It carries oxygen through the bloodstream"
+            ],
+            "correct": 1,
+            "explanation": "ATP (adenosine triphosphate) is the primary energy currency of the cell, produced mainly through cellular respiration in the mitochondria."
+        },
+        {
+            "id": 4,
+            "question": "According to Mendel's Law of Segregation, what happens to alleles during gamete formation?",
+            "options": [
+                "Both alleles are passed to every gamete",
+                "Alleles blend together to form a new allele",
+                "The two alleles for each trait separate so each gamete carries only one",
+                "Alleles are randomly mutated before being passed on"
+            ],
+            "correct": 2,
+            "explanation": "Mendel's Law of Segregation states that the two alleles for each trait separate during gamete formation, so each gamete receives only one allele."
+        },
+        {
+            "id": 5,
+            "question": "What are the four nitrogenous bases found in DNA?",
+            "options": [
+                "Alanine, Thymine, Cysteine, Glycine",
+                "Adenine, Thymine, Cytosine, Guanine",
+                "Adenine, Uracil, Cytosine, Guanine",
+                "Arginine, Tryptophan, Cysteine, Glutamine"
+            ],
+            "correct": 1,
+            "explanation": "The four bases in DNA are Adenine (A), Thymine (T), Cytosine (C), and Guanine (G). Adenine pairs with Thymine, and Cytosine pairs with Guanine."
+        },
+        {
+            "id": 6,
+            "question": "What is the correct sequence of information flow in the Central Dogma of molecular biology?",
+            "options": [
+                "Protein → RNA → DNA",
+                "RNA → DNA → Protein",
+                "DNA → RNA → Protein",
+                "DNA → Protein → RNA"
+            ],
+            "correct": 2,
+            "explanation": "The Central Dogma states that information flows from DNA to RNA (transcription) to protein (translation)."
+        },
+        {
+            "id": 7,
+            "question": "Which body system is responsible for maintaining homeostasis through hormonal regulation?",
+            "options": [
+                "The skeletal system",
+                "The integumentary system",
+                "The endocrine system",
+                "The lymphatic system"
+            ],
+            "correct": 2,
+            "explanation": "The endocrine system produces hormones that regulate many body functions, playing a central role in maintaining homeostasis."
+        },
+        {
+            "id": 8,
+            "question": "What is the approximately percentage of energy transferred from one trophic level to the next in an ecosystem?",
+            "options": ["1%", "10%", "50%", "90%"],
+            "correct": 1,
+            "explanation": "Approximately 10% of energy is transferred from one trophic level to the next. The remaining 90% is lost primarily as heat."
+        },
+        {
+            "id": 9,
+            "question": "According to Genesis 1:24, God created living creatures 'according to their kinds.' How does modern genetics support this concept?",
+            "options": [
+                "DNA evidence shows all organisms evolved from a single ancestor",
+                "Genetic variation occurs within kinds, but organisms reproduce after their own kind",
+                "Mutations regularly produce new kinds of organisms",
+                "Genetics has disproven the concept of created kinds"
+            ],
+            "correct": 1,
+            "explanation": "Genetics shows abundant variation within kinds (such as dog breeds) but organisms consistently reproduce after their own kind, consistent with the Biblical account."
+        },
+        {
+            "id": 10,
+            "question": "What is Biblical stewardship of creation, as described in Genesis 1:28 and 2:15?",
+            "options": [
+                "Humans should avoid using any natural resources",
+                "Humans should exploit the earth for maximum profit",
+                "Humans should exercise responsible dominion over creation as God's stewards",
+                "Humans have no special role in caring for the environment"
+            ],
+            "correct": 2,
+            "explanation": "Biblical stewardship means exercising responsible authority over creation — using resources wisely while caring for and preserving God's creation."
+        }
+    ]
+}

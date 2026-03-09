@@ -1,0 +1,88 @@
+{
+    "id": "conservation_stewardship",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Conservation and Christian Stewardship",
+    "subtitle": "A Biblical Vision for Environmental Responsibility",
+    "scripture": "Psalm 24:1",
+    "primary_source": "Theodore Roosevelt's Conservation Legacy and the National Parks System",
+    "key_concepts": ["Conservation vs. preservation", "Endangered species and biodiversity", "Land use and resource management", "Christian environmental ethics", "Balancing human needs and environmental protection"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 24:1",
+                "text": "\"The earth is the Lord's, and everything in it, the world, and all who live in it.\"",
+                "commentary": "The earth belongs to God, not to us. We are stewards, not owners. This foundational truth shapes how Christians approach environmental issues — with humility, responsibility, and accountability to the true Owner of creation."
+            },
+            {
+                "reference": "Numbers 35:33-34",
+                "text": "\"Do not pollute the land where you are... Do not defile the land where you live and where I dwell, for I, the Lord, dwell among the Israelites.\"",
+                "commentary": "God explicitly commands His people not to pollute the land. Environmental degradation is not just impractical — it is a violation of God's command to care for the earth where He has placed us."
+            },
+            {
+                "reference": "Revelation 11:18",
+                "text": "\"The time has come... for destroying those who destroy the earth.\"",
+                "commentary": "This sobering passage indicates that God takes the destruction of His creation seriously. Those who wantonly destroy the earth will face judgment, reinforcing the gravity of our stewardship responsibility."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Conservation vs. Preservation: A Critical Distinction",
+            "paragraphs": [
+                "In environmental thought, two philosophies have shaped policy: conservation and preservation. Conservation, championed by leaders like Theodore Roosevelt and Gifford Pinchot, advocates for the wise use of natural resources — managing them sustainably so they remain available for current and future generations. Preservation, associated with John Muir, seeks to protect nature from human use entirely, setting aside wilderness areas as untouched sanctuaries.",
+                "A Biblical framework aligns more closely with conservation than preservation. Scripture calls us to 'work and keep' the earth (Genesis 2:15), not to leave it entirely untouched. God gave humanity dominion over creation, which includes responsible development and use. However, this dominion must be exercised with wisdom, ensuring that resources are not exhausted or ecosystems needlessly destroyed.",
+                "The National Parks system, established through Roosevelt's leadership, represents a practical balance — preserving extraordinary landscapes for public enjoyment and ecological protection while allowing managed use of resources on other lands. This approach reflects the Biblical principle of wise stewardship."
+            ]
+        },
+        {
+            "heading": "Biodiversity and Species Conservation",
+            "paragraphs": [
+                "Biodiversity — the variety of life at genetic, species, and ecosystem levels — is a measure of creation's richness. The Endangered Species Act (1973) was designed to protect species threatened with extinction, recognizing that each species plays a role in its ecosystem.",
+                "Species extinction occurs naturally — scientists estimate that 99% of all species that have ever lived are now extinct. However, human activities such as habitat destruction, overexploitation, pollution, and introduction of invasive species have accelerated extinction rates. The key stewardship question is not whether extinction occurs, but whether human actions are causing unnecessary and preventable losses.",
+                "Conservation efforts including habitat restoration, captive breeding programs, wildlife corridors, and protected areas have successfully brought many species back from the brink of extinction. The recovery of the bald eagle, the American bison, and the peregrine falcon demonstrate that committed conservation efforts can succeed."
+            ]
+        },
+        {
+            "heading": "Land Use and Resource Management",
+            "paragraphs": [
+                "How we use land reflects our values and priorities. Land use decisions — agriculture, urban development, forestry, mining, recreation — involve trade-offs between economic benefit, ecological impact, and long-term sustainability.",
+                "Deforestation for agriculture and development has significantly reduced global forest cover, with consequences including soil erosion, habitat loss, and changes to local water cycles. However, responsible forestry practices — including selective logging, reforestation, and sustainable harvest rates — demonstrate that forest resources can be used productively without permanent destruction.",
+                "Urban planning and development also require stewardship thinking. Smart growth principles — reducing sprawl, preserving green spaces, managing stormwater, and minimizing waste — can accommodate growing populations while protecting environmental quality."
+            ]
+        },
+        {
+            "heading": "Waste Management and Pollution Prevention",
+            "paragraphs": [
+                "Modern societies generate enormous quantities of waste — municipal solid waste, industrial waste, hazardous waste, and electronic waste. Effective waste management follows the hierarchy of reduce, reuse, recycle, and recover energy before resorting to landfill disposal.",
+                "Pollution prevention is generally more effective and less costly than cleanup. The principle of 'an ounce of prevention is worth a pound of cure' applies directly to environmental protection. Designing products for recyclability, using cleaner production processes, and minimizing packaging all reduce waste at the source.",
+                "Christians should be leaders in reducing waste and preventing pollution — not because creation is more important than people, but because caring for creation serves people and honors the God who made it."
+            ]
+        },
+        {
+            "heading": "Christian Environmental Ethics: A Balanced Approach",
+            "paragraphs": [
+                "Christian environmental ethics must avoid two extremes. On one hand, some treat the environment with careless disregard, as if dominion means exploitation without accountability. On the other hand, some elevate nature to the level of worship, treating environmentalism as a religion and placing animal and plant welfare above human needs.",
+                "The Biblical view holds that creation is valuable because God made it and declared it good, but humans bear God's image and are therefore of greater worth than any animal, plant, or ecosystem. Environmental policy should serve human flourishing while protecting the integrity of God's creation.",
+                "As you prepare to enter the world as citizens, professionals, and leaders, carry with you the conviction that caring for creation is a Christian duty rooted in Scripture, not a secular ideology to be adopted uncritically. Be stewards who think carefully, act wisely, and honor the Creator in all things — including how you treat the earth He has entrusted to you."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Compare conservation and preservation as environmental philosophies. Which approach aligns more closely with the Biblical mandate of Genesis 2:15, and why?",
+            "guidance": "Consider the meaning of 'work it and take care of it' — does this suggest leaving creation untouched or managing it wisely? How does the dominion mandate factor in?"
+        },
+        {
+            "id": 2,
+            "question": "How should Christians balance human needs (such as economic development, energy, and food production) with environmental protection? Use specific examples from the lesson to support your answer.",
+            "guidance": "Think about the Biblical hierarchy of values: humans bear God's image and are of greater worth, but creation also has intrinsic value as God's handiwork."
+        },
+        {
+            "id": 3,
+            "question": "What is the Christian's responsibility regarding waste and pollution? How do passages like Numbers 35:33-34 and Revelation 11:18 inform our approach to environmental care?",
+            "guidance": "Consider how these passages demonstrate that environmental degradation is a moral issue, not merely a practical one, and what this means for daily choices and civic engagement."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "probability_fundamentals",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Probability Fundamentals",
+    "subtitle": "Understanding Chance Within God's Sovereign Design",
+    "scripture": "Proverbs 16:33",
+    "primary_source": "Blaise Pascal's Correspondence with Pierre de Fermat (1654) — The Foundation of Probability Theory",
+    "key_concepts": ["Sample spaces and events", "Classical, empirical, and subjective probability", "Addition and multiplication rules", "Conditional probability", "Independence and dependence"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 16:33",
+                "text": "\"The lot is cast into the lap, but its every decision is from the Lord.\"",
+                "commentary": "Scripture teaches that even events that appear random to us are under God's sovereign control. Probability does not describe a universe of purposeless chance but rather quantifies our limited human knowledge of outcomes that God fully determines."
+            },
+            {
+                "reference": "Matthew 10:29-30",
+                "text": "\"Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care. And even the very hairs of your head are all numbered.\"",
+                "commentary": "Jesus affirms God's exhaustive knowledge and control over even the smallest events. Probability theory describes our uncertainty, not God's. From God's perspective, nothing is random."
+            },
+            {
+                "reference": "James 4:13-15",
+                "text": "\"Now listen, you who say, 'Today or tomorrow we will go to this or that city, spend a year there, carry on business and make money.' Why, you do not even know what will happen tomorrow... Instead, you ought to say, 'If it is the Lord's will, we will live and do this or that.'\"",
+                "commentary": "James reminds us that human knowledge of the future is inherently limited. Probability provides mathematical tools for making wise decisions under uncertainty, while always acknowledging God's ultimate sovereignty."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Probability?",
+            "paragraphs": [
+                "Probability is the mathematical study of uncertainty. It assigns numerical values between 0 and 1 to events, where 0 means the event is impossible and 1 means it is certain. A probability of 0.5 means the event is equally likely to occur or not occur.",
+                "Three approaches define probability. Classical probability uses equally likely outcomes: P(A) = number of favorable outcomes / total number of outcomes. Empirical (experimental) probability uses observed frequencies: P(A) = number of times A occurred / total number of trials. Subjective probability is based on personal judgment, experience, or belief.",
+                "While probability describes our uncertainty about outcomes, Christians recognize that God is not uncertain about anything. Probability is a tool for human decision-making within the limits of our knowledge, not a statement about whether the universe is fundamentally random."
+            ]
+        },
+        {
+            "heading": "Sample Spaces and Events",
+            "paragraphs": [
+                "The sample space (S) is the set of all possible outcomes of an experiment. For a coin toss, S = {Heads, Tails}. For rolling a die, S = {1, 2, 3, 4, 5, 6}. For drawing a card from a standard deck, the sample space has 52 elements.",
+                "An event is a subset of the sample space — a collection of outcomes we are interested in. A simple event consists of a single outcome; a compound event consists of two or more outcomes. The complement of event A (written A' or Ac) consists of all outcomes in S that are not in A.",
+                "Understanding sample spaces is the foundation of probability calculations. Clearly defining the sample space ensures that all possible outcomes are accounted for and that probabilities are correctly computed."
+            ]
+        },
+        {
+            "heading": "Addition Rules",
+            "paragraphs": [
+                "The addition rule calculates the probability of event A or event B occurring (their union). For mutually exclusive events (events that cannot both occur), the rule is simple: P(A or B) = P(A) + P(B). For example, when rolling a die, the probability of rolling a 2 or a 5 is 1/6 + 1/6 = 2/6 = 1/3.",
+                "For events that are not mutually exclusive (they can both occur), we must subtract the overlap to avoid counting it twice: P(A or B) = P(A) + P(B) − P(A and B). For example, the probability of drawing a King or a Heart from a standard deck is 4/52 + 13/52 − 1/52 = 16/52 = 4/13, because the King of Hearts is both a King and a Heart.",
+                "The addition rule is one of the most fundamental tools in probability and appears in countless applications, from insurance calculations to medical testing to quality control."
+            ]
+        },
+        {
+            "heading": "Multiplication Rules and Independence",
+            "paragraphs": [
+                "The multiplication rule calculates the probability of event A and event B both occurring (their intersection). For independent events (where the occurrence of one does not affect the probability of the other), P(A and B) = P(A) × P(B). For example, the probability of flipping two heads in a row is 1/2 × 1/2 = 1/4.",
+                "For dependent events (where the occurrence of one affects the probability of the other), we use the general multiplication rule: P(A and B) = P(A) × P(B|A), where P(B|A) is the conditional probability of B given that A has occurred. For example, drawing two aces in a row without replacement: P = 4/52 × 3/51 = 12/2652 = 1/221.",
+                "Independence is a crucial concept. Two events are independent if P(B|A) = P(B) — knowing that A occurred does not change the probability of B. Understanding independence prevents common reasoning errors, such as the gambler's fallacy (believing that past coin flips affect future ones)."
+            ]
+        },
+        {
+            "heading": "Blaise Pascal and the Birth of Probability Theory",
+            "paragraphs": [
+                "Blaise Pascal (1623-1662), a devout Christian mathematician and philosopher, co-founded probability theory through his correspondence with Pierre de Fermat in 1654. Their exchange, prompted by a gambling question about how to fairly divide stakes in an interrupted game, laid the mathematical foundations for the entire field.",
+                "Pascal later turned his brilliant mind to theology, writing the famous 'Pensées' — a defense of the Christian faith. His 'Pascal's Wager' applied probabilistic reasoning to the most important question of all: whether to believe in God. While not a proof of God's existence, it demonstrates the intersection of mathematical thinking and faith.",
+                "Pascal's life illustrates that rigorous mathematical thinking and deep Christian faith are not only compatible but mutually reinforcing. The same mind that developed probability theory also wrote some of the most powerful defenses of Christianity in history. As Pascal wrote, 'The heart has its reasons which reason does not know.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Proverbs 16:33 shape our understanding of probability? If God controls all outcomes, what is the purpose of studying probability?",
+            "guidance": "Consider that probability measures human uncertainty, not divine uncertainty. We study probability to make wise decisions with our limited knowledge, while trusting that God is sovereign over all outcomes."
+        },
+        {
+            "id": 2,
+            "question": "Explain the difference between independent and dependent events. Give an example of each and show how the multiplication rule differs for each case.",
+            "guidance": "Think about whether the outcome of one event changes the probability of another. Drawing cards with and without replacement provides a clear contrast."
+        },
+        {
+            "id": 3,
+            "question": "How did Blaise Pascal demonstrate that mathematical thinking and Christian faith are compatible? What does his example teach us about the relationship between reason and faith?",
+            "guidance": "Consider Pascal's contributions to both mathematics and Christian apologetics, and how he used the same rigorous thinking in both domains."
+        }
+    ]
+}

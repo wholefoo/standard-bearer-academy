@@ -1,0 +1,103 @@
+{
+    "id": "math_quiz",
+    "title": "Pre-Algebra — Foundations of Mathematical Thinking",
+    "description": "Test your understanding of integers, expressions, equations, ratios, proportions, and graphing from a Biblical perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the value of |-7| + |3|?",
+            "options": [
+                "-4",
+                "4",
+                "10",
+                "-10"
+            ],
+            "correct": 2,
+            "explanation": "The absolute value of -7 is 7, and the absolute value of 3 is 3. So |-7| + |3| = 7 + 3 = 10."
+        },
+        {
+            "id": 2,
+            "question": "Simplify the expression: 3x + 5 + 2x - 8",
+            "options": [
+                "5x - 3",
+                "5x + 13",
+                "x - 3",
+                "6x - 3"
+            ],
+            "correct": 0,
+            "explanation": "Combine like terms: 3x + 2x = 5x and 5 + (-8) = -3. The simplified expression is 5x - 3."
+        },
+        {
+            "id": 3,
+            "question": "Solve for x: 2x + 7 = 19",
+            "options": [
+                "x = 13",
+                "x = 5",
+                "x = 6",
+                "x = 12"
+            ],
+            "correct": 2,
+            "explanation": "Subtract 7 from both sides: 2x = 12. Divide both sides by 2: x = 6. Check: 2(6) + 7 = 12 + 7 = 19. ✓"
+        },
+        {
+            "id": 4,
+            "question": "A recipe calls for 3 cups of flour for every 2 cups of sugar. If you use 9 cups of flour, how many cups of sugar do you need?",
+            "options": [
+                "4 cups",
+                "5 cups",
+                "6 cups",
+                "8 cups"
+            ],
+            "correct": 2,
+            "explanation": "Set up the proportion: 3/2 = 9/x. Cross multiply: 3x = 18, so x = 6 cups of sugar."
+        },
+        {
+            "id": 5,
+            "question": "What is 15% of 80?",
+            "options": [
+                "10",
+                "12",
+                "15",
+                "20"
+            ],
+            "correct": 1,
+            "explanation": "15% of 80 = 0.15 × 80 = 12."
+        },
+        {
+            "id": 6,
+            "question": "In which quadrant is the point (-4, 5) located?",
+            "options": [
+                "Quadrant I",
+                "Quadrant II",
+                "Quadrant III",
+                "Quadrant IV"
+            ],
+            "correct": 1,
+            "explanation": "Quadrant II contains points with negative x-values and positive y-values. Since -4 is negative and 5 is positive, (-4, 5) is in Quadrant II."
+        },
+        {
+            "id": 7,
+            "question": "What is the slope of the line passing through points (1, 3) and (4, 9)?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "6"
+            ],
+            "correct": 1,
+            "explanation": "Slope = (y₂ - y₁)/(x₂ - x₁) = (9 - 3)/(4 - 1) = 6/3 = 2."
+        },
+        {
+            "id": 8,
+            "question": "God gave Noah specific dimensions for the Ark (Genesis 6:15). The length-to-width ratio was 300:50, which simplifies to:",
+            "options": [
+                "3:1",
+                "5:1",
+                "6:1",
+                "10:1"
+            ],
+            "correct": 2,
+            "explanation": "300:50 simplifies by dividing both by 50, giving 6:1. Modern naval architects confirm this ratio produces excellent stability."
+        }
+    ]
+}

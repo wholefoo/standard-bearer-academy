@@ -1,0 +1,103 @@
+{
+    "id": "ot_survey_quiz",
+    "title": "Old Testament Survey — God's Covenant Story Quiz",
+    "description": "Test your understanding of God's covenant faithfulness throughout the Old Testament, from Creation through the Exile and the promise of restoration.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the 'Protoevangelium' and where is it found?",
+            "options": [
+                "The first law given to Moses, found in Exodus 20",
+                "The first promise of a Redeemer, found in Genesis 3:15",
+                "The first covenant with Abraham, found in Genesis 12",
+                "The first psalm of David, found in Psalm 1"
+            ],
+            "correct": 1,
+            "explanation": "The Protoevangelium (meaning 'first gospel') is found in Genesis 3:15, where God promises that the offspring of the woman will crush the serpent's head. This is the Bible's first promise of a coming Redeemer."
+        },
+        {
+            "id": 2,
+            "question": "What made the Abrahamic Covenant unique compared to the Mosaic Covenant?",
+            "options": [
+                "The Abrahamic Covenant was conditional, while the Mosaic Covenant was unconditional",
+                "The Abrahamic Covenant was unconditional — God alone passed between the pieces, taking the obligation upon Himself",
+                "The Abrahamic Covenant was only about the land, while the Mosaic was about descendants",
+                "The Abrahamic Covenant was temporary, while the Mosaic was permanent"
+            ],
+            "correct": 1,
+            "explanation": "In Genesis 15, God alone passed between the cut pieces in the covenant ceremony, signifying that the Abrahamic Covenant's fulfillment depended entirely on God's faithfulness, not Abraham's perfection. The Mosaic Covenant, by contrast, was conditional upon Israel's obedience."
+        },
+        {
+            "id": 3,
+            "question": "What event in the Exodus is the most important Old Testament foreshadowing of Christ's sacrifice?",
+            "options": [
+                "The crossing of the Red Sea",
+                "The giving of manna in the wilderness",
+                "The Passover lamb whose blood protected Israel from the angel of death",
+                "The water from the rock at Meribah"
+            ],
+            "correct": 2,
+            "explanation": "The Passover is the central foreshadowing of Christ's sacrifice. A spotless lamb was slain, its blood was applied to the doorposts, and death passed over those who were covered. Paul explicitly states, 'Christ, our Passover lamb, has been sacrificed' (1 Corinthians 5:7)."
+        },
+        {
+            "id": 4,
+            "question": "What does Judges 21:25 — 'everyone did as they saw fit' — illustrate about Israel during this period?",
+            "options": [
+                "Israel was experiencing a golden age of freedom and democracy",
+                "Israel had achieved moral perfection without needing a king",
+                "Israel had descended into moral relativism and chaos without godly leadership",
+                "Israel was following God's law more faithfully than ever before"
+            ],
+            "correct": 2,
+            "explanation": "Judges 21:25 describes a time of moral relativism where each person determined right and wrong for themselves rather than submitting to God's standards. The result was not freedom but chaos, violence, and spiritual corruption."
+        },
+        {
+            "id": 5,
+            "question": "What is the Davidic Covenant, and why is it significant for understanding Jesus Christ?",
+            "options": [
+                "God promised David that the Temple would never be destroyed — fulfilled when Herod rebuilt it",
+                "God promised David that his throne would be established forever — fulfilled in Jesus, the eternal King",
+                "God promised David that Israel would never be conquered — fulfilled in the Maccabean revolt",
+                "God promised David that all his descendants would be righteous — fulfilled in Solomon's wisdom"
+            ],
+            "correct": 1,
+            "explanation": "In 2 Samuel 7:16, God promised David that his house, kingdom, and throne would endure forever. This promise finds its ultimate fulfillment in Jesus Christ, the 'Son of David,' who reigns eternally as King of Kings."
+        },
+        {
+            "id": 6,
+            "question": "Which Old Testament passage, written over 700 years before Christ, describes a 'Suffering Servant' who would be 'pierced for our transgressions'?",
+            "options": [
+                "Psalm 23",
+                "Proverbs 31",
+                "Isaiah 53",
+                "Daniel 7"
+            ],
+            "correct": 2,
+            "explanation": "Isaiah 53, written in the 8th century BC, contains the most detailed messianic prophecy in the Old Testament, describing a Suffering Servant who would bear the sins of others, be pierced and crushed as a substitute, and bring healing through His wounds — all fulfilled in Jesus Christ."
+        },
+        {
+            "id": 7,
+            "question": "What does the New Covenant promised in Jeremiah 31:31-34 offer that the Mosaic Covenant could not?",
+            "options": [
+                "A new set of external laws carved on larger stone tablets",
+                "Internal transformation — God's law written on hearts and complete forgiveness of sins",
+                "A new priesthood based in Babylon rather than Jerusalem",
+                "Permission to worship other gods alongside Yahweh"
+            ],
+            "correct": 1,
+            "explanation": "The New Covenant promised internal transformation: God would write His law on people's hearts (not just stone tablets), and He would forgive their sins completely. This covenant was established through Christ's death and is applied by the Holy Spirit."
+        },
+        {
+            "id": 8,
+            "question": "Why did the exile happen, according to the Biblical writers?",
+            "options": [
+                "Because Babylon was simply a stronger military power than Israel",
+                "Because God had lost interest in Israel and abandoned them",
+                "Because Israel persistently broke their covenant with God through idolatry and disobedience, fulfilling the covenant curses Moses had warned about",
+                "Because the prophets had failed to warn the people adequately"
+            ],
+            "correct": 2,
+            "explanation": "The exile was the fulfillment of the specific covenant curses God had warned about through Moses in Deuteronomy 28. Despite centuries of prophetic warning, Israel persisted in idolatry and covenant unfaithfulness, and God kept His word — both in judgment and in His promise to preserve a faithful remnant."
+        }
+    ]
+}

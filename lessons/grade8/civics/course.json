@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "civics",
+    "title": "Citizenship and Law — Biblical Justice in America",
+    "description": "Examining the Biblical foundations of American law, justice, and citizenship, and the responsibilities of citizens under God's moral order.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Biblical Justice in America",
+            "lessons": ["biblical_justice", "rule_of_law", "constitutional_rights", "criminal_civil_law", "citizen_duties", "justice_mercy"]
+        }
+    ],
+    "quiz_id": "civics_quiz"
+}

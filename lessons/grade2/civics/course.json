@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "civics",
+    "title": "Our Nation — Symbols, Laws, and Freedom",
+    "description": "Learn about America's special symbols, important laws, and the freedoms that God has blessed our nation with.",
+    "units": [
+        {
+            "id": "our_nation",
+            "title": "Our Nation — Symbols, Laws, and Freedom",
+            "lessons": ["american_flag", "national_symbols", "pledge_allegiance", "laws_protect", "freedom_rights", "good_citizen"]
+        }
+    ],
+    "quiz_id": "nation_quiz"
+}

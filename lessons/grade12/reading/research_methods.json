@@ -1,0 +1,86 @@
+{
+    "id": "research_methods",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Research Methods and Source Evaluation",
+    "subtitle": "Seeking Truth Through Rigorous Investigation",
+    "scripture": "Proverbs 18:17",
+    "primary_source": "Francis Bacon, 'Novum Organum' (1620) — On the Idols of the Mind",
+    "key_concepts": ["Primary vs. secondary sources", "Source evaluation criteria", "Research methodology", "Avoiding confirmation bias"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 18:17",
+                "text": "\"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.\"",
+                "commentary": "This proverb warns against accepting the first argument you encounter without hearing the other side. Good research requires examining multiple perspectives and testing claims against evidence — a principle of intellectual honesty rooted in Scripture."
+            },
+            {
+                "reference": "Acts 17:11",
+                "text": "\"Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.\"",
+                "commentary": "The Bereans are commended for verifying claims against authoritative sources. This is the model for all rigorous research: receive claims with openness but verify them with evidence."
+            },
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"But test everything; hold fast what is good.\"",
+                "commentary": "Paul's instruction to 'test everything' applies directly to research methodology. The Christian researcher does not accept claims uncritically but examines them against evidence, reason, and ultimately against the truth of Scripture."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Research as Truth-Seeking",
+            "paragraphs": [
+                "Research is fundamentally an act of truth-seeking. The Christian researcher approaches investigation with confidence that truth exists and can be discovered, because God has created an orderly, knowable universe. This conviction provides a firm foundation for rigorous academic inquiry.",
+                "Good research requires both humility and courage — humility to follow the evidence wherever it leads, and courage to defend conclusions that may be unpopular. The goal is not to confirm what you already believe but to discover what is actually true."
+            ]
+        },
+        {
+            "heading": "Primary and Secondary Sources",
+            "paragraphs": [
+                "Primary sources are original documents, artifacts, or data created during the period or event you are studying. Examples include letters, speeches, government documents, photographs, diaries, and scientific data. Primary sources provide direct evidence and are the foundation of original research.",
+                "Secondary sources are works that analyze, interpret, or evaluate primary sources. These include scholarly books, journal articles, textbooks, and critical essays. Secondary sources help you understand how experts have interpreted the evidence and identify areas of debate or consensus.",
+                "A strong thesis uses both primary and secondary sources. Primary sources ground your argument in evidence; secondary sources demonstrate your engagement with existing scholarship and help you situate your argument within broader academic conversations."
+            ]
+        },
+        {
+            "heading": "Evaluating Sources: The CRAAP Test",
+            "paragraphs": [
+                "Not all sources are equally reliable. The CRAAP test provides a framework for evaluating sources based on five criteria: Currency (Is the information up to date?), Relevance (Does it relate to your topic?), Authority (Who is the author, and what are their credentials?), Accuracy (Is the information supported by evidence?), and Purpose (Why was this source created — to inform, persuade, sell, or entertain?).",
+                "For the Christian researcher, there is an additional criterion: does this source engage honestly with the evidence, or does it distort facts to serve an ideological agenda? Sources from all perspectives can be valuable, but you must be able to identify bias and account for it in your analysis.",
+                "Francis Bacon warned in 'Novum Organum' about the 'Idols of the Mind' — systematic biases that distort our reasoning. These include the tendency to see patterns that don't exist, the influence of our personal experiences, the confusion created by imprecise language, and the blind acceptance of established authorities. Good research requires actively guarding against these biases."
+            ]
+        },
+        {
+            "heading": "Building a Research Strategy",
+            "paragraphs": [
+                "Effective research begins with a clear plan. Start by defining your research question, then identify the types of sources you will need. Develop a systematic search strategy using library databases, academic journals, primary source archives, and reputable online resources.",
+                "Take careful notes as you read, recording not just the content of each source but also your own analysis and reactions. Note how sources relate to each other — do they agree, disagree, or address different aspects of your topic? This process of synthesis is where original thinking emerges.",
+                "Organize your research using an annotated bibliography — a list of sources with brief summaries and evaluations. This tool helps you track your sources, identify gaps in your research, and begin to see the shape of your argument."
+            ]
+        },
+        {
+            "heading": "Avoiding Confirmation Bias",
+            "paragraphs": [
+                "Confirmation bias — the tendency to seek out and favor evidence that supports what you already believe — is one of the greatest threats to honest research. Christians are not immune to this bias; in fact, strong convictions can make it harder to engage fairly with opposing evidence.",
+                "The antidote is the discipline described in Proverbs 18:17: deliberately seeking out the strongest arguments against your position. If your thesis cannot withstand the best counterarguments, it needs to be refined or abandoned. A thesis that survives rigorous testing emerges stronger and more convincing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the example of the Bereans in Acts 17:11 provide a model for academic research? What does it mean to 'examine' claims against authoritative sources?",
+            "guidance": "Consider how the Bereans balanced openness to new ideas with commitment to verification. How does this balance apply to evaluating sources for a research paper?"
+        },
+        {
+            "id": 2,
+            "question": "Identify a topic you care about and find one primary source and one secondary source related to it. Evaluate each source using the CRAAP test. What are the strengths and limitations of each?",
+            "guidance": "Practice applying evaluation criteria to real sources. Consider how the source's purpose and perspective affect its reliability and usefulness for your research."
+        },
+        {
+            "id": 3,
+            "question": "What is confirmation bias, and why is it particularly dangerous for people with strong convictions? How can Proverbs 18:17 help you guard against this bias in your research?",
+            "guidance": "Reflect honestly on your own tendencies toward confirmation bias. Consider specific strategies for ensuring you engage fairly with evidence that challenges your views."
+        }
+    ]
+}

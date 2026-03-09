@@ -1,0 +1,77 @@
+{
+    "id": "expressions",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Algebraic Expressions",
+    "subtitle": "Using Variables and Operations to Describe God's Patterns",
+    "scripture": "Proverbs 25:2",
+    "key_concepts": ["Variables and constants", "Translating words to expressions", "Evaluating expressions", "Combining like terms", "The distributive property"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has hidden patterns and relationships throughout His creation. Algebra gives us a language to uncover and describe those patterns. When we use variables to represent unknown quantities, we are searching out the matters God has concealed — and that is a noble pursuit."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The consistency of algebraic rules — that the same expression always produces the same result for the same input — reflects the faithfulness of the God who holds all things together. Mathematics works because God is consistent."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Language of Algebra",
+            "paragraphs": [
+                "Algebra is often called the language of mathematics. Just as English uses words and grammar to express ideas, algebra uses variables, numbers, and operations to express mathematical relationships. An algebraic expression is a combination of variables, numbers, and operations (such as +, -, ×, ÷) that represents a quantity.",
+                "For example, the expression 3x + 5 tells us to multiply some number (x) by 3 and then add 5. The letter x is a variable — it stands for a number we may not yet know. The numbers 3 and 5 are constants. Learning to read, write, and manipulate expressions is the foundation of all algebra."
+            ]
+        },
+        {
+            "heading": "Translating Words into Expressions",
+            "paragraphs": [
+                "One of the most important skills in algebra is translating word problems into mathematical expressions. Key phrases signal specific operations: 'the sum of' means addition, 'the difference between' means subtraction, 'the product of' means multiplication, and 'the quotient of' means division.",
+                "For example, 'five more than a number' translates to n + 5. 'Twice a number decreased by three' becomes 2n - 3. 'The quotient of a number and four' is n ÷ 4 or n/4. Practicing these translations helps you connect real-world situations to algebraic tools."
+            ]
+        },
+        {
+            "heading": "Evaluating Expressions",
+            "paragraphs": [
+                "To evaluate an expression means to find its numerical value by substituting a specific number for each variable. If x = 4, then the expression 3x + 5 becomes 3(4) + 5 = 12 + 5 = 17.",
+                "When evaluating, always follow the order of operations: parentheses first, then exponents, then multiplication and division (left to right), and finally addition and subtraction (left to right). This consistent order ensures that everyone gets the same answer from the same expression — a reflection of the orderliness God has built into mathematics."
+            ]
+        },
+        {
+            "heading": "Combining Like Terms",
+            "paragraphs": [
+                "Like terms are terms that have the same variable raised to the same power. In the expression 4x + 3 + 2x - 1, the terms 4x and 2x are like terms (both have x), and 3 and -1 are like terms (both are constants). We simplify by combining them: 4x + 2x = 6x and 3 + (-1) = 2, giving us 6x + 2.",
+                "Combining like terms makes expressions simpler and easier to work with. It is like organizing a toolbox — grouping similar items together so everything is neat and efficient. This simplification skill will be essential throughout your study of algebra."
+            ]
+        },
+        {
+            "heading": "The Distributive Property",
+            "paragraphs": [
+                "The distributive property states that a(b + c) = ab + ac. This powerful rule allows us to multiply a single term by every term inside parentheses. For example, 3(x + 4) = 3x + 12, and -2(5 - y) = -10 + 2y.",
+                "The distributive property also works in reverse: we can factor common terms out of an expression. Since 6x + 9 has a common factor of 3, we can write it as 3(2x + 3). Distributing and factoring are two sides of the same coin, and both are essential algebraic skills."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write an algebraic expression for each situation: (a) A worker earns $12 per hour for h hours, plus a $25 bonus. (b) A family has d dollars and splits the amount equally among 4 members. Then simplify where possible.",
+            "guidance": "Identify the variable, the operations described, and any constants. Practice translating carefully from words to symbols."
+        },
+        {
+            "id": 2,
+            "question": "Use the distributive property to simplify 5(2x - 3) + 4x. Show each step clearly and explain what you are doing at each step.",
+            "guidance": "First distribute the 5, then combine like terms. Your final answer should have one x-term and one constant term."
+        },
+        {
+            "id": 3,
+            "question": "Proverbs 25:2 says it is glorious to 'search out a matter.' How does learning algebra help us search out the patterns God has placed in His creation?",
+            "guidance": "Think about how algebra lets us describe relationships we can observe (like distance = rate × time) and predict outcomes we haven't yet seen."
+        }
+    ]
+}

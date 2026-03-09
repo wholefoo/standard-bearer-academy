@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "math",
+    "title": "Ratios and Proportions — God's Mathematical Design",
+    "description": "A study of ratios, proportions, percentages, and their applications, discovering the precise mathematical relationships God wove into His creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Ratios and Proportions — God's Mathematical Design",
+            "lessons": ["intro_ratios", "equivalent_ratios", "rates", "proportions", "percentages", "applications"]
+        }
+    ],
+    "quiz_id": "ratios_quiz"
+}

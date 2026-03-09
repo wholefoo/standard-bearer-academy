@@ -1,0 +1,54 @@
+{
+    "id": "westward_quiz",
+    "title": "Westward Expansion Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "What did the Louisiana Purchase do for the United States?",
+            "options": ["It doubled the size of the nation", "It created a new capital city", "It ended a war with England", "It gave America its independence"],
+            "correct": 0
+        },
+        {
+            "id": "q2",
+            "question": "Who led the Corps of Discovery expedition to explore the Louisiana Territory?",
+            "options": ["Daniel Boone and Davy Crockett", "Lewis and Clark", "George Washington and Ben Franklin", "Thomas Jefferson and John Adams"],
+            "correct": 1
+        },
+        {
+            "id": "q3",
+            "question": "What was the Trail of Tears?",
+            "options": ["A popular hiking trail out West", "The forced removal of Native Americans from their homelands", "A sad song sung by pioneers", "A river that pioneers had to cross"],
+            "correct": 1
+        },
+        {
+            "id": "q4",
+            "question": "About how long was the Oregon Trail?",
+            "options": ["500 miles", "1,000 miles", "2,000 miles", "5,000 miles"],
+            "correct": 2
+        },
+        {
+            "id": "q5",
+            "question": "What event caused hundreds of thousands of people to rush to California in 1849?",
+            "options": ["The opening of a new port", "The discovery of gold", "The building of a railroad", "A large land sale"],
+            "correct": 1
+        },
+        {
+            "id": "q6",
+            "question": "Where did the two railroad companies meet to complete the transcontinental railroad?",
+            "options": ["San Francisco, California", "Omaha, Nebraska", "Promontory Summit, Utah", "Denver, Colorado"],
+            "correct": 2
+        },
+        {
+            "id": "q7",
+            "question": "Which Shoshone woman helped guide Lewis and Clark on their expedition?",
+            "options": ["Pocahontas", "Sacagawea", "Sequoyah", "Sitting Bull"],
+            "correct": 1
+        },
+        {
+            "id": "q8",
+            "question": "What year was the transcontinental railroad completed?",
+            "options": ["1849", "1859", "1869", "1879"],
+            "correct": 2
+        }
+    ]
+}

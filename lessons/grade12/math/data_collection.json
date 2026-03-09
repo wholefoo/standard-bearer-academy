@@ -1,0 +1,87 @@
+{
+    "id": "data_collection",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Data Collection and Organization",
+    "subtitle": "Gathering and Structuring Information About God's World",
+    "scripture": "Proverbs 25:2",
+    "primary_source": "John Graunt's 'Natural and Political Observations' (1662) — The Birth of Statistical Analysis",
+    "key_concepts": ["Types of data: quantitative vs. qualitative", "Sampling methods", "Bias and experimental design", "Data organization and display", "Ethical data collection"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has embedded patterns and truths in His creation that reward careful investigation. Statistics provides the tools to 'search out' these patterns, turning raw observations into meaningful understanding."
+            },
+            {
+                "reference": "Numbers 1:2-3",
+                "text": "\"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.\"",
+                "commentary": "God Himself commanded the first recorded census, demonstrating that systematic data collection is a legitimate and valuable activity. Accurate counting and record-keeping have Biblical precedent."
+            },
+            {
+                "reference": "Luke 14:28",
+                "text": "\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?\"",
+                "commentary": "Jesus affirms the importance of gathering and analyzing data before making decisions. Statistical thinking — collecting evidence before acting — is a form of the wisdom Scripture commends."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Statistics?",
+            "paragraphs": [
+                "Statistics is the science of collecting, organizing, analyzing, and interpreting data to make informed decisions. In a world overflowing with information, the ability to think statistically is essential for every citizen, professional, and leader.",
+                "Statistics is not merely about numbers — it is about understanding the world God has made. From medical research to economic policy, from agricultural planning to quality control, statistical methods help us make wise decisions based on evidence rather than guesswork. As Proverbs teaches, searching out the patterns God has embedded in creation is a worthy and noble pursuit."
+            ]
+        },
+        {
+            "heading": "Types of Data",
+            "paragraphs": [
+                "Data comes in two fundamental types. Quantitative data consists of numerical measurements or counts — height, weight, temperature, test scores, population. Quantitative data can be further classified as discrete (countable values, like the number of students in a class) or continuous (measurable values on a continuous scale, like height or temperature).",
+                "Qualitative (categorical) data describes characteristics or categories — eye color, political affiliation, favorite subject, type of vehicle. Qualitative data can be nominal (no natural order, like blood type) or ordinal (with a natural ranking, like grade level or satisfaction ratings).",
+                "Understanding data types is essential because the type of data determines which statistical methods are appropriate for analysis. Using the wrong method can lead to misleading or meaningless results."
+            ]
+        },
+        {
+            "heading": "Sampling Methods",
+            "paragraphs": [
+                "In most situations, it is impractical to collect data from every member of a population (a complete census), so we collect data from a sample — a subset of the population. The quality of our conclusions depends critically on how the sample is selected.",
+                "A simple random sample gives every member of the population an equal chance of being selected. Stratified sampling divides the population into subgroups (strata) and randomly samples from each. Cluster sampling randomly selects entire groups (clusters) and studies all members within them. Systematic sampling selects every nth member from a list.",
+                "Convenience sampling — selecting whoever is easiest to reach — is common but often produces biased results because the sample may not represent the population. Voluntary response sampling (such as online polls) also tends to attract people with strong opinions, skewing results."
+            ]
+        },
+        {
+            "heading": "Bias and Experimental Design",
+            "paragraphs": [
+                "Bias is any systematic error that causes results to deviate from the truth. Selection bias occurs when the sample does not represent the population. Response bias occurs when participants give inaccurate answers (due to poorly worded questions, social desirability, or pressure). Measurement bias results from flawed instruments or inconsistent procedures.",
+                "Well-designed experiments use control groups (receiving no treatment or a placebo), randomization (assigning subjects randomly to treatment groups), and replication (repeating the experiment to verify results). Double-blind studies, where neither participants nor researchers know who receives the treatment, minimize both participant and researcher bias.",
+                "Honest, rigorous experimental design is a matter of integrity. As Christians, our commitment to truth (Exodus 20:16, Proverbs 12:22) extends to how we collect and report data. Manipulating data or designing studies to produce predetermined results is a form of bearing false witness."
+            ]
+        },
+        {
+            "heading": "Organizing and Displaying Data",
+            "paragraphs": [
+                "Raw data must be organized to reveal patterns. Frequency tables list values and how often they occur. Histograms display the distribution of quantitative data using bars. Bar graphs compare categories. Stem-and-leaf plots preserve individual data values while showing distribution shape.",
+                "Pie charts show the proportion of each category within a whole. Line graphs display trends over time. Scatter plots reveal relationships between two quantitative variables. Box plots (box-and-whisker plots) summarize data using the five-number summary: minimum, first quartile, median, third quartile, and maximum.",
+                "Choosing the right display depends on the type of data and the story you want to tell. A well-chosen graph can illuminate patterns that are invisible in raw numbers, while a poorly chosen or misleading graph can distort the truth. Statistical integrity requires presenting data honestly and clearly."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does God command a census in Numbers 1? What does this tell us about the value of systematic data collection? How does Proverbs 25:2 connect to the purpose of statistics?",
+            "guidance": "Consider how data collection enables wise decision-making and how searching out patterns in God's creation is presented as a noble activity."
+        },
+        {
+            "id": 2,
+            "question": "Explain why convenience sampling often produces biased results. Design a sampling plan for surveying student opinions at your school that would minimize bias.",
+            "guidance": "Think about who is likely to be included and excluded in a convenience sample and how stratified or simple random sampling would better represent the entire student body."
+        },
+        {
+            "id": 3,
+            "question": "How does the Christian commitment to truth (Exodus 20:16) apply to statistical practice? Give examples of how data could be manipulated dishonestly and why this matters.",
+            "guidance": "Consider misleading graphs, cherry-picked data, biased survey questions, and suppressed results. How do these practices violate the commandment against bearing false witness?"
+        }
+    ]
+}

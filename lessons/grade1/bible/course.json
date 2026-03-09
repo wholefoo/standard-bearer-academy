@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "bible",
+    "title": "The Life of Jesus — Stories from the Gospels",
+    "description": "Exploring the life, teachings, and miracles of Jesus through the four Gospels",
+    "units": [
+        {
+            "id": "life_of_jesus",
+            "title": "The Life of Jesus",
+            "lessons": ["birth", "childhood", "calling_disciples", "miracles", "teachings", "resurrection"]
+        }
+    ],
+    "quiz_id": "bible_quiz"
+}

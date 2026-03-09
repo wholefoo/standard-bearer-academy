@@ -1,0 +1,42 @@
+{
+    "id": "heroes_quiz",
+    "title": "Heroes of the Bible Quiz",
+    "description": "Let's see what you remember about our Bible heroes!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What did Noah build?",
+            "options": ["A house", "An Ark", "A tower", "A garden"],
+            "correct": 1,
+            "explanation": "Noah built a big Ark! God told Noah to build the Ark to keep the animals safe from the flood (Genesis 6:14)."
+        },
+        {
+            "id": 2,
+            "question": "What did God promise Abraham?",
+            "options": ["A big boat", "A castle", "A big family", "A horse"],
+            "correct": 2,
+            "explanation": "God promised Abraham a big family — as many as the stars in the sky! And God kept His promise (Genesis 12:2)."
+        },
+        {
+            "id": 3,
+            "question": "Where was baby Moses found?",
+            "options": ["In a tree", "In a basket on the river", "In a cave", "In a garden"],
+            "correct": 1,
+            "explanation": "Baby Moses was found in a basket on the river by a princess (Exodus 2:5-6)."
+        },
+        {
+            "id": 4,
+            "question": "Who did David fight with God's help?",
+            "options": ["A lion", "A bear", "A giant named Goliath", "A king"],
+            "correct": 2,
+            "explanation": "David fought the giant Goliath! David trusted God and was brave (1 Samuel 17:45)."
+        },
+        {
+            "id": 5,
+            "question": "What happened to Daniel in the lions' den?",
+            "options": ["The lions ate him", "He ran away", "God kept him safe", "He hid"],
+            "correct": 2,
+            "explanation": "God kept Daniel safe! God sent an angel to close the lions' mouths (Daniel 6:22)."
+        }
+    ]
+}

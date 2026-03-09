@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "science",
+    "title": "Physical Science — Laws of the Creator",
+    "description": "Exploring the physical laws that govern God's universe — matter, energy, forces, and motion.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Laws of the Creator",
+            "lessons": ["matter_properties", "atoms_elements", "forces_motion", "energy_forms", "waves_sound", "light_optics"]
+        }
+    ],
+    "quiz_id": "physical_science_quiz"
+}

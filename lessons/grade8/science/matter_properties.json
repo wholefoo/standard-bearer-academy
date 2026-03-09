@@ -1,0 +1,71 @@
+{
+    "id": "matter_properties",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Properties of Matter",
+    "subtitle": "Understanding the Physical World God Created",
+    "scripture": "Genesis 1:1",
+    "key_concepts": ["Matter and mass", "States of matter", "Physical vs. chemical properties", "Density"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:1",
+                "text": "\"In the beginning God created the heavens and the earth.\"",
+                "commentary": "All matter in the universe was created by God. When we study the properties of matter, we are studying the building blocks that God spoke into existence."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "Christ is the sustainer of all matter. The forces that hold atoms together and give matter its properties are maintained by God's sovereign power."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Matter?",
+            "paragraphs": [
+                "Matter is anything that has mass and takes up space. Everything you can see, touch, and feel is made of matter — from the water you drink to the desk you sit at, from the air you breathe to the stars in the sky. God created all matter when He spoke the universe into existence.",
+                "Mass is the amount of matter in an object, measured in grams or kilograms. Volume is the amount of space an object occupies. These two fundamental measurements help scientists describe and categorize the physical world around us."
+            ]
+        },
+        {
+            "heading": "States of Matter",
+            "paragraphs": [
+                "Matter exists in three primary states: solid, liquid, and gas. In a solid, particles are packed tightly together in a fixed arrangement, giving solids a definite shape and volume. In a liquid, particles are close together but can slide past one another, giving liquids a definite volume but no fixed shape. In a gas, particles are spread far apart and move freely, so gases have neither definite shape nor definite volume.",
+                "A fourth state of matter, called plasma, exists at extremely high temperatures. Stars, including our sun, are made primarily of plasma. The fact that God designed matter to exist in multiple states — and to change between them — reveals the incredible complexity and order built into creation."
+            ]
+        },
+        {
+            "heading": "Physical and Chemical Properties",
+            "paragraphs": [
+                "Physical properties are characteristics of matter that can be observed or measured without changing the substance's identity. Examples include color, density, melting point, boiling point, and hardness. You can observe that ice is solid and transparent without changing it into something else.",
+                "Chemical properties describe how a substance interacts with other substances. Flammability, reactivity with acids, and the tendency to rust are all chemical properties. To observe a chemical property, the substance must undergo a chemical change — it must become a different substance entirely.",
+                "Understanding the difference between physical and chemical properties helps scientists classify and predict how materials will behave. God designed each element and compound with specific properties suited to its purpose in creation."
+            ]
+        },
+        {
+            "heading": "Density: A Key Property",
+            "paragraphs": [
+                "Density is the ratio of an object's mass to its volume, expressed as D = m/v. A dense object has a lot of mass packed into a small space. A less dense object has the same mass spread across a larger volume — or less mass in the same space.",
+                "Density explains why some objects float and others sink. An object will float in a fluid if it is less dense than that fluid. God designed water with a unique property: ice (solid water) is less dense than liquid water, which is why ice floats. This seemingly simple fact is critical for life on Earth — if ice sank, lakes and oceans would freeze from the bottom up, destroying aquatic ecosystems."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the fact that ice floats an example of God's purposeful design in creation? What would happen to aquatic life if ice behaved like most other solids?",
+            "guidance": "Consider how most solids are denser than their liquid form. Think about what would happen to fish and other aquatic creatures if lakes froze from the bottom up instead of the top down."
+        },
+        {
+            "id": 2,
+            "question": "Explain the difference between physical and chemical properties. Give two examples of each from everyday life.",
+            "guidance": "Remember that physical properties can be observed without changing the substance. Chemical properties are only revealed when the substance reacts or changes into something new."
+        },
+        {
+            "id": 3,
+            "question": "How does Colossians 1:17 relate to the study of matter and its properties? What does it mean that 'in him all things hold together'?",
+            "guidance": "Think about what holds atoms and molecules together. Consider the forces (electromagnetic, nuclear) that maintain the structure of matter and how these reflect God's sustaining power."
+        }
+    ]
+}

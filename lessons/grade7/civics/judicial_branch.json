@@ -1,0 +1,74 @@
+{
+    "id": "judicial_branch",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: The Judicial Branch",
+    "subtitle": "The Courts — Guardians of the Constitution",
+    "scripture": "Deuteronomy 16:18-20",
+    "primary_source": "Marbury v. Madison (1803, Chief Justice Marshall's opinion, excerpt)",
+    "key_concepts": ["Federal court system", "The Supreme Court", "Judicial review", "Original intent", "The role of judges"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Deuteronomy 16:18-19",
+                "text": "\"Appoint judges and officials for each of your tribes in every town the LORD your God is giving you, and they shall judge the people fairly. Do not pervert justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the innocent.\"",
+                "commentary": "God established the principle of fair and impartial judges long before the Constitution. American courts are called to uphold this same standard — judging according to the law without favoritism or corruption."
+            },
+            {
+                "reference": "Leviticus 19:15",
+                "text": "\"Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.\"",
+                "commentary": "Biblical justice is blind to wealth, status, and power. Every person — rich or poor, powerful or weak — deserves equal treatment under the law. This principle is the foundation of the American judicial system."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Justice Under Law",
+            "paragraphs": [
+                "Article III of the Constitution establishes the judicial branch, headed by the Supreme Court. The federal courts have the solemn responsibility of interpreting the law and ensuring that the Constitution is upheld.",
+                "The words carved above the entrance to the Supreme Court building — 'Equal Justice Under Law' — express the ideal that American courts should apply the law fairly and impartially to all people, just as God commands in Scripture."
+            ]
+        },
+        {
+            "heading": "The Federal Court System",
+            "paragraphs": [
+                "The federal court system has three levels. District courts are the trial courts where cases are first heard. Circuit courts of appeals review decisions from district courts. The Supreme Court is the highest court in the land — its decisions are final.",
+                "The Supreme Court consists of nine justices who are appointed by the President, confirmed by the Senate, and serve for life (during 'good behavior'). Life tenure was designed to insulate judges from political pressure, allowing them to decide cases based on the law rather than popular opinion.",
+                "The Supreme Court hears relatively few cases — typically 70-80 per year out of thousands of requests. It focuses on cases involving important constitutional questions, conflicts between lower courts, and disputes between states."
+            ]
+        },
+        {
+            "heading": "Judicial Review",
+            "paragraphs": [
+                "The most significant power of the federal courts is judicial review — the authority to declare laws unconstitutional. This power was established in the landmark case Marbury v. Madison (1803), in which Chief Justice John Marshall declared that 'a law repugnant to the Constitution is void.'",
+                "Judicial review is a powerful tool for protecting constitutional rights. When Congress passes a law that violates the Constitution, the courts can strike it down. This serves as an essential check on legislative power.",
+                "However, judicial review can also be abused. When judges go beyond interpreting the Constitution and instead impose their own policy preferences, they overstep their proper role. This is called 'judicial activism,' and it undermines self-government by allowing unelected judges to make decisions that should be left to the people and their elected representatives."
+            ]
+        },
+        {
+            "heading": "Original Intent vs. Living Constitution",
+            "paragraphs": [
+                "One of the most important debates in American government is how the Constitution should be interpreted. Originalists believe judges should interpret the Constitution according to its original meaning — what the words meant when they were written. This approach respects the rule of law and the democratic process.",
+                "The 'living Constitution' approach argues that the Constitution's meaning should evolve with the times. While this view sounds flexible, it can lead to judges rewriting the Constitution without going through the amendment process, effectively removing power from the people.",
+                "The original intent approach is most consistent with Biblical principles. Just as Christians seek to understand Scripture according to its original meaning rather than imposing modern preferences upon it, judges should interpret the Constitution according to what its authors intended."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Biblical command in Deuteronomy 16:18-19 relate to the American judicial system? What qualities should judges possess?",
+            "guidance": "Consider impartiality, integrity, wisdom, and commitment to the law. Think about why these qualities are essential for justice."
+        },
+        {
+            "id": 2,
+            "question": "What is judicial review, and why is it both important and potentially dangerous? How can judicial review be abused?",
+            "guidance": "Think about how judicial review protects constitutional rights but can also be used by judges to impose their personal views. Consider the difference between interpreting the law and making new law."
+        },
+        {
+            "id": 3,
+            "question": "Why is the 'original intent' approach to constitutional interpretation more consistent with Biblical principles than the 'living Constitution' approach?",
+            "guidance": "Consider the parallel with Biblical interpretation — seeking the original meaning of the text. Think about what happens to the rule of law when the meaning of the Constitution can be changed by judges rather than by the amendment process."
+        }
+    ]
+}

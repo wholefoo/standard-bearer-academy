@@ -1,0 +1,96 @@
+{
+    "id": "sequences_series",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Sequences and Series",
+    "subtitle": "Patterns, Sums, and the Infinite",
+    "scripture": "Psalm 147:4",
+    "primary_source": "Fibonacci's Liber Abaci (1202)",
+    "key_concepts": ["Arithmetic sequences and series", "Geometric sequences and series", "Sigma notation", "Infinite geometric series", "The Fibonacci sequence in nature"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 147:4",
+                "text": "\"He determines the number of the stars and calls them each by name.\"",
+                "commentary": "God not only created the stars but numbered and named each one. The study of sequences — ordered lists of numbers following definite patterns — reflects this divine act of ordering and numbering. Every sequence has a rule, just as every star has a name in God's mind."
+            },
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "Sequences are the mathematical expression of order — numbers arranged according to a definite pattern. The existence of order in mathematics mirrors the order that God commands in all areas of life."
+            },
+            {
+                "reference": "Romans 11:33",
+                "text": "\"Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!\"",
+                "commentary": "Infinite series — sums that extend forever yet converge to finite values — give us a glimpse of the infinite. Human mathematics can touch the infinite, but only the infinite God fully comprehends it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Power of Pattern",
+            "paragraphs": [
+                "A sequence is an ordered list of numbers following a specific pattern or rule. Sequences are everywhere: the growth rings of a tree, the population of a species over generations, the payments on a loan, the notes in a musical scale. Mathematics provides the tools to describe, analyze, and predict these patterns.",
+                "A series is the sum of the terms of a sequence. While sequences list individual terms, series add them up. The study of series leads to some of the most profound and surprising results in mathematics — including the discovery that infinite sums can have finite values."
+            ]
+        },
+        {
+            "heading": "Arithmetic Sequences and Series",
+            "paragraphs": [
+                "An arithmetic sequence has a constant difference (d) between consecutive terms. The general term is aₙ = a₁ + (n-1)d, where a₁ is the first term. For example, the sequence 3, 7, 11, 15, 19, ... has a₁ = 3 and d = 4, so aₙ = 3 + 4(n-1) = 4n - 1.",
+                "The sum of the first n terms of an arithmetic series is Sₙ = n/2 × (a₁ + aₙ) = n/2 × (2a₁ + (n-1)d). A famous story tells of young Carl Friedrich Gauss, who astonished his teacher by instantly computing 1 + 2 + 3 + ... + 100 = 100 × 101/2 = 5,050. Gauss recognized that pairing the first and last terms (1 + 100, 2 + 99, ...) produced 50 pairs, each summing to 101.",
+                "Arithmetic sequences model situations with constant change: saving a fixed amount each month, driving at a constant speed, or a plant growing the same amount each day."
+            ]
+        },
+        {
+            "heading": "Geometric Sequences and Series",
+            "paragraphs": [
+                "A geometric sequence has a constant ratio (r) between consecutive terms. The general term is aₙ = a₁ · r^(n-1). For example, the sequence 2, 6, 18, 54, 162, ... has a₁ = 2 and r = 3, so aₙ = 2 · 3^(n-1).",
+                "The sum of the first n terms of a geometric series is Sₙ = a₁(1 - rⁿ)/(1 - r) for r ≠ 1. Geometric series model multiplicative growth and decay: compound interest, population growth, radioactive decay, and depreciation.",
+                "When |r| < 1, the terms of a geometric sequence shrink toward zero. In this case, the infinite geometric series converges to a finite sum: S = a₁/(1 - r). For example, the infinite series 1 + 1/2 + 1/4 + 1/8 + ... = 1/(1 - 1/2) = 2. An infinite number of terms can have a finite sum — a mathematical truth that challenges our intuitions about infinity."
+            ]
+        },
+        {
+            "heading": "Sigma Notation",
+            "paragraphs": [
+                "Sigma notation (Σ) provides a compact way to write series. The expression Σᵢ₌₁ⁿ aᵢ means 'the sum of aᵢ for i = 1, 2, 3, ..., n.' For example, Σᵢ₌₁⁵ i² = 1² + 2² + 3² + 4² + 5² = 1 + 4 + 9 + 16 + 25 = 55.",
+                "Sigma notation is powerful because it expresses arbitrarily long sums in a compact form. It is essential notation for calculus, statistics, and many areas of science. Learning to read and write sigma notation is like learning a new alphabet — it opens up new modes of mathematical expression.",
+                "Properties of sigma notation include linearity: Σ(aᵢ + bᵢ) = Σaᵢ + Σbᵢ, and Σ(caᵢ) = cΣaᵢ. These properties allow us to break complex sums into simpler components."
+            ]
+        },
+        {
+            "heading": "The Fibonacci Sequence in God's Creation",
+            "paragraphs": [
+                "The Fibonacci sequence — 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ... — is formed by adding each pair of consecutive terms to get the next: Fₙ = Fₙ₋₁ + Fₙ₋₂. This simple rule produces a sequence that appears with astonishing frequency in nature.",
+                "The number of petals on flowers frequently follows the Fibonacci sequence: lilies have 3 petals, buttercups have 5, delphiniums have 8, marigolds have 13, daisies often have 21, 34, or 55. The spiral patterns of sunflower seeds, pinecones, and pineapples follow Fibonacci numbers. The branching patterns of trees and the arrangement of leaves around a stem (phyllotaxis) also exhibit Fibonacci patterns.",
+                "The ratio of consecutive Fibonacci numbers approaches the golden ratio: φ = (1 + √5)/2 ≈ 1.618. This ratio appears in the proportions of the Parthenon, in Renaissance art, and throughout nature. Its prevalence has led many to see it as evidence of a Master Designer who embedded mathematical beauty into the structure of living things.",
+                "The Fibonacci sequence was introduced to the Western world by Leonardo of Pisa (Fibonacci) in his book Liber Abaci (1202), which also introduced Hindu-Arabic numerals to Europe — one of the most important developments in the history of mathematics."
+            ]
+        },
+        {
+            "heading": "Infinity and the Mind of God",
+            "paragraphs": [
+                "The study of infinite series brings us to the boundary between finite human mathematics and the infinite nature of God. An infinite geometric series with |r| < 1 converges to a finite value — demonstrating that the infinite can be contained within the finite. Yet many infinite series diverge — their sums grow without bound, reminding us that infinity is truly beyond our grasp.",
+                "The concept of mathematical infinity has fascinated theologians as well as mathematicians. Georg Cantor, the founder of set theory, showed that there are different sizes of infinity — that the infinity of real numbers is 'larger' than the infinity of whole numbers. Cantor, a devout Lutheran, saw his work on infinity as revealing aspects of the nature of God, whom he called the 'Absolute Infinite.'",
+                "As we study sequences and series, we develop the tools that will lead to calculus — the mathematics of continuous change. These tools are not merely human inventions; they are discoveries of patterns and structures that existed in the mind of God before any human mathematician was born."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the difference between arithmetic and geometric sequences. Give the formula for the sum of each type. When would you use each in a real-world situation?",
+            "guidance": "Arithmetic sequences model constant additive change; geometric sequences model constant multiplicative change. Connect to real examples like salary increases (arithmetic) vs. compound interest (geometric)."
+        },
+        {
+            "id": 2,
+            "question": "The Fibonacci sequence appears frequently in the structure of living things. How does this mathematical pattern in nature serve as evidence for intelligent design? Could random processes produce such consistent mathematical structure?",
+            "guidance": "Consider why flower petals, seed spirals, and branching patterns should follow the same mathematical rule. Reflect on Romans 1:20 and what can be 'clearly seen' from creation."
+        },
+        {
+            "id": 3,
+            "question": "An infinite geometric series with |r| < 1 converges to a finite sum. What does this mathematical fact teach us about the relationship between the infinite and the finite? How might this connect to theological ideas about God's infinite nature interacting with finite creation?",
+            "guidance": "Consider the incarnation — the infinite God entering finite creation. Think about how mathematical infinity gives us a small window into the concept of the truly infinite God."
+        }
+    ]
+}

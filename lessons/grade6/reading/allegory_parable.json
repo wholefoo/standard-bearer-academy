@@ -1,0 +1,76 @@
+{
+    "id": "allegory_parable",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Allegory and Parable — Stories with Deeper Meaning",
+    "subtitle": "Understanding Literary Works That Teach Through Symbol and Story",
+    "scripture": "Matthew 13:34-35",
+    "primary_source": "John Bunyan, The Pilgrim's Progress (1678)",
+    "key_concepts": ["Allegory as a literary form", "Parables of Jesus", "Symbolism in literature", "The Pilgrim's Progress"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 13:34-35",
+                "text": "\"Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable. So was fulfilled what was spoken through the prophet: 'I will open my mouth in parables, I will utter things hidden since the creation of the world.'\"",
+                "commentary": "Jesus was the master storyteller, using parables to teach profound spiritual truths through simple, memorable stories. His use of parables shows that stories with deeper meaning are a powerful and God-endorsed way of communicating truth."
+            },
+            {
+                "reference": "Judges 9:8-15",
+                "text": "\"One day the trees went out to anoint a king for themselves. They said to the olive tree, 'Be our king.'\"",
+                "commentary": "Jotham's parable of the trees is one of the earliest allegories in the Bible, using trees as symbols for leaders to teach a lesson about the dangers of choosing unworthy rulers. Allegory has deep Biblical roots."
+            },
+            {
+                "reference": "Galatians 4:24",
+                "text": "\"These things are being taken figuratively: The women represent two covenants.\"",
+                "commentary": "Paul himself used allegorical interpretation, seeing deeper spiritual meaning in the Old Testament story of Sarah and Hagar. This shows that looking for symbolic meaning in stories is a legitimate and Biblical practice."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is an Allegory?",
+            "paragraphs": [
+                "An allegory is a story in which the characters, events, and settings represent abstract ideas or moral qualities beyond their literal meaning. In an allegory, the surface story is interesting on its own, but the real message lies beneath — in the deeper truths the story symbolizes. Think of an allegory as a story with two levels: what happens in the plot, and what the plot means.",
+                "Allegories have been used throughout history to teach moral and spiritual lessons in memorable, engaging ways. Because they wrap truth in story, allegories can communicate complex ideas to people of all ages and educational backgrounds. Some of the most beloved books in the Christian tradition — including The Pilgrim's Progress and The Chronicles of Narnia — are allegories."
+            ]
+        },
+        {
+            "heading": "The Parables of Jesus: Perfect Short Allegories",
+            "paragraphs": [
+                "Jesus' parables are the most famous and influential allegories in all of literature. In the Parable of the Sower (Matthew 13:3-23), the seeds represent God's Word, the different soils represent different responses to the Gospel, and the harvest represents spiritual fruit. In the Parable of the Prodigal Son (Luke 15:11-32), the father represents God, the younger son represents sinners who return to God, and the older son represents self-righteous people who resent God's mercy.",
+                "Jesus chose to teach through parables because stories engage the imagination, create emotional connections, and are easier to remember than abstract lectures. A parable invites the listener to enter the story and discover the truth for themselves. As Matthew 13:35 tells us, Jesus used parables to reveal 'things hidden since the creation of the world' — profound truths wrapped in simple, memorable stories."
+            ]
+        },
+        {
+            "heading": "The Pilgrim's Progress: The Greatest Christian Allegory",
+            "paragraphs": [
+                "John Bunyan's The Pilgrim's Progress (1678) is the most widely read Christian allegory ever written. It tells the story of a man named Christian who flees from the City of Destruction (the world enslaved to sin) and journeys to the Celestial City (heaven). Along the way, he passes through places like the Slough of Despond (discouragement), Vanity Fair (worldly temptation), and Doubting Castle (spiritual doubt).",
+                "Every character Christian meets represents a spiritual reality: Evangelist points him to Christ, Faithful stands firm under persecution, and Giant Despair tries to make him give up. Bunyan, who wrote the book while imprisoned for his faith, drew deeply from his own spiritual experience and from Scripture. The Pilgrim's Progress has been translated into over 200 languages and remains one of the most powerful portrayals of the Christian life ever written."
+            ]
+        },
+        {
+            "heading": "Reading Symbolism in Literature",
+            "paragraphs": [
+                "Symbolism is the use of objects, characters, or events to represent something beyond their literal meaning. A lion might symbolize courage or royalty (as in C.S. Lewis's Aslan, who represents Christ). Light often symbolizes truth and goodness, while darkness symbolizes evil and ignorance. Water can symbolize cleansing, life, or baptism.",
+                "Learning to recognize symbolism enriches your reading because it allows you to see the deeper layers of meaning that authors build into their works. The Bible itself is rich in symbolism: the lamb symbolizes Christ's sacrifice, bread symbolizes His body, the vine and branches symbolize our relationship with Him. When you read literature with an eye for symbolism, you discover that great stories often point toward the greatest Story — the Gospel of Jesus Christ."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did Jesus choose to teach through parables rather than just stating His points directly? What are the advantages of wrapping truth in a story?",
+            "guidance": "Consider how stories engage emotions and imagination. Think about why the Parable of the Prodigal Son is more memorable and powerful than simply saying 'God forgives sinners.'"
+        },
+        {
+            "id": 2,
+            "question": "In The Pilgrim's Progress, Christian passes through the Slough of Despond and Doubting Castle. What spiritual experiences do these places represent? Have you ever experienced anything similar in your own life?",
+            "guidance": "The Slough of Despond represents discouragement and guilt. Doubting Castle represents periods of spiritual doubt. Think about how these are common experiences in the Christian life and how Scripture addresses them."
+        },
+        {
+            "id": 3,
+            "question": "Why is C.S. Lewis's character Aslan (from The Chronicles of Narnia) an effective symbol for Christ? What qualities of Aslan reflect qualities of Jesus?",
+            "guidance": "Consider Aslan's power, goodness, sacrifice (in The Lion, the Witch and the Wardrobe), and resurrection. Think about how fictional characters can help us understand real spiritual truths."
+        }
+    ]
+}

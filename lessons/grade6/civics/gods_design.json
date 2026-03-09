@@ -1,0 +1,76 @@
+{
+    "id": "gods_design",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: God's Design for Government",
+    "subtitle": "Why Government Exists — Authority, Order, and Justice",
+    "scripture": "Romans 13:1-7; Genesis 9:5-6",
+    "primary_source": "Genesis 9 — The Noahic Covenant",
+    "key_concepts": ["Government as a divine institution", "The purpose of civil authority", "Restraining evil and promoting good", "Delegated authority vs. absolute power"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 13:1",
+                "text": "\"Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.\"",
+                "commentary": "Government is not a human invention — it is an institution established by God Himself. This means civil authority has a divine origin and a divine purpose: to maintain order and justice in a fallen world."
+            },
+            {
+                "reference": "Genesis 9:6",
+                "text": "\"Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind.\"",
+                "commentary": "After the Flood, God gave Noah the authority to enforce justice — including capital punishment for murder. This is the first instance of God delegating governing authority to human beings, establishing the principle that human life has sacred value because we are made in God's image."
+            },
+            {
+                "reference": "Romans 13:4",
+                "text": "\"For the one in authority is God's servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God's servants, agents of wrath to bring punishment on the wrongdoer.\"",
+                "commentary": "Government's primary purpose is to punish evil and protect the innocent. Rulers are called 'God's servants,' meaning their authority is delegated — they are accountable to God for how they use the power He has entrusted to them."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Do We Need Government?",
+            "paragraphs": [
+                "After Adam and Eve sinned in the Garden of Eden, the world became a place where people were capable of great evil. Cain murdered his brother Abel, and within a few generations, violence filled the earth. God saw that without order and authority, human sinfulness would lead to chaos and destruction.",
+                "Government exists because of the reality of sin. In a perfect world, no government would be needed — people would naturally love God and love their neighbors. But in a fallen world, civil authority is necessary to restrain evil, protect the innocent, and maintain the order that allows society to function."
+            ]
+        },
+        {
+            "heading": "The Noahic Covenant: The Foundation of Civil Authority",
+            "paragraphs": [
+                "After the Flood, God established a covenant with Noah that included the first formal grant of governing authority to human beings. In Genesis 9:5-6, God commanded that murderers be put to death — and He delegated this responsibility to other humans. This is the biblical foundation for civil government.",
+                "This covenant established several important principles. First, human life is sacred because we are made in God's image. Second, justice requires that evil be punished. Third, God delegates authority to human beings to carry out this justice. These principles form the basis of every legitimate government throughout history."
+            ]
+        },
+        {
+            "heading": "Three Institutions Ordained by God",
+            "paragraphs": [
+                "The Bible teaches that God has established three primary institutions in human society: the Family, the Church, and Civil Government. Each has its own sphere of authority and responsibility, and each is accountable to God.",
+                "The family is responsible for raising children, providing love and discipline, and passing faith to the next generation. The church is responsible for worship, teaching God's Word, and caring for the spiritual needs of believers. Civil government is responsible for maintaining justice, punishing evildoers, and protecting the rights of citizens. When any of these institutions tries to take over the responsibilities of another, disorder results."
+            ]
+        },
+        {
+            "heading": "Delegated Authority: Power with Limits",
+            "paragraphs": [
+                "A key biblical principle is that all human authority is delegated — it comes from God and must be exercised according to God's standards. No human ruler has absolute power. Kings, presidents, and legislatures all answer to a higher authority — the God who created them and established their positions.",
+                "This principle of delegated authority is the foundation of limited government. If a ruler's power comes from God, then the ruler cannot do whatever he pleases — he must govern according to God's law and for the good of the people. When rulers abuse their power, they are violating their God-given mandate. This understanding has shaped the development of constitutions, bills of rights, and the rule of law throughout Western history."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does God say that human life is sacred in Genesis 9:6? How does this principle form the foundation of all just government?",
+            "guidance": "Consider the phrase 'in the image of God has God made mankind.' Think about why the value of human life is the starting point for any system of justice and law."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between delegated authority and absolute authority? Why is this distinction important for preventing tyranny?",
+            "guidance": "Think about how a manager has real authority but is still accountable to the business owner. Consider how this applies to government leaders who are accountable to God."
+        },
+        {
+            "id": 3,
+            "question": "What happens when one of God's three institutions (family, church, government) tries to take over the role of another? Can you think of historical or modern examples?",
+            "guidance": "Consider situations where government tries to replace the family in raising children, or where government tries to control what the church teaches. Think about why God designed separate spheres of authority."
+        }
+    ]
+}

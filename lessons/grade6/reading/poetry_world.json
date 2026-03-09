@@ -1,0 +1,76 @@
+{
+    "id": "poetry_world",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Poetry Around the World",
+    "subtitle": "The Beauty of Language in Verse — From Psalms to Sonnets",
+    "scripture": "Psalm 19:1-4",
+    "primary_source": "William Shakespeare, Selected Sonnets (c. 1600)",
+    "key_concepts": ["Elements of poetry", "Poetic forms across cultures", "The Psalms as poetry", "How poetry reveals truth and beauty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1-4",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge. They have no speech, they use no words; no sound is heard from them. Yet their voice goes out into all the earth, their words to the ends of the world.\"",
+                "commentary": "This psalm is itself a beautiful poem, using vivid imagery and personification to describe how creation reveals God's glory. The Psalms show us that poetry is a God-given form of expression, uniquely able to capture deep emotion and spiritual truth."
+            },
+            {
+                "reference": "Exodus 15:1-2",
+                "text": "\"Then Moses and the Israelites sang this song to the LORD: 'I will sing to the LORD, for he is highly exalted. Both horse and driver he has hurled into the sea. The LORD is my strength and my defense; he has become my salvation.'\"",
+                "commentary": "The Song of Moses is one of the earliest poems in the Bible, a spontaneous outpouring of praise after God delivered Israel through the Red Sea. Poetry arises naturally when the human heart is overwhelmed by God's greatness."
+            },
+            {
+                "reference": "Colossians 3:16",
+                "text": "\"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.\"",
+                "commentary": "Paul commands Christians to use poetry and song as means of worship, teaching, and encouragement. Poetry is not just an academic exercise — it is a spiritual practice."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Makes Poetry Different from Prose?",
+            "paragraphs": [
+                "Poetry is a form of writing that uses carefully chosen words, rhythm, and often figurative language to express ideas and emotions with power and beauty. Unlike prose (ordinary writing), poetry condenses meaning into fewer words, uses line breaks and stanzas to create visual and rhythmic patterns, and often employs devices like metaphor, simile, alliteration, and rhyme.",
+                "Poetry demands more from the reader than prose. Each word in a poem is chosen with precision, and readers must slow down, re-read, and reflect to appreciate the full meaning. This discipline of careful reading is valuable for Christians, who are called to meditate on God's Word — much of which is written in poetic form."
+            ]
+        },
+        {
+            "heading": "The Psalms: The Greatest Poetry Ever Written",
+            "paragraphs": [
+                "The Book of Psalms is the largest collection of poetry in the Bible, containing 150 poems that cover the full range of human emotion — from exuberant praise to desperate lament, from confident trust to anguished doubt. The Psalms use vivid imagery ('The LORD is my shepherd,' 'He makes me lie down in green pastures'), parallelism (where the second line echoes or contrasts the first), and emotional honesty that resonates with readers across millennia.",
+                "Hebrew poetry does not rely on rhyme (which does not work the same way in Hebrew) but on parallelism — expressing an idea in one line and then reinforcing, expanding, or contrasting it in the next. For example, Psalm 24:1: 'The earth is the LORD's, and everything in it, / the world, and all who live in it.' The second line restates and amplifies the first. Understanding this structure helps us read and appreciate Biblical poetry more deeply."
+            ]
+        },
+        {
+            "heading": "Poetic Forms from Around the World",
+            "paragraphs": [
+                "Different cultures have developed distinct poetic forms. The sonnet, a 14-line poem with a specific rhyme scheme, was perfected by Italian and English poets like Petrarch and Shakespeare. Haiku, a Japanese form consisting of three lines with 5, 7, and 5 syllables, captures a moment in nature with elegant simplicity. The ghazal, an Arabic and Persian form, uses repeating rhymes and refrains to express themes of love and longing.",
+                "Epic poetry — long narrative poems that tell heroic stories — is found in virtually every culture: Homer's Iliad and Odyssey in Greece, the Mahabharata in India, Beowulf in Anglo-Saxon England, and the Song of Roland in medieval France. These diverse forms demonstrate that God gave every culture the impulse to express truth and beauty through poetry."
+            ]
+        },
+        {
+            "heading": "Poetic Devices: The Poet's Toolkit",
+            "paragraphs": [
+                "Poets use specific literary devices to create meaning and beauty. Metaphor compares two unlike things directly ('The LORD is my rock'). Simile compares using 'like' or 'as' ('As the deer pants for streams of water, so my soul pants for you, my God'). Personification gives human qualities to non-human things ('The mountains skipped like rams'). Alliteration repeats initial consonant sounds for emphasis and musicality.",
+                "Imagery appeals to the senses — sight, sound, touch, taste, and smell — creating vivid pictures in the reader's mind. Hyperbole uses exaggeration for emphasis. Repetition reinforces key ideas and creates rhythm. Learning to recognize these devices helps you appreciate the artistry of great poetry and the literary richness of Scripture, where God Himself employs these techniques to communicate His truth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why do you think God chose to write so much of the Bible in poetic form? What can poetry communicate that prose cannot?",
+            "guidance": "Consider how poetry engages emotions, imagination, and memory. Think about why the Psalms have been the prayer book and hymnal of God's people for thousands of years."
+        },
+        {
+            "id": 2,
+            "question": "Choose a Psalm (such as Psalm 23 or Psalm 19) and identify at least three poetic devices the author uses. How do these devices enhance the message of the psalm?",
+            "guidance": "Look for metaphors, similes, personification, imagery, parallelism, and repetition. Consider how each device makes the psalm more vivid, memorable, and emotionally powerful."
+        },
+        {
+            "id": 3,
+            "question": "Why has every culture in human history produced poetry? What does the universal human impulse to write poetry tell us about being made in God's image?",
+            "guidance": "Consider that God is a Creator who delights in beauty and language. Think about how the human desire to express truth through beautiful language reflects our Creator's nature."
+        }
+    ]
+}

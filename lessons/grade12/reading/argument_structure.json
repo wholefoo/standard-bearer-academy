@@ -1,0 +1,84 @@
+{
+    "id": "argument_structure",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Structuring a Persuasive Argument",
+    "subtitle": "Logic, Evidence, and the Art of Persuasion",
+    "scripture": "1 Peter 3:15",
+    "primary_source": "Martin Luther King Jr., 'Letter from Birmingham Jail' (1963)",
+    "key_concepts": ["Logical argumentation", "Classical rhetorical structure", "Evidence integration", "Counterargument and rebuttal"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Peter 3:15",
+                "text": "\"But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.\"",
+                "commentary": "Peter commands believers to be ready to give a 'reason' — the Greek word apologia, from which we get 'apologetics.' Christian argumentation combines rigorous reasoning with gracious delivery, defending truth without arrogance or hostility."
+            },
+            {
+                "reference": "Isaiah 1:18",
+                "text": "\"'Come now, let us reason together,' says the LORD.\"",
+                "commentary": "God Himself invites rational discourse. The capacity for logical reasoning is part of the image of God in humanity. When we construct careful arguments, we exercise a God-given faculty in service of truth."
+            },
+            {
+                "reference": "Titus 1:9",
+                "text": "\"He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it.\"",
+                "commentary": "The ability to both teach truth and refute error requires structured, logical argumentation. Paul's instruction to Titus shows that the skill of building arguments and answering objections is essential for leaders."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Architecture of Argument",
+            "paragraphs": [
+                "A persuasive argument is like a well-designed building: it requires a solid foundation (your thesis), strong supporting structures (your evidence and reasoning), and a coherent design (your organizational structure). Just as an architect plans every element of a building before construction begins, the thesis writer must plan the structure of their argument before writing.",
+                "The classical tradition of rhetoric — developed by Aristotle, Cicero, and Quintilian, and refined by Christian thinkers through the centuries — provides time-tested frameworks for structuring persuasive arguments. These principles remain as powerful today as they were two thousand years ago."
+            ]
+        },
+        {
+            "heading": "The Classical Argument Structure",
+            "paragraphs": [
+                "The classical argument follows a five-part structure that has proven effective for millennia. The Introduction (Exordium) establishes your topic and captures the reader's attention. The Background (Narratio) provides necessary context and defines key terms. The Argument (Confirmatio) presents your evidence and reasoning in support of your thesis. The Counterargument (Refutatio) addresses opposing viewpoints and explains why your position is stronger. The Conclusion (Peroratio) summarizes your argument and leaves the reader with a compelling final impression.",
+                "This structure is not a rigid formula but a flexible framework that can be adapted to different topics and audiences. Martin Luther King Jr.'s 'Letter from Birmingham Jail' follows this structure masterfully — he establishes context, presents his case for nonviolent protest, addresses his critics' objections, and concludes with a powerful vision of justice."
+            ]
+        },
+        {
+            "heading": "The Three Appeals: Logos, Ethos, and Pathos",
+            "paragraphs": [
+                "Aristotle identified three modes of persuasion that remain fundamental to effective argumentation. Logos (logical appeal) uses evidence, facts, statistics, and logical reasoning to support claims. Ethos (ethical appeal) establishes the writer's credibility, character, and authority on the subject. Pathos (emotional appeal) connects with the reader's values, concerns, and emotions.",
+                "The strongest arguments employ all three appeals in balance. An argument built solely on logic may fail to move the reader; one that relies only on emotion may lack substance; one that depends entirely on the writer's authority may seem arrogant. King's 'Letter from Birmingham Jail' exemplifies this balance — he uses Biblical and philosophical reasoning (logos), establishes his credentials as a minister and leader (ethos), and appeals powerfully to the reader's sense of justice (pathos).",
+                "For the Christian writer, ethos is particularly important. Your character and integrity as a writer — your honesty with evidence, your fairness to opponents, your humility in the face of complexity — are themselves arguments for the truth of your position."
+            ]
+        },
+        {
+            "heading": "Integrating Evidence Effectively",
+            "paragraphs": [
+                "Evidence does not speak for itself — it must be introduced, presented, and analyzed. Use the 'sandwich' method: introduce the evidence by explaining its context, present the evidence (through quotation, paraphrase, or summary), and then analyze it by explaining how it supports your thesis.",
+                "Vary your types of evidence to strengthen your argument. Statistical data provides quantitative support. Expert testimony adds authoritative weight. Historical examples demonstrate precedent. Primary source quotations provide direct evidence. Logical reasoning connects evidence to claims. The most persuasive arguments weave multiple types of evidence together into a coherent case."
+            ]
+        },
+        {
+            "heading": "Counterargument and Rebuttal",
+            "paragraphs": [
+                "Addressing counterarguments is not a weakness — it is a strength. When you honestly present the best opposing arguments and then explain why your position is still stronger, you demonstrate intellectual integrity and make your thesis more convincing, not less.",
+                "There are several strategies for handling counterarguments: you can concede a valid point while showing it does not undermine your main thesis; you can demonstrate that the opposing evidence is incomplete, outdated, or misinterpreted; or you can show that even if the counterargument has merit, the weight of evidence still favors your position. The key is never to create a 'straw man' — a weak or distorted version of the opposing argument that is easy to knock down. Always engage with the strongest version of the counterargument."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read 1 Peter 3:15. How does Peter's instruction to defend the faith 'with gentleness and respect' apply to academic argumentation? Why is tone as important as content in persuasive writing?",
+            "guidance": "Consider how arrogance or hostility undermines even the best arguments. Think about how gracious engagement with opposing views reflects Christian character."
+        },
+        {
+            "id": 2,
+            "question": "Analyze a section of Martin Luther King Jr.'s 'Letter from Birmingham Jail.' Identify examples of logos, ethos, and pathos. How does King balance these three appeals to create a compelling argument?",
+            "guidance": "Look for specific passages where King uses logical reasoning, establishes his credibility, or appeals to emotions. Consider why the combination of all three is more powerful than any one alone."
+        },
+        {
+            "id": 3,
+            "question": "Why is engaging honestly with counterarguments a strength rather than a weakness? How does the principle of Proverbs 18:17 apply to the counterargument section of a thesis?",
+            "guidance": "Think about what happens when a writer ignores or misrepresents opposing views. Consider how intellectual honesty builds credibility and produces stronger arguments."
+        }
+    ]
+}

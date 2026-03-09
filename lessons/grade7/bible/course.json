@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "bible",
+    "title": "Paul's Letters — Doctrine and Daily Living",
+    "description": "Study the epistles of the Apostle Paul, exploring the foundational doctrines of the Christian faith and learning how theology shapes everyday life and conduct.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Paul's Letters — Doctrine and Daily Living",
+            "lessons": ["romans_gospel", "corinthians_church", "galatians_freedom", "ephesians_unity", "philippians_joy", "thessalonians_hope"]
+        }
+    ],
+    "quiz_id": "bible_quiz"
+}

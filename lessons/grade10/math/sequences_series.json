@@ -1,0 +1,82 @@
+{
+    "id": "sequences_series",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Sequences and Series — Patterns that Reveal the Creator",
+    "subtitle": "Arithmetic and Geometric Sequences, Series, and the Fibonacci Sequence",
+    "scripture": "Genesis 1:14",
+    "primary_source": "Leonardo Fibonacci's 'Liber Abaci' (1202)",
+    "key_concepts": ["Arithmetic sequences and series", "Geometric sequences and series", "Sigma notation", "The Fibonacci sequence", "Convergent and divergent series"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:14",
+                "text": "\"And God said, 'Let there be lights in the vault of the sky to separate the day from the night, and let them serve as signs to mark sacred times, and days and years.'\"",
+                "commentary": "God established sequences in creation from the very beginning — the regular cycle of days, months, and years. These predictable, repeating patterns reflect the sequential order that mathematics describes through sequences and series."
+            },
+            {
+                "reference": "Psalm 19:1-2",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.\"",
+                "commentary": "Day after day — a sequence. Night after night — a pattern. The mathematical patterns we call sequences are everywhere in creation, from the spiral of a nautilus shell to the branching of trees, declaring God's glory through mathematical beauty."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Patterns Everywhere",
+            "paragraphs": [
+                "A sequence is an ordered list of numbers following a specific pattern. Sequences appear throughout nature, art, music, and finance. The ability to identify, describe, and work with sequences is one of the most powerful tools in mathematics — and one that reveals the deep patterns God has woven into creation.",
+                "The two most important types of sequences are arithmetic (based on addition) and geometric (based on multiplication). Understanding these patterns provides the foundation for calculus, financial mathematics, and many applications in science and engineering."
+            ]
+        },
+        {
+            "heading": "Arithmetic Sequences and Series",
+            "paragraphs": [
+                "An arithmetic sequence has a constant difference between consecutive terms, called the common difference (d). If the first term is a₁ and the common difference is d, then the nth term is aₙ = a₁ + (n-1)d. For example, in the sequence 3, 7, 11, 15, 19, ..., a₁ = 3 and d = 4, so aₙ = 3 + 4(n-1) = 4n - 1.",
+                "An arithmetic series is the sum of the terms of an arithmetic sequence. The sum of the first n terms is Sₙ = n(a₁ + aₙ)/2, or equivalently Sₙ = n(2a₁ + (n-1)d)/2. The young mathematician Carl Friedrich Gauss famously discovered this formula as a schoolboy when his teacher asked the class to sum the integers from 1 to 100. Gauss quickly computed: S = 100(1 + 100)/2 = 5050.",
+                "Arithmetic sequences model situations with constant growth: saving the same amount each month, driving at constant speed, or adding the same number of items to a collection each day."
+            ]
+        },
+        {
+            "heading": "Geometric Sequences and Series",
+            "paragraphs": [
+                "A geometric sequence has a constant ratio between consecutive terms, called the common ratio (r). If the first term is a₁ and the common ratio is r, then the nth term is aₙ = a₁ · r^(n-1). For example, in the sequence 2, 6, 18, 54, ..., a₁ = 2 and r = 3, so aₙ = 2 · 3^(n-1).",
+                "The sum of a finite geometric series is Sₙ = a₁(1 - rⁿ)/(1 - r) for r ≠ 1. When |r| < 1, the terms get smaller and smaller, and the infinite geometric series converges to S = a₁/(1 - r). For example, 1 + 1/2 + 1/4 + 1/8 + ... = 1/(1 - 1/2) = 2.",
+                "Geometric sequences model exponential growth and decay: compound interest, population growth, radioactive decay, and the spread of information. The connection between geometric sequences and exponential functions is direct — each geometric sequence can be expressed as an exponential function evaluated at integer inputs."
+            ]
+        },
+        {
+            "heading": "Sigma Notation",
+            "paragraphs": [
+                "Sigma notation provides a compact way to write series. The expression Σ(from i=1 to n) of aᵢ means 'sum all terms aᵢ from i = 1 to i = n.' For example, Σ(i=1 to 5)(2i + 1) = 3 + 5 + 7 + 9 + 11 = 35.",
+                "Sigma notation is powerful because it can express very long sums concisely. The sum of the first 1000 positive integers, which would take pages to write out, is simply Σ(i=1 to 1000)(i) = 1000(1001)/2 = 500,500.",
+                "Working with sigma notation requires understanding index variables, limits of summation, and the ability to translate between expanded form and sigma form. This notation becomes essential in calculus, statistics, and many areas of higher mathematics."
+            ]
+        },
+        {
+            "heading": "The Fibonacci Sequence and God's Design in Nature",
+            "paragraphs": [
+                "The Fibonacci sequence — 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ... — is formed by adding the two previous terms to get the next. Introduced to Europe by Leonardo Fibonacci in his 'Liber Abaci' (1202), this sequence appears throughout nature with astonishing frequency.",
+                "Sunflowers arrange their seeds in spirals following Fibonacci numbers. Pine cones, pineapples, and artichokes display Fibonacci spiral patterns. The number of petals on many flowers is a Fibonacci number: lilies have 3, buttercups 5, delphiniums 8, marigolds 13, and daisies often have 21, 34, 55, or 89 petals.",
+                "As the Fibonacci sequence progresses, the ratio of consecutive terms approaches the Golden Ratio, φ ≈ 1.618 — an irrational number with remarkable mathematical properties. The Golden Ratio appears in art, architecture, and nature, from the proportions of the Parthenon to the spiral of a nautilus shell. The pervasive appearance of this number in creation is powerful evidence of intelligent design — a mathematical signature of the Creator woven into the fabric of the natural world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Find the 20th term and the sum of the first 20 terms of the arithmetic sequence 5, 11, 17, 23, .... Show your work using the formulas.",
+            "guidance": "Identify a₁ = 5 and d = 6. Use aₙ = a₁ + (n-1)d for the 20th term and Sₙ = n(a₁ + aₙ)/2 for the sum."
+        },
+        {
+            "id": 2,
+            "question": "Find the sum of the infinite geometric series: 12 + 4 + 4/3 + 4/9 + .... Explain why this series converges.",
+            "guidance": "Identify a₁ = 12 and r = 1/3. The series converges because |r| < 1. Use S = a₁/(1 - r)."
+        },
+        {
+            "id": 3,
+            "question": "How does the appearance of Fibonacci numbers and the Golden Ratio throughout nature — in flowers, shells, and spiral galaxies — serve as evidence for intelligent design? How does this mathematical beauty 'declare the glory of God' (Psalm 19:1)?",
+            "guidance": "Consider the improbability of one mathematical pattern appearing independently in so many different areas of nature. Think about whether random processes could produce such consistent mathematical beauty."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "math_quiz",
+    "title": "Building with Numbers Quiz",
+    "description": "Test your knowledge of place value, addition, subtraction, measurement, and telling time!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "In the number 583, what digit is in the tens place?",
+            "options": ["5", "8", "3", "58"],
+            "correct": 1,
+            "explanation": "In 583, the 8 is in the tens place. It represents 80."
+        },
+        {
+            "id": 2,
+            "question": "Which symbol correctly completes this: 245 ___ 254?",
+            "options": [">", "<", "=", "+"],
+            "correct": 1,
+            "explanation": "245 is less than 254, so we use the < symbol. Both have 2 hundreds, but 4 tens is less than 5 tens."
+        },
+        {
+            "id": 3,
+            "question": "What is 38 + 45?",
+            "options": ["73", "83", "82", "93"],
+            "correct": 1,
+            "explanation": "38 + 45 = 83. Add the ones: 8 + 5 = 13, write 3 carry 1. Add the tens: 3 + 4 + 1 = 8."
+        },
+        {
+            "id": 4,
+            "question": "What is 72 - 38?",
+            "options": ["44", "34", "36", "46"],
+            "correct": 1,
+            "explanation": "72 - 38 = 34. Borrow from the tens: 12 - 8 = 4 ones. 6 - 3 = 3 tens."
+        },
+        {
+            "id": 5,
+            "question": "How many inches are in one foot?",
+            "options": ["6", "10", "12", "24"],
+            "correct": 2,
+            "explanation": "There are 12 inches in one foot."
+        },
+        {
+            "id": 6,
+            "question": "When the short hand points to 5 and the long hand points to 12, what time is it?",
+            "options": ["12:05", "5:12", "5:00", "12:00"],
+            "correct": 2,
+            "explanation": "When the short hand is on 5 and the long hand is on 12, the time is 5:00 (5 o'clock)."
+        },
+        {
+            "id": 7,
+            "question": "What is the value of the 6 in the number 629?",
+            "options": ["6", "60", "600", "62"],
+            "correct": 2,
+            "explanation": "The 6 is in the hundreds place, so it represents 600."
+        },
+        {
+            "id": 8,
+            "question": "What time does the clock show when the long hand points to 6?",
+            "options": ["6 o'clock", "Quarter past", "Half past the hour", "Quarter to"],
+            "correct": 2,
+            "explanation": "When the long hand points to 6, it is half past the hour (30 minutes past)."
+        }
+    ]
+}

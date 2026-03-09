@@ -1,0 +1,85 @@
+{
+    "id": "rhetorical_analysis",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Rhetorical Analysis and Critical Reading",
+    "subtitle": "Discerning Truth in a World of Words",
+    "scripture": "Hebrews 5:14",
+    "primary_source": "George Orwell, 'Politics and the English Language' (1946)",
+    "key_concepts": ["Rhetorical analysis methodology", "Identifying logical fallacies", "Language and manipulation", "Critical reading strategies"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Hebrews 5:14",
+                "text": "\"But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.\"",
+                "commentary": "Spiritual maturity involves trained discernment — the ability to distinguish truth from falsehood, good arguments from bad ones. Rhetorical analysis develops this capacity, training the mind to evaluate arguments critically rather than accepting them uncritically."
+            },
+            {
+                "reference": "Ephesians 4:14",
+                "text": "\"Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming.\"",
+                "commentary": "Paul warns against being swayed by deceptive rhetoric. The ability to identify manipulative language, logical fallacies, and rhetorical tricks is essential for mature Christians who must navigate a world full of competing and often deceptive messages."
+            },
+            {
+                "reference": "Proverbs 14:15",
+                "text": "\"The simple believe anything, but the prudent give thought to their steps.\"",
+                "commentary": "Wisdom requires careful evaluation of claims, not naive acceptance. Rhetorical analysis equips you to be 'prudent' — to give careful thought to the arguments you encounter before accepting or rejecting them."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Rhetorical Analysis Matters",
+            "paragraphs": [
+                "Every day you encounter thousands of words designed to influence your beliefs, attitudes, and actions — in news articles, social media posts, advertisements, political speeches, and academic arguments. Rhetorical analysis is the skill of examining how these messages work: what strategies they employ, what assumptions they make, and whether their arguments are logically sound.",
+                "For the Christian, this skill is not optional. In a culture saturated with competing truth claims, the ability to analyze rhetoric is a form of spiritual discernment. You must be able to identify not just what an argument says but how it attempts to persuade — and whether its methods are honest."
+            ]
+        },
+        {
+            "heading": "The Rhetorical Situation",
+            "paragraphs": [
+                "Every text is produced within a specific rhetorical situation defined by four elements: the author (who is speaking and why), the audience (who is being addressed), the purpose (what the author wants to achieve), and the context (the historical, cultural, and social circumstances surrounding the text).",
+                "Understanding the rhetorical situation is the first step in analysis. A political speech delivered during wartime has a different purpose and context than a scientific paper published in a journal. A pastor's sermon addresses a different audience than a newspaper editorial. These contextual factors shape every aspect of the text and must be considered in your analysis."
+            ]
+        },
+        {
+            "heading": "Identifying Logical Fallacies",
+            "paragraphs": [
+                "Logical fallacies are errors in reasoning that undermine an argument's validity. Learning to identify them is essential for both critical reading and your own writing. Common fallacies include: Ad Hominem (attacking the person rather than their argument), Straw Man (misrepresenting an opponent's position to make it easier to attack), Appeal to Authority (assuming something is true merely because an expert says so, without evidence), False Dilemma (presenting only two options when more exist), and Slippery Slope (assuming one event will inevitably lead to an extreme outcome without evidence).",
+                "Other important fallacies include Circular Reasoning (assuming the conclusion in the premise), Red Herring (introducing an irrelevant topic to divert attention), and Hasty Generalization (drawing broad conclusions from insufficient evidence). George Orwell's essay 'Politics and the English Language' demonstrates how vague, imprecise language often conceals logical fallacies and dishonest reasoning.",
+                "The Christian commitment to truth demands that we identify and reject fallacious reasoning — both in the arguments we encounter and in those we construct ourselves. An argument for a true conclusion can still be a bad argument if it relies on fallacious reasoning."
+            ]
+        },
+        {
+            "heading": "Language as a Tool of Manipulation",
+            "paragraphs": [
+                "Orwell argued that corrupt language corrupts thought. When writers use vague, abstract, or euphemistic language, they can obscure reality and make terrible things sound acceptable. Orwell showed how political language 'is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind.'",
+                "The Christian writer and reader must be especially alert to this dynamic. Consider how language choices frame issues: 'undocumented workers' versus 'illegal aliens,' 'pro-choice' versus 'pro-abortion,' 'enhanced interrogation' versus 'torture.' Each phrasing carries implicit arguments and value judgments. Recognizing these framings is the first step in evaluating them honestly.",
+                "Clear, precise language is a moral commitment. When you write, choose words that accurately represent reality. When you read, look beyond the surface language to the underlying claims and assumptions."
+            ]
+        },
+        {
+            "heading": "Conducting a Rhetorical Analysis",
+            "paragraphs": [
+                "A formal rhetorical analysis essay examines how a text works — not whether you agree with it, but how effectively it achieves its persuasive purpose. Begin by identifying the rhetorical situation (author, audience, purpose, context). Then analyze the author's use of logos, ethos, and pathos. Identify the organizational structure and key rhetorical strategies. Evaluate the effectiveness of the argument, noting both strengths and weaknesses.",
+                "The goal of rhetorical analysis is not to agree or disagree but to understand and evaluate. You may analyze a text you disagree with and conclude that it is rhetorically effective, or analyze a text you agree with and find its argumentation weak. This objective evaluation is a mark of intellectual maturity."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Hebrews 5:14 connect spiritual maturity with trained discernment? Why is the ability to analyze rhetoric a form of spiritual discipline?",
+            "guidance": "Consider how uncritical acceptance of persuasive messages can lead believers astray. Think about how rhetorical analysis training develops the discernment described in this verse."
+        },
+        {
+            "id": 2,
+            "question": "Find an example of a logical fallacy in a recent news article, editorial, or social media post. Identify the specific fallacy and explain why the reasoning is flawed.",
+            "guidance": "Look for common fallacies like ad hominem attacks, straw man arguments, or false dilemmas. Consider how identifying the fallacy changes your evaluation of the argument."
+        },
+        {
+            "id": 3,
+            "question": "How does Orwell's argument about the relationship between language and thought apply to contemporary public discourse? Give specific examples of how language choices frame issues in misleading ways.",
+            "guidance": "Think about euphemisms, loaded language, and framing in current political or cultural debates. Consider how the Christian commitment to truthfulness should affect your own language choices."
+        }
+    ]
+}

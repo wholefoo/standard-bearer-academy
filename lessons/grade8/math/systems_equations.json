@@ -1,0 +1,73 @@
+{
+    "id": "systems_equations",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Systems of Equations",
+    "subtitle": "Finding Where Truths Intersect",
+    "scripture": "Proverbs 2:1-5",
+    "key_concepts": ["Systems of linear equations", "Solving by graphing", "Solving by substitution", "Interpreting solutions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 2:1-5",
+                "text": "\"My son, if you accept my words and store up my commands within you, turning your ear to wisdom and applying your heart to understanding — indeed, if you call out for insight and cry aloud for understanding... then you will understand the fear of the LORD and find the knowledge of God.\"",
+                "commentary": "Finding the solution to a system of equations requires bringing multiple pieces of information together to find the point where they agree. Similarly, wisdom comes from gathering multiple sources of truth — Scripture, prayer, counsel — and finding where they converge."
+            },
+            {
+                "reference": "Matthew 18:16",
+                "text": "\"But if they will not listen, take one or two others along, so that every matter may be established by the testimony of two or three witnesses.\"",
+                "commentary": "Just as truth is established by multiple witnesses agreeing, a system of equations finds the solution that satisfies multiple conditions simultaneously."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a System of Equations?",
+            "paragraphs": [
+                "A system of equations is a set of two or more equations that share the same variables. The solution to a system is the set of values that makes ALL equations true simultaneously. For two linear equations with two variables, the solution is the point (x, y) where both lines intersect.",
+                "For example, the system y = 2x + 1 and y = -x + 7 asks: what values of x and y satisfy both equations at the same time? The answer is the single point where both lines cross on a graph."
+            ]
+        },
+        {
+            "heading": "Solving by Graphing",
+            "paragraphs": [
+                "One way to solve a system is to graph both equations on the same coordinate plane and identify the point of intersection. For the system y = 2x + 1 and y = -x + 7, graph both lines. The first line has slope 2 and y-intercept 1. The second has slope -1 and y-intercept 7.",
+                "The lines intersect at the point (2, 5). Check: In the first equation, 2(2) + 1 = 5. In the second, -(2) + 7 = 5. Both give y = 5 when x = 2, confirming the solution.",
+                "Three possible outcomes exist: the lines intersect at one point (one solution), the lines are parallel and never intersect (no solution), or the lines are identical and overlap completely (infinitely many solutions)."
+            ]
+        },
+        {
+            "heading": "Solving by Substitution",
+            "paragraphs": [
+                "Substitution is an algebraic method that gives exact answers. The idea is to solve one equation for one variable, then substitute that expression into the other equation.",
+                "Example: Solve the system x + y = 10 and 2x - y = 5. Step 1: Solve the first equation for y: y = 10 - x. Step 2: Substitute into the second equation: 2x - (10 - x) = 5. Step 3: Simplify: 2x - 10 + x = 5, so 3x = 15, thus x = 5. Step 4: Substitute back: y = 10 - 5 = 5. The solution is (5, 5).",
+                "Always check your solution in both original equations to verify it satisfies the entire system."
+            ]
+        },
+        {
+            "heading": "Real-World Applications",
+            "paragraphs": [
+                "Systems of equations appear in many practical situations. If two people are saving money at different rates, a system can determine when they will have the same amount. If a store sells two products with different prices, a system can determine how many of each were sold given total revenue and total items.",
+                "Example: A youth group sells cookies for $3 each and brownies for $5 each at a bake sale. They sell 40 items total and collect $160. How many of each did they sell? Let c = cookies and b = brownies. System: c + b = 40 and 3c + 5b = 160. Solving: c = 40 - b, so 3(40 - b) + 5b = 160, giving 120 - 3b + 5b = 160, thus 2b = 40, b = 20, c = 20. They sold 20 cookies and 20 brownies.",
+                "Systems of equations teach us that complex problems often require looking at multiple conditions simultaneously. In life, wise decisions come from considering all the relevant factors — not just one equation, but the whole system."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Solve the system y = 3x - 2 and y = x + 4 using substitution. Show all steps and check your answer.",
+            "guidance": "Set the equations equal: 3x - 2 = x + 4. Solve: 2x = 6, x = 3, y = 7. Check: 3(3) - 2 = 7 and 3 + 4 = 7."
+        },
+        {
+            "id": 2,
+            "question": "What does it mean when a system of equations has no solution? What does the graph look like? Give a real-life example of a situation with no solution.",
+            "guidance": "No solution means the lines are parallel — same slope, different y-intercepts. Example: two runners moving at exactly the same speed but starting at different positions will never meet."
+        },
+        {
+            "id": 3,
+            "question": "How does the analogy of multiple witnesses (Matthew 18:16) relate to solving systems of equations?",
+            "guidance": "Just as truth is confirmed when multiple witnesses agree, the solution to a system is the point that satisfies all equations. One equation alone has infinitely many solutions; multiple equations narrow it down to a definite answer."
+        }
+    ]
+}

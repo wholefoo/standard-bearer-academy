@@ -1,0 +1,82 @@
+{
+    "id": "congruence_similarity",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Congruence and Similarity",
+    "subtitle": "Recognizing Equality and Proportion in God's Design",
+    "scripture": "Genesis 1:27",
+    "primary_source": "Euclid's Elements, Book VI — Similar Figures",
+    "key_concepts": ["Congruent triangles", "Triangle congruence postulates", "Similar triangles", "Proportional reasoning"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:27",
+                "text": "\"So God created mankind in his own image, in the image of God he created them; male and female he created them.\"",
+                "commentary": "The concept of being made 'in the image of God' is analogous to geometric similarity — we share the same essential form and proportions of character with our Creator, though not on the same scale. We are similar to God in kind, though infinitely smaller in magnitude."
+            },
+            {
+                "reference": "Ezekiel 43:10",
+                "text": "\"Son of man, describe the temple to the people of Israel, that they may be ashamed of their sins. Let them consider its perfect design.\"",
+                "commentary": "God's temple was built according to exact specifications — precise measurements that had to be congruent to His design. When we study congruence, we are studying the mathematical precision that God values and displays in His own work."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Same Shape, Same Size — or Same Shape, Different Size",
+            "paragraphs": [
+                "Two of the most important concepts in geometry are congruence (figures that have the same shape and the same size) and similarity (figures that have the same shape but may differ in size). These concepts allow us to compare figures, prove relationships, and solve practical problems involving measurement and proportion.",
+                "Congruence and similarity are everywhere in the world around us. Identical coins are congruent. A photograph and its enlargement are similar. A scale model of a building is similar to the actual building. These concepts reflect the order and proportionality that God built into His creation."
+            ]
+        },
+        {
+            "heading": "Congruent Triangles",
+            "paragraphs": [
+                "Two triangles are congruent if all corresponding sides and angles are equal. However, we do not need to verify all six measurements — geometry provides shortcut criteria (congruence postulates) that guarantee congruence from fewer measurements.",
+                "The triangle congruence postulates are: SSS (Side-Side-Side): If all three sides of one triangle are congruent to the corresponding sides of another, the triangles are congruent. SAS (Side-Angle-Side): If two sides and the included angle of one triangle are congruent to two sides and the included angle of another, the triangles are congruent. ASA (Angle-Side-Angle): If two angles and the included side of one triangle are congruent to two angles and the included side of another, the triangles are congruent. AAS (Angle-Angle-Side): If two angles and a non-included side are congruent to the corresponding parts of another triangle, the triangles are congruent.",
+                "Note that SSA (Side-Side-Angle) is not a valid congruence postulate — the ambiguous case — and AAA (Angle-Angle-Angle) proves similarity but not congruence. Understanding which shortcuts work and which do not develops precise logical thinking."
+            ]
+        },
+        {
+            "heading": "Proving Congruence with Two-Column Proofs",
+            "paragraphs": [
+                "A two-column proof is a formal way of demonstrating that a geometric statement is true. The left column contains statements (the logical steps), and the right column contains reasons (the justification for each step — definitions, postulates, or previously proven theorems).",
+                "For example, to prove that two triangles formed by a diagonal of a rectangle are congruent, you would identify shared sides, congruent sides (opposite sides of a rectangle are congruent), right angles (angles of a rectangle), and then apply the appropriate congruence postulate (such as SAS or SSS).",
+                "Writing proofs trains the mind in disciplined reasoning — presenting a logical argument where every claim is justified. This skill is valuable far beyond mathematics; it develops the capacity for clear thinking that is essential in every area of life, from evaluating arguments to making wise decisions."
+            ]
+        },
+        {
+            "heading": "Similar Triangles",
+            "paragraphs": [
+                "Two triangles are similar if their corresponding angles are congruent and their corresponding sides are proportional. The ratio of corresponding sides is called the scale factor. Similar triangles have the same shape but may differ in size.",
+                "The triangle similarity postulates are: AA (Angle-Angle): If two angles of one triangle are congruent to two angles of another, the triangles are similar. (Since the angle sum is always 180°, the third angles must also be congruent.) SSS Similarity: If all three pairs of corresponding sides are proportional, the triangles are similar. SAS Similarity: If two pairs of corresponding sides are proportional and the included angles are congruent, the triangles are similar.",
+                "Similar triangles have powerful applications. They allow us to calculate distances that cannot be measured directly — such as the height of a tall building or the width of a river — by setting up proportions between corresponding sides of similar triangles."
+            ]
+        },
+        {
+            "heading": "Applications: Indirect Measurement",
+            "paragraphs": [
+                "One of the most practical applications of similar triangles is indirect measurement. The ancient Greek mathematician Thales is said to have calculated the height of the Great Pyramid by comparing the length of its shadow to the length of the shadow cast by a staff of known height. Since the sun's rays are parallel, the triangles formed by the objects and their shadows are similar.",
+                "To use this method: if a 6-foot person casts a 4-foot shadow at the same time a building casts a 60-foot shadow, the triangles are similar and you can set up the proportion: 6/4 = h/60, solving for h = 90 feet. This technique has been used for thousands of years and remains valuable today.",
+                "The ability to use mathematical reasoning to measure what cannot be directly reached is a gift from God — a reflection of the rational capacity He gave us as His image-bearers. Mathematics enables us to extend our understanding far beyond what our senses alone can perceive."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "List the four valid triangle congruence postulates and explain why SSA is not valid. Give a brief example or diagram for one postulate.",
+            "guidance": "Name SSS, SAS, ASA, and AAS. For SSA, explain the ambiguous case — how two different triangles can sometimes be formed with the same SSA measurements."
+        },
+        {
+            "id": 2,
+            "question": "A tree casts a shadow that is 45 feet long. At the same time, a 5-foot-tall student casts a shadow that is 3 feet long. Using similar triangles, calculate the height of the tree. Show your work.",
+            "guidance": "Set up the proportion: height of student / shadow of student = height of tree / shadow of tree. Solve for the unknown height."
+        },
+        {
+            "id": 3,
+            "question": "How is the concept of similarity in geometry analogous to being made 'in the image of God' (Genesis 1:27)? What are the strengths and limitations of this analogy?",
+            "guidance": "Consider how similar figures share the same shape (essential form) but differ in scale. Reflect on how humans share certain attributes with God (rationality, morality, creativity) while remaining infinitely less than God."
+        }
+    ]
+}

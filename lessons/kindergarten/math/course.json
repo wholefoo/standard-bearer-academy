@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "math",
+    "title": "God's Patterns — Shapes, Colors, and Counting to 20",
+    "description": "Learn to count to 20, recognize shapes and colors, and see the wonderful patterns God placed in His creation!",
+    "units": [
+        {
+            "id": "patterns_shapes",
+            "title": "Shapes, Colors, and Counting",
+            "lessons": ["counting10", "counting20", "shapes", "colors_patterns", "sorting"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

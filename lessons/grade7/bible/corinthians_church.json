@@ -1,0 +1,77 @@
+{
+    "id": "corinthians_church",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: 1 Corinthians — Life in the Church",
+    "subtitle": "Unity, Spiritual Gifts, and Love in the Body of Christ",
+    "scripture": "1 Corinthians 12:12-27",
+    "key_concepts": ["The church as Christ's body", "Unity and diversity", "Spiritual gifts", "The supremacy of love", "Orderly worship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 12:12",
+                "text": "\"Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.\"",
+                "commentary": "Paul uses the human body as a metaphor for the church. Just as a body needs eyes, hands, and feet — each different but all essential — the church needs members with diverse gifts working together. Unity does not mean uniformity."
+            },
+            {
+                "reference": "1 Corinthians 13:4-7",
+                "text": "\"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.\"",
+                "commentary": "This famous passage is not primarily about romantic love — it is about how Christians should treat one another in the church. Without love, even the most impressive spiritual gifts are meaningless."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: A Troubled Church",
+            "paragraphs": [
+                "The church in Corinth was gifted but troubled. Founded by Paul around AD 51, it was located in a wealthy, immoral Greek city. The Corinthian believers struggled with divisions, pride, sexual immorality, lawsuits against each other, misuse of spiritual gifts, and confusion about the resurrection. Paul wrote 1 Corinthians to address these problems head-on.",
+                "Despite their struggles, Paul still called them 'the church of God' and 'sanctified in Christ Jesus' (1:2). This reminds us that the church is always a work in progress — made up of redeemed sinners who are being transformed but have not yet arrived. Paul's instructions show us how Christians should live together."
+            ]
+        },
+        {
+            "heading": "The Problem of Division (Chapters 1-4)",
+            "paragraphs": [
+                "The Corinthians were divided into factions, each claiming loyalty to a different leader: 'I follow Paul,' 'I follow Apollos,' 'I follow Cephas.' Paul rebukes this sharply: 'Is Christ divided? Was Paul crucified for you?' (1:13). Division based on personality or preference is contrary to the Gospel.",
+                "Paul reminds them that the wisdom of God — the message of the cross — looks foolish to the world but is the power of God for salvation (1:18-25). The church should be united around the cross, not divided by human loyalties. True wisdom comes from God's Spirit, not from eloquent speakers or popular leaders."
+            ]
+        },
+        {
+            "heading": "The Body of Christ (Chapter 12)",
+            "paragraphs": [
+                "Paul uses the brilliant metaphor of the human body to explain how the church should function. Every member has a role. The eye cannot say to the hand, 'I don't need you.' The parts that seem weaker are actually indispensable. God has arranged the body so that all parts work together.",
+                "This means every believer has a spiritual gift — a God-given ability to serve the church. Some teach, some serve, some encourage, some lead, some show mercy. No gift is unimportant. The diversity of gifts is by God's design, and the unity of purpose (building up the body) is God's intent."
+            ]
+        },
+        {
+            "heading": "The Supremacy of Love (Chapter 13)",
+            "paragraphs": [
+                "Sandwiched between two chapters about spiritual gifts is the famous 'love chapter.' This placement is intentional: Paul is saying that spiritual gifts without love are worthless. 'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong' (13:1).",
+                "The love Paul describes is not a feeling — it is a way of acting. Love is patient, kind, humble, selfless, forgiving, truthful, and enduring. This is the standard for how Christians should treat each other. Gifts will eventually cease, but love will last forever. It is the 'most excellent way' (12:31)."
+            ]
+        },
+        {
+            "heading": "The Resurrection (Chapter 15)",
+            "paragraphs": [
+                "Some Corinthians doubted the bodily resurrection. Paul responds with one of the most powerful arguments in Scripture. He lists eyewitnesses of the risen Christ — including over 500 people at once — and then argues that if Christ has not been raised, our faith is futile and we are still in our sins (15:17).",
+                "But Christ has indeed been raised (15:20). His resurrection guarantees our future resurrection. Death has been swallowed up in victory (15:54). This chapter provides the foundation for Christian hope — not wishful thinking, but confident expectation based on the historical fact of Christ's resurrection."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read 1 Corinthians 12:14-26. How does Paul's body metaphor apply to your church or youth group? Why is every member's contribution important?",
+            "guidance": "Think about the different roles people play — teachers, musicians, greeters, those who pray, those who serve. What would happen if any of these roles were removed?"
+        },
+        {
+            "id": 2,
+            "question": "Read 1 Corinthians 13:4-7 and evaluate yourself honestly against this description of love. Which aspects of love come naturally to you? Which are hardest? Why does Paul say love is greater than spiritual gifts?",
+            "guidance": "Be specific and honest. Consider that these qualities are not just feelings but choices and actions. Think about why gifting without love can actually harm the church."
+        },
+        {
+            "id": 3,
+            "question": "Why is the bodily resurrection of Jesus so important to the Christian faith, according to 1 Corinthians 15? What would be lost if the resurrection were not true?",
+            "guidance": "Paul lists specific consequences in verses 14-19: faith is useless, preaching is vain, witnesses are liars, sins are unforgiven, the dead are lost. The resurrection is the foundation of everything."
+        }
+    ]
+}

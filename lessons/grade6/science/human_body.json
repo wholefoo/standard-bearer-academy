@@ -1,0 +1,77 @@
+{
+    "id": "human_body",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Human Body — God's Masterpiece",
+    "subtitle": "An Overview of the Major Body Systems and Their Remarkable Design",
+    "scripture": "Psalm 139:13-16",
+    "primary_source": "Andreas Vesalius, De Humani Corporis Fabrica (1543)",
+    "key_concepts": ["Major body systems overview", "Homeostasis", "The human body as evidence of design", "Stewardship of our bodies"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 139:13-14",
+                "text": "\"For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "David acknowledges that God personally designed and created each human being. The phrase 'fearfully and wonderfully made' expresses awe at the complexity and beauty of the human body — a masterpiece of divine engineering."
+            },
+            {
+                "reference": "1 Corinthians 6:19-20",
+                "text": "\"Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.\"",
+                "commentary": "Because God created our bodies and Christ redeemed them, we have a responsibility to care for them. Understanding how the body works helps us fulfill this calling to be good stewards of the bodies God gave us."
+            },
+            {
+                "reference": "1 Corinthians 12:18",
+                "text": "\"But in fact God has placed the parts in the body, every one of them, just as he wanted them to be.\"",
+                "commentary": "Paul uses the body as a metaphor for the Church, but his illustration depends on the reality that each part of the physical body has been intentionally designed and placed by God for a specific purpose."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Human Body: A Marvel of Engineering",
+            "paragraphs": [
+                "The human body is the most complex and sophisticated system known to science. It contains approximately 37 trillion cells, organized into tissues, organs, and organ systems that work together with astonishing precision. Every second, your body carries out millions of chemical reactions, repairs damaged cells, fights off invaders, and maintains a stable internal environment — all without you having to think about it.",
+                "Andreas Vesalius, a pioneering anatomist in the 1500s, was one of the first scientists to systematically study and illustrate the human body. His detailed drawings in De Humani Corporis Fabrica revealed a level of complexity and beauty that amazed the scientific world. The more we learn about the human body, the more we appreciate the truth of Psalm 139:14 — we are indeed fearfully and wonderfully made."
+            ]
+        },
+        {
+            "heading": "An Overview of the Major Body Systems",
+            "paragraphs": [
+                "The skeletal system provides the framework for the body, with 206 bones that protect vital organs, support the body's weight, and enable movement. The muscular system, with over 600 muscles, works with the skeletal system to produce movement, maintain posture, and generate heat. Together, these two systems allow you to walk, run, write, and perform every physical action.",
+                "The circulatory system — powered by the heart, which beats about 100,000 times per day — pumps blood through approximately 60,000 miles of blood vessels, delivering oxygen and nutrients to every cell. The respiratory system brings oxygen into the body and removes carbon dioxide, with the lungs processing about 11,000 liters of air per day. The digestive system breaks down food into nutrients the body can use, a process that involves mechanical and chemical digestion along a 30-foot-long tract.",
+                "The nervous system, centered in the brain, coordinates all body functions and processes information at remarkable speed. The brain contains about 86 billion neurons, each connected to thousands of others, forming a network more complex than any computer ever built. The immune system defends the body against bacteria, viruses, and other threats, with specialized cells that can recognize and destroy millions of different invaders."
+            ]
+        },
+        {
+            "heading": "Homeostasis: The Body in Balance",
+            "paragraphs": [
+                "One of the most remarkable features of the human body is its ability to maintain homeostasis — a stable internal environment despite constantly changing external conditions. Your body maintains a core temperature of about 98.6°F whether it is hot or cold outside. Blood sugar levels, pH balance, water content, and dozens of other variables are all carefully regulated.",
+                "Homeostasis requires constant monitoring and adjustment by multiple body systems working together. When you exercise, your heart rate increases, your breathing deepens, you sweat to cool down, and your muscles demand more glucose from your blood. All of these responses happen automatically, coordinated by the nervous and endocrine systems. This self-regulating design is far beyond what any human engineer has been able to create."
+            ]
+        },
+        {
+            "heading": "Stewardship of Our Bodies",
+            "paragraphs": [
+                "Because our bodies are created by God and, for believers, are temples of the Holy Spirit, we have a responsibility to care for them wisely. This means making good choices about nutrition — eating the foods God provided rather than processed substances that harm our health. It means getting regular exercise, adequate sleep, and avoiding substances that damage our bodies.",
+                "Understanding how the body works — how nutrition fuels our cells, how exercise strengthens our cardiovascular system, how sleep allows the brain to consolidate memories and repair tissues — motivates us to be good stewards. When we honor God with our bodies, we are able to serve Him more effectively and for longer. Taking care of your health is not vanity; it is obedience and wisdom."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "The human brain contains 86 billion neurons, each connected to thousands of others. How does this level of complexity challenge the idea that the brain evolved by random chance?",
+            "guidance": "Consider that the brain processes information, stores memories, enables consciousness, and coordinates the entire body. Think about whether random processes could produce such a sophisticated information-processing system."
+        },
+        {
+            "id": 2,
+            "question": "What is homeostasis, and why does it require multiple body systems to work together? How does this integration point to intelligent design?",
+            "guidance": "Think about what happens when you exercise — heart rate, breathing, sweating, and blood sugar all adjust together. Consider whether these coordinated responses could develop independently."
+        },
+        {
+            "id": 3,
+            "question": "Read 1 Corinthians 6:19-20. What does it mean to honor God with your body? Give specific examples of how understanding the body's design should influence how you live.",
+            "guidance": "Consider nutrition, exercise, sleep, and avoiding harmful substances. Think about how taking care of your body enables you to serve God and others more effectively."
+        }
+    ]
+}

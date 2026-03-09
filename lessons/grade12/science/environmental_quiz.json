@@ -1,0 +1,127 @@
+{
+    "id": "environmental_quiz",
+    "title": "Environmental Science — Stewardship of God's Earth",
+    "description": "Test your understanding of environmental science, ecosystems, resources, and Biblical stewardship principles.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the approximate percentage of energy transferred from one trophic level to the next in an ecosystem?",
+            "options": [
+                "1%",
+                "10%",
+                "50%",
+                "90%"
+            ],
+            "correct": 1,
+            "explanation": "The 10% rule states that approximately 10% of the energy at one trophic level is transferred to the next level, with the remaining 90% lost primarily as heat through metabolic processes."
+        },
+        {
+            "id": 2,
+            "question": "What percentage of Earth's water is freshwater readily accessible in lakes, rivers, and streams?",
+            "options": [
+                "Less than 1%",
+                "About 10%",
+                "About 30%",
+                "About 50%"
+            ],
+            "correct": 0,
+            "explanation": "Less than 1% of Earth's water is readily accessible surface freshwater. About 97% is saltwater, and of the 3% that is freshwater, most is locked in ice caps/glaciers or stored as groundwater."
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is the most abundant greenhouse gas in Earth's atmosphere?",
+            "options": [
+                "Carbon dioxide",
+                "Methane",
+                "Water vapor",
+                "Nitrous oxide"
+            ],
+            "correct": 2,
+            "explanation": "Water vapor is the most abundant greenhouse gas and the largest contributor to the natural greenhouse effect, though it receives less public attention than carbon dioxide."
+        },
+        {
+            "id": 4,
+            "question": "What Biblical principle is reflected in the Levitical command to let the land rest every seventh year?",
+            "options": [
+                "The land should never be farmed",
+                "Sustainable agriculture through periodic soil rest",
+                "Only certain crops should be grown",
+                "Farming is less important than other occupations"
+            ],
+            "correct": 1,
+            "explanation": "The Sabbath year for the land (Leviticus 25:3-4) anticipates modern principles of sustainable agriculture, recognizing that soil needs periodic rest to recover nutrients and maintain long-term productivity."
+        },
+        {
+            "id": 5,
+            "question": "What was the primary cause of the American Dust Bowl in the 1930s?",
+            "options": [
+                "Industrial pollution from factories",
+                "Volcanic eruptions",
+                "Deep plowing and removal of native grasses combined with drought",
+                "Flooding of the Mississippi River"
+            ],
+            "correct": 2,
+            "explanation": "The Dust Bowl was caused by decades of deep plowing and removal of native grasses on the Great Plains, which left topsoil exposed and vulnerable. When severe drought struck, massive dust storms carried away millions of tons of topsoil."
+        },
+        {
+            "id": 6,
+            "question": "According to Genesis 2:15, what is humanity's relationship to the earth?",
+            "options": [
+                "Humans should worship the earth",
+                "Humans should exploit the earth without limits",
+                "Humans should leave the earth completely untouched",
+                "Humans should work and take care of the earth as stewards"
+            ],
+            "correct": 3,
+            "explanation": "Genesis 2:15 establishes that God placed humanity in the garden 'to work it and take care of it,' establishing a stewardship mandate that combines productive use with responsible care."
+        },
+        {
+            "id": 7,
+            "question": "What is the difference between point source and nonpoint source water pollution?",
+            "options": [
+                "Point source is natural; nonpoint source is man-made",
+                "Point source comes from identifiable locations; nonpoint source comes from diffuse sources",
+                "Point source is more dangerous than nonpoint source",
+                "There is no meaningful difference"
+            ],
+            "correct": 1,
+            "explanation": "Point source pollution comes from identifiable, specific locations (like factory discharge pipes), while nonpoint source pollution comes from diffuse sources (like agricultural runoff across wide areas)."
+        },
+        {
+            "id": 8,
+            "question": "Which environmental philosophy advocates for the wise use of natural resources rather than leaving nature entirely untouched?",
+            "options": [
+                "Preservation",
+                "Conservation",
+                "Environmentalism",
+                "Naturalism"
+            ],
+            "correct": 1,
+            "explanation": "Conservation advocates for the wise use and management of natural resources to ensure their availability for current and future generations, while preservation seeks to protect nature from human use entirely."
+        },
+        {
+            "id": 9,
+            "question": "How long can it take to form one inch of topsoil through natural processes?",
+            "options": [
+                "1-5 years",
+                "10-50 years",
+                "100-200 years",
+                "500-1,000 years"
+            ],
+            "correct": 3,
+            "explanation": "It can take 500 to 1,000 years to form just one inch of topsoil through natural weathering processes, underscoring the critical importance of soil conservation."
+        },
+        {
+            "id": 10,
+            "question": "According to Psalm 24:1, who is the ultimate owner of the earth?",
+            "options": [
+                "Humanity collectively",
+                "National governments",
+                "The Lord (God)",
+                "No one — the earth belongs to itself"
+            ],
+            "correct": 2,
+            "explanation": "Psalm 24:1 declares, 'The earth is the Lord's, and everything in it.' God is the ultimate owner of creation; humans are stewards entrusted with its care, not owners with unlimited rights."
+        }
+    ]
+}

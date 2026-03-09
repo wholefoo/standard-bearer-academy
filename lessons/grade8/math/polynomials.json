@@ -1,0 +1,73 @@
+{
+    "id": "polynomials",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Introduction to Polynomials",
+    "subtitle": "Building Complex Expressions from Simple Parts",
+    "scripture": "1 Corinthians 12:12",
+    "key_concepts": ["Polynomials and their terms", "Adding and subtracting polynomials", "Multiplying monomials", "Degree of a polynomial"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 12:12",
+                "text": "\"Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.\"",
+                "commentary": "A polynomial is made of many terms that work together as one expression — just as the body of Christ is made of many members working as one. Each term has its own role, yet the whole polynomial has properties that depend on all its parts."
+            },
+            {
+                "reference": "Ecclesiastes 3:11",
+                "text": "\"He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end.\"",
+                "commentary": "Polynomials allow us to model complex, beautiful curves and patterns in creation — from the arc of a thrown ball to the shape of a satellite dish. These mathematical tools help us appreciate the beauty God has placed in the physical world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Polynomial?",
+            "paragraphs": [
+                "A polynomial is an algebraic expression consisting of one or more terms, where each term is a product of a coefficient and variables raised to non-negative integer powers. The word 'polynomial' comes from the Greek words 'poly' (many) and 'nomial' (terms).",
+                "Polynomials are classified by the number of terms they contain. A monomial has one term (like 5x² or -3y). A binomial has two terms (like x + 4 or 3x² - 7). A trinomial has three terms (like 2x² + 5x - 3). Expressions with four or more terms are simply called polynomials."
+            ]
+        },
+        {
+            "heading": "Degree and Standard Form",
+            "paragraphs": [
+                "The degree of a term is the sum of the exponents of its variables. The degree of 5x³ is 3. The degree of 2x²y is 3 (2 + 1). The degree of a polynomial is the highest degree of any of its terms.",
+                "A polynomial is in standard form when its terms are arranged in order from highest degree to lowest degree. For example, 4x³ - 2x² + 7x - 1 is in standard form. The leading term is 4x³, and the leading coefficient is 4.",
+                "The degree of a polynomial determines its general behavior and the shape of its graph. Linear polynomials (degree 1) produce straight lines. Quadratic polynomials (degree 2) produce parabolas. Higher-degree polynomials produce increasingly complex curves."
+            ]
+        },
+        {
+            "heading": "Adding and Subtracting Polynomials",
+            "paragraphs": [
+                "To add polynomials, combine like terms — terms with the same variables raised to the same powers. For example: (3x² + 5x - 2) + (x² - 3x + 7) = 4x² + 2x + 5.",
+                "To subtract polynomials, distribute the negative sign to all terms of the polynomial being subtracted, then combine like terms. For example: (3x² + 5x - 2) - (x² - 3x + 7) = 3x² + 5x - 2 - x² + 3x - 7 = 2x² + 8x - 9.",
+                "The key is to be careful with signs, especially when subtracting. Changing the sign of every term in the subtracted polynomial is essential for getting the correct answer."
+            ]
+        },
+        {
+            "heading": "Multiplying Monomials and Polynomials",
+            "paragraphs": [
+                "To multiply monomials, multiply the coefficients and add the exponents of like variables. For example: (3x²)(4x³) = 12x⁵. This follows from the rule of exponents: xᵃ · xᵇ = xᵃ⁺ᵇ.",
+                "To multiply a polynomial by a monomial, use the distributive property: multiply the monomial by each term of the polynomial. For example: 2x(3x² + 5x - 4) = 6x³ + 10x² - 8x.",
+                "These foundational operations prepare you for more advanced polynomial multiplication in future courses, including multiplying binomials (FOIL method) and factoring — skills essential for higher mathematics. God designed mathematics to build systematically, with each concept serving as a foundation for the next."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Simplify: (4x² - 3x + 8) - (2x² + 5x - 1). Show each step of your work.",
+            "guidance": "Distribute the negative: 4x² - 3x + 8 - 2x² - 5x + 1. Combine like terms: 2x² - 8x + 9."
+        },
+        {
+            "id": 2,
+            "question": "What is the degree of the polynomial 7x⁴ - 3x² + 2x - 9? What does the degree tell us about the polynomial?",
+            "guidance": "The degree is 4 (from the term 7x⁴). The degree tells us the polynomial's highest power and influences the shape and complexity of its graph."
+        },
+        {
+            "id": 3,
+            "question": "How does the analogy from 1 Corinthians 12:12 apply to polynomials? In what way are the terms of a polynomial like the members of a body?",
+            "guidance": "Each term in a polynomial contributes something unique to the whole expression, just as each member of the body of Christ has a distinct role. Removing or changing any term changes the entire polynomial."
+        }
+    ]
+}

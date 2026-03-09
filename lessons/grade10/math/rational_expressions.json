@@ -1,0 +1,82 @@
+{
+    "id": "rational_expressions",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Rational Expressions — Fractions in the Algebraic World",
+    "subtitle": "Simplifying, Operating, and Solving Rational Equations",
+    "scripture": "Luke 15:4",
+    "primary_source": "Leonhard Euler's 'Introductio in analysin infinitorum' (1748)",
+    "key_concepts": ["Rational expressions defined", "Simplifying rational expressions", "Multiplying and dividing", "Adding and subtracting with LCD", "Solving rational equations"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 15:4",
+                "text": "\"Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost one until he finds it?\"",
+                "commentary": "Jesus used ratios and proportions in His teaching — one out of a hundred, parts of a whole. Rational expressions extend our ability to work with ratios, allowing us to model proportional relationships in God's creation with algebraic precision."
+            },
+            {
+                "reference": "Proverbs 2:6",
+                "text": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\"",
+                "commentary": "The ability to reason abstractly with rational expressions is a gift from God. Mathematical reasoning — finding common denominators, simplifying complex expressions — develops the logical thinking that God has given us as beings made in His image."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Ratios of Polynomials",
+            "paragraphs": [
+                "A rational expression is a fraction in which the numerator and denominator are both polynomials. Just as 3/4 is a ratio of integers, (x² + 1)/(x - 3) is a ratio of polynomials. Rational expressions appear throughout mathematics, science, and engineering — from calculating rates and concentrations to modeling inverse relationships.",
+                "Working with rational expressions extends the skills you developed with numerical fractions. The same principles apply: you can simplify by canceling common factors, find common denominators to add and subtract, and cross-multiply to solve equations."
+            ]
+        },
+        {
+            "heading": "Simplifying Rational Expressions",
+            "paragraphs": [
+                "To simplify a rational expression, factor both the numerator and denominator completely, then cancel common factors. For example: (x² - 9)/(x² + 5x + 6) = (x + 3)(x - 3)/((x + 2)(x + 3)) = (x - 3)/(x + 2), provided x ≠ -3.",
+                "The restriction x ≠ -3 is essential. Even though the simplified form is defined at x = -3, the original expression is not (it produces 0/0). Values that make the denominator zero are excluded from the domain. These excluded values are critical for understanding the behavior of rational functions.",
+                "Always factor completely before canceling. Only factors (expressions multiplied together) can be canceled — individual terms within a sum or difference cannot. For example, (x + 3)/(x + 5) cannot be simplified by canceling x."
+            ]
+        },
+        {
+            "heading": "Operations with Rational Expressions",
+            "paragraphs": [
+                "Multiplication of rational expressions follows the same pattern as numerical fractions: multiply numerators together and denominators together, then simplify. It is usually more efficient to factor and cancel before multiplying.",
+                "Division is performed by multiplying by the reciprocal: (a/b) ÷ (c/d) = (a/b) × (d/c). Always remember to flip the second fraction and multiply.",
+                "Addition and subtraction require a common denominator. The Least Common Denominator (LCD) is found by factoring each denominator and taking the product of all unique factors at their highest powers. Once each fraction is rewritten with the LCD, combine the numerators and simplify. For example: 2/(x+1) + 3/(x-1) = (2(x-1) + 3(x+1))/((x+1)(x-1)) = (2x-2+3x+3)/((x+1)(x-1)) = (5x+1)/(x²-1)."
+            ]
+        },
+        {
+            "heading": "Solving Rational Equations",
+            "paragraphs": [
+                "A rational equation is an equation containing one or more rational expressions. To solve, multiply every term by the LCD to eliminate all denominators, then solve the resulting polynomial equation.",
+                "For example, to solve 2/x + 3/(x+1) = 1: Multiply by x(x+1): 2(x+1) + 3x = x(x+1). Expand: 2x + 2 + 3x = x² + x. Simplify: 5x + 2 = x² + x. Rearrange: x² - 4x - 2 = 0. Solve using the quadratic formula.",
+                "Always check your solutions in the original equation. Multiplying by the LCD can introduce extraneous solutions — values that satisfy the transformed equation but make a denominator zero in the original. These must be rejected."
+            ]
+        },
+        {
+            "heading": "Rational Functions and Their Graphs",
+            "paragraphs": [
+                "The graph of a rational function has distinctive features. Vertical asymptotes occur at x-values where the denominator equals zero (after simplification) — the function approaches infinity near these values. Horizontal asymptotes describe the function's behavior as x approaches infinity.",
+                "For f(x) = (2x + 1)/(x - 3), there is a vertical asymptote at x = 3 and a horizontal asymptote at y = 2 (the ratio of leading coefficients). The graph approaches but never touches these asymptotes, creating the characteristic shape of rational functions.",
+                "Rational functions model many real-world situations: the concentration of medicine in the bloodstream over time, the cost per unit when manufacturing goods, and the relationship between speed, distance, and time. These applications demonstrate how rational expressions describe proportional relationships designed into God's creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Simplify the expression (x² - 4x - 5)/(x² - 25) and state the domain restrictions. Explain why the restrictions are necessary.",
+            "guidance": "Factor both the numerator and denominator. Identify values that make the original denominator zero. Explain what would happen mathematically at those restricted values."
+        },
+        {
+            "id": 2,
+            "question": "Solve the equation 1/(x-2) + 1/(x+2) = 4/(x²-4). Check for extraneous solutions.",
+            "guidance": "Recognize that x²-4 = (x-2)(x+2). Multiply all terms by the LCD. Solve and verify that your answer doesn't make any denominator zero."
+        },
+        {
+            "id": 3,
+            "question": "How do asymptotes in rational functions illustrate the concept of limits and boundaries? How might this mathematical concept relate to the Biblical principle that God sets boundaries in creation (Psalm 104:9)?",
+            "guidance": "Think about how asymptotes represent values that can be approached but never reached. Consider how God has set boundaries in nature — the shoreline of the sea, the limits of human knowledge — that serve His purposes."
+        }
+    ]
+}

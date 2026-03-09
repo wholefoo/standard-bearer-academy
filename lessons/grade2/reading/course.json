@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "reading",
+    "title": "Growing in Reading — Fluency and Bible Stories",
+    "description": "Build reading fluency, vocabulary, and comprehension through Bible stories and faith-based literature.",
+    "units": [
+        {
+            "id": "reading",
+            "title": "Growing in Reading",
+            "lessons": ["vowel_teams", "prefixes_suffixes", "fluency", "comprehension", "bible_vocabulary", "story_writing"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

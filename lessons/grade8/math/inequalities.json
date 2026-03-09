@@ -1,0 +1,72 @@
+{
+    "id": "inequalities",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Inequalities",
+    "subtitle": "Understanding Boundaries — Comparing Values in God's Order",
+    "scripture": "Psalm 147:5",
+    "key_concepts": ["Inequality symbols", "Solving inequalities", "Graphing on a number line", "Compound inequalities"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 147:5",
+                "text": "\"Great is our Lord and mighty in power; his understanding has no limit.\"",
+                "commentary": "While human understanding has limits and boundaries — which inequalities help us express — God's understanding is infinite and unbounded. Inequalities help us define ranges and limits, but God transcends all limits."
+            },
+            {
+                "reference": "Job 11:7-8",
+                "text": "\"Can you fathom the mysteries of God? Can you probe the limits of the Almighty? They are higher than the heavens above — what can you do? They are deeper than the depths below — what can you know?\"",
+                "commentary": "Mathematics helps us describe boundaries and ranges. Yet the Creator Himself exceeds all boundaries — His wisdom, power, and love are greater than any value we can calculate."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is an Inequality?",
+            "paragraphs": [
+                "An inequality is a mathematical statement that compares two expressions using inequality symbols: < (less than), > (greater than), ≤ (less than or equal to), or ≥ (greater than or equal to). While an equation states that two things are equal, an inequality states that one is larger or smaller than the other.",
+                "Inequalities are important in real life. Speed limits (speed ≤ 65 mph), age requirements (age ≥ 16 to drive), and budgets (spending ≤ income) are all examples of inequalities. They describe boundaries and constraints — the limits within which we must operate."
+            ]
+        },
+        {
+            "heading": "Solving One-Step Inequalities",
+            "paragraphs": [
+                "Solving inequalities is similar to solving equations — use inverse operations to isolate the variable. However, there is one critical difference: when you multiply or divide both sides by a negative number, you must reverse the inequality sign.",
+                "Example 1: x + 5 > 12. Subtract 5 from both sides: x > 7. Example 2: 3x ≤ 21. Divide both sides by 3: x ≤ 7. Example 3: -2x > 10. Divide both sides by -2 and flip the sign: x < -5.",
+                "The rule about flipping the sign when multiplying or dividing by a negative might seem arbitrary, but it makes sense when you think about it: if -2 times some number is greater than 10, that number must be negative enough (less than -5) to make the product positive and large."
+            ]
+        },
+        {
+            "heading": "Graphing Inequalities",
+            "paragraphs": [
+                "Unlike equations (which usually have one solution), inequalities have infinitely many solutions. We represent these solutions on a number line. For strict inequalities (< or >), use an open circle at the boundary value to show it is not included. For inclusive inequalities (≤ or ≥), use a closed circle to show the boundary value is included.",
+                "For x > 3, draw an open circle at 3 and shade to the right (all numbers greater than 3). For x ≤ -1, draw a closed circle at -1 and shade to the left (all numbers less than or equal to -1). The shaded region represents all the values that make the inequality true."
+            ]
+        },
+        {
+            "heading": "Compound Inequalities",
+            "paragraphs": [
+                "A compound inequality combines two inequalities using the words 'and' or 'or.' An 'and' compound inequality requires both conditions to be true simultaneously. For example, -2 < x ≤ 5 means x must be greater than -2 AND less than or equal to 5. On a number line, the solution is the overlap of both conditions.",
+                "An 'or' compound inequality requires at least one condition to be true. For example, x < -3 or x > 4 means x is either less than -3 or greater than 4. On a number line, the solution includes two separate regions.",
+                "Compound inequalities are used frequently in science and engineering. For example, the human body must maintain a temperature between approximately 97°F and 99°F (36.1°C ≤ T ≤ 37.2°C). God designed our bodies with remarkable systems to keep our temperature within this narrow range."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Solve the inequality -3x + 7 ≥ 22 and graph the solution on a number line. Explain why you flip the inequality sign.",
+            "guidance": "Subtract 7 from both sides (-3x ≥ 15), then divide by -3 and flip the sign (x ≤ -5). You flip because dividing by a negative reverses the order of numbers."
+        },
+        {
+            "id": 2,
+            "question": "Give three real-life examples of inequalities. For each, identify the variable and the constraint.",
+            "guidance": "Think about speed limits, age requirements, weight limits on elevators, temperature ranges for food safety, or budget constraints."
+        },
+        {
+            "id": 3,
+            "question": "How does Psalm 147:5 contrast human limitations with God's limitless nature? How do inequalities help us understand boundaries in the physical world?",
+            "guidance": "Consider that mathematics helps us define and work within limits, while God operates without limits. Our study of boundaries can lead to awe at the One who has no boundaries."
+        }
+    ]
+}

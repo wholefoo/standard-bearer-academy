@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "bible",
+    "title": "Wisdom Literature — Psalms, Proverbs, and Ecclesiastes",
+    "description": "A study of the Bible's wisdom books, helping students discover God's guidance for wise and faithful living.",
+    "units": [
+        {
+            "id": "wisdom_literature",
+            "title": "Wisdom Literature",
+            "lessons": ["what_is_wisdom", "psalms_praise", "psalms_comfort", "proverbs_guidance", "proverbs_character", "ecclesiastes"]
+        }
+    ],
+    "quiz_id": "bible_quiz"
+}

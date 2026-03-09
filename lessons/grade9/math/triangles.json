@@ -1,0 +1,80 @@
+{
+    "id": "triangles",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Triangles — Properties and Classification",
+    "subtitle": "The Strongest Shape in God's Creation",
+    "scripture": "Ecclesiastes 4:12",
+    "primary_source": "Euclid's Elements, Book I, Propositions 4-26",
+    "key_concepts": ["Triangle classification", "Triangle angle sum", "Exterior angle theorem", "Triangle inequality theorem"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 4:12",
+                "text": "\"Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.\"",
+                "commentary": "The strength of three working together mirrors the structural strength of the triangle — the most stable shape in engineering. Just as a three-strand cord resists breaking, a triangle resists deformation under stress."
+            },
+            {
+                "reference": "Proverbs 2:6",
+                "text": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\"",
+                "commentary": "The geometric truths we discover about triangles — that their angles always sum to 180°, that they are structurally rigid — are examples of the knowledge and understanding that come from God, embedded in His creation for us to discover."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Fundamental Polygon",
+            "paragraphs": [
+                "The triangle is the simplest polygon — a closed figure formed by three line segments. Yet this simple shape possesses remarkable properties that make it foundational to all of geometry. Every polygon can be divided into triangles, and the properties of triangles form the basis for understanding all other polygons.",
+                "Triangles also hold a special place in engineering and architecture. The triangle is the only polygon that is inherently rigid — it cannot be deformed without changing the length of its sides. This structural stability is why triangles are used in bridges, roof trusses, and countless other structures."
+            ]
+        },
+        {
+            "heading": "Classifying Triangles",
+            "paragraphs": [
+                "Triangles can be classified by their sides: equilateral (all three sides equal), isosceles (at least two sides equal), and scalene (no sides equal). They can also be classified by their angles: acute (all angles less than 90°), right (one angle exactly 90°), and obtuse (one angle greater than 90°).",
+                "Each type of triangle has special properties. In an equilateral triangle, all three angles are 60°, and every equilateral triangle has three lines of symmetry. In an isosceles triangle, the base angles (the angles opposite the equal sides) are always congruent — a property known as the Isosceles Triangle Theorem. These predictable patterns reflect the consistency and order that God built into the mathematical structure of reality."
+            ]
+        },
+        {
+            "heading": "The Triangle Angle Sum Theorem",
+            "paragraphs": [
+                "One of the most important theorems in all of geometry states that the sum of the interior angles of any triangle is exactly 180°. This is true for every triangle ever drawn — whether it is tiny or enormous, equilateral or scalene, on a sheet of paper or on a surveyor's map.",
+                "The proof of this theorem is elegant: draw a line through one vertex parallel to the opposite side. The alternate interior angles formed equal the base angles of the triangle, and together with the vertex angle, they form a straight angle (180°). This proof, which relies on the properties of parallel lines, demonstrates how geometric truths are interconnected.",
+                "The universality of this theorem — 180° for every triangle, everywhere, always — is a powerful example of the mathematical constancy of God's creation. The laws of geometry do not change, because the God who established them does not change (Malachi 3:6)."
+            ]
+        },
+        {
+            "heading": "The Exterior Angle Theorem",
+            "paragraphs": [
+                "An exterior angle of a triangle is formed by extending one side of the triangle beyond a vertex. The Exterior Angle Theorem states that the measure of an exterior angle equals the sum of the measures of the two non-adjacent interior angles (also called remote interior angles).",
+                "For example, if a triangle has interior angles of 40°, 60°, and 80°, the exterior angle adjacent to the 80° angle is 40° + 60° = 100°. This relationship follows directly from the Triangle Angle Sum Theorem: since the interior angle and exterior angle are supplementary (sum to 180°) and the three interior angles sum to 180°, the exterior angle must equal the sum of the other two interior angles."
+            ]
+        },
+        {
+            "heading": "The Triangle Inequality Theorem",
+            "paragraphs": [
+                "The Triangle Inequality Theorem states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side. This means that not just any three lengths can form a triangle — they must satisfy this relationship.",
+                "For example, segments of lengths 3, 4, and 5 can form a triangle (3 + 4 > 5, 3 + 5 > 4, 4 + 5 > 3). But segments of lengths 1, 2, and 5 cannot (1 + 2 = 3, which is not greater than 5). This theorem establishes a boundary — a rule that constrains what is possible — and reflects the broader principle that God's creation operates within ordered boundaries and constraints.",
+                "The Triangle Inequality Theorem has practical applications in navigation, construction, and network design. Understanding the constraints on triangle formation helps engineers and architects design structures that are both functional and stable."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Prove that the sum of the interior angles of a triangle is 180° using the parallel line method described in this lesson. Draw a diagram to support your proof.",
+            "guidance": "Draw triangle ABC. Through vertex A, draw a line parallel to side BC. Use alternate interior angles to show that the three angles along the straight line at A correspond to the three interior angles of the triangle."
+        },
+        {
+            "id": 2,
+            "question": "Can a triangle have sides of lengths 7, 3, and 11? Explain why or why not using the Triangle Inequality Theorem.",
+            "guidance": "Check all three combinations: 7 + 3 vs. 11, 7 + 11 vs. 3, and 3 + 11 vs. 7. If any combination fails, a triangle cannot be formed."
+        },
+        {
+            "id": 3,
+            "question": "Why is the triangle the strongest shape in structural engineering? How does this physical property connect to the geometric property of rigidity?",
+            "guidance": "Consider what happens when you push on a corner of a square frame versus a triangular frame. A square can deform into a parallelogram, but a triangle cannot change shape without breaking a side. Explain why this makes triangles essential in construction."
+        }
+    ]
+}

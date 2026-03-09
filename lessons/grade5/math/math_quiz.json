@@ -1,0 +1,63 @@
+{
+    "id": "math_quiz",
+    "title": "Pre-Algebra Foundations Quiz",
+    "description": "Test your knowledge of variables, expressions, equations, order of operations, integers, and the coordinate plane!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is a variable in mathematics?",
+            "options": ["A number that never changes", "A letter that represents an unknown number", "A type of equation", "A math operation"],
+            "correct": 1,
+            "explanation": "A variable is a letter (like x or n) that stands for a number we don't know yet."
+        },
+        {
+            "id": 2,
+            "question": "If n = 4, what is the value of 3n + 5?",
+            "options": ["12", "17", "35", "20"],
+            "correct": 1,
+            "explanation": "Substitute 4 for n: 3(4) + 5 = 12 + 5 = 17."
+        },
+        {
+            "id": 3,
+            "question": "Solve for x: x + 7 = 15",
+            "options": ["x = 22", "x = 7", "x = 8", "x = 9"],
+            "correct": 2,
+            "explanation": "Subtract 7 from both sides: x = 15 - 7 = 8."
+        },
+        {
+            "id": 4,
+            "question": "What does PEMDAS help us remember?",
+            "options": ["How to spell math words", "The order of operations", "How to count by fives", "The names of shapes"],
+            "correct": 1,
+            "explanation": "PEMDAS stands for Parentheses, Exponents, Multiplication, Division, Addition, Subtraction — the order of operations."
+        },
+        {
+            "id": 5,
+            "question": "What is the value of 6 + 3 × 4?",
+            "options": ["36", "18", "24", "15"],
+            "correct": 1,
+            "explanation": "Following order of operations, multiply first: 3 × 4 = 12, then add: 6 + 12 = 18."
+        },
+        {
+            "id": 6,
+            "question": "Which integer is the smallest: -3, 0, -7, 2?",
+            "options": ["-3", "0", "-7", "2"],
+            "correct": 2,
+            "explanation": "-7 is the smallest because it is farthest to the left on the number line."
+        },
+        {
+            "id": 7,
+            "question": "What is the point where the x-axis and y-axis cross called?",
+            "options": ["The center", "The origin", "The vertex", "The endpoint"],
+            "correct": 1,
+            "explanation": "The point where the two axes cross is called the origin, and its coordinates are (0, 0)."
+        },
+        {
+            "id": 8,
+            "question": "What ordered pair describes a point 4 units right and 3 units up from the origin?",
+            "options": ["(3, 4)", "(4, 3)", "(4, -3)", "(-4, 3)"],
+            "correct": 1,
+            "explanation": "Move 4 units right (x = 4) and 3 units up (y = 3), giving the ordered pair (4, 3)."
+        }
+    ]
+}

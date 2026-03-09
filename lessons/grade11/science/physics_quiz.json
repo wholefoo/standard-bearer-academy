@@ -1,0 +1,128 @@
+{
+    "id": "physics_quiz",
+    "title": "Physics — The Laws God Wrote: Unit Quiz",
+    "quiz_type": "unit",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Newton's First Law of Motion states that an object at rest stays at rest, and an object in motion stays in motion with constant velocity, unless acted upon by what?",
+            "options": [
+                "An internal force",
+                "An unbalanced external force",
+                "Gravity only",
+                "Friction only"
+            ],
+            "correct": 1,
+            "explanation": "Newton's First Law (the Law of Inertia) states that an object's state of motion changes only when an unbalanced external force acts upon it."
+        },
+        {
+            "id": 2,
+            "question": "According to Newton's Second Law, if you double the net force on an object while keeping its mass constant, what happens to its acceleration?",
+            "options": [
+                "It stays the same",
+                "It is halved",
+                "It doubles",
+                "It quadruples"
+            ],
+            "correct": 2,
+            "explanation": "F = ma shows that acceleration is directly proportional to force. Doubling the force doubles the acceleration when mass remains constant."
+        },
+        {
+            "id": 3,
+            "question": "The Law of Conservation of Energy states that energy:",
+            "options": [
+                "Can be created but not destroyed",
+                "Can be destroyed but not created",
+                "Cannot be created or destroyed, only transformed",
+                "Increases over time in a closed system"
+            ],
+            "correct": 2,
+            "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed by natural processes — it can only be transformed from one form to another."
+        },
+        {
+            "id": 4,
+            "question": "What type of wave is a sound wave?",
+            "options": [
+                "Transverse wave",
+                "Longitudinal wave",
+                "Electromagnetic wave",
+                "Surface wave"
+            ],
+            "correct": 1,
+            "explanation": "Sound is a longitudinal mechanical wave — compressions and rarefactions of particles in a medium, oscillating parallel to the direction of wave travel."
+        },
+        {
+            "id": 5,
+            "question": "Which scientist demonstrated that a changing magnetic field can induce an electric current in a wire?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Michael Faraday",
+                "Galileo Galilei"
+            ],
+            "correct": 2,
+            "explanation": "Michael Faraday discovered electromagnetic induction — that a changing magnetic field produces a voltage and current in a conductor. This principle underlies electric generators and transformers."
+        },
+        {
+            "id": 6,
+            "question": "According to Ohm's Law, if a circuit has a voltage of 12V and a resistance of 4Ω, what is the current?",
+            "options": [
+                "48 A",
+                "3 A",
+                "0.33 A",
+                "16 A"
+            ],
+            "correct": 1,
+            "explanation": "Ohm's Law states V = IR. Solving for I: I = V/R = 12V / 4Ω = 3 A."
+        },
+        {
+            "id": 7,
+            "question": "When white light passes through a prism, it separates into colors because:",
+            "options": [
+                "The prism adds color to the light",
+                "Different wavelengths of light refract by different amounts",
+                "The prism absorbs some colors and reflects others",
+                "Light changes speed only at the surface of the prism"
+            ],
+            "correct": 1,
+            "explanation": "White light is a mixture of all visible wavelengths. A prism separates these wavelengths because each one refracts by a slightly different amount (dispersion), producing the visible spectrum."
+        },
+        {
+            "id": 8,
+            "question": "The Doppler effect explains why:",
+            "options": [
+                "Light cannot travel through a vacuum",
+                "Sound cannot travel through a vacuum",
+                "An ambulance siren sounds higher-pitched as it approaches and lower-pitched as it moves away",
+                "All waves travel at the same speed"
+            ],
+            "correct": 2,
+            "explanation": "The Doppler effect is the change in observed frequency due to relative motion between the source and observer. An approaching source compresses wave crests (higher frequency/pitch), while a receding source stretches them (lower frequency/pitch)."
+        },
+        {
+            "id": 9,
+            "question": "Kinetic energy is calculated using the formula KE = ½mv². If you double the velocity of an object, its kinetic energy:",
+            "options": [
+                "Doubles",
+                "Triples",
+                "Quadruples",
+                "Stays the same"
+            ],
+            "correct": 2,
+            "explanation": "Because kinetic energy depends on the square of velocity (v²), doubling the velocity quadruples the kinetic energy: ½m(2v)² = ½m(4v²) = 4(½mv²)."
+        },
+        {
+            "id": 10,
+            "question": "Which of the following best explains why many early physicists like Newton, Faraday, and Joule saw no conflict between their faith and their science?",
+            "options": [
+                "They kept their faith and science completely separate",
+                "They believed that studying nature's laws was a way to understand the mind of the Creator",
+                "They did not take their faith seriously",
+                "Science had not yet advanced enough to challenge faith"
+            ],
+            "correct": 1,
+            "explanation": "Scientists like Newton, Faraday, and Joule believed that a rational God created a rational universe with discoverable laws. They saw scientific investigation as a form of worship — thinking God's thoughts after Him."
+        }
+    ]
+}

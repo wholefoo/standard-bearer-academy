@@ -1,0 +1,116 @@
+{
+    "id": "history_quiz",
+    "title": "U.S. History — One Nation Under God: Unit Quiz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What was the significance of the Mayflower Compact (1620)?",
+            "options": [
+                "It declared independence from England",
+                "It established the principle of self-government by voluntary covenant",
+                "It created the first American constitution",
+                "It abolished the monarchy in the colonies"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "According to the Declaration of Independence, where do human rights come from?",
+            "options": [
+                "From the government",
+                "From the Constitution",
+                "From the Creator",
+                "From the consent of the majority"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "Which Biblical verse is often cited as the basis for the separation of powers in the U.S. Constitution?",
+            "options": [
+                "Genesis 1:1",
+                "Isaiah 33:22",
+                "John 3:16",
+                "Romans 8:28"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "James Madison argued in Federalist No. 51 that 'ambition must be made to counteract ambition.' This reflects which Biblical doctrine?",
+            "options": [
+                "The sovereignty of God",
+                "The goodness of creation",
+                "The sinfulness of human nature",
+                "The priesthood of all believers"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "What was the primary driving force behind the abolitionist movement?",
+            "options": [
+                "Economic self-interest of Northern industrialists",
+                "Christian conviction that slavery violated human dignity",
+                "Political rivalry between North and South",
+                "European pressure on American policy"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 6,
+            "question": "In his Second Inaugural Address, how did Abraham Lincoln interpret the Civil War?",
+            "options": [
+                "As a political dispute over states' rights",
+                "As an economic conflict over tariffs",
+                "As God's judgment on the national sin of slavery",
+                "As an unavoidable consequence of population growth"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 7,
+            "question": "Which constitutional amendments were passed during Reconstruction to secure the rights of freed slaves?",
+            "options": [
+                "1st, 2nd, and 3rd Amendments",
+                "13th, 14th, and 15th Amendments",
+                "19th, 20th, and 21st Amendments",
+                "4th, 5th, and 6th Amendments"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "What was the main theological weakness of the Social Gospel movement?",
+            "options": [
+                "It ignored the Old Testament",
+                "It focused on social transformation at the expense of personal salvation",
+                "It rejected all government involvement in society",
+                "It supported slavery"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 9,
+            "question": "Why did President Reagan call the Soviet Union an 'evil empire'?",
+            "options": [
+                "Because it was a military threat to the United States",
+                "Because it was an atheistic system that denied God, suppressed freedom, and enslaved nations",
+                "Because it competed with America economically",
+                "Because it had a larger army"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 10,
+            "question": "John Adams said the Constitution was 'made only for a moral and religious people.' What did he mean?",
+            "options": [
+                "Only church members should be allowed to vote",
+                "The Constitution requires a state religion to function",
+                "Free government depends on the virtue and self-discipline that come from faith",
+                "The Constitution is a religious document"
+            ],
+            "correct": 2
+        }
+    ]
+}

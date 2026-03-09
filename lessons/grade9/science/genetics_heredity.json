@@ -1,0 +1,80 @@
+{
+    "id": "genetics_heredity",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Genetics and Heredity",
+    "subtitle": "The Laws of Inheritance and God's Design for Reproduction",
+    "scripture": "Genesis 1:24",
+    "primary_source": "Gregor Mendel's Experiments on Plant Hybridization (1866)",
+    "key_concepts": ["Mendelian genetics", "Dominant and recessive alleles", "Punnett squares", "Genetic variation within kinds"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:24",
+                "text": "\"And God said, 'Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.' And it was so.\"",
+                "commentary": "The phrase 'according to their kinds' appears repeatedly in Genesis 1. God created distinct kinds of organisms, each reproducing after its own kind. Genetics confirms this pattern — dogs produce dogs, cats produce cats, and the boundaries between kinds remain firm."
+            },
+            {
+                "reference": "1 Corinthians 15:38-39",
+                "text": "\"But God gives it a body as he has determined, and to each kind of seed he gives its own body. Not all flesh is the same: People have one kind of flesh, animals have another, birds another and fish another.\"",
+                "commentary": "Paul affirms the biological distinctness of different kinds of creatures — a truth that modern genetics confirms through the study of DNA and the mechanisms of heredity."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Science of Heredity",
+            "paragraphs": [
+                "Why do children resemble their parents? Why do certain traits — eye color, hair texture, height — run in families? These questions are answered by the science of genetics, which studies how traits are passed from one generation to the next.",
+                "The foundational work in genetics was done by Gregor Mendel, an Augustinian friar who conducted meticulous experiments with pea plants in the 1860s. Mendel's work, carried out in a monastery garden, demonstrates that some of the most important scientific discoveries have been made by men of faith who saw their research as an exploration of God's creation."
+            ]
+        },
+        {
+            "heading": "Mendel's Laws of Inheritance",
+            "paragraphs": [
+                "Mendel discovered that traits are determined by discrete units of inheritance (which we now call genes) that come in pairs — one from each parent. He identified two fundamental laws: the Law of Segregation (each organism carries two alleles for each trait, and these separate during gamete formation so each gamete carries only one) and the Law of Independent Assortment (genes for different traits are inherited independently of one another).",
+                "Mendel also discovered that some alleles are dominant (expressed when at least one copy is present) and others are recessive (expressed only when two copies are present). Using the example of pea plants, a plant with one allele for tallness (T) and one for shortness (t) will be tall because tallness is dominant. Only plants with two recessive alleles (tt) will be short.",
+                "These patterns of inheritance can be predicted using Punnett squares — simple diagrams that show all possible allele combinations from a genetic cross. For a cross between two heterozygous parents (Tt × Tt), the predicted ratio is 3 tall : 1 short, which is exactly what Mendel observed."
+            ]
+        },
+        {
+            "heading": "Beyond Simple Mendelian Genetics",
+            "paragraphs": [
+                "While Mendel's laws describe the basic patterns of inheritance, geneticists have discovered additional complexity. Some traits show incomplete dominance (a blend of both alleles, such as pink flowers from red × white crosses), codominance (both alleles fully expressed, as in AB blood type), or are influenced by multiple genes (polygenic inheritance, which accounts for the continuous variation seen in traits like height and skin color).",
+                "These mechanisms of genetic variation operate within the boundaries God established at creation. They produce the remarkable diversity we see within each kind — from Great Danes to Chihuahuas, all dogs — while maintaining the fundamental identity of each kind. Variation within kinds is an observed, documented fact; transformation from one kind to another remains an unobserved inference."
+            ]
+        },
+        {
+            "heading": "Genetics and the Biblical Concept of Kinds",
+            "paragraphs": [
+                "The Biblical concept of 'kinds' (Hebrew: min) corresponds roughly to the taxonomic level of family in modern classification. Within each created kind, there is enormous potential for variation — this is part of God's design, allowing creatures to fill diverse ecological niches and adapt to different environments.",
+                "When we observe natural selection and adaptation, we are watching genetic variation being sorted by environmental pressures — not new genetic information being created. A population of finches may develop larger or smaller beaks depending on food availability, but finches remain finches. This is consistent with the Biblical model: variation and adaptation within created kinds, not molecules-to-man evolution.",
+                "The genetic evidence strongly supports the Biblical model. All humans, despite our wonderful diversity of appearance, share 99.9% of our DNA — consistent with the Biblical teaching that all people descended from Adam and Eve and form one human family (Acts 17:26)."
+            ]
+        },
+        {
+            "heading": "Genetic Disorders and the Fall",
+            "paragraphs": [
+                "If God's original creation was 'very good' (Genesis 1:31), why do genetic disorders exist? The Biblical answer is the Fall. When Adam and Eve sinned, death and decay entered the world (Romans 5:12). Over time, mutations — copying errors in DNA — have accumulated in the human genome. Most mutations are neutral or harmful; beneficial mutations are extraordinarily rare and typically involve a loss of information rather than a gain.",
+                "Genetic disorders like sickle cell anemia, cystic fibrosis, and Down syndrome are the result of this accumulation of errors in a once-perfect genome. Far from demonstrating upward evolutionary progress, the increasing mutation load in the human genome points to genetic entropy — a gradual degradation over time that is consistent with the Biblical narrative of a perfect creation marred by the Fall."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Using a Punnett square, predict the offspring ratios for a cross between two organisms heterozygous for a trait (Aa × Aa). Explain the difference between genotype and phenotype.",
+            "guidance": "Draw the Punnett square, list all four possible outcomes, and identify the genotypic ratio (1 AA : 2 Aa : 1 aa) and the phenotypic ratio (3 dominant : 1 recessive)."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of 'variation within kinds' differ from molecules-to-man evolution? Give specific examples to support your answer.",
+            "guidance": "Consider examples like dog breeds, Darwin's finches, or bacterial resistance. In each case, ask whether new genetic information was created or existing information was sorted, duplicated, or lost."
+        },
+        {
+            "id": 3,
+            "question": "How does the Biblical account of the Fall help explain the existence of genetic disorders in a world created by a good God?",
+            "guidance": "Consider the progression from a 'very good' creation to a world affected by sin and death. How does the concept of genetic entropy relate to the Biblical narrative?"
+        }
+    ]
+}

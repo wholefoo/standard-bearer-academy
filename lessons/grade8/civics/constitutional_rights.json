@@ -1,0 +1,79 @@
+{
+    "id": "constitutional_rights",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Constitutional Rights and the Bill of Rights",
+    "subtitle": "God-Given Rights Protected by Written Law",
+    "scripture": "Galatians 5:1; James 1:25",
+    "primary_source": "The Bill of Rights (1791) — The First Ten Amendments to the Constitution",
+    "key_concepts": ["God-given vs. government-granted rights", "The Bill of Rights", "Freedom of religion and conscience", "Freedom of speech and press", "Right to bear arms", "Protection against government overreach"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"",
+                "commentary": "While Paul is speaking primarily of spiritual freedom from the law's condemnation, this verse establishes a fundamental Biblical principle: God values human freedom. Liberty is a gift from God, and believers are called to stand firm in defending it against any form of bondage."
+            },
+            {
+                "reference": "Acts 5:29",
+                "text": "\"Peter and the other apostles replied: 'We must obey God rather than human beings!'\"",
+                "commentary": "When the Sanhedrin ordered the apostles to stop preaching, they refused — establishing the principle that freedom of conscience and religious expression are God-given rights that no human authority can legitimately override. This is the Biblical foundation of the First Amendment's protection of religious liberty."
+            },
+            {
+                "reference": "1 Peter 2:16",
+                "text": "\"Live as free people, but do not use your freedom as a cover-up for evil; live as God's slaves.\"",
+                "commentary": "Peter teaches that true freedom is not license to do whatever we want but liberty to do what is right. Freedom must be exercised responsibly within God's moral framework. This balanced view of liberty shaped the founders' understanding that rights come with responsibilities."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Rights Come from God, Not Government",
+            "paragraphs": [
+                "The most revolutionary idea in the American founding is stated plainly in the Declaration of Independence: human beings 'are endowed by their Creator with certain unalienable Rights.' These rights — life, liberty, and the pursuit of happiness — do not come from the government. They come from God. Government's purpose is to 'secure these rights,' not to create them.",
+                "This distinction is not merely philosophical — it has profound practical consequences. If rights come from God, they are 'unalienable,' meaning they cannot be rightfully taken away by any human power. If rights come from government, then government can redefine, limit, or revoke them whenever it chooses. The founders understood that grounding rights in God was the only sure protection against tyranny."
+            ]
+        },
+        {
+            "heading": "The Bill of Rights: Limiting Government Power",
+            "paragraphs": [
+                "When the Constitution was proposed in 1787, many Americans refused to ratify it without an explicit list of rights that the government could never violate. The result was the Bill of Rights — the first ten amendments, ratified in 1791. These amendments do not grant rights to the people; rather, they prohibit the government from infringing upon rights that already exist.",
+                "The First Amendment protects five fundamental freedoms: religion, speech, press, assembly, and petition. The Second Amendment protects the right of the people to keep and bear arms. The Fourth through Eighth Amendments provide protections for those accused of crimes, including the right to a fair trial, protection against unreasonable searches, and prohibition of cruel punishment.",
+                "The Ninth Amendment states that the listing of specific rights 'shall not be construed to deny or disparage others retained by the people.' The Tenth Amendment reserves all powers not delegated to the federal government to the states or the people. Together, these amendments establish a clear principle: the federal government has only the powers specifically granted to it, and all other rights and powers belong to the people."
+            ]
+        },
+        {
+            "heading": "Religious Liberty: The First Freedom",
+            "paragraphs": [
+                "The founders placed religious liberty first in the Bill of Rights for a reason: they considered it the foundation of all other freedoms. The First Amendment declares that 'Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.'",
+                "This contains two protections: the Establishment Clause (preventing the government from creating an official state church) and the Free Exercise Clause (protecting individuals' right to practice their faith). These protections grew directly from the Biblical principle that conscience belongs to God alone — no government has the right to dictate what a person believes or how they worship.",
+                "It is important to understand what the First Amendment does and does not do. It prevents the government from establishing a national church or persecuting religious practice. It does not require the removal of all religious expression from public life. The founders themselves prayed at government events, proclaimed national days of prayer, and regularly acknowledged God's providence in public documents."
+            ]
+        },
+        {
+            "heading": "Responsible Freedom: Rights and Duties",
+            "paragraphs": [
+                "The Biblical view of freedom is not unlimited autonomy but ordered liberty — freedom exercised within God's moral framework. As Peter wrote, 'Live as free people, but do not use your freedom as a cover-up for evil' (1 Peter 2:16). Rights come with responsibilities.",
+                "Freedom of speech does not mean freedom from the consequences of speech — it means government cannot punish you for expressing your views. The right to bear arms carries the responsibility to use that right lawfully and safely. Religious liberty includes the duty to respect others' freedom of conscience, even when we disagree with their beliefs.",
+                "The founders understood that a free society can only survive if its citizens are virtuous. John Adams wrote, 'Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.' Rights without responsibilities lead to license, which leads to chaos, which leads to tyranny. Biblical citizenship means exercising our God-given rights responsibly, for the good of our neighbors and the glory of God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does it matter whether rights come from God or from government? How does each view affect the security of individual liberty?",
+            "guidance": "Consider historical examples where governments claimed the authority to grant and revoke rights. Compare with the American view that rights are 'unalienable' because they come from the Creator."
+        },
+        {
+            "id": 2,
+            "question": "Why did the founders place religious liberty first in the Bill of Rights? How does the Biblical principle of freedom of conscience support the First Amendment?",
+            "guidance": "Think about Acts 5:29 and the apostles' insistence that conscience belongs to God. Consider why the founders believed religious liberty was the foundation of all other freedoms."
+        },
+        {
+            "id": 3,
+            "question": "Explain the relationship between rights and responsibilities in the Biblical view of freedom. Why did John Adams say the Constitution was 'made only for a moral and religious people'?",
+            "guidance": "Consider 1 Peter 2:16 and the concept of ordered liberty. Think about what happens to a free society when citizens exercise rights without accepting responsibilities."
+        }
+    ]
+}

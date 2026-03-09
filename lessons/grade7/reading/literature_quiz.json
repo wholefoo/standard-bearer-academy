@@ -1,0 +1,103 @@
+{
+    "id": "literature_quiz",
+    "title": "Poetry and Prose — The Beauty of Language",
+    "description": "Test your understanding of poetry elements, figurative language, prose forms, literary analysis, persuasive writing, and creative writing.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the rhyme scheme of a quatrain with the pattern where lines 1 and 3 rhyme, and lines 2 and 4 rhyme?",
+            "options": [
+                "AABB",
+                "ABAB",
+                "ABBA",
+                "ABCD"
+            ],
+            "correct": 1,
+            "explanation": "In an ABAB rhyme scheme, the first and third lines rhyme (A), and the second and fourth lines rhyme (B)."
+        },
+        {
+            "id": 2,
+            "question": "Which figure of speech is used in Psalm 18:2: 'The LORD is my rock, my fortress and my deliverer'?",
+            "options": [
+                "Simile",
+                "Hyperbole",
+                "Metaphor",
+                "Personification"
+            ],
+            "correct": 2,
+            "explanation": "This is a metaphor because it directly states God IS a rock and fortress, rather than saying He is LIKE a rock (which would be a simile)."
+        },
+        {
+            "id": 3,
+            "question": "What is the main difference between narrative prose and expository prose?",
+            "options": [
+                "Narrative prose is always fiction; expository prose is always nonfiction",
+                "Narrative prose tells a story; expository prose explains or informs",
+                "Narrative prose uses figurative language; expository prose does not",
+                "There is no significant difference between them"
+            ],
+            "correct": 1,
+            "explanation": "Narrative prose tells a story through characters and events, while expository prose explains, analyzes, or informs. Both can be fiction or nonfiction."
+        },
+        {
+            "id": 4,
+            "question": "What does 'tone' refer to in literary analysis?",
+            "options": [
+                "The volume at which a text should be read aloud",
+                "The author's attitude toward the subject",
+                "The number of characters in the story",
+                "The setting of the story"
+            ],
+            "correct": 1,
+            "explanation": "Tone is the author's attitude toward the subject matter, revealed through word choice, sentence structure, and detail. It can be serious, humorous, angry, hopeful, etc."
+        },
+        {
+            "id": 5,
+            "question": "Which logical fallacy attacks the person making an argument rather than the argument itself?",
+            "options": [
+                "Straw man",
+                "Bandwagon",
+                "Ad hominem",
+                "False dilemma"
+            ],
+            "correct": 2,
+            "explanation": "Ad hominem (Latin for 'to the person') attacks the character or motives of the person making the argument rather than addressing the argument's logic and evidence."
+        },
+        {
+            "id": 6,
+            "question": "The Bereans in Acts 17:11 are praised because they:",
+            "options": [
+                "Accepted everything Paul said without question",
+                "Refused to listen to Paul's teaching",
+                "Examined the Scriptures carefully to verify Paul's claims",
+                "Wrote their own version of Paul's letters"
+            ],
+            "correct": 2,
+            "explanation": "The Bereans 'examined the Scriptures every day to see if what Paul said was true.' They are a model of careful, critical reading — receiving the message eagerly while verifying it against God's Word."
+        },
+        {
+            "id": 7,
+            "question": "What does 'show, don't tell' mean in creative writing?",
+            "options": [
+                "Always use illustrations instead of text",
+                "Reveal emotions and traits through actions and details rather than simply stating them",
+                "Show your work to others before submitting it",
+                "Use only dialogue, never description"
+            ],
+            "correct": 1,
+            "explanation": "'Show, don't tell' means using vivid actions, sensory details, and dialogue to convey emotions and character traits rather than simply stating them ('She was sad' vs. showing her tears, slumped shoulders, and quiet voice)."
+        },
+        {
+            "id": 8,
+            "question": "Hebrew poetry in the Psalms primarily uses which literary device instead of end rhyme?",
+            "options": [
+                "Alliteration",
+                "Parallelism",
+                "Onomatopoeia",
+                "Irony"
+            ],
+            "correct": 1,
+            "explanation": "Hebrew poetry uses parallelism — the second line restates, contrasts, or extends the idea of the first line. This is why the Psalms still 'work' in translation, unlike rhyming poetry."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "bible",
+    "title": "The Early Church — Acts of the Apostles",
+    "description": "Journey through the Book of Acts and discover how the Holy Spirit empowered the early church to spread the Gospel throughout the world.",
+    "units": [
+        {
+            "id": "early_church",
+            "title": "Acts of the Apostles",
+            "lessons": ["pentecost", "peter_preaches", "early_believers", "stephen", "paul_conversion", "missionary_journeys"]
+        }
+    ],
+    "quiz_id": "acts_quiz"
+}

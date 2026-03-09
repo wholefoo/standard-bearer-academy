@@ -1,0 +1,20 @@
+{
+    "id": "adding_fractions",
+    "lesson_number": 4,
+    "title": "Adding and Subtracting Fractions — Putting Parts Together",
+    "scripture": "Ecclesiastes 4:9",
+    "memory_verse": "\"Two are better than one, because they have a good return for their labor.\" — Ecclesiastes 4:9 (NIV)",
+    "objective": "Students will learn how to add and subtract fractions with like and unlike denominators.",
+    "content": [
+        "Adding fractions with the same denominator is simple: just add the numerators and keep the denominator the same. For example, 2/5 + 1/5 = 3/5. You are combining parts that are the same size.",
+        "Subtracting fractions with the same denominator works the same way: subtract the numerators. For example, 7/8 - 3/8 = 4/8, which simplifies to 1/2.",
+        "When fractions have different denominators, you must first find a common denominator. For example, to add 1/3 + 1/4, change them to 4/12 + 3/12 = 7/12. To subtract 1/2 - 1/3, change them to 3/6 - 2/6 = 1/6.",
+        "Adding and subtracting fractions is useful in everyday life — combining ingredients in a recipe, figuring out how much of a project is done, or adding up time spent on chores. Just as Ecclesiastes 4:9 says 'two are better than one,' putting fractions together helps us see the bigger picture of God's orderly creation."
+    ],
+    "activity": "Solve these problems: 1/4 + 2/4, 3/8 + 2/8, 5/6 - 1/6, 1/2 + 1/3, 3/4 - 1/3, and 2/5 + 1/10. Show your work by finding common denominators. Then create your own word problem involving adding fractions.",
+    "discussion": [
+        "Why do fractions need the same denominator before you can add or subtract them?",
+        "When might you need to add fractions in real life?",
+        "How does working with fractions teach us about order and precision?"
+    ]
+}

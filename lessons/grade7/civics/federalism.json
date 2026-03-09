@@ -1,0 +1,74 @@
+{
+    "id": "federalism",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Federalism",
+    "subtitle": "Dividing Power Between National and State Governments",
+    "scripture": "Acts 17:26-27",
+    "primary_source": "The Tenth Amendment to the Constitution",
+    "key_concepts": ["Federalism", "Enumerated powers", "Reserved powers", "The Tenth Amendment", "State sovereignty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Acts 17:26-27",
+                "text": "\"From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. God did this so that they would seek him.\"",
+                "commentary": "God established distinct nations and boundaries, suggesting that governance is most effective when it is local and limited. Federalism reflects this principle by keeping government close to the people."
+            },
+            {
+                "reference": "1 Peter 5:2-3",
+                "text": "\"Be shepherds of God's flock that is under your care, watching over them — not because you must, but because you are willing, as God wants you to be; not pursuing dishonest gain, but eager to serve; not lording it over those entrusted to you, but being examples to the flock.\"",
+                "commentary": "Just as church leaders should not lord their authority over others, government should not concentrate power in distant, unaccountable institutions. Federalism distributes power so that it remains close to the people it serves."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Divide Power?",
+            "paragraphs": [
+                "One of the most important principles of the American system of government is federalism — the division of power between the national government and the state governments. The Founders understood that concentrating all power in one central government is a recipe for tyranny.",
+                "Federalism allows different states to serve as 'laboratories of democracy,' trying different approaches to problems and allowing citizens to choose the state whose policies best match their values. It also keeps government closer to the people, making it more responsive and accountable."
+            ]
+        },
+        {
+            "heading": "Enumerated Powers: What the Federal Government May Do",
+            "paragraphs": [
+                "The Constitution grants the federal government specific, limited powers called 'enumerated powers.' These include the power to levy taxes, regulate interstate commerce, declare war, maintain an army and navy, coin money, and establish post offices.",
+                "The key word is 'limited.' The federal government was designed to handle matters of national concern — defense, trade between states, foreign relations — while leaving most governance to the states and the people.",
+                "James Madison wrote in Federalist No. 45: 'The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite.' The Founders intended the national government to be small and focused."
+            ]
+        },
+        {
+            "heading": "Reserved Powers: The Tenth Amendment",
+            "paragraphs": [
+                "The Tenth Amendment states: 'The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.' This amendment is the constitutional foundation of federalism.",
+                "Reserved powers include matters like education, law enforcement, road building, marriage laws, and most regulations that affect daily life. These were intended to be state and local responsibilities, not federal ones.",
+                "Over time, the federal government has expanded far beyond the Founders' vision, taking on many responsibilities that were originally reserved to the states. This expansion raises important questions about constitutional fidelity and the protection of liberty."
+            ]
+        },
+        {
+            "heading": "Federalism Today",
+            "paragraphs": [
+                "Today, the relationship between federal and state governments is a subject of ongoing debate. Some argue that national problems require national solutions and that the federal government should take a larger role. Others argue that the expansion of federal power has eroded liberty, increased government bureaucracy, and moved decision-making away from the people.",
+                "From a Biblical perspective, governance should be as local as possible. Families should handle family matters, churches should handle church matters, and local communities should address local concerns. Only issues that genuinely require national coordination should be handled by the federal government.",
+                "As citizens, we should support federalism because it protects liberty, promotes accountability, and reflects the Biblical principle that authority should be distributed rather than concentrated."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did the Founders choose federalism — dividing power between national and state governments — rather than creating a single, centralized national government?",
+            "guidance": "Consider the Founders' experience with centralized British authority and their understanding of human nature. Think about the advantages of keeping government close to the people."
+        },
+        {
+            "id": 2,
+            "question": "What does the Tenth Amendment say, and why is it important for protecting liberty? Give examples of powers reserved to the states.",
+            "guidance": "Think about the principle that the federal government has only the powers specifically granted to it. Consider how this protects against unlimited government growth."
+        },
+        {
+            "id": 3,
+            "question": "How does the Biblical principle of distributed authority support federalism? Why is local governance generally preferable to centralized governance?",
+            "guidance": "Consider how God established families, churches, and civil government as separate spheres with distinct authorities. Think about accountability — is it easier to hold local or national leaders accountable?"
+        }
+    ]
+}

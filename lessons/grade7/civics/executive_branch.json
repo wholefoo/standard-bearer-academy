@@ -1,0 +1,74 @@
+{
+    "id": "executive_branch",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: The Executive Branch",
+    "subtitle": "The Presidency — Leading Under the Law",
+    "scripture": "Romans 13:3-4",
+    "primary_source": "George Washington's First Inaugural Address (1789, excerpt)",
+    "key_concepts": ["The President's role", "Executive powers", "Commander in Chief", "The Cabinet", "Limits on presidential power"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 13:3-4",
+                "text": "\"For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and you will be commended. For the one in authority is God's servant for your good.\"",
+                "commentary": "The President serves as the chief executive — responsible for enforcing the laws. According to Scripture, this authority is a service to the people, meant to promote good and restrain evil."
+            },
+            {
+                "reference": "Proverbs 29:2",
+                "text": "\"When the righteous thrive, the people rejoice; when the wicked rule, the people groan.\"",
+                "commentary": "The character of a leader matters profoundly. A righteous president leads the nation toward flourishing, while a corrupt leader brings suffering. This is why the Founders included checks on presidential power."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The President of the United States",
+            "paragraphs": [
+                "Article II of the Constitution establishes the executive branch, headed by the President. The President's primary duty is to 'take care that the laws be faithfully executed' — not to make laws (that is Congress's job) but to enforce the laws Congress has passed.",
+                "The Founders carefully limited the President's power because they had experienced the tyranny of King George III. They wanted a leader strong enough to govern effectively but constrained enough that he could never become a dictator."
+            ]
+        },
+        {
+            "heading": "Powers of the President",
+            "paragraphs": [
+                "The Constitution grants the President several important powers. As Commander in Chief of the Armed Forces, the President directs military operations, though only Congress can formally declare war.",
+                "The President negotiates treaties with foreign nations (which must be ratified by the Senate), appoints federal judges, ambassadors, and Cabinet members (with Senate confirmation), and can grant pardons for federal offenses.",
+                "Perhaps the President's most significant daily power is the ability to sign or veto legislation. The veto power allows the President to check Congress and prevent the passage of laws the President considers unconstitutional or unwise."
+            ]
+        },
+        {
+            "heading": "The Cabinet and Executive Departments",
+            "paragraphs": [
+                "The President relies on a Cabinet of advisors who head the major executive departments — the Department of State, Defense, Treasury, Justice, and others. Cabinet members are chosen by the President and confirmed by the Senate.",
+                "The executive branch employs millions of federal workers who carry out the day-to-day operations of government. This vast bureaucracy was not envisioned by the Founders and has raised concerns about unelected officials wielding too much power.",
+                "The principle of accountability requires that executive agencies answer to the President, who in turn answers to the people through elections. When bureaucracies become too independent, they can undermine self-government."
+            ]
+        },
+        {
+            "heading": "Limits on Presidential Power",
+            "paragraphs": [
+                "The Constitution places important limits on the President. The President cannot make laws, only enforce them. The President cannot spend money unless Congress appropriates it. The President can be impeached by the House and removed from office by the Senate for 'high crimes and misdemeanors.'",
+                "George Washington set a powerful precedent by voluntarily leaving office after two terms. This tradition was so strong that it was eventually codified in the Twenty-Second Amendment (1951), which limits presidents to two terms.",
+                "Washington's example reflected his understanding that the President is a servant of the people, not a ruler. In his first inaugural address, Washington expressed his dependence on 'the benign Parent of the Human Race' — acknowledging that even the President serves under God's authority."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did the Founders limit the President's power? What historical experiences shaped their concerns about executive authority?",
+            "guidance": "Consider the colonists' experience with King George III and the broader history of monarchs abusing power. Think about why the Founders separated the power to make laws from the power to enforce them."
+        },
+        {
+            "id": 2,
+            "question": "Why was George Washington's decision to voluntarily leave office after two terms so important? What does it teach us about the character of a leader?",
+            "guidance": "Think about the difference between a leader who sees power as something to be held and one who sees it as a trust to be used and then returned. Consider how Washington's faith influenced his humility."
+        },
+        {
+            "id": 3,
+            "question": "How does Proverbs 29:2 apply to presidential leadership? Why is the character of a president important, not just their policies?",
+            "guidance": "Consider how a leader's personal integrity affects their decision-making, their influence on the culture, and the trust of the people. Think about Biblical examples of both righteous and wicked rulers."
+        }
+    ]
+}

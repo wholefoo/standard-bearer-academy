@@ -1,0 +1,76 @@
+{
+    "id": "miracles_of_jesus",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Miracles of Jesus",
+    "subtitle": "Signs and Wonders — Jesus' Power Over Nature, Disease, and Death",
+    "scripture": "Mark 4-5; John 6; John 11",
+    "primary_source": "The Gospel of John — 'Seven Signs'",
+    "key_concepts": ["Miracles as signs of Jesus' identity", "Power over nature", "Power over sickness", "Power over death", "Faith and miracles"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "John 20:30-31",
+                "text": "\"Jesus performed many other signs in the presence of his disciples, which are not recorded in this book. But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.\"",
+                "commentary": "John tells us the purpose of recording Jesus' miracles: they are signs that point to His identity as the Son of God. Miracles are not just displays of power — they are evidence that Jesus is who He claimed to be."
+            },
+            {
+                "reference": "Mark 4:41",
+                "text": "\"They were terrified and asked each other, 'Who is this? Even the wind and the waves obey him!'\"",
+                "commentary": "After Jesus calmed a violent storm with a word, His disciples were amazed and afraid. Their question — 'Who is this?' — is the central question of the Gospels. Only the Creator of the wind and waves could command them to be still."
+            },
+            {
+                "reference": "John 11:25-26",
+                "text": "\"Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die; and whoever lives by believing in me will never die. Do you believe this?'\"",
+                "commentary": "Before raising Lazarus from the dead, Jesus made this extraordinary claim: He is not just a healer or prophet — He is the resurrection and the life itself. This miracle demonstrated His absolute power over death."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Did Jesus Perform Miracles?",
+            "paragraphs": [
+                "Throughout His ministry, Jesus performed many miracles — healing the sick, giving sight to the blind, walking on water, feeding thousands, and even raising the dead. But these miracles were not performed to entertain or impress. They were signs — powerful demonstrations that revealed who Jesus truly is.",
+                "Each miracle pointed to a truth about Jesus' identity. When He calmed a storm, He showed His authority over creation. When He healed diseases, He showed His compassion and His power to restore what sin has broken. When He raised the dead, He demonstrated that He has the ultimate authority over life and death. The miracles are evidence that Jesus is the Son of God."
+            ]
+        },
+        {
+            "heading": "Power Over Nature: Calming the Storm and Feeding the 5,000",
+            "paragraphs": [
+                "One evening, Jesus and His disciples were crossing the Sea of Galilee when a violent storm arose. The disciples, many of them experienced fishermen, were terrified. But Jesus was sleeping peacefully in the boat. When they woke Him, He simply spoke to the wind and waves: 'Quiet! Be still!' Immediately, the storm stopped completely.",
+                "On another occasion, a crowd of more than 5,000 people had followed Jesus into a remote area. With only five loaves of bread and two fish — a boy's small lunch — Jesus fed the entire crowd with food left over. This miracle echoed God's provision of manna in the wilderness and showed that Jesus is the true Bread of Life who satisfies every hunger."
+            ]
+        },
+        {
+            "heading": "Power Over Sickness: Healing the Broken",
+            "paragraphs": [
+                "Jesus healed every kind of disease and disability: blindness, leprosy, paralysis, deafness, and chronic illness. He healed people who came to Him in faith, and He healed people who were brought by their friends. No disease was too severe and no case was too hopeless for Jesus.",
+                "These healings were not just physical acts of kindness — they were previews of the coming Kingdom of God, where there will be no more sickness, pain, or death. Every healing was a sign that God's kingdom was breaking into this broken world through His Son. Isaiah had prophesied, 'He took up our pain and bore our suffering' (Isaiah 53:4), and Matthew tells us that Jesus' healings fulfilled this prophecy."
+            ]
+        },
+        {
+            "heading": "Power Over Death: Raising Lazarus",
+            "paragraphs": [
+                "The most dramatic of all Jesus' miracles was the raising of Lazarus from the dead. Lazarus had been dead for four days when Jesus arrived at his tomb. Martha, Lazarus' sister, said, 'Lord, if you had been here, my brother would not have died.' Jesus wept with her — showing His genuine human compassion — and then commanded, 'Lazarus, come out!' And the dead man walked out of the tomb, still wrapped in burial cloths.",
+                "This miracle was the ultimate sign. If Jesus has power over death itself, then His claim to be the Son of God is vindicated. The raising of Lazarus also foreshadowed Jesus' own resurrection — the greatest miracle of all — which would occur just weeks later. Jesus is not merely a great teacher or prophet; He is the Lord of life and death."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why are Jesus' miracles described as 'signs' in John's Gospel? What are they signs of? How should this affect the way we read these stories?",
+            "guidance": "Think about how a sign points beyond itself to something greater. Consider how each miracle reveals something specific about Jesus' identity, character, or mission."
+        },
+        {
+            "id": 2,
+            "question": "When Jesus calmed the storm, the disciples asked, 'Who is this?' How would you answer that question based on what you have learned about Jesus' miracles?",
+            "guidance": "Consider all the evidence: power over nature, disease, and death. Think about what kind of person could do these things. What does this evidence tell us about who Jesus is?"
+        },
+        {
+            "id": 3,
+            "question": "Jesus wept at the tomb of Lazarus even though He knew He was about to raise him from the dead. What does this tell us about Jesus' character? Why is it important that Jesus feels our pain?",
+            "guidance": "Think about what it means that Jesus is both fully God (with power over death) and fully human (with real emotions and compassion). Consider how this affects our ability to trust Him with our own sorrows."
+        }
+    ]
+}

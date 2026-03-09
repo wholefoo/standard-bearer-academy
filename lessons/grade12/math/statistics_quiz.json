@@ -1,0 +1,127 @@
+{
+    "id": "statistics_quiz",
+    "title": "Statistics and Probability — Understanding God's World",
+    "description": "Test your understanding of statistics, probability, distributions, inference, and regression.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which sampling method gives every member of the population an equal chance of being selected?",
+            "options": [
+                "Convenience sampling",
+                "Voluntary response sampling",
+                "Simple random sampling",
+                "Judgment sampling"
+            ],
+            "correct": 2,
+            "explanation": "Simple random sampling gives every member of the population an equal chance of being selected, which helps ensure the sample is representative and minimizes selection bias."
+        },
+        {
+            "id": 2,
+            "question": "Which measure of center is most resistant to outliers?",
+            "options": [
+                "Mean",
+                "Median",
+                "Mode",
+                "Range"
+            ],
+            "correct": 1,
+            "explanation": "The median is resistant to outliers because it depends only on the middle value(s) when data is ordered, not on extreme values. The mean is pulled toward outliers."
+        },
+        {
+            "id": 3,
+            "question": "According to the empirical rule, approximately what percentage of data in a normal distribution falls within 2 standard deviations of the mean?",
+            "options": [
+                "68%",
+                "90%",
+                "95%",
+                "99.7%"
+            ],
+            "correct": 2,
+            "explanation": "The empirical rule (68-95-99.7 rule) states that approximately 95% of data falls within 2 standard deviations of the mean in a normal distribution."
+        },
+        {
+            "id": 4,
+            "question": "What does a p-value measure in hypothesis testing?",
+            "options": [
+                "The probability that the null hypothesis is true",
+                "The probability of observing data as extreme as the sample data if the null hypothesis is true",
+                "The probability that the alternative hypothesis is true",
+                "The probability of making a correct decision"
+            ],
+            "correct": 1,
+            "explanation": "A p-value is the probability of obtaining results as extreme as (or more extreme than) the observed results, assuming the null hypothesis is true. It is NOT the probability that H₀ is true."
+        },
+        {
+            "id": 5,
+            "question": "What is a Type I error in hypothesis testing?",
+            "options": [
+                "Failing to reject a false null hypothesis",
+                "Rejecting a true null hypothesis",
+                "Accepting the alternative hypothesis when there is no data",
+                "Using the wrong significance level"
+            ],
+            "correct": 1,
+            "explanation": "A Type I error (false positive) occurs when we reject the null hypothesis when it is actually true — concluding there is an effect when there isn't one."
+        },
+        {
+            "id": 6,
+            "question": "If the correlation coefficient between two variables is r = -0.85, what can we conclude?",
+            "options": [
+                "There is a strong positive linear relationship",
+                "There is a weak negative linear relationship",
+                "There is a strong negative linear relationship",
+                "One variable causes the other to decrease"
+            ],
+            "correct": 2,
+            "explanation": "An r value of -0.85 indicates a strong negative linear relationship — as one variable increases, the other tends to decrease. However, correlation does not imply causation."
+        },
+        {
+            "id": 7,
+            "question": "The Central Limit Theorem states that as sample size increases, the distribution of sample means approaches what shape?",
+            "options": [
+                "Uniform",
+                "Skewed right",
+                "Normal (bell-shaped)",
+                "Bimodal"
+            ],
+            "correct": 2,
+            "explanation": "The Central Limit Theorem states that the distribution of sample means approaches a normal distribution as sample size increases, regardless of the shape of the population distribution."
+        },
+        {
+            "id": 8,
+            "question": "In a binomial distribution with n = 20 trials and p = 0.3, what is the expected number of successes (mean)?",
+            "options": [
+                "3",
+                "6",
+                "10",
+                "14"
+            ],
+            "correct": 1,
+            "explanation": "The mean of a binomial distribution is μ = np = 20 × 0.3 = 6. On average, we expect 6 successes in 20 trials when the probability of success is 0.3."
+        },
+        {
+            "id": 9,
+            "question": "Why is extrapolation (predicting beyond the range of observed data) generally unreliable?",
+            "options": [
+                "It requires too much computation",
+                "The correlation always becomes weaker outside the data range",
+                "We have no evidence that the pattern continues beyond the observed range",
+                "It violates the Central Limit Theorem"
+            ],
+            "correct": 2,
+            "explanation": "Extrapolation is unreliable because we have no data to support the assumption that the observed pattern (linear or otherwise) continues beyond the range of our observations."
+        },
+        {
+            "id": 10,
+            "question": "Which Biblical principle most directly supports the importance of testing claims with evidence before accepting them?",
+            "options": [
+                "Love your neighbor as yourself",
+                "The lot is cast into the lap, but its every decision is from the Lord",
+                "Test everything; hold fast what is good",
+                "Be fruitful and multiply"
+            ],
+            "correct": 2,
+            "explanation": "1 Thessalonians 5:21 — 'Test everything; hold fast what is good' — directly supports the principle of hypothesis testing: evaluating claims with evidence before drawing conclusions."
+        }
+    ]
+}

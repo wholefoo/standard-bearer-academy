@@ -1,0 +1,83 @@
+{
+    "id": "applications",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Applying Ratios, Proportions, and Percentages",
+    "subtitle": "Real-World Problem Solving with Proportional Reasoning",
+    "scripture": "Luke 14:28-30",
+    "primary_source": "Leonardo of Pisa (Fibonacci), Liber Abaci (1202)",
+    "key_concepts": ["Scale drawings and maps", "Percent increase and decrease", "Proportional reasoning in problem solving", "Financial literacy and stewardship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 14:28-30",
+                "text": "\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it? For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you, saying, 'This person began to build and wasn't able to finish.'\"",
+                "commentary": "Jesus teaches the importance of careful calculation before committing to a project. Proportional reasoning — estimating costs, calculating materials, and planning budgets — is essential for wise stewardship of our resources."
+            },
+            {
+                "reference": "Proverbs 27:23-24",
+                "text": "\"Be sure you know the condition of your flocks, give careful attention to your herds; for riches do not endure forever, and a crown is not secure for all generations.\"",
+                "commentary": "Solomon advises careful attention to one's resources. Using mathematical tools like ratios, proportions, and percentages helps us monitor and manage what God has entrusted to us."
+            },
+            {
+                "reference": "Romans 12:2",
+                "text": "\"Do not conform to the pattern of this world, but be transformed by the renewing of your mind.\"",
+                "commentary": "God calls us to think clearly and wisely. Mathematical reasoning — including proportional thinking — is part of the renewed mind that can discern what is good, wise, and true."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Scale Drawings and Maps",
+            "paragraphs": [
+                "A scale drawing is a proportional representation of a real object. Architects use scale drawings (blueprints) to plan buildings. Cartographers use scales to create maps. In every case, the principle is the same: the drawing maintains the same proportions as the real object, just at a reduced (or enlarged) size.",
+                "To work with scale drawings, set up a proportion. If a map has a scale of 1 cm = 25 km, and two cities are 3.5 cm apart on the map, you can find the real distance: 1/25 = 3.5/x. Cross-multiply: x = 87.5 km. Scale drawings demonstrate that proportional reasoning has practical applications in navigation, construction, engineering, and design."
+            ]
+        },
+        {
+            "heading": "Percent Increase and Decrease",
+            "paragraphs": [
+                "Percent increase measures how much a quantity has grown, expressed as a percentage of the original amount. The formula is: Percent Increase = (New Value - Original Value) / Original Value × 100. For example, if a city's population grew from 50,000 to 60,000, the increase is 10,000/50,000 × 100 = 20%.",
+                "Percent decrease works the same way but measures how much a quantity has shrunk: Percent Decrease = (Original Value - New Value) / Original Value × 100. If a $200 bicycle goes on sale for $150, the decrease is 50/200 × 100 = 25%. These calculations are essential for understanding financial growth, sales, inflation, and many other real-world situations."
+            ]
+        },
+        {
+            "heading": "Financial Applications: Budgeting and Smart Spending",
+            "paragraphs": [
+                "Proportional reasoning is the foundation of financial literacy. A budget is essentially a plan that allocates percentages of your income to different categories: perhaps 10% to giving, 20% to saving, and 70% to living expenses. Understanding these percentages helps you manage money wisely.",
+                "When comparing deals at the store, unit rates help you find the best value. When evaluating a salary increase, percent change tells you how much your income has actually grown. When planning a project, proportions help you estimate costs and materials. Jesus himself taught that wise planning and calculation are essential virtues (Luke 14:28-30)."
+            ]
+        },
+        {
+            "heading": "Proportional Reasoning Across Subjects",
+            "paragraphs": [
+                "Proportional reasoning is not limited to math class — it appears in virtually every subject. In science, you use proportions to convert between units (such as grams to kilograms), calculate concentrations, and interpret data. In cooking and nutrition, you scale recipes and calculate nutritional information per serving.",
+                "In art, proportions create visually pleasing compositions. In music, the ratios between frequencies determine whether notes sound harmonious or discordant — an octave is a 2:1 frequency ratio, and a perfect fifth is 3:2. Leonardo Fibonacci, a medieval Italian mathematician, helped bring these mathematical tools to Europe through his book Liber Abaci, which introduced the Hindu-Arabic numeral system and practical proportion problems to Western commerce and science."
+            ]
+        },
+        {
+            "heading": "Putting It All Together",
+            "paragraphs": [
+                "As you complete this unit on ratios, proportions, and percentages, remember that mathematics is not just about numbers on a page — it is a tool God has given us to understand His creation and to be faithful stewards of the resources He provides. The mathematical order in the universe reflects the mind of a God who is logical, precise, and infinitely creative.",
+                "Whether you are calculating a tip at a restaurant, determining how much paint you need for a room, figuring out which package size is the best deal, or analyzing data for a science project, proportional reasoning gives you the skills to think clearly and make wise decisions. As Proverbs 4:7 says, 'The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Jesus taught that wise builders count the cost before starting a project (Luke 14:28-30). How do ratios, proportions, and percentages help you 'count the cost' in practical situations?",
+            "guidance": "Think about planning a budget, estimating materials for a project, or comparing options before making a purchase. Give specific examples."
+        },
+        {
+            "id": 2,
+            "question": "Create a simple monthly budget for a student who earns $100 per month from chores and odd jobs. What percentage would you allocate to giving, saving, and spending? Explain your reasoning.",
+            "guidance": "Consider the principle of the tithe (10% to giving), the wisdom of saving for the future, and the need for current expenses. Think about what Scripture teaches about managing money."
+        },
+        {
+            "id": 3,
+            "question": "How does the mathematical order in creation — the golden ratio in nature, musical harmony in frequency ratios, the precise proportions of the Ark — point to God as the Author of mathematics?",
+            "guidance": "Consider that mathematics is discovered, not invented. Think about why so many different areas of creation follow the same mathematical principles."
+        }
+    ]
+}

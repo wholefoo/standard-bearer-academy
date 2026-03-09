@@ -1,0 +1,90 @@
+{
+    "id": "regression_correlation",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Regression and Correlation",
+    "subtitle": "Discovering Relationships in God's Ordered Creation",
+    "scripture": "Colossians 1:17",
+    "primary_source": "Sir Francis Galton's Studies on Regression and Heredity (1886)",
+    "key_concepts": ["Scatter plots and association", "Correlation coefficient", "Least-squares regression", "Residuals and model fit", "Correlation vs. causation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The relationships and correlations we discover between variables reflect the coherence God has built into creation. Variables are related because they exist within a unified, God-designed system where all things 'hold together' in Christ."
+            },
+            {
+                "reference": "Proverbs 3:19-20",
+                "text": "\"By wisdom the Lord laid the earth's foundations, by understanding he set the heavens in place; by his knowledge the watery depths were divided, and the clouds let drop the dew.\"",
+                "commentary": "God created the world with wisdom, understanding, and knowledge. The mathematical relationships between variables that we discover through regression analysis are expressions of this divine wisdom embedded in creation."
+            },
+            {
+                "reference": "Ecclesiastes 1:13",
+                "text": "\"I applied my mind to study and to explore by wisdom all that is done under the heavens.\"",
+                "commentary": "Solomon's commitment to studying the world through wisdom mirrors the purpose of statistical analysis — to explore and understand the patterns and relationships in creation, leading to wiser decisions and deeper appreciation for the Creator."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Scatter Plots and Association",
+            "paragraphs": [
+                "A scatter plot displays the relationship between two quantitative variables, with each point representing one observation. The explanatory (independent) variable is plotted on the x-axis, and the response (dependent) variable on the y-axis.",
+                "When examining a scatter plot, we describe three features: direction (positive, negative, or no association), form (linear, curved, or clustered), and strength (how closely the points follow a clear pattern). A positive association means both variables tend to increase together; a negative association means one tends to decrease as the other increases.",
+                "Scatter plots can also reveal outliers (points far from the overall pattern) and influential points (points that, if removed, would significantly change the results of analysis). Identifying these points is important for accurate interpretation."
+            ]
+        },
+        {
+            "heading": "The Correlation Coefficient",
+            "paragraphs": [
+                "The correlation coefficient (r) is a numerical measure of the strength and direction of a linear relationship between two quantitative variables. Its value ranges from −1 to +1.",
+                "An r value near +1 indicates a strong positive linear relationship; near −1 indicates a strong negative linear relationship; near 0 indicates little or no linear relationship. Important: r measures only linear relationships. Two variables can have a strong curved relationship with an r near 0.",
+                "The coefficient of determination (r²) represents the proportion of variation in the response variable that is explained by the explanatory variable. For example, if r = 0.8, then r² = 0.64, meaning 64% of the variation in y is explained by its linear relationship with x.",
+                "Critical caution: correlation does not imply causation. Two variables can be strongly correlated for many reasons: direct causation, reverse causation, a common underlying cause (confounding variable), or pure coincidence. Only controlled experiments can establish causation."
+            ]
+        },
+        {
+            "heading": "Least-Squares Regression",
+            "paragraphs": [
+                "The least-squares regression line is the line that minimizes the sum of the squared vertical distances (residuals) from the data points to the line. Its equation is ŷ = a + bx, where b is the slope (b = r × sy/sx) and a is the y-intercept (a = ȳ − bx̄).",
+                "The slope (b) represents the predicted change in the response variable for each one-unit increase in the explanatory variable. The y-intercept (a) represents the predicted value of y when x = 0 (which may or may not have practical meaning depending on the context).",
+                "Regression allows us to make predictions. However, predictions should only be made within the range of the data (interpolation). Extrapolation — predicting beyond the data range — is unreliable because we have no evidence that the linear pattern continues outside the observed range."
+            ]
+        },
+        {
+            "heading": "Residuals and Model Assessment",
+            "paragraphs": [
+                "A residual is the difference between an observed value and its predicted value: residual = y − ŷ. Positive residuals indicate the model underestimates; negative residuals indicate it overestimates.",
+                "A residual plot graphs the residuals against the explanatory variable (or predicted values). A good linear model produces residuals that are randomly scattered around zero with no pattern. If the residual plot shows a curved pattern, the linear model is not appropriate and a nonlinear model should be considered.",
+                "Additional diagnostics include checking for constant spread (homoscedasticity) in residuals and identifying influential observations. A single influential point can dramatically alter the regression line, potentially leading to misleading conclusions."
+            ]
+        },
+        {
+            "heading": "Correlation, Causation, and Wisdom",
+            "paragraphs": [
+                "The distinction between correlation and causation is one of the most important concepts in statistics — and one of the most commonly violated in public discourse. Headlines regularly confuse correlation with causation: 'Studies show that people who eat breakfast weigh less' does not mean that eating breakfast causes weight loss. The relationship may be explained by confounding variables like overall health consciousness.",
+                "Establishing causation requires controlled experiments where the explanatory variable is deliberately manipulated, subjects are randomly assigned to treatment groups, and confounding variables are controlled. Observational studies can reveal associations but cannot prove causation.",
+                "As Christians committed to truth, we have a special responsibility to interpret statistical evidence honestly. Overstating the implications of correlations — claiming causation where only association exists — is a form of intellectual dishonesty that violates the Biblical commitment to truthfulness.",
+                "Statistics, like all knowledge, should be used with wisdom. The ability to analyze data is a powerful tool, but it must be wielded with integrity, humility, and awareness of its limitations. As stewards of the intellectual gifts God has given us, we should use statistics to serve truth, promote justice, and advance human flourishing — all to the glory of the God whose orderly creation makes such analysis possible."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the phrase 'correlation does not imply causation' so important? Give a real-world example of two variables that are correlated but where one does not cause the other.",
+            "guidance": "Think about confounding variables and coincidental correlations. Examples: ice cream sales and drowning rates (both increase in summer), shoe size and reading ability in children (both increase with age)."
+        },
+        {
+            "id": 2,
+            "question": "A researcher finds that study time (hours) and exam scores have a correlation of r = 0.72. Calculate r² and interpret its meaning. What percentage of variation in exam scores is NOT explained by study time?",
+            "guidance": "r² = 0.72² = 0.5184. About 52% of the variation in exam scores is explained by study time. About 48% is explained by other factors."
+        },
+        {
+            "id": 3,
+            "question": "How does Colossians 1:17 ('in him all things hold together') relate to the mathematical relationships we discover through regression analysis? What does the coherence of creation tell us about the Creator?",
+            "guidance": "Consider how the existence of predictable, mathematical relationships between variables presupposes an orderly, coherent universe — which is precisely what we would expect from a rational, all-wise Creator."
+        }
+    ]
+}

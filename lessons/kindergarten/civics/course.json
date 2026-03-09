@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "civics",
+    "title": "Being a Good Helper — Rules and Responsibilities",
+    "description": "Learn how to be a good helper at home, at school, and in your community by following God's rules!",
+    "units": [
+        {
+            "id": "good_helper",
+            "title": "Rules and Responsibilities",
+            "lessons": ["rules_help", "home_helpers", "school_helpers", "community_helpers", "being_kind"]
+        }
+    ],
+    "quiz_id": "civics_quiz"
+}

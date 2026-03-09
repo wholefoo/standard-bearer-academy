@@ -1,0 +1,63 @@
+{
+    "id": "nation_quiz",
+    "title": "Our Nation — Symbols, Laws, and Freedom Quiz",
+    "description": "Test your knowledge about America's symbols, laws, and freedoms!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "How many stars are on the American flag?",
+            "options": ["13", "50", "100", "25"],
+            "correct": 1,
+            "explanation": "There are 50 stars on the American flag, one for each of the 50 states in our country."
+        },
+        {
+            "id": 2,
+            "question": "What is America's national bird?",
+            "options": ["The robin", "The owl", "The bald eagle", "The parrot"],
+            "correct": 2,
+            "explanation": "The bald eagle is America's national bird. It was chosen because it is strong, brave, and free."
+        },
+        {
+            "id": 3,
+            "question": "What Bible verse is written on the Liberty Bell?",
+            "options": ["John 3:16", "Leviticus 25:10 — 'Proclaim liberty throughout all the land'", "Genesis 1:1", "Psalm 23:1"],
+            "correct": 1,
+            "explanation": "The Liberty Bell has 'Proclaim liberty throughout all the land' from Leviticus 25:10 written on it."
+        },
+        {
+            "id": 4,
+            "question": "What does 'one nation under God' in the Pledge of Allegiance mean?",
+            "options": ["America is the biggest country", "America was founded on trust in God", "God lives in America", "America is above the clouds"],
+            "correct": 1,
+            "explanation": "'One nation under God' means that America was founded on trust in God and that we look to Him for guidance."
+        },
+        {
+            "id": 5,
+            "question": "Why do we have laws?",
+            "options": ["To make life boring", "To keep us safe and treat everyone fairly", "To punish children", "To make the president happy"],
+            "correct": 1,
+            "explanation": "Laws help keep us safe and make sure everyone is treated fairly. Many of our laws are based on God's commandments."
+        },
+        {
+            "id": 6,
+            "question": "What is freedom of religion?",
+            "options": ["Everyone must go to the same church", "We can worship God however we choose", "Religion is not allowed", "Only adults can go to church"],
+            "correct": 1,
+            "explanation": "Freedom of religion means we can worship God however we choose. No one can tell us we cannot pray or read our Bible."
+        },
+        {
+            "id": 7,
+            "question": "Where do our rights and freedoms come from, according to the Founders?",
+            "options": ["From the king", "From the government", "From God", "From other countries"],
+            "correct": 2,
+            "explanation": "Our Founding Fathers believed that our rights and freedoms come from God, not from any government or king."
+        },
+        {
+            "id": 8,
+            "question": "What does Micah 6:8 say the Lord requires of us?",
+            "options": ["To be rich and famous", "To act justly, love mercy, and walk humbly with God", "To never make mistakes", "To stay home all day"],
+            "correct": 1,
+            "explanation": "Micah 6:8 tells us to act justly, love mercy, and walk humbly with God — which is what good citizens do!"
+        }
+    ]
+}

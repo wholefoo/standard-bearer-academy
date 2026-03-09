@@ -1,0 +1,78 @@
+{
+    "id": "creation_fall",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Creation and the Fall",
+    "subtitle": "God's Perfect Design and Humanity's Rebellion",
+    "scripture": "Genesis 1-3",
+    "primary_source": "Genesis 1:1 — 'In the beginning God created the heavens and the earth.'",
+    "key_concepts": ["Creation ex nihilo", "Imago Dei", "The Fall and original sin", "The Protoevangelium (Genesis 3:15)", "Covenant of Works"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:1",
+                "text": "\"In the beginning God created the heavens and the earth.\"",
+                "commentary": "The Bible opens with a profound declaration: God existed before all things and brought everything into existence by His sovereign will. This foundational truth establishes that the universe is not the product of chance but of divine purpose and design."
+            },
+            {
+                "reference": "Genesis 1:27",
+                "text": "\"So God created mankind in his own image, in the image of God he created them; male and female he created them.\"",
+                "commentary": "Human beings are unique in all creation — made in God's image (Imago Dei). This gives every person inherent dignity and worth, and sets humanity apart from the animal kingdom with a special purpose and calling."
+            },
+            {
+                "reference": "Genesis 3:15",
+                "text": "\"And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.\"",
+                "commentary": "Even in the moment of judgment after the Fall, God promised a Redeemer. This verse, called the Protoevangelium (first gospel), is the earliest prophecy of Christ, who would ultimately defeat Satan and restore what was broken by sin."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Creation: God Speaks the Universe into Existence",
+            "paragraphs": [
+                "The Old Testament begins with the most important statement in all of literature: 'In the beginning God created the heavens and the earth.' In six literal days, God brought order out of formlessness, light out of darkness, and life out of nothing. Each day of creation reveals God's power, wisdom, and intentional design.",
+                "On Days 1-3, God created the domains: light and darkness, sky and seas, and dry land with vegetation. On Days 4-6, He filled those domains: sun, moon, and stars; birds and fish; land animals and finally man. Day 7 was set apart as a day of rest — the Sabbath — establishing a pattern of work and worship that would become central to Israel's life.",
+                "The creation account teaches us that the universe is not eternal, not self-caused, and not random. It was spoken into existence by a personal, all-powerful God who existed before it and is sovereign over it. This truth is the foundation of all Biblical theology."
+            ]
+        },
+        {
+            "heading": "Imago Dei: Made in God's Image",
+            "paragraphs": [
+                "Of all God's creatures, only human beings are described as being made 'in the image of God' (Imago Dei). This means that men and women reflect God's character in ways no other creature can — through reason, creativity, moral awareness, the capacity for relationship, and the ability to exercise dominion over the earth.",
+                "The Imago Dei is the foundation of human dignity. Every person — regardless of age, race, ability, or social status — has inherent worth because they bear the image of the Creator. This truth is the basis for the sanctity of human life, the equality of all people before God, and the Biblical view that government exists to protect the God-given rights of every individual."
+            ]
+        },
+        {
+            "heading": "The Fall: Sin Enters the World",
+            "paragraphs": [
+                "Genesis 3 records the most devastating event in human history: the Fall. God had placed Adam and Eve in the Garden of Eden and given them one prohibition — not to eat from the tree of the knowledge of good and evil. The serpent (Satan) deceived Eve, and both she and Adam chose to disobey God.",
+                "The consequences were immediate and far-reaching. Sin entered the human race, bringing spiritual death (separation from God), physical death, broken relationships, suffering, and a cursed creation. Adam and Eve were expelled from the Garden, and every human being born after them would inherit a sinful nature — what theologians call 'original sin.'",
+                "The Fall explains why the world is broken despite being created good. It explains why human beings are capable of both great nobility and terrible evil. And it establishes the need for a Savior — someone who could do what Adam failed to do and restore humanity's relationship with God."
+            ]
+        },
+        {
+            "heading": "The First Promise: The Protoevangelium",
+            "paragraphs": [
+                "Even in the midst of pronouncing judgment, God gave the first promise of redemption. Genesis 3:15 declares that the 'offspring' of the woman would crush the serpent's head, though the serpent would strike his heel. This is the Protoevangelium — the 'first gospel' — and it sets the entire trajectory of the Old Testament story.",
+                "From this point forward, the Bible traces the line of the promised 'offspring' through Seth, Noah, Abraham, Judah, David, and ultimately to Jesus Christ. Every covenant God makes, every law He gives, and every prophet He sends points forward to the fulfillment of this first promise. The Old Testament is, at its core, the story of God working through history to keep this covenant promise."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the doctrine of creation 'ex nihilo' (out of nothing) important? How does it differ from other ancient creation stories, and what does it tell us about God's nature?",
+            "guidance": "Consider what it means that God needed no pre-existing material to create. Think about how this differs from mythologies where gods create from existing chaos or matter."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of Imago Dei affect how we should view and treat every human being? Give specific examples of how this doctrine applies to modern ethical issues.",
+            "guidance": "Think about the sanctity of life, human equality, and how the image of God in every person should shape our treatment of others regardless of their circumstances."
+        },
+        {
+            "id": 3,
+            "question": "Trace the connection between Genesis 3:15 and the rest of the Bible's story. How does this first promise shape the entire narrative of Scripture?",
+            "guidance": "Consider how the promised 'offspring' theme runs through the patriarchs, the nation of Israel, the line of David, and ultimately to Christ."
+        }
+    ]
+}

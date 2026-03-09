@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "science",
+    "title": "Plants and Ecosystems — God's Green Earth",
+    "description": "Explore the amazing world of plants and ecosystems that God designed, from seeds to forests and everything in between.",
+    "units": [
+        {
+            "id": "plants_ecosystems",
+            "title": "God's Green Earth",
+            "lessons": ["seeds", "plant_parts", "photosynthesis", "habitats", "food_chains", "stewardship"]
+        }
+    ],
+    "quiz_id": "plants_quiz"
+}

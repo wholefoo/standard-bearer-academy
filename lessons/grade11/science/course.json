@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "science",
+    "title": "Physics",
+    "description": "The Laws God Wrote",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Physics — The Laws God Wrote",
+            "lessons": ["motion_forces", "newtons_laws", "energy_work", "waves_sound", "electricity_magnetism", "light_optics"]
+        }
+    ],
+    "quiz_id": "physics_quiz"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "intro_world_lit",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Introduction to World Literature",
+    "subtitle": "Reading Great Works Through the Lens of Faith",
+    "scripture": "Philippians 4:8",
+    "primary_source": "C.S. Lewis, An Experiment in Criticism (1961)",
+    "key_concepts": ["What is world literature", "Reading with a Christian worldview", "Universal themes in literature", "Literature as a window into culture"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "Paul gives us criteria for evaluating what we read. Great literature deals with truth, nobility, righteousness, and beauty. As Christian readers, we can appreciate excellent writing while discerning its messages through the lens of Scripture."
+            },
+            {
+                "reference": "Acts 17:28",
+                "text": "\"For in him we live and move and have our being. As some of your own poets have said, 'We are his offspring.'\"",
+                "commentary": "Paul quoted pagan Greek poets when preaching in Athens, showing that truth can be found in literature from many cultures. Because all people are made in God's image, writers from every culture can express truths that reflect God's reality."
+            },
+            {
+                "reference": "Proverbs 4:7",
+                "text": "\"The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.\"",
+                "commentary": "Reading great literature from around the world expands our understanding of human nature, different cultures, and the universal longing for meaning — all of which deepen our wisdom and our ability to share the Gospel effectively."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is World Literature?",
+            "paragraphs": [
+                "World literature includes the great works of writing from cultures and civilizations around the globe and throughout history. From the ancient epics of Mesopotamia to the parables of Jesus, from medieval tales of knights and pilgrims to modern novels exploring the human condition, literature captures the experiences, beliefs, and aspirations of people in every age.",
+                "Studying world literature is valuable because it helps us understand how different cultures have grappled with the big questions of life: Who are we? Why are we here? What is right and wrong? What happens after death? While different cultures answer these questions in different ways, the fact that every culture asks them points to a common human nature — we are all made in the image of God and share a deep longing for truth and meaning."
+            ]
+        },
+        {
+            "heading": "Reading with a Christian Worldview",
+            "paragraphs": [
+                "As Christian readers, we do not simply absorb whatever a book tells us — we evaluate it against the truth of Scripture. This does not mean we only read books written by Christians. The Apostle Paul himself quoted pagan poets (Acts 17:28, Titus 1:12) and used their insights to point people toward the true God.",
+                "A Christian worldview helps us recognize truth wherever we find it, while also identifying error, distortion, and false philosophies. When a story portrays the consequences of sin, the power of sacrifice, the longing for redemption, or the triumph of good over evil, we can see echoes of the Biblical narrative — even if the author did not intend them. As C.S. Lewis wrote, great literature can awaken in us a longing for something beyond this world, pointing us toward the God who satisfies that longing."
+            ]
+        },
+        {
+            "heading": "Universal Themes in Literature",
+            "paragraphs": [
+                "Across cultures and centuries, certain themes appear again and again in literature. The battle between good and evil is perhaps the most universal theme — found in everything from ancient myths to modern superhero stories. The hero's journey, where a character faces trials and emerges transformed, echoes the Christian story of testing, growth, and redemption.",
+                "Other recurring themes include sacrifice and love, the consequences of pride and hubris, the search for identity and purpose, justice and mercy, and the longing for a better world. These themes resonate with every culture because they reflect realities built into the human heart by God. The Bible itself is the greatest work of literature ever written, and its themes form the standard against which all other literature can be measured."
+            ]
+        },
+        {
+            "heading": "How to Read Critically and Thoughtfully",
+            "paragraphs": [
+                "Being a thoughtful reader means going beyond just understanding the plot of a story. It means asking deeper questions: What is the author trying to say about human nature? What values does the story promote? How do the characters change and grow? What does this work reveal about the culture that produced it?",
+                "As Christian readers, we also ask: Does this story align with Biblical truth? Where does it reflect God's truth accurately, and where does it fall short? What can I learn about the human condition from this work? How does it help me understand people who think differently from me? Reading critically does not mean reading cynically — it means reading wisely, with discernment, and with gratitude for the gift of human creativity."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Philippians 4:8 help us decide what to read? Can a work of literature be excellent and praiseworthy even if the author was not a Christian? Why or why not?",
+            "guidance": "Consider Paul's use of pagan poets in Acts 17. Think about how truth, beauty, and excellence can be found in works from many cultures because all people are made in God's image."
+        },
+        {
+            "id": 2,
+            "question": "Why do themes like the battle between good and evil and the hero's journey appear in the literature of almost every culture? What does this universality tell us about human nature?",
+            "guidance": "Consider that all people are made in God's image and share common experiences and longings. Think about how these universal themes might reflect the grand narrative of Scripture."
+        },
+        {
+            "id": 3,
+            "question": "What does it mean to read with a 'Christian worldview'? How is this different from simply refusing to read anything that is not explicitly Christian?",
+            "guidance": "Think about how Paul engaged with Greek culture and literature. Consider the difference between avoiding all non-Christian thought and engaging it critically with discernment."
+        }
+    ]
+}

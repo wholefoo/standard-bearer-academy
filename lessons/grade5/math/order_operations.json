@@ -1,0 +1,20 @@
+{
+    "id": "order_operations",
+    "lesson_number": 4,
+    "title": "Order of Operations — God's Order in Math",
+    "scripture": "1 Corinthians 14:40",
+    "memory_verse": "\"But everything should be done in a fitting and orderly way.\" — 1 Corinthians 14:40 (NIV)",
+    "objective": "Students will learn and apply the order of operations (PEMDAS) to evaluate expressions correctly.",
+    "content": [
+        "When a math problem has more than one operation, we must follow a specific order so everyone gets the same answer. This is called the Order of Operations, often remembered as PEMDAS.",
+        "PEMDAS stands for: Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right).",
+        "For example, 3 + 4 × 2 = 3 + 8 = 11 (not 14). We multiply before we add. But (3 + 4) × 2 = 7 × 2 = 14 because parentheses come first.",
+        "God is a God of order, not confusion. Just as He established order in creation — light before plants, plants before animals — He built order into mathematics. Following the rules carefully gives us the right answer every time."
+    ],
+    "activity": "Evaluate these expressions using PEMDAS: (1) 8 + 2 × 5, (2) (8 + 2) × 5, (3) 12 ÷ 4 + 3 × 2, (4) 20 - (3 + 7) × 2. Create a colorful poster showing the PEMDAS steps.",
+    "discussion": [
+        "Why do we need a specific order for operations?",
+        "What happens if two people use different orders to solve the same problem?",
+        "How does following God's order in our lives help us, just as order helps in math?"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "intro_decimals",
+    "lesson_number": 5,
+    "title": "Introduction to Decimals — Another Way to Show Parts",
+    "scripture": "Psalm 119:160",
+    "memory_verse": "\"All your words are true; all your righteous laws are eternal.\" — Psalm 119:160 (NIV)",
+    "objective": "Students will learn what decimals are, how to read and write them, and understand place value in tenths and hundredths.",
+    "content": [
+        "A decimal is another way to write a fraction, using a decimal point instead of a fraction bar. The decimal 0.5 means the same as 1/2. The decimal 0.25 means the same as 1/4. Decimals are based on the number 10.",
+        "The first place after the decimal point is the tenths place. The number 0.3 means 3 tenths, or 3/10. The second place is the hundredths place. The number 0.07 means 7 hundredths, or 7/100. The number 0.35 means 35 hundredths, or 35/100.",
+        "We use decimals every day, especially with money! One dollar and fifty cents is written as $1.50. The 5 is in the tenths place (5 dimes) and the 0 is in the hundredths place (0 pennies). A quarter is $0.25 — 2 dimes and 5 pennies.",
+        "Just as God's Word is precise and true (Psalm 119:160), decimals give us a precise way to express numbers. Whether we write 1/2 or 0.5, the value is the same. God built precision and order into mathematics, and learning decimals helps us appreciate His design."
+    ],
+    "activity": "Using play money or real coins, practice writing amounts as decimals: 3 quarters = $0.75, 1 dime and 3 pennies = $0.13. Then shade a 10x10 grid to represent these decimals: 0.4, 0.75, 0.08, 0.50.",
+    "discussion": [
+        "How are decimals like fractions?",
+        "Why are decimals useful when working with money?",
+        "How does understanding place value help us be accurate?"
+    ]
+}

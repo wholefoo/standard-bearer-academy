@@ -1,0 +1,71 @@
+{
+    "id": "waves_sound",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Waves and Sound",
+    "subtitle": "How God Designed Communication Through Vibration",
+    "scripture": "Psalm 19:1-4",
+    "key_concepts": ["Wave properties", "Transverse and longitudinal waves", "Sound waves", "Frequency and pitch"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1-4",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge. They have no speech, they use no words; no sound is heard from them. Yet their voice goes out into all the earth, their words to the ends of the world.\"",
+                "commentary": "The psalmist speaks of a kind of communication that goes beyond sound waves — creation itself testifies to God's glory. Yet God also designed sound waves as a primary means for human communication, worship, and enjoying the beauty of music."
+            },
+            {
+                "reference": "Job 38:34-35",
+                "text": "\"Can you raise your voice to the clouds and cover yourself with a flood of water? Do you send the lightning bolts on their way? Do they report to you, 'Here we are'?\"",
+                "commentary": "God reminds Job that the natural phenomena involving waves — thunder, lightning — are under divine control. The physics of sound and electromagnetic waves operate according to laws God established."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Are Waves?",
+            "paragraphs": [
+                "A wave is a disturbance that transfers energy from one place to another without transferring matter. When you drop a stone in a pond, ripples spread outward — the water molecules move up and down, but they don't travel outward with the wave. The wave carries energy across the pond's surface while the water stays in roughly the same place.",
+                "Waves are everywhere in God's creation. Sound travels as waves through air. Light travels as electromagnetic waves through space. Ocean waves carry energy across vast distances. Even earthquakes send seismic waves through the Earth's interior. Understanding wave behavior is key to understanding much of the physical world."
+            ]
+        },
+        {
+            "heading": "Types of Waves",
+            "paragraphs": [
+                "There are two main types of mechanical waves. In transverse waves, the particles of the medium move perpendicular (at right angles) to the direction the wave travels. Imagine shaking a rope up and down — the wave moves horizontally along the rope while the rope moves vertically. Light waves and water surface waves are transverse.",
+                "In longitudinal waves, the particles of the medium move parallel to (in the same direction as) the wave. Sound waves are longitudinal — air particles compress and expand in the same direction the sound travels. You can model this by pushing and pulling a coiled spring toy: the coils bunch up (compression) and spread out (rarefaction) along the length of the spring."
+            ]
+        },
+        {
+            "heading": "Wave Properties",
+            "paragraphs": [
+                "All waves share certain measurable properties. Wavelength is the distance between two consecutive identical points on a wave (such as crest to crest). Amplitude is the maximum displacement of the wave from its rest position — it determines the wave's energy and intensity. Frequency is the number of complete wave cycles that pass a point in one second, measured in hertz (Hz).",
+                "Wave speed is calculated by multiplying wavelength by frequency: v = λf. This relationship means that for a given wave speed, higher frequency waves have shorter wavelengths and lower frequency waves have longer wavelengths. This mathematical elegance is characteristic of the orderly physical laws God established."
+            ]
+        },
+        {
+            "heading": "Sound Waves",
+            "paragraphs": [
+                "Sound is a longitudinal wave produced by vibrating objects. When a guitar string vibrates, it creates compressions and rarefactions in the surrounding air. These pressure variations travel outward as sound waves, which your ear detects and your brain interprets as sound.",
+                "The pitch of a sound is determined by its frequency. High-frequency vibrations produce high-pitched sounds; low-frequency vibrations produce low-pitched sounds. The human ear can detect frequencies roughly between 20 Hz and 20,000 Hz. Many animals — bats, dolphins, dogs — can hear frequencies outside this range, a testament to God's diverse design.",
+                "The loudness of a sound depends on its amplitude — the greater the amplitude of the sound wave, the louder the sound. Sound requires a medium (solid, liquid, or gas) to travel; it cannot travel through a vacuum. Sound travels fastest through solids, slower through liquids, and slowest through gases. In air at room temperature, sound travels at approximately 343 meters per second."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Psalm 19:1-4 describe a form of 'communication' that goes beyond physical sound waves? What can we learn about God from studying how waves work?",
+            "guidance": "Consider how creation communicates God's glory without using audible sound. Then think about how the orderly behavior of sound and light waves reflects the Creator's design."
+        },
+        {
+            "id": 2,
+            "question": "Explain the difference between transverse and longitudinal waves. Give an example of each and describe how the particles move in each type.",
+            "guidance": "Think about the direction of particle movement relative to the direction of wave travel. Use the rope example for transverse and the spring example for longitudinal."
+        },
+        {
+            "id": 3,
+            "question": "Why can't sound travel through outer space? How does this fact relate to the design of the universe?",
+            "guidance": "Remember that sound requires a medium. Space is a vacuum with no air molecules to compress and rarefy. Consider why God designed light to travel without a medium but sound to require one."
+        }
+    ]
+}

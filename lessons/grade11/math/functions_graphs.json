@@ -1,0 +1,95 @@
+{
+    "id": "functions_graphs",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Functions and Their Graphs",
+    "subtitle": "The Language of Mathematical Relationships",
+    "scripture": "Romans 1:20",
+    "primary_source": "Leonhard Euler's Introductio in Analysin Infinitorum (1748)",
+    "key_concepts": ["Definition of a function", "Domain and range", "Function notation", "Types of functions: linear, quadratic, absolute value", "Transformations of functions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:20",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made, so that people are without excuse.\"",
+                "commentary": "Functions describe the orderly relationships that exist throughout creation — how one quantity depends on another in a predictable, mathematical way. These relationships are 'clearly seen' in nature: the relationship between distance and time, force and acceleration, temperature and pressure. They reveal the rational mind of the Creator."
+            },
+            {
+                "reference": "1 Corinthians 14:33",
+                "text": "\"For God is not a God of disorder but of peace.\"",
+                "commentary": "Functions embody order. For each input, there is exactly one output. This deterministic quality reflects a universe governed by a God of order, where causes produce predictable effects and relationships follow consistent patterns."
+            },
+            {
+                "reference": "Psalm 147:5",
+                "text": "\"Great is our Lord and mighty in power; his understanding has no limit.\"",
+                "commentary": "God's understanding encompasses every mathematical relationship, every function, every graph. Human mathematicians discover what God already knows perfectly. Pre-calculus is an exercise in thinking God's thoughts after Him."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Function?",
+            "paragraphs": [
+                "A function is a mathematical relationship that assigns exactly one output to each input. If we call the input x and the output y, then a function ensures that for every value of x, there is one and only one corresponding value of y. This concept is fundamental to all higher mathematics and is the foundation of pre-calculus.",
+                "We write functions using function notation: f(x) = expression. For example, f(x) = 2x + 3 means that for any input x, the output is found by doubling x and adding 3. So f(1) = 5, f(2) = 7, f(0) = 3. The beauty of function notation is its precision — it tells us exactly what operation to perform on the input."
+            ]
+        },
+        {
+            "heading": "Domain and Range",
+            "paragraphs": [
+                "The domain of a function is the set of all valid inputs — all x-values for which the function produces a real output. The range is the set of all possible outputs — all y-values that the function actually produces.",
+                "Some functions have restrictions on their domain. For example, f(x) = 1/x is undefined at x = 0 (division by zero), so its domain is all real numbers except 0. The function g(x) = √x requires x ≥ 0 because we cannot take the square root of a negative number (in the real number system). Identifying domain restrictions is a critical skill in pre-calculus.",
+                "Understanding domain and range teaches us about boundaries and limits — concepts that extend beyond mathematics into life itself. Just as functions operate within defined domains, human beings flourish within the boundaries God has established."
+            ]
+        },
+        {
+            "heading": "Graphing Functions",
+            "paragraphs": [
+                "The graph of a function is a visual representation of all its input-output pairs plotted on a coordinate plane. The x-axis represents inputs and the y-axis represents outputs. A graph passes the Vertical Line Test if every vertical line intersects it at most once — this confirms that the graph represents a function (each input has exactly one output).",
+                "Key features to identify on a graph include: intercepts (where the graph crosses the axes), intervals of increase and decrease, maximum and minimum values, symmetry, and end behavior (what happens as x approaches positive or negative infinity).",
+                "The coordinate plane itself is a remarkable invention, attributed to René Descartes (1637), that bridges algebra and geometry. Every equation can be visualized as a graph, and every graph can be described by an equation. This unity of algebra and geometry reflects the interconnectedness of mathematical truth."
+            ]
+        },
+        {
+            "heading": "Parent Functions and Their Families",
+            "paragraphs": [
+                "Pre-calculus studies several families of functions, each with a characteristic shape. The parent function is the simplest member of each family. Linear functions: f(x) = x (a straight line through the origin). Quadratic functions: f(x) = x² (a U-shaped parabola). Absolute value functions: f(x) = |x| (a V-shape). Square root functions: f(x) = √x (a half-parabola). Cubic functions: f(x) = x³ (an S-shaped curve).",
+                "Each parent function has a distinctive graph, domain, range, and set of properties. By mastering these parent functions, you gain a visual vocabulary that makes graphing and analyzing more complex functions much easier.",
+                "The existence of these distinct function families — each with its own elegant properties and applications — illustrates the richness and diversity of mathematical truth. Just as God's creation contains many distinct types of creatures, mathematics contains many distinct types of functions, each with its own beauty and purpose."
+            ]
+        },
+        {
+            "heading": "Transformations of Functions",
+            "paragraphs": [
+                "Transformations allow us to create new functions from parent functions by shifting, stretching, compressing, or reflecting their graphs. Vertical shifts: f(x) + k shifts the graph up by k units. Horizontal shifts: f(x - h) shifts the graph right by h units. Vertical stretches/compressions: af(x) stretches by factor a if |a| > 1, compresses if |a| < 1. Reflections: -f(x) reflects over the x-axis; f(-x) reflects over the y-axis.",
+                "These transformations can be combined. The general transformed function is y = af(b(x - h)) + k, where a controls vertical stretch and reflection, b controls horizontal stretch, h controls horizontal shift, and k controls vertical shift.",
+                "Transformations reveal that complex functions are built from simple ones through orderly operations. This principle of building complexity from simplicity through structured processes mirrors the way God created an extraordinarily complex universe from simple, elegant laws."
+            ]
+        },
+        {
+            "heading": "Euler and the Power of Mathematical Abstraction",
+            "paragraphs": [
+                "Leonhard Euler (1707-1783) was the most prolific mathematician in history and a devout Christian. He formalized much of the notation we use today, including f(x) for functions, e for the base of natural logarithms, and π for pi. His work laid the foundations of modern mathematical analysis.",
+                "Euler's faith was central to his life and work. He defended Christianity in philosophical debates and saw mathematical beauty as evidence of God's creative genius. His famous identity, e^(iπ) + 1 = 0, which connects five fundamental mathematical constants in a single equation, has been called 'the most beautiful equation in mathematics.'",
+                "Euler's legacy reminds us that mathematical abstraction is not empty formalism — it is a powerful tool for understanding the structure of God's creation. The function concept that Euler helped develop is used in every branch of science, engineering, and economics. It is a universal language because it describes the universal order that God has established."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain what a function is and why the concept requires exactly one output for each input. How does this property reflect the orderliness of God's creation?",
+            "guidance": "Consider how predictability and consistency in mathematical relationships parallel the consistency of natural laws. Reflect on 1 Corinthians 14:33 and what it means for God to be 'not a God of disorder.'"
+        },
+        {
+            "id": 2,
+            "question": "Describe the four basic transformations of functions (shift, stretch, compress, reflect) and give the general equation for a transformed function. Why is it significant that complex functions can be built from simple parent functions through these operations?",
+            "guidance": "Consider the principle of elegant simplicity — that a few basic operations can generate infinite variety. How does this mirror God's creation of a complex world from simple laws?"
+        },
+        {
+            "id": 3,
+            "question": "Euler called mathematics 'the queen of the sciences.' Why did he and other great mathematicians see no conflict between mathematical rigor and Christian faith? How does mathematical beauty serve as evidence for a Creator?",
+            "guidance": "Consider why the universe is describable by mathematics at all. Reflect on the unreasonable effectiveness of mathematics in describing physical reality."
+        }
+    ]
+}

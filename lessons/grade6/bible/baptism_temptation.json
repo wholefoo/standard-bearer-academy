@@ -1,0 +1,76 @@
+{
+    "id": "baptism_temptation",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: The Baptism and Temptation of Jesus",
+    "subtitle": "The Beginning of Jesus' Public Ministry — Anointed and Tested",
+    "scripture": "Matthew 3-4; Luke 3-4",
+    "primary_source": "The Gospel of Mark 1:9-13",
+    "key_concepts": ["Jesus' baptism by John", "The Trinity revealed", "Temptation in the wilderness", "Using Scripture to resist temptation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 3:16-17",
+                "text": "\"As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. And a voice from heaven said, 'This is my Son, whom I love; with him I am well pleased.'\"",
+                "commentary": "At Jesus' baptism, all three persons of the Trinity are present: the Son is baptized, the Spirit descends like a dove, and the Father speaks from heaven. This is one of the clearest revelations of the triune nature of God in all of Scripture."
+            },
+            {
+                "reference": "Matthew 4:4",
+                "text": "\"Jesus answered, 'It is written: Man shall not live on bread alone, but on every word that comes from the mouth of God.'\"",
+                "commentary": "When Satan tempted Jesus to turn stones into bread, Jesus responded with Scripture. He showed us that God's Word is more essential than physical food and is our primary weapon against temptation."
+            },
+            {
+                "reference": "Hebrews 4:15",
+                "text": "\"For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are — yet he did not sin.\"",
+                "commentary": "Jesus was truly tempted, not in some pretend way. He experienced real hunger, real pressure, and real spiritual attack. Yet He never sinned. This means He understands our struggles and can help us when we face temptation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "John the Baptist: Preparing the Way",
+            "paragraphs": [
+                "Before Jesus began His public ministry, God sent a messenger to prepare the people. John the Baptist, the son of Zechariah and Elizabeth, lived in the wilderness and preached a message of repentance. He called people to turn away from their sins and be baptized as a sign of their commitment to change.",
+                "John was fulfilling the prophecy of Isaiah 40:3 — he was 'a voice calling in the wilderness, Prepare the way for the Lord.' His mission was not to draw attention to himself but to point people to the One who was coming after him — Jesus, the Lamb of God who takes away the sin of the world."
+            ]
+        },
+        {
+            "heading": "The Baptism of Jesus: The Trinity Revealed",
+            "paragraphs": [
+                "When Jesus came to John to be baptized, John hesitated, saying he needed to be baptized by Jesus instead. But Jesus insisted, saying it was necessary 'to fulfill all righteousness' (Matthew 3:15). Jesus did not need to repent of sin — He had none. His baptism was an act of obedience and identification with the people He came to save.",
+                "As Jesus came up from the water, the heavens opened, the Holy Spirit descended on Him like a dove, and the Father's voice declared, 'This is my Son, whom I love; with him I am well pleased.' In this single moment, the triune nature of God — Father, Son, and Holy Spirit — was visibly and audibly revealed. This event marks the official beginning of Jesus' public ministry."
+            ]
+        },
+        {
+            "heading": "The Temptation in the Wilderness",
+            "paragraphs": [
+                "Immediately after His baptism, the Holy Spirit led Jesus into the wilderness where He fasted for forty days and forty nights. At the end of this period, when Jesus was physically at His weakest, Satan came to tempt Him.",
+                "Satan's three temptations were carefully designed attacks. First, he tempted Jesus to turn stones into bread — appealing to physical desire. Second, he tempted Jesus to throw Himself from the temple — testing God's faithfulness. Third, he offered Jesus all the kingdoms of the world in exchange for worship — the temptation of power and shortcuts. Each temptation was an attempt to get Jesus to act independently of the Father's will."
+            ]
+        },
+        {
+            "heading": "Jesus' Victory: The Sword of the Spirit",
+            "paragraphs": [
+                "Jesus defeated every temptation the same way — by quoting Scripture. He did not argue with Satan, debate philosophy, or rely on His own strength. He used the Word of God as His weapon. Each time Satan attacked, Jesus responded with 'It is written' and cited a passage from Deuteronomy.",
+                "This teaches us a vital lesson: the Bible is our primary defense against temptation and spiritual attack. Ephesians 6:17 calls the Word of God 'the sword of the Spirit.' To use this weapon effectively, we must know Scripture — we must read it, study it, and memorize it so that it is ready when we need it."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why was it important for Jesus to be baptized even though He had no sin? What does His baptism teach us about obedience and humility?",
+            "guidance": "Consider that Jesus said it was to 'fulfill all righteousness.' Think about what it means for Jesus to identify with sinful humanity even though He Himself was sinless."
+        },
+        {
+            "id": 2,
+            "question": "How did Jesus use Scripture to defeat Satan's temptations? What practical lesson does this teach us about how to handle temptation in our own lives?",
+            "guidance": "Notice that Jesus quoted specific verses from Deuteronomy. Think about why knowing Scripture is so important and how memorizing Bible verses can help us when we face difficult choices."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think the Holy Spirit led Jesus into the wilderness to be tempted right after His baptism? What does this tell us about the connection between spiritual highs and spiritual battles?",
+            "guidance": "Consider that times of great blessing are often followed by times of testing. Think about how this pattern might apply to our own spiritual lives."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "proportions",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Proportions and Percent",
+    "subtitle": "Scaling Relationships and Understanding Parts of the Whole",
+    "scripture": "Luke 16:10",
+    "key_concepts": ["Proportions as equal ratios", "Cross multiplication", "Percent as a ratio to 100", "Finding percent of a number", "Percent increase and decrease"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+                "commentary": "Jesus teaches a proportional principle — faithfulness scales. Just as mathematical proportions maintain the same relationship at any size, character remains consistent whether the stakes are small or large. This is a proportional truth about the human heart."
+            },
+            {
+                "reference": "Malachi 3:10",
+                "text": "\"Bring the whole tithe into the storehouse, that there may be food in my house.\"",
+                "commentary": "The tithe — giving 10% — is a Biblical example of percent in action. Understanding percentages helps us be faithful stewards of the resources God entrusts to us."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Proportion?",
+            "paragraphs": [
+                "A proportion is an equation that states two ratios are equal. For example, 2/3 = 8/12 is a proportion because both ratios simplify to the same value. Proportions are powerful tools for solving problems where two quantities maintain a constant ratio as they change in size.",
+                "Proportional thinking is everywhere: enlarging a photograph without distortion, calculating medicine dosages based on body weight, converting currencies, or scaling a recipe. Whenever two quantities change at the same rate, they are in proportion."
+            ]
+        },
+        {
+            "heading": "Solving Proportions with Cross Multiplication",
+            "paragraphs": [
+                "To solve a proportion with an unknown, we use cross multiplication. In the proportion a/b = c/d, the cross products are equal: ad = bc. For example, to solve x/6 = 5/15, cross multiply: 15x = 30, so x = 2.",
+                "Cross multiplication works because multiplying both sides of an equation by the same quantities preserves equality. It transforms a proportion into a simple one-step equation that we already know how to solve. Always check your solution by substituting it back and confirming that both ratios are indeed equal."
+            ]
+        },
+        {
+            "heading": "Understanding Percent",
+            "paragraphs": [
+                "Percent means 'per hundred.' It is a ratio that compares a number to 100. So 25% means 25 out of 100, or 25/100, which simplifies to 1/4. Percents, fractions, and decimals are three different ways to express the same value: 50% = 1/2 = 0.5.",
+                "To convert a fraction to a percent, divide the numerator by the denominator and multiply by 100. To convert a percent to a decimal, divide by 100 (move the decimal point two places left). These conversions are essential skills for working with data, statistics, and financial calculations."
+            ]
+        },
+        {
+            "heading": "Finding Percent of a Number",
+            "paragraphs": [
+                "To find a percent of a number, convert the percent to a decimal and multiply. For example, 30% of 80 is 0.30 × 80 = 24. You can also set up a proportion: 30/100 = x/80, so 100x = 2400 and x = 24.",
+                "This skill has many practical applications. Calculating a 15% tip on a $40 meal: 0.15 × 40 = $6. Finding a 20% discount on a $75 item: 0.20 × 75 = $15 off, so the sale price is $60. Computing the tithe: 10% of $500 income = $50. Being comfortable with percent calculations is essential for managing money wisely."
+            ]
+        },
+        {
+            "heading": "Percent Increase and Decrease",
+            "paragraphs": [
+                "Percent change tells us how much a quantity has increased or decreased relative to its original value. The formula is: percent change = (amount of change / original amount) × 100. If a price goes from $80 to $100, the change is $20 and the percent increase is (20/80) × 100 = 25%.",
+                "Percent decrease works the same way. If enrollment drops from 200 to 170, the change is 30 and the percent decrease is (30/200) × 100 = 15%. Understanding percent change helps us interpret news reports, financial statements, and statistical data accurately — an important skill for being informed, discerning citizens."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Solve this proportion: If 3 missionaries can reach 450 people in a week, how many people could 7 missionaries reach at the same rate? Set up and solve a proportion.",
+            "guidance": "Set up 3/450 = 7/x or equivalently 450/3 = x/7. Cross multiply and solve."
+        },
+        {
+            "id": 2,
+            "question": "A family earns $4,200 per month. They give 10% to their church, save 15%, and spend 30% on housing. Calculate the dollar amount for each category. How much remains for other expenses?",
+            "guidance": "Find each percent of $4,200, then subtract all three from the total to find the remainder."
+        },
+        {
+            "id": 3,
+            "question": "Jesus said that faithfulness with little leads to faithfulness with much (Luke 16:10). How is this like a mathematical proportion? What does this principle mean for how you handle responsibilities today?",
+            "guidance": "Think about proportional relationships — the ratio of faithfulness to responsibility stays constant regardless of scale. Apply this to schoolwork, chores, and relationships."
+        }
+    ]
+}

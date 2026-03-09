@@ -1,0 +1,81 @@
+{
+    "id": "chemical_reactions",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Chemical Reactions — Transformation in Creation",
+    "subtitle": "Types of Reactions, Balancing Equations, and the Laws of Conservation",
+    "scripture": "Ecclesiastes 1:9",
+    "primary_source": "Antoine Lavoisier's 'Elements of Chemistry' (1789)",
+    "key_concepts": ["Law of conservation of mass", "Balancing chemical equations", "Types of reactions", "Endothermic and exothermic reactions", "Activation energy"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 1:9",
+                "text": "\"What has been will be again, what has been done will be done again; there is nothing new under the sun.\"",
+                "commentary": "The law of conservation of mass reflects this biblical principle: matter is neither created nor destroyed in chemical reactions — it is transformed. The atoms God created at the beginning are the same atoms that exist today, continually rearranged but never lost."
+            },
+            {
+                "reference": "Malachi 3:2",
+                "text": "\"But who can endure the day of his coming? Who can stand when he appears? For he will be like a refiner's fire or a launderer's soap.\"",
+                "commentary": "Scripture uses chemical processes like refining metals and making soap as metaphors for God's purifying work. Chemical reactions that transform raw materials into useful substances mirror how God transforms lives."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Dance of Atoms",
+            "paragraphs": [
+                "Chemical reactions are processes in which substances are transformed into new substances with different properties. When iron rusts, when wood burns, when bread rises, and when your body digests food — chemical reactions are at work. Understanding these reactions is fundamental to chemistry and to appreciating the dynamic nature of God's creation.",
+                "In every chemical reaction, the atoms themselves are not changed — they are simply rearranged. The same carbon atoms that were in a log of wood are still present in the ash and carbon dioxide produced when it burns. This principle, the law of conservation of mass, was established by Antoine Lavoisier in the late 1700s."
+            ]
+        },
+        {
+            "heading": "The Law of Conservation of Mass and Balancing Equations",
+            "paragraphs": [
+                "Lavoisier, often called the 'Father of Modern Chemistry,' demonstrated that the total mass of reactants always equals the total mass of products in a chemical reaction. No atoms are gained or lost — they are merely rearranged into new combinations.",
+                "Chemical equations represent reactions using chemical formulas. The reactants are written on the left, the products on the right, and an arrow separates them. For the equation to accurately represent the reaction, it must be balanced — the same number of each type of atom must appear on both sides.",
+                "For example, the combustion of methane: CH₄ + 2O₂ → CO₂ + 2H₂O. This balanced equation shows that one molecule of methane reacts with two molecules of oxygen to produce one molecule of carbon dioxide and two molecules of water. Counting atoms: 1 carbon, 4 hydrogen, and 4 oxygen on each side."
+            ]
+        },
+        {
+            "heading": "Types of Chemical Reactions",
+            "paragraphs": [
+                "Chemical reactions can be classified into five main types. Synthesis (combination) reactions combine two or more substances into a single product: A + B → AB. For example, 2H₂ + O₂ → 2H₂O. Decomposition reactions break a compound into simpler substances: AB → A + B.",
+                "Single replacement reactions occur when one element replaces another in a compound: A + BC → AC + B. Double replacement (metathesis) reactions involve two compounds exchanging partners: AB + CD → AD + CB. These reactions often produce a precipitate, gas, or water.",
+                "Combustion reactions involve a substance reacting with oxygen, typically producing carbon dioxide and water while releasing energy. The burning of fuels — wood, natural gas, gasoline — are combustion reactions. These reactions release the chemical energy stored in molecular bonds, energy that ultimately comes from the sun (or in the case of fossil fuels, from ancient organisms that captured solar energy)."
+            ]
+        },
+        {
+            "heading": "Energy in Chemical Reactions",
+            "paragraphs": [
+                "Every chemical reaction involves a change in energy. Exothermic reactions release energy to the surroundings — combustion is the most familiar example. The heat from a campfire, the warmth of your body, and the light from a candle all come from exothermic reactions. Endothermic reactions absorb energy from the surroundings — photosynthesis, ice packs, and the decomposition of limestone all require energy input.",
+                "Activation energy is the minimum energy required to start a reaction. Even exothermic reactions need a 'push' to get started — a match must be struck to light a fire, even though the fire will then sustain itself. Catalysts lower the activation energy, allowing reactions to proceed faster without being consumed. Enzymes are biological catalysts that enable the thousands of chemical reactions necessary for life.",
+                "The precise energy relationships in chemical reactions are not accidental. The fact that photosynthesis (endothermic) stores solar energy in glucose, and cellular respiration (exothermic) releases that energy exactly when organisms need it, demonstrates elegant design — an energy cycle perfectly engineered to sustain life on Earth."
+            ]
+        },
+        {
+            "heading": "Chemical Reactions in Daily Life and Stewardship",
+            "paragraphs": [
+                "Chemical reactions surround us. Cooking involves reactions that transform raw ingredients — the Maillard reaction browns bread and creates flavor compounds. Cleaning products work through reactions that break down grease and kill bacteria. Medicine depends on precisely controlled reactions within the body.",
+                "As stewards of God's creation, we must understand chemical reactions to use resources wisely and protect the environment. Combustion of fossil fuels, industrial chemical processes, and agricultural chemistry all have environmental impacts. Biblical stewardship calls us to use God's resources responsibly, understanding the chemistry involved so we can make wise decisions that honor the Creator."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the law of conservation of mass and how it relates to balancing chemical equations. How does this law reflect the Biblical principle found in Ecclesiastes 1:9?",
+            "guidance": "Consider that matter is rearranged but never created or destroyed in chemical reactions. Think about how this connects to God's original creation being sustained and transformed."
+        },
+        {
+            "id": 2,
+            "question": "Compare exothermic and endothermic reactions, giving examples of each. How do photosynthesis and cellular respiration work together as a designed energy system?",
+            "guidance": "Think about energy flow in each type of reaction. Consider how the complementary nature of photosynthesis and respiration demonstrates purposeful design."
+        },
+        {
+            "id": 3,
+            "question": "How does understanding chemical reactions inform our responsibility as stewards of creation? Give specific examples.",
+            "guidance": "Consider combustion, industrial processes, and environmental chemistry. Think about how knowledge of chemistry helps us make wise decisions about resource use."
+        }
+    ]
+}

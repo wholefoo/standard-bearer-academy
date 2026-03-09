@@ -1,0 +1,127 @@
+{
+    "id": "literature_quiz",
+    "title": "British Literature — Faith in the English Tradition",
+    "description": "Test your understanding of British literature from the Anglo-Saxon period to the modern era.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "In Beowulf, the monster Grendel is described as a descendant of which Biblical figure?",
+            "options": [
+                "Abel",
+                "Cain",
+                "Noah",
+                "Abraham"
+            ],
+            "correct": 1,
+            "explanation": "The Beowulf poet places Grendel in the lineage of Cain, the first murderer in Genesis 4, establishing the monster's evil within a Biblical framework."
+        },
+        {
+            "id": 2,
+            "question": "What is the earliest surviving poem in the English language?",
+            "options": [
+                "Beowulf",
+                "The Canterbury Tales",
+                "Caedmon's Hymn",
+                "The Seafarer"
+            ],
+            "correct": 2,
+            "explanation": "Caedmon's Hymn (c. 670 AD) is the earliest surviving English poem — and it is a song of praise to God the Creator."
+        },
+        {
+            "id": 3,
+            "question": "In The Canterbury Tales, which character does Chaucer present as the ideal of a faithful Christian minister?",
+            "options": [
+                "The Friar",
+                "The Pardoner",
+                "The Monk",
+                "The Parson"
+            ],
+            "correct": 3,
+            "explanation": "Chaucer's Parson is poor in worldly goods but rich in holiness, teaching Christ's gospel truly and living it himself before preaching to others."
+        },
+        {
+            "id": 4,
+            "question": "What was John Milton's stated purpose in writing Paradise Lost?",
+            "options": [
+                "To entertain the royal court",
+                "To justify the ways of God to men",
+                "To criticize the Church of England",
+                "To promote republican government"
+            ],
+            "correct": 1,
+            "explanation": "Milton explicitly stated that his purpose was to 'justify the ways of God to men' — to show that God is just and good even in allowing the Fall of Man."
+        },
+        {
+            "id": 5,
+            "question": "Which Elizabethan concept held that the universe was organized in a divinely established hierarchy?",
+            "options": [
+                "The Social Contract",
+                "Natural Selection",
+                "The Great Chain of Being",
+                "The General Will"
+            ],
+            "correct": 2,
+            "explanation": "The Great Chain of Being was the Elizabethan understanding that God had established a hierarchy extending from Himself through angels, humans, animals, plants, and minerals."
+        },
+        {
+            "id": 6,
+            "question": "Who wrote The Pilgrim's Progress while imprisoned for his faith?",
+            "options": [
+                "John Milton",
+                "John Bunyan",
+                "William Shakespeare",
+                "Geoffrey Chaucer"
+            ],
+            "correct": 1,
+            "explanation": "John Bunyan, a Puritan preacher, wrote The Pilgrim's Progress during his twelve years of imprisonment for unlicensed preaching."
+        },
+        {
+            "id": 7,
+            "question": "Which Victorian novelist used A Christmas Carol to present an essentially Christian conversion narrative?",
+            "options": [
+                "Charlotte Brontë",
+                "George Eliot",
+                "Charles Dickens",
+                "Thomas Hardy"
+            ],
+            "correct": 2,
+            "explanation": "Dickens's A Christmas Carol shows Scrooge transformed from selfishness to generosity through encounters that mirror divine judgment and grace."
+        },
+        {
+            "id": 8,
+            "question": "What term did J.R.R. Tolkien coin for the sudden joyous turn in a story when unexpected deliverance comes?",
+            "options": [
+                "Catharsis",
+                "Denouement",
+                "Eucatastrophe",
+                "Anagnorisis"
+            ],
+            "correct": 2,
+            "explanation": "Tolkien coined 'eucatastrophe' to describe the sudden, joyous turn from seeming disaster to unexpected salvation — which he saw as a reflection of the Resurrection."
+        },
+        {
+            "id": 9,
+            "question": "Which modernist poet converted to Christianity in 1927 and went on to write deeply devotional poetry?",
+            "options": [
+                "W.B. Yeats",
+                "T.S. Eliot",
+                "Ezra Pound",
+                "Dylan Thomas"
+            ],
+            "correct": 1,
+            "explanation": "T.S. Eliot, author of The Waste Land, converted to Anglican Christianity in 1927 and produced devotional masterpieces including Ash Wednesday and Four Quartets."
+        },
+        {
+            "id": 10,
+            "question": "In Mere Christianity, what argument does C.S. Lewis use to point to God's existence?",
+            "options": [
+                "The argument from design in nature",
+                "The ontological argument",
+                "The moral argument — the universal sense of right and wrong points to a moral Lawgiver",
+                "The cosmological argument from first cause"
+            ],
+            "correct": 2,
+            "explanation": "Lewis argues that the universal moral law — the sense of right and wrong that all humans recognize — points to a moral Lawgiver beyond humanity: God."
+        }
+    ]
+}

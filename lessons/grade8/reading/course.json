@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "reading",
+    "title": "Rhetoric and Persuasion — Speaking Truth",
+    "description": "Learning the art of persuasive communication grounded in truth, logic, and Biblical wisdom.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Speaking Truth",
+            "lessons": ["foundations_rhetoric", "logical_arguments", "persuasive_writing", "analyzing_speeches", "biblical_rhetoric", "debate_defense"]
+        }
+    ],
+    "quiz_id": "rhetoric_quiz"
+}

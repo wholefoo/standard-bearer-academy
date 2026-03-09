@@ -1,0 +1,103 @@
+{
+    "id": "life_science_quiz",
+    "title": "Life Science — The Miracle of Living Things",
+    "description": "Test your understanding of cells, classification, plants, animals, the human body, and ecosystems.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the basic unit of life?",
+            "options": [
+                "An atom",
+                "A cell",
+                "A tissue",
+                "A molecule"
+            ],
+            "correct": 1,
+            "explanation": "The cell is the basic unit of life. All living things are made of one or more cells, and a cell is the smallest structure that can carry out all the functions of a living organism."
+        },
+        {
+            "id": 2,
+            "question": "Which organelle is responsible for photosynthesis in plant cells?",
+            "options": [
+                "Mitochondria",
+                "Nucleus",
+                "Chloroplast",
+                "Cell membrane"
+            ],
+            "correct": 2,
+            "explanation": "Chloroplasts are organelles found in plant cells that contain chlorophyll and capture sunlight to convert carbon dioxide and water into glucose and oxygen through photosynthesis."
+        },
+        {
+            "id": 3,
+            "question": "Who developed the modern system of biological classification and is known as the 'Father of Taxonomy'?",
+            "options": [
+                "Charles Darwin",
+                "Robert Hooke",
+                "Carl Linnaeus",
+                "Louis Pasteur"
+            ],
+            "correct": 2,
+            "explanation": "Carl Linnaeus, a devout Christian scientist, developed the hierarchical classification system and binomial nomenclature that is still used today. He saw classifying organisms as a way of understanding God's design in creation."
+        },
+        {
+            "id": 4,
+            "question": "According to Genesis 1, God created living things 'according to their kinds.' What does this mean for how we understand the diversity of life?",
+            "options": [
+                "All organisms descended from a single common ancestor",
+                "God created distinct groups of organisms, and while variation occurs within kinds, one kind does not change into a fundamentally different kind",
+                "No variation is possible within any group of organisms",
+                "All organisms were created looking exactly as they do today with no variation"
+            ],
+            "correct": 1,
+            "explanation": "The Biblical concept of 'created kinds' teaches that God made distinct groups of organisms. Significant variation can occur within a kind (such as the many breeds of dogs), but one kind does not transform into an entirely different kind."
+        },
+        {
+            "id": 5,
+            "question": "What is homeostasis?",
+            "options": [
+                "The process by which plants make food from sunlight",
+                "The body's ability to maintain a stable internal environment despite changing external conditions",
+                "The classification of organisms into kingdoms",
+                "The flow of energy through a food chain"
+            ],
+            "correct": 1,
+            "explanation": "Homeostasis is the body's ability to maintain a stable internal environment — such as body temperature, blood sugar levels, and pH balance — despite constantly changing external conditions. This self-regulating ability reflects God's remarkable design."
+        },
+        {
+            "id": 6,
+            "question": "In a food chain, what role do producers play?",
+            "options": [
+                "They hunt and eat other animals",
+                "They break down dead organisms and return nutrients to the soil",
+                "They convert sunlight into energy through photosynthesis, forming the base of the food chain",
+                "They regulate the population of predators"
+            ],
+            "correct": 2,
+            "explanation": "Producers, mainly plants, convert sunlight into energy through photosynthesis. They form the base of every food chain, providing the energy that sustains all other organisms in the ecosystem."
+        },
+        {
+            "id": 7,
+            "question": "Why does the third principle of cell theory — that all cells come from pre-existing cells — support the Biblical view of creation?",
+            "options": [
+                "Because it proves evolution is true",
+                "Because scientists have observed life arising from non-living matter many times",
+                "Because it shows that life cannot arise spontaneously from non-living matter, pointing to an original Creator who made the first living cells",
+                "Because cells can create themselves from simple chemicals"
+            ],
+            "correct": 2,
+            "explanation": "Since all cells come from pre-existing cells and life has never been observed arising from non-living matter, there must have been an original Creator who made the first living cells. This is consistent with the Biblical account of God creating life directly."
+        },
+        {
+            "id": 8,
+            "question": "According to Genesis 2:15, what responsibility did God give humans regarding His creation?",
+            "options": [
+                "To exploit all natural resources without concern",
+                "To worship nature as divine",
+                "To work it and take care of it — to be faithful stewards",
+                "To leave nature completely untouched"
+            ],
+            "correct": 2,
+            "explanation": "God placed humans in the Garden to 'work it and take care of it,' establishing our role as stewards of His creation. We are to use natural resources wisely while caring for the environment God entrusted to us."
+        }
+    ]
+}

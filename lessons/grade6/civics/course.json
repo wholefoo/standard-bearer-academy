@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "civics",
+    "title": "Ancient to Modern Government — God's Design for Order",
+    "description": "A survey of government from ancient civilizations to the modern era, exploring how God's design for order, justice, and authority has shaped the development of civil government throughout history.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Ancient to Modern Government — God's Design for Order",
+            "lessons": ["gods_design", "ancient_governments", "roman_law", "medieval_order", "reformation_liberty", "american_founding"]
+        }
+    ],
+    "quiz_id": "government_quiz"
+}

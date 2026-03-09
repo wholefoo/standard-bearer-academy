@@ -1,0 +1,127 @@
+{
+    "id": "nt_quiz",
+    "title": "New Testament Survey Quiz",
+    "description": "Test your understanding of the New Testament — the Gospels, Acts, the Epistles, and Revelation.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which Gospel was written primarily for a Jewish audience and presents Jesus as the fulfillment of Old Testament prophecy?",
+            "options": [
+                "Mark",
+                "Matthew",
+                "Luke",
+                "John"
+            ],
+            "correct": 1,
+            "explanation": "Matthew was written for a Jewish audience and contains more Old Testament quotations than any other Gospel, repeatedly showing how Jesus fulfilled Messianic prophecy."
+        },
+        {
+            "id": 2,
+            "question": "What event in Acts 2 marks the birth of the Church?",
+            "options": [
+                "The Last Supper",
+                "The Ascension of Jesus",
+                "The coming of the Holy Spirit at Pentecost",
+                "The conversion of Paul"
+            ],
+            "correct": 2,
+            "explanation": "At Pentecost, the Holy Spirit descended upon the disciples, Peter preached the first Christian sermon, and about three thousand people believed and were baptized — marking the birth of the Church."
+        },
+        {
+            "id": 3,
+            "question": "According to Romans 1:16-17, how is a person made righteous before God?",
+            "options": [
+                "By keeping the Ten Commandments",
+                "By being baptized",
+                "By faith in the Gospel",
+                "By doing good works"
+            ],
+            "correct": 2,
+            "explanation": "Paul declares that the Gospel reveals 'a righteousness that is by faith from first to last.' Justification — being declared righteous before God — comes through faith alone, not through human effort or obedience to the Law."
+        },
+        {
+            "id": 4,
+            "question": "In the Book of Hebrews, Jesus is presented as superior to all of the following EXCEPT:",
+            "options": [
+                "The angels",
+                "Moses",
+                "The Roman Emperor",
+                "The Levitical priesthood"
+            ],
+            "correct": 2,
+            "explanation": "Hebrews argues that Christ is superior to angels (chapters 1-2), Moses (chapter 3), and the Levitical priesthood (chapters 5-7). The Roman Emperor is not part of the comparison in Hebrews."
+        },
+        {
+            "id": 5,
+            "question": "When James writes that 'faith without works is dead' (James 2:17), what does he mean?",
+            "options": [
+                "Salvation is earned by good works",
+                "Faith alone is not sufficient — works must be added to complete salvation",
+                "Genuine saving faith will inevitably produce visible evidence in how a person lives",
+                "Works are more important than faith"
+            ],
+            "correct": 2,
+            "explanation": "James is not contradicting Paul's teaching on justification by faith. He is saying that real, living faith always produces fruit — a changed life and good deeds. If a person claims to have faith but their life shows no evidence of it, their faith is not genuine."
+        },
+        {
+            "id": 6,
+            "question": "What was the primary reason Paul wrote the Epistle to the Galatians?",
+            "options": [
+                "To thank the Galatians for their financial support",
+                "To correct false teachers who said Gentiles must follow the Jewish Law to be saved",
+                "To explain the Book of Revelation",
+                "To give instructions for church leadership"
+            ],
+            "correct": 1,
+            "explanation": "Paul wrote Galatians to counter false teachers (Judaizers) who insisted that Gentile believers must be circumcised and keep the Mosaic Law. Paul argued passionately that salvation is by grace through faith alone, not by works of the Law."
+        },
+        {
+            "id": 7,
+            "question": "In Revelation 5, Jesus is described as both the 'Lion of the tribe of Judah' and a 'Lamb, looking as if it had been slain.' What does this paradox reveal?",
+            "options": [
+                "That Jesus has two separate identities",
+                "That Christ conquers through sacrificial love, not military force",
+                "That the author was confused about Jesus' nature",
+                "That lions and lambs are the same animal symbolically"
+            ],
+            "correct": 1,
+            "explanation": "The Lion-Lamb paradox reveals the nature of Christ's victory: He triumphs not through worldly power but through His sacrificial death on the cross. His kingly authority (Lion) is exercised through self-giving love (Lamb)."
+        },
+        {
+            "id": 8,
+            "question": "Which apostle wrote from prison, 'I have fought the good fight, I have finished the race, I have kept the faith' (2 Timothy 4:7)?",
+            "options": [
+                "Peter",
+                "John",
+                "James",
+                "Paul"
+            ],
+            "correct": 3,
+            "explanation": "Paul wrote these words in 2 Timothy, his final letter, composed from a Roman prison shortly before his execution. They express his confidence that he had faithfully completed the mission God gave him."
+        },
+        {
+            "id": 9,
+            "question": "What is the central message of the Book of Revelation?",
+            "options": [
+                "A detailed timeline of future political events",
+                "That Christians should withdraw from the world",
+                "That Jesus Christ is sovereign over history and will triumph over all evil",
+                "That the world will be destroyed and never restored"
+            ],
+            "correct": 2,
+            "explanation": "While Revelation contains prophetic visions, its central message is the sovereignty and ultimate triumph of Jesus Christ. He is Lord over history, evil will be judged, and God will create a new heaven and new earth where He dwells with His people forever."
+        },
+        {
+            "id": 10,
+            "question": "According to Revelation 21, what is the most wonderful feature of the new heaven and new earth?",
+            "options": [
+                "Streets of gold and gates of pearl",
+                "The absence of oceans",
+                "The presence of God dwelling with His people",
+                "The size of the New Jerusalem"
+            ],
+            "correct": 2,
+            "explanation": "While Revelation describes the physical beauty of the New Jerusalem, the greatest promise is that 'God's dwelling place is now among the people, and he will dwell with them' (21:3). Heaven is heaven because God is there — His presence is the ultimate blessing."
+        }
+    ]
+}

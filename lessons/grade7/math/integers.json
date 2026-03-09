@@ -1,0 +1,77 @@
+{
+    "id": "integers",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Integers and Absolute Value",
+    "subtitle": "Understanding Positive, Negative, and Zero in God's Ordered World",
+    "scripture": "Ecclesiastes 3:1-8",
+    "key_concepts": ["Positive and negative integers", "The number line", "Absolute value", "Adding and subtracting integers", "Opposites"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 3:1",
+                "text": "\"There is a time for everything, and a season for every activity under the heavens.\"",
+                "commentary": "Just as God has ordained opposites in life — a time to weep and a time to laugh, a time to mourn and a time to dance — mathematics uses opposites (positive and negative) to describe the full range of quantities in His creation."
+            },
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "The integer number line reflects God's love of order. Every number has a precise position, an opposite, and a distance from zero. This orderly structure allows us to describe temperatures, elevations, finances, and countless other real-world measurements."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why We Need Negative Numbers",
+            "paragraphs": [
+                "In earlier math courses, you worked with whole numbers and fractions — quantities that describe 'how many' or 'how much.' But the real world often requires us to describe direction and opposition as well as quantity. Temperatures fall below zero. Bank accounts can be overdrawn. Elevations drop below sea level. To describe these situations precisely, we need integers — the set of positive whole numbers, their negatives, and zero.",
+                "Integers are written as {..., -3, -2, -1, 0, 1, 2, 3, ...}. The positive integers describe quantities above a reference point, and the negative integers describe quantities below it. Zero is the reference point itself — neither positive nor negative."
+            ]
+        },
+        {
+            "heading": "The Number Line",
+            "paragraphs": [
+                "The number line is a visual tool for understanding integers. Zero sits at the center. Positive numbers extend to the right, and negative numbers extend to the left. Each integer has an opposite — a number the same distance from zero but on the other side. The opposite of 5 is -5, and the opposite of -3 is 3.",
+                "On the number line, every number to the right is greater than every number to the left. This means -1 is greater than -5, and 0 is greater than any negative number. Comparing integers on the number line helps us understand ordering and inequality."
+            ]
+        },
+        {
+            "heading": "Absolute Value",
+            "paragraphs": [
+                "The absolute value of an integer is its distance from zero on the number line, regardless of direction. We write absolute value using vertical bars: |5| = 5 and |-5| = 5. Both 5 and -5 are exactly 5 units from zero.",
+                "Absolute value is always zero or positive because distance is never negative. This concept is essential for real-world problems — if the temperature is -10°F, the absolute value tells us how far below zero it is: 10 degrees."
+            ]
+        },
+        {
+            "heading": "Adding and Subtracting Integers",
+            "paragraphs": [
+                "To add two integers with the same sign, add their absolute values and keep the sign. For example, (-4) + (-6) = -10. To add two integers with different signs, subtract the smaller absolute value from the larger and use the sign of the number with the larger absolute value. For example, (-8) + 5 = -3 because 8 - 5 = 3 and the larger absolute value (8) is negative.",
+                "Subtracting an integer is the same as adding its opposite. So 7 - (-3) = 7 + 3 = 10, and (-2) - 5 = (-2) + (-5) = -7. This rule — 'subtracting is adding the opposite' — simplifies many calculations and connects subtraction to the concept of opposites on the number line."
+            ]
+        },
+        {
+            "heading": "Multiplying and Dividing Integers",
+            "paragraphs": [
+                "The rules for multiplying and dividing integers follow a simple, elegant pattern. When you multiply or divide two numbers with the same sign, the result is positive: (-4) × (-3) = 12. When you multiply or divide two numbers with different signs, the result is negative: (-4) × 3 = -12.",
+                "This consistent pattern is another example of the order God has embedded in mathematics. The rules are not arbitrary; they ensure that the properties of arithmetic (commutative, associative, distributive) continue to hold true across all integers."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain in your own words why subtracting a negative number gives a positive result. Use a number line or a real-world example to illustrate your answer.",
+            "guidance": "Think about what it means to 'take away a debt' — if someone removes a $5 debt from your account, you are $5 richer. Connect this to the mathematical rule."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of absolute value reflect the idea of distance? Give two real-world examples where absolute value is more useful than the raw integer.",
+            "guidance": "Consider situations where direction doesn't matter — only magnitude. Temperature differences, distances traveled, or deviations from a target are good examples."
+        },
+        {
+            "id": 3,
+            "question": "Ecclesiastes 3 describes opposites in life. How is this similar to the concept of opposite integers? What does the existence of mathematical order tell us about the Creator?",
+            "guidance": "Think about how pairs of opposites (positive/negative, gain/loss) create a complete and balanced system. Consider what it means that mathematics is consistent and predictable."
+        }
+    ]
+}

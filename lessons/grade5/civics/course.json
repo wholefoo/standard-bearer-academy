@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "civics",
+    "title": "The Three Branches — How Our Government Works",
+    "description": "Learn how America's government is organized into three branches, each with important roles and responsibilities designed to protect liberty and justice.",
+    "units": [
+        {
+            "id": "three_branches",
+            "title": "The Three Branches of Government",
+            "lessons": ["why_three_branches", "legislative_branch", "executive_branch", "judicial_branch", "checks_and_balances", "citizen_responsibility"]
+        }
+    ],
+    "quiz_id": "branches_quiz"
+}

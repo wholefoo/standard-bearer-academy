@@ -1,0 +1,83 @@
+{
+    "id": "ecosystems",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Ecosystems — God's Web of Life",
+    "subtitle": "How Living Things Interact in Communities Designed by the Creator",
+    "scripture": "Colossians 1:16-17",
+    "primary_source": "Charles Elton, Animal Ecology (1927)",
+    "key_concepts": ["Ecosystems and biomes", "Food chains and food webs", "Energy flow and nutrient cycles", "Stewardship and environmental responsibility"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 1:16-17",
+                "text": "\"For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together.\"",
+                "commentary": "Christ created all things and sustains them moment by moment. The intricate balance of ecosystems — where every organism depends on others — reflects the wisdom of a Creator who designed all living things to work together in a unified system."
+            },
+            {
+                "reference": "Genesis 1:30",
+                "text": "\"And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground — everything that has the breath of life in it — I give every green plant for food.\"",
+                "commentary": "God provided for the nutritional needs of all creatures from the beginning. The food chains and food webs we observe in ecosystems today reflect God's original design for sustaining life, though the Fall introduced death and predation into the system."
+            },
+            {
+                "reference": "Genesis 2:15",
+                "text": "\"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.\"",
+                "commentary": "God gave humans the responsibility to care for His creation. As we study ecosystems, we learn how to be better stewards of the environment God entrusted to us."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is an Ecosystem?",
+            "paragraphs": [
+                "An ecosystem is a community of living organisms interacting with one another and with their physical environment. Ecosystems can be as large as an ocean or as small as a puddle. Every ecosystem includes both biotic factors (living things like plants, animals, and microorganisms) and abiotic factors (non-living things like temperature, water, sunlight, and soil).",
+                "God designed ecosystems so that every organism plays a role. Producers (mainly plants) convert sunlight into energy. Consumers (animals) eat producers or other consumers to obtain energy. Decomposers (fungi and bacteria) break down dead organisms and return nutrients to the soil. Each group depends on the others, creating a beautifully balanced system."
+            ]
+        },
+        {
+            "heading": "Food Chains and Food Webs",
+            "paragraphs": [
+                "A food chain shows the flow of energy from one organism to another. A simple food chain might be: grass → grasshopper → frog → snake → hawk. In this chain, grass is the producer, the grasshopper is a primary consumer (herbivore), the frog is a secondary consumer, and the snake and hawk are tertiary consumers.",
+                "In reality, organisms eat more than one type of food and are eaten by more than one predator. A food web is a more accurate representation, showing the interconnected food chains within an ecosystem. The complexity of food webs reveals how carefully God designed the relationships between organisms — if one species is removed or dramatically reduced, it can affect many others throughout the web."
+            ]
+        },
+        {
+            "heading": "Energy Flow and Nutrient Cycles",
+            "paragraphs": [
+                "Energy flows through an ecosystem in one direction — from the sun to producers to consumers. At each level of the food chain, about 90% of the energy is used by the organism for its own life processes or is lost as heat. Only about 10% is passed on to the next level. This is why there are far more producers than top predators in any ecosystem.",
+                "Unlike energy, nutrients are recycled through ecosystems. The water cycle moves water from the atmosphere to the earth and back. The carbon cycle moves carbon through plants, animals, the atmosphere, and the ocean. The nitrogen cycle converts atmospheric nitrogen into forms that plants can use. These cycles, each involving precise chemical processes, keep ecosystems functioning and demonstrate the self-sustaining design God built into His creation."
+            ]
+        },
+        {
+            "heading": "Biomes: Earth's Major Ecosystems",
+            "paragraphs": [
+                "Earth's land surface is divided into major ecosystem types called biomes, determined primarily by climate. Tropical rainforests are hot and wet, supporting the greatest diversity of life on Earth. Deserts receive very little rainfall but are home to specially adapted plants and animals. Grasslands feature vast stretches of grasses and support large herding animals. Temperate forests experience four seasons and contain deciduous trees that lose their leaves in fall.",
+                "The tundra, found near the poles, is cold and treeless, with a permanently frozen layer of soil called permafrost. Each biome showcases different aspects of God's creativity and the remarkable ability of living things to adapt to diverse conditions. The variety of biomes on Earth provides habitats for an incredible range of organisms, all reflecting the Creator's abundant provision."
+            ]
+        },
+        {
+            "heading": "Environmental Stewardship: Our Responsibility",
+            "paragraphs": [
+                "God gave humans dominion over the earth (Genesis 1:28) and the responsibility to care for it (Genesis 2:15). This means we are stewards, not owners, of creation. We have a God-given duty to use natural resources wisely, protect habitats, and maintain the balance of ecosystems.",
+                "Good environmental stewardship is not about worshiping nature — it is about honoring the Creator by caring for what He made. Practical stewardship includes conserving water and energy, reducing waste, protecting endangered species and habitats, and making decisions that balance human needs with care for the environment. As Christians, our motivation for environmental responsibility is our love for God and our desire to be faithful stewards of His creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How do food webs demonstrate the interconnected design of God's creation? What happens when one part of a food web is disrupted?",
+            "guidance": "Consider how removing one species can affect many others. Think about what this interconnectedness tells us about the Creator's planning and design."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between being a steward of creation and worshiping nature? How should a Christian view the environment?",
+            "guidance": "Consider Genesis 1:28 and 2:15. Think about the balance between using natural resources wisely and protecting the environment. How does our view of God as Creator shape our approach?"
+        },
+        {
+            "id": 3,
+            "question": "The nutrient cycles (water, carbon, nitrogen) are self-sustaining systems that keep ecosystems functioning. How do these cycles reflect God's provision and foresight in designing the earth?",
+            "guidance": "Consider how these cycles recycle essential materials so they are never used up. Think about whether self-sustaining systems like these could arise by chance."
+        }
+    ]
+}

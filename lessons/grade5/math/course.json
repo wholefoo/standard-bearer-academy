@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "math",
+    "title": "Pre-Algebra Foundations — Order in God's Creation",
+    "description": "An introduction to pre-algebra concepts including variables, expressions, and equations, showing God's orderly design in mathematics.",
+    "units": [
+        {
+            "id": "pre_algebra",
+            "title": "Pre-Algebra Foundations",
+            "lessons": ["variables", "expressions", "equations", "order_operations", "integers", "coordinate_plane"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

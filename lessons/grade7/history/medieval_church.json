@@ -1,0 +1,74 @@
+{
+    "id": "medieval_church",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Medieval Church",
+    "subtitle": "Cathedrals, Scholars, and the Light of Faith",
+    "scripture": "1 Timothy 3:15",
+    "primary_source": "Thomas Aquinas, Summa Theologica (excerpt, c. 1270)",
+    "key_concepts": ["The medieval Church's influence", "Cathedral building", "Scholasticism", "Universities", "Art and culture"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Timothy 3:15",
+                "text": "\"If I am delayed, you will know how people ought to conduct themselves in God's household, which is the church of the living God, the pillar and foundation of the truth.\"",
+                "commentary": "During the Middle Ages, the Church served as the pillar and foundation of truth for all of European society. It preserved learning, promoted justice, cared for the poor, and inspired some of the greatest achievements in art, architecture, and scholarship."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "Medieval scholars believed that all knowledge — science, philosophy, history, and theology — was unified because it all pointed to God. Christ holds all things together, and therefore all fields of study are connected through Him."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Church at the Center of Life",
+            "paragraphs": [
+                "During the High Middle Ages (roughly 1000-1300 AD), the Christian Church was the most powerful and influential institution in Europe. It shaped every aspect of life — from politics and law to education, art, and daily routine. Understanding the medieval Church is essential to understanding medieval civilization itself.",
+                "While the institutional Church had its flaws and struggles with corruption, its overall impact on Western civilization was overwhelmingly positive. The Church preserved learning, established hospitals, promoted justice, and inspired humanity's noblest achievements."
+            ]
+        },
+        {
+            "heading": "The Great Cathedrals",
+            "paragraphs": [
+                "The great Gothic cathedrals of Europe — Notre-Dame de Paris, Chartres, Canterbury, Cologne — are among the most magnificent buildings ever constructed. These soaring structures, with their pointed arches, flying buttresses, and stained glass windows, were designed to lift the soul toward heaven.",
+                "Building a cathedral was a community project that often took generations to complete. Entire towns contributed labor, money, and materials. The result was not merely a building but a sermon in stone — every sculpture, window, and architectural detail told a story from Scripture or taught a moral lesson.",
+                "The cathedrals demonstrated that Christian faith inspires excellence and beauty. When people build for God's glory, they create works that endure for centuries and continue to inspire awe."
+            ]
+        },
+        {
+            "heading": "The Birth of Universities",
+            "paragraphs": [
+                "The medieval Church gave birth to one of the most important institutions in history: the university. The first universities — Bologna (1088), Paris (c. 1150), and Oxford (1167) — grew out of cathedral schools and monastic centers of learning.",
+                "Medieval universities taught the liberal arts: grammar, rhetoric, logic, arithmetic, geometry, music, and astronomy. Advanced students could study theology, law, or medicine. The entire curriculum was built on the conviction that knowledge is a gift from God and that studying His creation is an act of worship.",
+                "The great scholastic philosophers, especially Thomas Aquinas, demonstrated that faith and reason are not enemies but partners. Aquinas argued that since God is the author of both revelation and reason, they can never truly contradict each other. This integration of faith and learning is one of Christianity's greatest contributions to intellectual history."
+            ]
+        },
+        {
+            "heading": "The Church's Social Mission",
+            "paragraphs": [
+                "The medieval Church was also the primary provider of charity and social services. Monasteries and convents operated hospitals, orphanages, and hostels for travelers. The Church taught that caring for the poor, the sick, and the vulnerable was a sacred duty — a direct expression of Christ's command to love one's neighbor.",
+                "Church courts often provided more just treatment than secular courts, and canon law (Church law) introduced important legal principles, including the idea that the accused should be considered innocent until proven guilty.",
+                "While the medieval Church was far from perfect — corruption, abuse of power, and theological disputes were real problems — its positive contributions to Western civilization in education, charity, justice, art, and scholarship are undeniable."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How do the great Gothic cathedrals reflect the medieval belief that art and architecture should glorify God? What message were the builders trying to communicate?",
+            "guidance": "Think about the soaring heights, the light streaming through stained glass, and the Biblical stories carved in stone. Consider how the cathedrals were designed to point people's hearts toward heaven."
+        },
+        {
+            "id": 2,
+            "question": "Why did the first universities grow out of the Christian Church? How did the medieval view of knowledge as a gift from God shape education?",
+            "guidance": "Consider the idea that all truth is God's truth and that studying creation is an act of worship. Think about how this differs from a purely secular view of education."
+        },
+        {
+            "id": 3,
+            "question": "Thomas Aquinas taught that faith and reason are partners, not enemies. Why is this idea important? How does it differ from the modern view that faith and science are in conflict?",
+            "guidance": "Think about Colossians 1:17 — if Christ holds all things together, then all fields of knowledge must ultimately be unified. Consider how this principle should shape a Christian's approach to learning."
+        }
+    ]
+}

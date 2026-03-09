@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "history",
+    "title": "U.S. History — One Nation Under God",
+    "description": "A comprehensive survey of American history from colonial foundations through the modern era, examining God's providential hand in the story of the United States.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: One Nation Under God",
+            "lessons": ["colonial_foundations", "revolution_independence", "constitution_republic", "civil_war_reconstruction", "industrialization_reform", "america_world_stage"]
+        }
+    ],
+    "quiz_id": "history_quiz"
+}

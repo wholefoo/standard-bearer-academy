@@ -1,0 +1,81 @@
+{
+    "id": "romantic_victorian",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Romantic and Victorian Literature",
+    "subtitle": "Faith, Doubt, and the Search for Meaning",
+    "scripture": "Psalm 19:1-4",
+    "primary_source": "In Memoriam A.H.H. by Alfred, Lord Tennyson (1850)",
+    "key_concepts": ["Romantic idealism and nature worship", "Victorian crisis of faith", "Dickens and social reform", "The Brontës and moral imagination", "Poetry of faith and doubt"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "The Romantic poets rediscovered the glory of nature, but the best of them recognized, as the Psalmist did, that nature points beyond itself to the Creator. William Wordsworth's sense of a 'presence' in nature echoes this Biblical truth."
+            },
+            {
+                "reference": "Psalm 42:1-2",
+                "text": "\"As the deer pants for streams of water, so my soul pants for you, my God. My soul thirsts for God, for the living God.\"",
+                "commentary": "Victorian literature often expresses a deep longing for God in an age of growing doubt. Even writers who struggled with faith revealed an ineradicable human need for the divine — confirming that God has set eternity in the human heart (Ecclesiastes 3:11)."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Romantic Period (1785-1830)",
+            "paragraphs": [
+                "The Romantic movement arose as a reaction against the cold rationalism of the Enlightenment and the dehumanizing effects of the Industrial Revolution. Romantic writers celebrated emotion, imagination, nature, and the individual spirit. At their best, they recovered truths that rationalism had neglected; at their worst, they elevated human feeling above divine revelation.",
+                "William Wordsworth (1770-1850) and Samuel Taylor Coleridge (1772-1834) launched the Romantic era with Lyrical Ballads (1798). Wordsworth's poetry finds God's presence in nature — 'a motion and a spirit, that impels all thinking things' — echoing Psalm 19's declaration that creation reveals God's glory. His 'Intimations of Immortality' ode suggests that children come from God 'trailing clouds of glory,' a poetic expression of the soul's divine origin."
+            ]
+        },
+        {
+            "heading": "Romantic Poets and Christian Truth",
+            "paragraphs": [
+                "Coleridge's The Rime of the Ancient Mariner is an allegory of sin, suffering, and redemption. The Mariner's senseless killing of the albatross brings a curse upon his ship; only when he blesses God's creatures 'unawares' does the curse begin to lift. The poem's moral — 'He prayeth best, who loveth best all things both great and small' — reflects the Christian understanding that love for God's creation flows from love for the Creator.",
+                "William Blake (1757-1827), though unorthodox in his theology, produced some of the most powerful Christian poetry in the English language. His 'Jerusalem' envisions England transformed by Christ's presence, while 'The Tyger' asks profound questions about God's power and purpose in creating both beauty and terror.",
+                "Not all Romantics were faithful to Christian orthodoxy. Percy Bysshe Shelley was an outspoken atheist, and Lord Byron's life was marked by moral scandal. Their work, while technically brilliant, often reflects the consequences of rejecting Biblical morality — restlessness, despair, and self-destruction."
+            ]
+        },
+        {
+            "heading": "The Victorian Period (1830-1901)",
+            "paragraphs": [
+                "The Victorian era was a time of unprecedented change. The Industrial Revolution transformed society, Darwin's theory of evolution challenged traditional beliefs about creation, and new philosophies questioned the authority of Scripture. Victorian literature reflects these tensions between faith and doubt, tradition and progress.",
+                "Alfred, Lord Tennyson (1809-1892) expressed the Victorian crisis of faith most powerfully in In Memoriam A.H.H., a long poem mourning the death of his friend Arthur Hallam. Tennyson wrestles with doubt but ultimately affirms faith: 'Strong Son of God, immortal Love, whom we, that have not seen thy face, by faith, and faith alone, embrace.' His famous line 'nature, red in tooth and claw' captures the challenge Darwinism posed to the idea of a benevolent Creator.",
+                "Robert Browning (1812-1889) and his wife Elizabeth Barrett Browning (1806-1861) both wrote from positions of Christian faith. Robert Browning's dramatic monologues explore moral and spiritual questions with psychological depth, while Elizabeth's Sonnets from the Portuguese celebrate love as a reflection of divine love."
+            ]
+        },
+        {
+            "heading": "Dickens, the Brontës, and the Victorian Novel",
+            "paragraphs": [
+                "Charles Dickens (1812-1870) used the novel as an instrument of social reform, exposing the cruelty of child labor, debtor's prisons, and industrial exploitation. His work is deeply influenced by Christian compassion — A Christmas Carol is essentially a conversion narrative in which Scrooge is transformed from selfishness to generosity by encounters that mirror divine judgment and grace.",
+                "Charlotte Brontë's Jane Eyre (1847) is a deeply moral novel about a woman who refuses to compromise her Christian principles even when it costs her everything. Jane's declaration — 'I will keep the law given by God; sanctioned by man' — represents the triumph of conscience over passion and makes the novel a powerful statement of Christian ethics.",
+                "George Eliot (Mary Ann Evans), though she lost her faith, could not escape its influence. Her novels explore moral responsibility and the consequences of selfish choices with an earnestness that reveals how deeply Christian thinking had shaped English literary culture."
+            ]
+        },
+        {
+            "heading": "Lessons from the Romantic and Victorian Periods",
+            "paragraphs": [
+                "The Romantic and Victorian periods teach us important lessons about the relationship between faith and culture. When writers grounded their imagination in Biblical truth — like Wordsworth, Coleridge, Tennyson, and Dickens — they produced literature of lasting power and moral depth. When they abandoned faith, their brilliance often led to despair.",
+                "The Victorian crisis of faith also warns us that Christians must engage seriously with intellectual challenges rather than ignoring them. Tennyson's honest wrestling with doubt, resolved in deeper faith, provides a better model than either blind certainty or cynical skepticism."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How do the Romantic poets' celebrations of nature compare with the Biblical understanding of creation in Psalm 19? Where do the Romantics agree with Scripture, and where do some of them go wrong?",
+            "guidance": "Consider the difference between appreciating nature as God's handiwork (which Scripture affirms) and worshipping nature itself or treating human feeling as the highest truth (which Scripture would reject)."
+        },
+        {
+            "id": 2,
+            "question": "How does Jane Eyre's decision to follow God's law even at great personal cost reflect Biblical principles? Read Matthew 16:26 and connect it to Jane's choice.",
+            "guidance": "Think about how Jane refuses to compromise her moral principles for the sake of earthly happiness, trusting that obedience to God matters more than personal desire."
+        },
+        {
+            "id": 3,
+            "question": "Tennyson wrestled with doubt but ultimately chose faith. How does his example show that honest questioning can lead to deeper faith rather than unbelief? How should Christians respond when their faith is challenged?",
+            "guidance": "Consider how suppressing questions is not the same as having answers. Tennyson's willingness to face his doubts and bring them before God resulted in a stronger, more tested faith."
+        }
+    ]
+}

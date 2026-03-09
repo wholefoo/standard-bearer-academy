@@ -1,0 +1,63 @@
+{
+    "id": "heritage_quiz",
+    "title": "Pilgrims and Patriots Quiz",
+    "description": "Test your knowledge about the Pilgrims, Patriots, and America's early days!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Why did the Pilgrims leave England?",
+            "options": ["To find gold", "To worship God freely", "To go on vacation", "To find better weather"],
+            "correct": 1,
+            "explanation": "The Pilgrims left England because they wanted to worship God freely without the king telling them how to worship."
+        },
+        {
+            "id": 2,
+            "question": "What was the name of the Pilgrims' ship?",
+            "options": ["The Titanic", "The Mayflower", "The Santa Maria", "The Speedwell"],
+            "correct": 1,
+            "explanation": "The Pilgrims sailed to America on a ship called the Mayflower in 1620."
+        },
+        {
+            "id": 3,
+            "question": "Who helped the Pilgrims learn to plant corn and catch fish?",
+            "options": ["George Washington", "Squanto", "Paul Revere", "Thomas Jefferson"],
+            "correct": 1,
+            "explanation": "Squanto, a Native American, helped the Pilgrims learn to plant corn, catch fish, and survive in their new land."
+        },
+        {
+            "id": 4,
+            "question": "Why did the Pilgrims celebrate the first Thanksgiving?",
+            "options": ["To have a day off", "To thank God for His blessings", "To celebrate a birthday", "To welcome winter"],
+            "correct": 1,
+            "explanation": "The Pilgrims celebrated the first Thanksgiving to thank God for keeping them alive and giving them a good harvest."
+        },
+        {
+            "id": 5,
+            "question": "What did colonial children use to learn to read?",
+            "options": ["iPads", "The Bible and the New England Primer", "Comic books", "Television"],
+            "correct": 1,
+            "explanation": "Colonial children learned to read using the Bible and a book called the New England Primer, which taught letters with Bible verses."
+        },
+        {
+            "id": 6,
+            "question": "What did Paul Revere do on his famous midnight ride?",
+            "options": ["Delivered mail", "Warned colonists that British soldiers were coming", "Went for a horse race", "Visited his friends"],
+            "correct": 1,
+            "explanation": "Paul Revere rode through the countryside at night to warn the colonists that British soldiers were marching toward them."
+        },
+        {
+            "id": 7,
+            "question": "Who wrote the Declaration of Independence?",
+            "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Paul Revere"],
+            "correct": 2,
+            "explanation": "Thomas Jefferson wrote the Declaration of Independence, which said all people are created equal and have God-given rights."
+        },
+        {
+            "id": 8,
+            "question": "When did America declare its independence?",
+            "options": ["July 4, 1620", "July 4, 1776", "December 25, 1776", "January 1, 1800"],
+            "correct": 1,
+            "explanation": "America declared its independence on July 4, 1776. That is why we celebrate the Fourth of July every year!"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "history",
+    "title": "Modern World History",
+    "description": "The 20th Century and Beyond — God's Providence in the Modern Age",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Modern World History — The 20th Century and Beyond",
+            "lessons": ["world_war_one", "rise_of_totalitarianism", "world_war_two", "cold_war", "fall_of_communism", "twenty_first_century"]
+        }
+    ],
+    "quiz_id": "modern_history_quiz"
+}

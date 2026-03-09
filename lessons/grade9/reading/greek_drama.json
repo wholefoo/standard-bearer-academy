@@ -1,0 +1,80 @@
+{
+    "id": "greek_drama",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Greek Drama and the Problem of Human Nature",
+    "subtitle": "Tragedy, Comedy, and the Question of Sin and Suffering",
+    "scripture": "Romans 3:23",
+    "primary_source": "Sophocles, Antigone (c. 441 BC) — Antigone's speech on divine law vs. human law",
+    "key_concepts": ["Greek tragedy and comedy", "Hamartia and the Biblical concept of sin", "Divine law versus human law", "Catharsis and moral reflection"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 3:23",
+                "text": "\"For all have sinned and fall short of the glory of God.\"",
+                "commentary": "Greek tragedy recognized that human beings have a fatal flaw (hamartia) that leads to their downfall. While the Greeks understood this imperfectly, the Bible reveals the full truth: all have sinned, and our fundamental problem is not mere error but rebellion against God."
+            },
+            {
+                "reference": "Acts 5:29",
+                "text": "\"Peter and the other apostles replied: 'We must obey God rather than human beings!'\"",
+                "commentary": "Antigone's famous choice to obey divine law rather than the king's decree echoes the principle that the Apostles would later articulate: when human law conflicts with God's law, believers must obey God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Birth of Drama",
+            "paragraphs": [
+                "Ancient Greece gave birth to Western drama in the 5th century BC. The great tragedians — Aeschylus, Sophocles, and Euripides — and the comedian Aristophanes created works that have shaped storytelling for over two thousand years. Greek drama explored the deepest questions of human existence: Why do good people suffer? What happens when human will conflicts with divine will? Can we escape our fate?",
+                "For Christian readers, Greek drama is particularly interesting because it grapples with themes that Scripture addresses definitively: the nature of sin, the consequences of pride, and the relationship between human law and divine law."
+            ]
+        },
+        {
+            "heading": "Sophocles' Antigone: Divine Law vs. Human Law",
+            "paragraphs": [
+                "In Antigone, the heroine faces an impossible choice. King Creon has decreed that her brother Polynices, who died attacking the city, must remain unburied — a terrible dishonor in Greek culture. Antigone believes the gods require proper burial for the dead, and she defies Creon's edict to bury her brother.",
+                "Antigone declares: 'I did not think your edicts strong enough to overrule the unwritten, unalterable laws of God and heaven.' This is one of the earliest and most powerful statements of the principle that there is a higher law than the commands of earthly rulers.",
+                "This theme resonates deeply with Christian thought. The Bible teaches that God's law is supreme and that human authorities derive their legitimacy from Him. When Peter and John were commanded by the Sanhedrin to stop preaching, they replied, 'We must obey God rather than human beings' (Acts 5:29). Antigone's stand, though imperfect in its pagan context, points toward this Biblical truth."
+            ]
+        },
+        {
+            "heading": "Tragedy and Hamartia",
+            "paragraphs": [
+                "Aristotle, in his Poetics, described tragedy as the story of a noble person brought low by a 'hamartia' — a fatal flaw or error. The Greek word hamartia is the same word used in the New Testament for 'sin' (Romans 3:23). While the Greeks understood hamartia primarily as a tragic error or excess of pride (hubris), the Bible reveals it as willful rebellion against God.",
+                "In Oedipus Rex, Oedipus' hamartia is his pride and determination to uncover the truth at all costs, which leads to his devastating discovery and self-destruction. In a Biblical framework, we recognize that pride is indeed the root of human downfall — it was pride that led to the Fall in Genesis 3, when Adam and Eve desired to 'be like God.'",
+                "Greek tragedy achieves catharsis — an emotional purging of pity and fear in the audience. By witnessing the consequences of human pride and error on stage, the audience gains moral insight. While the Greeks lacked the full revelation of the Gospel, their tragedies demonstrate an awareness of human fallenness that aligns with Biblical anthropology."
+            ]
+        },
+        {
+            "heading": "Comedy and the Human Condition",
+            "paragraphs": [
+                "Greek comedy, particularly the works of Aristophanes, used humor and satire to critique society, politics, and human folly. In plays like The Clouds and The Birds, Aristophanes mocked pretension, dishonesty, and the corruption of public life.",
+                "Comedy serves a moral function by exposing vice through laughter. Proverbs 26:5 instructs us to 'answer a fool according to his folly,' and humor has long been a tool for revealing the absurdity of sinful behavior. The Christian tradition has recognized that laughter, properly directed, can serve truth by making vice ridiculous and virtue attractive."
+            ]
+        },
+        {
+            "heading": "Reading Drama with Discernment",
+            "paragraphs": [
+                "Greek drama reflects a pagan worldview that includes polytheism, fate, and a fundamentally tragic view of existence. Christians can appreciate the literary artistry and moral insights of these works while recognizing their theological limitations. The Greeks saw the problem — human pride leads to destruction — but they lacked the solution: the redemption offered through Jesus Christ.",
+                "As we study Greek drama, we learn to read with critical discernment, evaluating every work against the standard of Scripture. We ask: What does this author understand correctly about human nature? Where does this worldview fall short of Biblical truth? How does the Gospel provide the answer to the questions these works raise?"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "In Antigone, the heroine defies the king's law to obey what she believes is divine law. When, if ever, is it right for a Christian to disobey civil authority? Use Scripture to support your answer.",
+            "guidance": "Consider Acts 5:29, Daniel 3, and Romans 13:1-7. Think about the difference between defying unjust laws that contradict God's commands and simply disagreeing with government policies."
+        },
+        {
+            "id": 2,
+            "question": "Compare the Greek concept of hamartia (tragic flaw) with the Biblical concept of sin. How are they similar? How do they differ? Why does this distinction matter?",
+            "guidance": "Consider that hamartia in Greek thought is often an error or excess, while Biblical sin is willful rebellion against a holy God. Think about how each concept implies a different solution to the human problem."
+        },
+        {
+            "id": 3,
+            "question": "How can studying pagan literature like Greek drama help Christians better understand and communicate the Gospel? Give specific examples.",
+            "guidance": "Think about Paul's use of Greek poetry in Acts 17. Consider how understanding the questions ancient people asked helps us present the Gospel as the answer to humanity's deepest longings."
+        }
+    ]
+}

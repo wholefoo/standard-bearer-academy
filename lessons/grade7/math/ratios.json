@@ -1,0 +1,77 @@
+{
+    "id": "ratios",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Ratios and Rates",
+    "subtitle": "Comparing Quantities in God's Precisely Designed World",
+    "scripture": "Genesis 6:15",
+    "key_concepts": ["Ratios as comparisons", "Equivalent ratios", "Unit rates", "Rates in real-world contexts", "Ratio tables"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 6:15",
+                "text": "\"This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.\"",
+                "commentary": "God gave Noah precise ratios for the ark's dimensions — 300:50:30, or simplified 6:1:0.6. Modern naval architects confirm that this ratio produces an extremely stable vessel. God's mathematical precision in His instructions reflects His perfect wisdom."
+            },
+            {
+                "reference": "Exodus 30:23-25",
+                "text": "\"Take the following fine spices: 500 shekels of liquid myrrh... 250 of fragrant cinnamon... 250 of fragrant calamus, 500 of cassia... and a hin of olive oil. Make these into a sacred anointing oil.\"",
+                "commentary": "God prescribed exact ratios for the sacred anointing oil. The specific proportions mattered — they could not be altered. This shows us that ratios are not arbitrary but carry real meaning and significance."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Ratio?",
+            "paragraphs": [
+                "A ratio is a comparison of two quantities. It tells us how much of one thing there is relative to another. We can write ratios in three ways: using a colon (3:2), as a fraction (3/2), or with the word 'to' (3 to 2). All three mean the same thing: for every 3 of the first quantity, there are 2 of the second.",
+                "Ratios are everywhere in God's creation: the ratio of land to water on Earth, the ratio of oxygen to nitrogen in the atmosphere, the proportions of the human body. Understanding ratios helps us describe and appreciate the precise relationships God has built into the world."
+            ]
+        },
+        {
+            "heading": "Equivalent Ratios",
+            "paragraphs": [
+                "Two ratios are equivalent if they represent the same relationship. Just as 1/2 and 3/6 are equivalent fractions, the ratios 2:3 and 4:6 are equivalent ratios. We create equivalent ratios by multiplying or dividing both terms by the same nonzero number.",
+                "A ratio table organizes equivalent ratios in rows or columns. If a recipe calls for 2 cups of flour for every 3 cups of milk, we can scale up: 4:6, 6:9, 8:12. Each pair is equivalent. Finding equivalent ratios is essential for scaling recipes, maps, models, and many other practical applications."
+            ]
+        },
+        {
+            "heading": "Rates and Unit Rates",
+            "paragraphs": [
+                "A rate is a special ratio that compares two quantities with different units. Miles per hour, dollars per pound, and heartbeats per minute are all rates. They help us describe how fast, how expensive, or how frequent something is.",
+                "A unit rate is a rate with a denominator of 1. If a car travels 180 miles in 3 hours, the unit rate is 180 ÷ 3 = 60 miles per hour. Unit rates make comparisons easy. If Store A sells apples at $4.50 for 3 pounds ($1.50/lb) and Store B sells them at $5.60 for 4 pounds ($1.40/lb), the unit rates tell us Store B is cheaper per pound."
+            ]
+        },
+        {
+            "heading": "Using Ratios to Solve Problems",
+            "paragraphs": [
+                "Ratios help solve many real-world problems. If a map has a scale of 1 inch : 50 miles, and two cities are 3.5 inches apart on the map, the actual distance is 3.5 × 50 = 175 miles. If a church plans to send care packages with a ratio of 5 snacks to 2 drinks per package, and they have 200 snacks, they need 200 ÷ 5 × 2 = 80 drinks.",
+                "When solving ratio problems, identify the two quantities being compared, determine the ratio, and use multiplication or division to find the unknown quantity. Setting up a ratio table or writing the ratio as a fraction can help organize your thinking."
+            ]
+        },
+        {
+            "heading": "God's Use of Ratios in Creation and Scripture",
+            "paragraphs": [
+                "Throughout Scripture, God uses precise ratios. The dimensions of Noah's Ark (6:1 length-to-width ratio) match what modern engineers consider optimal for stability in rough seas. The tabernacle, the temple, and even musical instruments in worship had specific proportional requirements.",
+                "In creation, we see ratios in the golden ratio found in flower petals, seashells, and galaxies; in the precise ratio of gases in our atmosphere that sustains life; and in the mathematical relationships that govern planetary orbits. These patterns point to a Designer who thinks mathematically and builds with purpose."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "A family drives 252 miles using 7 gallons of gas. What is their unit rate in miles per gallon? If gas costs $3.50 per gallon, how much did the trip cost in fuel?",
+            "guidance": "Divide miles by gallons for the unit rate. Multiply gallons by price per gallon for the total cost."
+        },
+        {
+            "id": 2,
+            "question": "The ratio of boys to girls in a youth group is 3:5. If there are 24 boys, how many girls are there? How many total young people are in the group?",
+            "guidance": "Set up equivalent ratios. If 3 corresponds to 24, find the multiplier and apply it to 5."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think God gave Noah such specific dimensions for the Ark rather than just telling him to build a big boat? What does this tell us about God's character and His use of mathematics?",
+            "guidance": "Think about precision, wisdom, and care. Consider what could have gone wrong if the proportions were different."
+        }
+    ]
+}

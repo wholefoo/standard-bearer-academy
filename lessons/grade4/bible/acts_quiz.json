@@ -1,0 +1,63 @@
+{
+    "id": "acts_quiz",
+    "title": "The Early Church — Acts of the Apostles",
+    "description": "Test your knowledge of the early church and the Book of Acts!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What happened on the Day of Pentecost?",
+            "options": ["Jesus was born", "The Holy Spirit came upon the believers", "Paul was converted", "The temple was rebuilt"],
+            "correct": 1,
+            "explanation": "On the Day of Pentecost, the Holy Spirit came upon the believers with the sound of wind and what looked like tongues of fire (Acts 2:1-4)."
+        },
+        {
+            "id": 2,
+            "question": "How many people believed and were baptized after Peter's sermon at Pentecost?",
+            "options": ["About 500", "About 1,000", "About 3,000", "About 10,000"],
+            "correct": 2,
+            "explanation": "About 3,000 people believed in Jesus and were baptized after Peter preached at Pentecost (Acts 2:41)."
+        },
+        {
+            "id": 3,
+            "question": "What four things did the early believers devote themselves to?",
+            "options": ["Sports, music, art, and science", "Teaching, fellowship, breaking bread, and prayer", "Reading, writing, math, and history", "Building, farming, trading, and traveling"],
+            "correct": 1,
+            "explanation": "Acts 2:42 says the early believers devoted themselves to the apostles' teaching, fellowship, breaking of bread, and prayer."
+        },
+        {
+            "id": 4,
+            "question": "Who was the first person to die for his faith in Jesus?",
+            "options": ["Peter", "Paul", "Stephen", "James"],
+            "correct": 2,
+            "explanation": "Stephen was the first Christian martyr. He was stoned to death for his bold witness about Jesus (Acts 7:54-60)."
+        },
+        {
+            "id": 5,
+            "question": "What were Stephen's last words?",
+            "options": ["'I will have my revenge'", "'Lord, do not hold this sin against them'", "'You will be sorry'", "'Remember me always'"],
+            "correct": 1,
+            "explanation": "Like Jesus on the cross, Stephen forgave his killers, saying, 'Lord, do not hold this sin against them' (Acts 7:60)."
+        },
+        {
+            "id": 6,
+            "question": "What happened to Saul on the road to Damascus?",
+            "options": ["He found treasure", "A bright light from heaven blinded him and Jesus spoke to him", "He met Peter", "He decided to become a fisherman"],
+            "correct": 1,
+            "explanation": "A brilliant light from heaven flashed around Saul, and he heard Jesus say, 'Saul, Saul, why do you persecute me?' (Acts 9:3-4)."
+        },
+        {
+            "id": 7,
+            "question": "How many missionary journeys did Paul make?",
+            "options": ["One", "Two", "Three", "Five"],
+            "correct": 2,
+            "explanation": "Paul made three great missionary journeys across the Roman Empire, starting new churches in many cities."
+        },
+        {
+            "id": 8,
+            "question": "What did Paul write to the churches he started?",
+            "options": ["Textbooks", "Letters that became books of the New Testament", "Songs and poems only", "Grocery lists"],
+            "correct": 1,
+            "explanation": "Paul wrote letters (epistles) to encourage and teach the churches. Many became New Testament books like Romans, Corinthians, and Ephesians."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "history_quiz",
+    "title": "Ancient & Medieval History Quiz",
+    "description": "Test your understanding of ancient and medieval history from a providential perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Genesis, what is the foundation of human civilization?",
+            "options": [
+                "Random evolutionary development over millions of years",
+                "God's purposeful creation of mankind in His image and the Cultural Mandate",
+                "Human beings gradually developing from primitive to advanced societies",
+                "Trade and commerce among early tribal groups"
+            ],
+            "correct": 1,
+            "explanation": "Genesis teaches that God created mankind in His image and gave them the Cultural Mandate (Genesis 1:28) — the commission to be fruitful, fill the earth, and exercise dominion. This is the foundation of all human civilization."
+        },
+        {
+            "id": 2,
+            "question": "What is the significance of the Abrahamic Covenant (Genesis 12:1-3) for world history?",
+            "options": [
+                "It only affected the nation of Israel and had no broader impact",
+                "It established that God would bless all nations through Abraham's descendants, culminating in Christ",
+                "It gave Abraham political control over the ancient world",
+                "It was a temporary agreement that expired after Abraham's death"
+            ],
+            "correct": 1,
+            "explanation": "The Abrahamic Covenant promised that through Abraham's line all nations would be blessed — a promise fulfilled in Jesus Christ (Galatians 3:8, 14). This covenant shapes the trajectory of all redemptive history."
+        },
+        {
+            "id": 3,
+            "question": "What was unique about Israel's law code compared to other ancient legal systems?",
+            "options": [
+                "It was written in a more beautiful script",
+                "It was given by God Himself and established equality before the law, protection for the vulnerable, and limits on governmental power",
+                "It was shorter than other law codes",
+                "It applied only to priests and leaders, not common people"
+            ],
+            "correct": 1,
+            "explanation": "Israel's law was divinely revealed and contained principles of justice — equality before the law, care for the poor, limits on rulers — that no other ancient civilization possessed."
+        },
+        {
+            "id": 4,
+            "question": "What were the major limitations of Athenian democracy?",
+            "options": [
+                "It included everyone equally in the political process",
+                "It excluded women, slaves, and foreigners; practiced slavery; and could act unjustly through majority rule",
+                "It had too many checks and balances to function effectively",
+                "It was too focused on individual rights"
+            ],
+            "correct": 1,
+            "explanation": "While pioneering self-government, Athens excluded the majority of its population from citizenship, practiced slavery, and demonstrated (as in the trial of Socrates) that direct democracy can produce unjust outcomes."
+        },
+        {
+            "id": 5,
+            "question": "What does Paul mean by the 'fullness of time' in Galatians 4:4?",
+            "options": [
+                "That Jesus was born at a random moment in history",
+                "That God sent Christ at the precisely right moment when Roman roads, Greek language, and political stability created ideal conditions for the Gospel's spread",
+                "That time is an illusion",
+                "That the Roman Empire was the Kingdom of God"
+            ],
+            "correct": 1,
+            "explanation": "God providentially arranged the political, linguistic, and cultural conditions of the Roman Empire to create the perfect environment for the birth of Christ and the rapid spread of the Gospel throughout the known world."
+        },
+        {
+            "id": 6,
+            "question": "How did Roman law influence Western civilization?",
+            "options": [
+                "It had no lasting influence",
+                "It established principles like presumption of innocence, right to present evidence, and legal equality that form the foundation of Western legal systems",
+                "It only influenced military law",
+                "It was completely replaced by Biblical law after Constantine"
+            ],
+            "correct": 1,
+            "explanation": "Roman legal principles — including presumption of innocence, due process, and equality before the law — were incorporated into Western legal traditions and continue to shape legal systems today."
+        },
+        {
+            "id": 7,
+            "question": "Why did persecution of the early Church ultimately fail to destroy Christianity?",
+            "options": [
+                "Because the Roman military was too weak to enforce it",
+                "Because the courage of the martyrs inspired others, and God's promise that His Church would prevail cannot be broken",
+                "Because Christians had superior military technology",
+                "Because the persecution was not very severe"
+            ],
+            "correct": 1,
+            "explanation": "Jesus promised that 'the gates of Hades will not overcome' His Church (Matthew 16:18). The faithfulness of the martyrs demonstrated the transforming power of the Gospel, and persecution actually accelerated the Church's growth."
+        },
+        {
+            "id": 8,
+            "question": "What role did medieval monasteries play in preserving Western civilization?",
+            "options": [
+                "They played no significant role",
+                "They preserved classical manuscripts, developed agriculture, established schools, and maintained learning during a period of political instability",
+                "They only preserved religious texts",
+                "They primarily served as military fortifications"
+            ],
+            "correct": 1,
+            "explanation": "Monasteries were the primary centers of learning after Rome's fall. Monks copied manuscripts (both sacred and secular), developed agriculture, established schools and hospitals, and maintained the intellectual traditions of Western civilization."
+        },
+        {
+            "id": 9,
+            "question": "Why is the university considered a distinctly medieval Christian invention?",
+            "options": [
+                "Because universities existed before Christianity",
+                "Because the first universities were established by the Church to pursue knowledge as an act of worship, believing that faith and reason are complementary",
+                "Because only clergy were allowed to attend",
+                "Because universities taught only theology"
+            ],
+            "correct": 1,
+            "explanation": "The first universities (Bologna, Paris, Oxford) were founded by the Church based on the conviction that studying God's creation through reason is compatible with faith. They developed methods of rational inquiry that form the basis of Western academic life."
+        },
+        {
+            "id": 10,
+            "question": "How did the medieval distinction between Church and State contribute to the development of political liberty?",
+            "options": [
+                "It prevented the total concentration of power in any single institution, creating space for individual freedom",
+                "It had no effect on political liberty",
+                "It created a theocracy where the Church controlled everything",
+                "It eliminated all government authority"
+            ],
+            "correct": 0,
+            "explanation": "The medieval 'two swords' doctrine — separate ecclesiastical and temporal authority — prevented tyranny by dividing power. When Church and State checked each other's overreach, individual liberty was protected. This principle directly influenced the American system of separated powers."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "history_quiz",
+    "title": "America the Beautiful Quiz",
+    "description": "Let's see what you learned about our wonderful country!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "How many stars are on the American flag?",
+            "options": ["13", "100", "50", "25"],
+            "correct": 2,
+            "explanation": "There are 50 stars on our flag — one for each state in America!"
+        },
+        {
+            "id": 2,
+            "question": "Who was the first President of the United States?",
+            "options": ["Abraham Lincoln", "George Washington", "Benjamin Franklin", "Thomas Jefferson"],
+            "correct": 1,
+            "explanation": "George Washington was our very first President! We call him the Father of Our Country."
+        },
+        {
+            "id": 3,
+            "question": "Why did the Pilgrims come to America?",
+            "options": ["To find gold", "To be free to worship God", "To go swimming", "To build castles"],
+            "correct": 1,
+            "explanation": "The Pilgrims came to America so they could be free to worship God the way they wanted!"
+        },
+        {
+            "id": 4,
+            "question": "What Bible words are on the Liberty Bell?",
+            "options": ["Be still and know", "Proclaim liberty throughout all the land", "Love one another", "In the beginning"],
+            "correct": 1,
+            "explanation": "The Liberty Bell has the words 'Proclaim liberty throughout all the land' from Leviticus 25:10!"
+        },
+        {
+            "id": 5,
+            "question": "What song talks about America's purple mountains?",
+            "options": ["Happy Birthday", "Twinkle Twinkle Little Star", "America the Beautiful", "Jesus Loves Me"],
+            "correct": 2,
+            "explanation": "'America the Beautiful' talks about our country's purple mountains and amber waves of grain!"
+        }
+    ]
+}

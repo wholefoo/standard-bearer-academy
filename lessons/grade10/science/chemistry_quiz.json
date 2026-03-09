@@ -1,0 +1,127 @@
+{
+    "id": "chemistry_quiz",
+    "title": "Chemistry — The Elements of Creation",
+    "description": "Test your understanding of atomic structure, the Periodic Table, chemical bonds, reactions, stoichiometry, and acids and bases.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What subatomic particle determines the identity of an element?",
+            "options": [
+                "Neutron",
+                "Electron",
+                "Proton",
+                "Photon"
+            ],
+            "correct": 2,
+            "explanation": "The number of protons (atomic number) uniquely identifies each element. Hydrogen always has 1 proton, carbon always has 6, and gold always has 79. Changing the number of protons changes the element itself."
+        },
+        {
+            "id": 2,
+            "question": "What are isotopes?",
+            "options": [
+                "Atoms of different elements with the same mass",
+                "Atoms of the same element with different numbers of electrons",
+                "Atoms of the same element with different numbers of neutrons",
+                "Atoms that have no neutrons"
+            ],
+            "correct": 2,
+            "explanation": "Isotopes are atoms of the same element (same number of protons) that have different numbers of neutrons, giving them different mass numbers. For example, carbon-12 and carbon-14 are both carbon but have 6 and 8 neutrons respectively."
+        },
+        {
+            "id": 3,
+            "question": "Why do elements in the same group of the Periodic Table have similar chemical properties?",
+            "options": [
+                "They have the same number of neutrons",
+                "They have the same atomic mass",
+                "They have the same number of valence electrons",
+                "They were discovered at the same time"
+            ],
+            "correct": 2,
+            "explanation": "Elements in the same group (vertical column) have the same number of valence electrons, which determines chemical behavior. For example, all alkali metals (Group 1) have one valence electron and are highly reactive."
+        },
+        {
+            "id": 4,
+            "question": "What type of bond forms when electrons are transferred from one atom to another?",
+            "options": [
+                "Covalent bond",
+                "Metallic bond",
+                "Ionic bond",
+                "Hydrogen bond"
+            ],
+            "correct": 2,
+            "explanation": "Ionic bonds form when one atom transfers electrons to another, creating positively and negatively charged ions that attract each other. This typically occurs between metals (which lose electrons) and nonmetals (which gain electrons), as in sodium chloride (NaCl)."
+        },
+        {
+            "id": 5,
+            "question": "What makes water a polar molecule?",
+            "options": [
+                "Water molecules are perfectly symmetrical",
+                "Oxygen and hydrogen share electrons equally",
+                "Oxygen is more electronegative than hydrogen, creating an uneven distribution of charge",
+                "Water has no electrical charge"
+            ],
+            "correct": 2,
+            "explanation": "Water is polar because oxygen is much more electronegative than hydrogen, pulling the shared electrons closer to itself. This creates a partial negative charge near the oxygen and partial positive charges near the hydrogens, giving water its remarkable solvent properties."
+        },
+        {
+            "id": 6,
+            "question": "What does the law of conservation of mass state?",
+            "options": [
+                "Mass increases during chemical reactions",
+                "Mass is neither created nor destroyed in chemical reactions",
+                "Energy and mass are unrelated",
+                "Atoms are destroyed and recreated during reactions"
+            ],
+            "correct": 1,
+            "explanation": "The law of conservation of mass, established by Lavoisier, states that the total mass of reactants equals the total mass of products in any chemical reaction. Atoms are rearranged, not created or destroyed."
+        },
+        {
+            "id": 7,
+            "question": "What is Avogadro's number, and what does it represent?",
+            "options": [
+                "3.14 × 10¹⁰ — the ratio of a circle's circumference to its diameter",
+                "6.022 × 10²³ — the number of particles in one mole of a substance",
+                "9.8 — the acceleration due to gravity on Earth",
+                "1.66 × 10⁻²⁷ — the mass of one proton in kilograms"
+            ],
+            "correct": 1,
+            "explanation": "Avogadro's number (6.022 × 10²³) is the number of particles — atoms, molecules, or formula units — in one mole of any substance. It connects atomic-scale quantities to laboratory-scale measurements."
+        },
+        {
+            "id": 8,
+            "question": "What is the pH of a neutral solution, and what does a pH of 3 indicate?",
+            "options": [
+                "Neutral = 0; pH 3 = strongly basic",
+                "Neutral = 7; pH 3 = strongly acidic",
+                "Neutral = 14; pH 3 = weakly basic",
+                "Neutral = 7; pH 3 = weakly acidic"
+            ],
+            "correct": 1,
+            "explanation": "Pure water has a neutral pH of 7. A pH of 3 is strongly acidic — it is 10,000 times more acidic than neutral water (4 pH units difference, each representing a tenfold change)."
+        },
+        {
+            "id": 9,
+            "question": "What products are formed when an acid reacts with a base in a neutralization reaction?",
+            "options": [
+                "An acid and a gas",
+                "A salt and water",
+                "A metal and an oxide",
+                "Two new acids"
+            ],
+            "correct": 1,
+            "explanation": "Neutralization reactions between an acid and a base produce a salt and water. For example, HCl + NaOH → NaCl + H₂O. The H⁺ from the acid combines with the OH⁻ from the base to form water."
+        },
+        {
+            "id": 10,
+            "question": "How does the precise pH regulation of human blood (7.35-7.45) demonstrate intelligent design?",
+            "options": [
+                "It doesn't — pH regulation is a simple process that requires no design",
+                "Blood pH varies widely and doesn't require precise control",
+                "Multiple coordinated systems (buffers, lungs, kidneys) maintain a critically narrow range, pointing to purposeful engineering",
+                "Blood pH is maintained purely by what we eat and drink"
+            ],
+            "correct": 2,
+            "explanation": "The body maintains blood pH within the narrow range of 7.35-7.45 through the coordinated action of the carbonic acid-bicarbonate buffer system, the lungs (which regulate CO₂), and the kidneys (which excrete excess acid or base). This multi-layered system of precision control far exceeds what random processes could produce."
+        }
+    ]
+}

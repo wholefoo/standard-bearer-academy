@@ -1,0 +1,127 @@
+{
+    "id": "government_quiz",
+    "title": "Comparative Government — Liberty vs. Tyranny",
+    "description": "Test your understanding of different governmental systems and the Biblical principles that distinguish liberty from tyranny.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the Declaration of Independence, where do human rights come from?",
+            "options": [
+                "From the government",
+                "From the Creator",
+                "From the Constitution",
+                "From the social contract"
+            ],
+            "correct": 1,
+            "explanation": "The Declaration states that people 'are endowed by their Creator with certain unalienable Rights,' establishing that rights come from God, not from any human authority."
+        },
+        {
+            "id": 2,
+            "question": "What is the key difference between a constitutional republic and a pure democracy?",
+            "options": [
+                "A republic has no elections",
+                "A pure democracy gives every citizen a government job",
+                "A constitutional republic limits government power through a written constitution",
+                "A pure democracy is always larger than a republic"
+            ],
+            "correct": 2,
+            "explanation": "In a constitutional republic, a written constitution limits government power and protects individual rights, even against majority will. Pure democracy has no such limits."
+        },
+        {
+            "id": 3,
+            "question": "What was Karl Marx's view of religion?",
+            "options": [
+                "It was the foundation of a just society",
+                "It was neutral and unimportant",
+                "It was 'the opium of the people' — a tool to pacify the masses",
+                "It should be the basis for communist government"
+            ],
+            "correct": 2,
+            "explanation": "Marx viewed religion as a tool used to keep oppressed people content with their suffering, and communist ideology requires the elimination of religion because it points to an authority above the state."
+        },
+        {
+            "id": 4,
+            "question": "Which verse from Isaiah inspired the American separation of powers into three branches?",
+            "options": [
+                "Isaiah 9:6",
+                "Isaiah 33:22 — 'The LORD is our judge, lawgiver, and king'",
+                "Isaiah 40:31",
+                "Isaiah 53:5"
+            ],
+            "correct": 1,
+            "explanation": "Isaiah 33:22 identifies three functions of governance — judicial, legislative, and executive — united only in God. The Founders separated these functions because they believed only God could be trusted with all three."
+        },
+        {
+            "id": 5,
+            "question": "What was Mussolini's definition of totalitarianism?",
+            "options": [
+                "Government by the military alone",
+                "Everything within the state, nothing outside the state, nothing against the state",
+                "A government elected by all citizens",
+                "A government that controls only the economy"
+            ],
+            "correct": 1,
+            "explanation": "Mussolini's motto captures the essence of totalitarianism: the state claims authority over every aspect of human life, leaving no sphere — family, church, individual conscience — free from government control."
+        },
+        {
+            "id": 6,
+            "question": "What did Alexis de Tocqueville warn about regarding American democracy?",
+            "options": [
+                "That America would become a monarchy",
+                "That the tyranny of the majority could oppress minorities",
+                "That democracy would collapse within a century",
+                "That Americans were too religious for democracy to work"
+            ],
+            "correct": 1,
+            "explanation": "Tocqueville identified the 'tyranny of the majority' as a significant danger in democratic societies — the possibility that the majority could use its power to suppress the rights of minorities and dissenters."
+        },
+        {
+            "id": 7,
+            "question": "Who delivered the 'City upon a Hill' sermon that shaped American exceptionalism?",
+            "options": [
+                "George Washington",
+                "Benjamin Franklin",
+                "John Winthrop",
+                "Jonathan Edwards"
+            ],
+            "correct": 2,
+            "explanation": "John Winthrop delivered 'A Model of Christian Charity' aboard the Arbella in 1630, declaring the Massachusetts Bay Colony a 'city upon a hill' — a model of Christian community accountable to God."
+        },
+        {
+            "id": 8,
+            "question": "What do fascism and communism have in common despite their surface differences?",
+            "options": [
+                "Both support free markets and individual liberty",
+                "Both are totalitarian systems that reject God and suppress individual rights",
+                "Both originated in ancient Greece",
+                "Both limit government power through constitutions"
+            ],
+            "correct": 1,
+            "explanation": "Despite differing in economic theory and national vs. international focus, both fascism and communism are totalitarian, reject Biblical authority, suppress individual rights, and concentrate power in a ruling elite."
+        },
+        {
+            "id": 9,
+            "question": "Why did John Adams say the Constitution was made 'only for a moral and religious people'?",
+            "options": [
+                "Because only religious people can read",
+                "Because the Constitution requires church membership",
+                "Because free government depends on citizens who govern themselves according to moral principles",
+                "Because the Constitution was written in a church"
+            ],
+            "correct": 2,
+            "explanation": "Adams understood that a system of limited government with maximum individual liberty can only work if citizens voluntarily restrain themselves according to moral principles — and he believed true morality comes from religious faith."
+        },
+        {
+            "id": 10,
+            "question": "According to the 'higher law' tradition, what happens when a human law contradicts God's moral law?",
+            "options": [
+                "The human law must always be obeyed",
+                "The human law is 'no law at all' and Christians may be obligated to resist it",
+                "God's law becomes void",
+                "Both laws are equally valid"
+            ],
+            "correct": 1,
+            "explanation": "Thomas Aquinas taught that human law must conform to God's natural and eternal law. When it does not, it is a corruption of law, and Christians have both the right and duty to obey God rather than men (Acts 5:29)."
+        }
+    ]
+}

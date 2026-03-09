@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "math",
+    "title": "Pre-Calculus",
+    "description": "Mathematics and the Mind of God",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Pre-Calculus — Mathematics and the Mind of God",
+            "lessons": ["functions_graphs", "polynomial_rational", "exponential_logarithmic", "trigonometry", "sequences_series", "limits_intro"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

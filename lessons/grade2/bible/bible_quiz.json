@@ -1,0 +1,63 @@
+{
+    "id": "bible_quiz",
+    "title": "Old Testament Adventures Quiz",
+    "description": "Test your knowledge of the Old Testament heroes from Noah to David!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What did God tell Noah to build?",
+            "options": ["A house", "A temple", "An ark", "A tower"],
+            "correct": 2,
+            "explanation": "God told Noah to build an ark (a large boat) to save his family and the animals from the great flood (Genesis 6:14)."
+        },
+        {
+            "id": 2,
+            "question": "What was God's sign of His promise to never flood the whole earth again?",
+            "options": ["A star", "A rainbow", "A dove", "A cloud"],
+            "correct": 1,
+            "explanation": "God put a rainbow in the sky as a sign of His covenant promise to never flood the whole earth again (Genesis 9:13)."
+        },
+        {
+            "id": 3,
+            "question": "What special promise did God make to Abraham?",
+            "options": ["He would be the strongest man", "He would live forever on earth", "He would be the father of a great nation", "He would never get old"],
+            "correct": 2,
+            "explanation": "God promised Abraham that he would be the father of a great nation and that all peoples on earth would be blessed through him (Genesis 12:2-3)."
+        },
+        {
+            "id": 4,
+            "question": "What happened to Joseph after his brothers sold him?",
+            "options": ["He went home", "He became a powerful leader in Egypt", "He built an ark", "He became a shepherd"],
+            "correct": 1,
+            "explanation": "After being sold into slavery and put in prison, Joseph rose to become the second most powerful leader in Egypt (Genesis 41:41-43)."
+        },
+        {
+            "id": 5,
+            "question": "How did God speak to Moses in the desert?",
+            "options": ["Through a dream", "From a burning bush", "Through a letter", "From the clouds"],
+            "correct": 1,
+            "explanation": "God spoke to Moses from a burning bush that was on fire but did not burn up (Exodus 3:2-4)."
+        },
+        {
+            "id": 6,
+            "question": "How did the walls of Jericho fall down?",
+            "options": ["The army used battering rams", "An earthquake knocked them down", "The people marched, blew trumpets, and shouted as God commanded", "They crumbled from old age"],
+            "correct": 2,
+            "explanation": "Joshua and the Israelites obeyed God by marching around the city and blowing trumpets. On the seventh day, they shouted and the walls fell flat (Joshua 6:20)."
+        },
+        {
+            "id": 7,
+            "question": "Why did God choose David to be king?",
+            "options": ["Because he was the tallest", "Because he was the oldest", "Because God looked at his heart", "Because he was the strongest"],
+            "correct": 2,
+            "explanation": "God told Samuel that He does not look at outward appearance but looks at the heart. David had a heart that loved God (1 Samuel 16:7)."
+        },
+        {
+            "id": 8,
+            "question": "What did David use to defeat the giant Goliath?",
+            "options": ["A sword and shield", "A sling and a stone", "A bow and arrow", "A spear"],
+            "correct": 1,
+            "explanation": "David used a sling and a single stone to defeat Goliath, trusting in God's power rather than human weapons (1 Samuel 17:49-50)."
+        }
+    ]
+}

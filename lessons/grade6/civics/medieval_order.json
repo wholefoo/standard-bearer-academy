@@ -1,0 +1,76 @@
+{
+    "id": "medieval_order",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Medieval Government and the Church",
+    "subtitle": "Feudalism, the Magna Carta, and the Seeds of Liberty",
+    "scripture": "Proverbs 29:2; Micah 6:8",
+    "primary_source": "The Magna Carta (1215 AD)",
+    "key_concepts": ["Feudalism and its structure", "The Magna Carta and the rule of law", "The church's role in preserving learning", "Limits on royal power"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 29:2",
+                "text": "\"When the righteous thrive, the people rejoice; when the wicked rule, the people groan.\"",
+                "commentary": "The medieval period illustrates this proverb clearly. When rulers governed justly and feared God, their people prospered. When rulers became tyrants, the people suffered. The struggle for just government is a central theme of medieval history."
+            },
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly before your God.\"",
+                "commentary": "This verse captures the standard by which all leaders — medieval or modern — should be measured. The Magna Carta was an attempt to hold a king accountable to this standard of justice and mercy."
+            },
+            {
+                "reference": "Psalm 119:45",
+                "text": "\"I will walk about in freedom, for I have sought out your precepts.\"",
+                "commentary": "True freedom comes not from the absence of law but from obedience to God's law. The medieval development of the rule of law — the idea that even kings must obey the law — reflects this biblical principle."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "After Rome Fell: The Rise of Feudalism",
+            "paragraphs": [
+                "When the Roman Empire collapsed in the 5th century, Western Europe entered a period of instability. Without a strong central government, local lords and nobles took responsibility for protecting the people in their regions. This system, known as feudalism, was based on relationships of loyalty and service.",
+                "Under feudalism, a king granted land (called fiefs) to nobles in exchange for military service and loyalty. The nobles, in turn, granted land to lesser lords and knights, who protected the peasants who worked the land. While feudalism provided order in a chaotic time, it also concentrated power in the hands of a few and left common people with very few rights."
+            ]
+        },
+        {
+            "heading": "The Church: Preserver of Civilization",
+            "paragraphs": [
+                "During the medieval period, the Christian Church was the single most important institution in European society. While kingdoms rose and fell, the Church remained. Monks in monasteries preserved ancient manuscripts, maintained literacy, and provided education. Churches and cathedrals became centers of community life.",
+                "The Church also played a crucial role in limiting the power of kings. Church leaders taught that all rulers — including kings — were subject to God's law. When kings acted unjustly, the Church sometimes challenged their authority. This tension between royal power and divine law planted seeds that would eventually grow into the concept of constitutional government."
+            ]
+        },
+        {
+            "heading": "The Magna Carta: The Rule of Law Is Born",
+            "paragraphs": [
+                "In 1215, the English barons confronted King John, who had abused his power through excessive taxation, unjust imprisonment, and seizure of property. They forced him to sign the Magna Carta — the Great Charter — which established the principle that even the king must obey the law.",
+                "The Magna Carta declared that no free man could be imprisoned or punished except by the lawful judgment of his peers or by the law of the land. It protected property rights and limited the king's ability to raise taxes without consent. While the Magna Carta initially applied only to the nobility, its principles eventually expanded to protect all citizens. It is rightly considered one of the foundational documents of Western liberty."
+            ]
+        },
+        {
+            "heading": "The Legacy of Medieval Government",
+            "paragraphs": [
+                "The medieval period contributed several ideas that are essential to modern government. The concept of the rule of law — that no one, not even the king, is above the law — originated in this era. The idea of representative government grew from the practice of barons and lords meeting in councils to advise and constrain the king.",
+                "England's Parliament, which began as a council of nobles advising the king, gradually became a representative body with the power to make laws and control taxation. This development — from absolute monarchy to limited, representative government — is one of the most important stories in the history of liberty. And it was driven largely by Christian principles of justice, human dignity, and accountability before God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why was the Magna Carta so important in the history of liberty? What principle did it establish that had never been formally stated before?",
+            "guidance": "Think about the revolutionary idea that even the king is subject to the law. Consider how this principle differs from the ancient view that the ruler's word IS the law."
+        },
+        {
+            "id": 2,
+            "question": "How did the Christian Church help preserve civilization and limit the power of kings during the medieval period?",
+            "guidance": "Consider the role of monasteries in preserving learning and literacy. Think about how the Church's teaching that rulers are accountable to God provided a check on royal power."
+        },
+        {
+            "id": 3,
+            "question": "How did feudalism provide both order and injustice at the same time? What were its strengths and weaknesses as a system of government?",
+            "guidance": "Consider that feudalism provided protection and stability after Rome's fall, but also concentrated power and gave common people very few rights. Think about the tradeoffs involved."
+        }
+    ]
+}

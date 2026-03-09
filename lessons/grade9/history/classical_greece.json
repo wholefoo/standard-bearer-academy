@@ -1,0 +1,81 @@
+{
+    "id": "classical_greece",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Classical Greece — Reason, Democracy, and the Limits of Pagan Wisdom",
+    "subtitle": "Athens, Sparta, and the Greek Legacy in Western Civilization",
+    "scripture": "1 Corinthians 1:22-25",
+    "primary_source": "Pericles' Funeral Oration (431 BC), as recorded by Thucydides",
+    "key_concepts": ["Athenian democracy and its limitations", "Greek philosophy and the search for truth", "Sparta and the military state", "The Greek contribution to Western thought"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 1:22-23",
+                "text": "\"Jews demand signs and Greeks look for wisdom, but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles.\"",
+                "commentary": "Paul identified the Greek pursuit of wisdom as a defining cultural trait. The Greeks sought truth through human reason, and their philosophical achievements were remarkable. Yet Paul declared that the Gospel transcends all human wisdom — the cross is God's answer to questions philosophy cannot resolve."
+            },
+            {
+                "reference": "Acts 17:22-23",
+                "text": "\"Paul then stood up in the meeting of the Areopagus and said: 'People of Athens! I see that in every way you are very religious. For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD.'\"",
+                "commentary": "Paul recognized that the Greeks' religious searching was evidence of the longing for God that He has placed in every human heart. Their 'unknown god' was the true God they had not yet met — and Paul proclaimed Him."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Greek Miracle",
+            "paragraphs": [
+                "Ancient Greece produced an extraordinary flowering of human achievement in philosophy, politics, art, literature, and science. In the span of a few centuries, Greek thinkers laid foundations that would shape Western civilization for millennia. From a providential perspective, God used Greek culture to prepare the world for the Gospel — Greek philosophy raised questions that only Christ could answer, and the Greek language became the vehicle through which the New Testament was written.",
+                "Yet Greece also illustrates the limitations of human wisdom apart from divine revelation. For all their brilliance, the Greeks practiced slavery, exposed unwanted infants, worshipped false gods, and ultimately could not prevent the decline of their civilization."
+            ]
+        },
+        {
+            "heading": "Athens: Democracy and Its Limits",
+            "paragraphs": [
+                "Athens pioneered democracy — government by the people — in the 5th century BC. Under leaders like Cleisthenes and Pericles, Athenian citizens participated directly in the Assembly, serving on juries, voting on laws, and holding office. Pericles' Funeral Oration, delivered during the Peloponnesian War, celebrates Athens as a model of democratic freedom and civic virtue.",
+                "However, Athenian democracy had significant limitations that Christians should note. Only adult male citizens could participate — women, slaves, and foreigners (who together constituted the majority of the population) were excluded. Athens practiced slavery on a large scale. And the democratic majority could act unjustly, as when the Athenian Assembly condemned Socrates to death for his philosophical questioning.",
+                "The American Founders studied Athenian democracy carefully and learned from both its strengths and its failures. They adopted the principle of self-government but rejected pure democracy in favor of a constitutional republic with protections for individual rights — rights they believed came not from the people but from God."
+            ]
+        },
+        {
+            "heading": "Greek Philosophy: Seeking Wisdom",
+            "paragraphs": [
+                "Greek philosophy represents humanity's greatest attempt to understand truth through reason alone. Socrates (469-399 BC) pioneered the method of questioning assumptions and seeking definitions. Plato (428-348 BC) proposed that behind the visible world lies a realm of perfect, eternal Forms — an intuition that, while incomplete, points toward the reality of a transcendent God. Aristotle (384-322 BC) developed logic, ethics, and natural philosophy with systematic rigor.",
+                "From a Christian perspective, Greek philosophy demonstrates both the power and the limits of human reason. Paul acknowledged that God's existence and power can be known through creation (Romans 1:20), and Greek philosophers grasped many truths through what theologians call 'general revelation.' But reason alone could not discover the Gospel — the specific good news of salvation through Christ. That required 'special revelation' in Scripture.",
+                "The early Church Fathers, including Justin Martyr and Augustine, recognized Greek philosophy as a 'schoolmaster' that prepared the Gentile world for the Gospel, much as the Law of Moses prepared Israel. Plato's pursuit of the Good, the True, and the Beautiful finds its fulfillment in Christ, who is the Way, the Truth, and the Life."
+            ]
+        },
+        {
+            "heading": "Sparta: The Military State",
+            "paragraphs": [
+                "While Athens emphasized democracy and intellectual freedom, Sparta organized its entire society around military discipline. Spartan boys were taken from their families at age seven for rigorous military training. Individual freedom was sacrificed to the state, and the arts and philosophy were neglected in favor of military preparedness.",
+                "Sparta's militarism produced remarkable soldiers — the stand of 300 Spartans at Thermopylae (480 BC) is one of history's most celebrated acts of courage. But Sparta's total subordination of the individual to the state represents a model of government that Christians should view critically. The Bible teaches that individuals are made in God's image and possess inherent dignity that no state may override.",
+                "The contrast between Athens and Sparta illustrates a perennial tension in political life: the balance between individual freedom and collective order. The Christian understanding — that government exists to protect God-given rights, not to absorb the individual into the state — provides a framework for navigating this tension."
+            ]
+        },
+        {
+            "heading": "Alexander the Great and Hellenization",
+            "paragraphs": [
+                "Alexander the Great (356-323 BC), a student of Aristotle, conquered the known world and spread Greek language and culture from Egypt to India. This Hellenization of the ancient world had enormous providential significance: Greek became the common language of the Mediterranean world, and it was in this language that the New Testament would be written and the Gospel proclaimed.",
+                "Alexander's empire did not last — it was divided among his generals after his death. But the cultural unity he created persisted and was later absorbed by the Roman Empire, creating the conditions for the rapid spread of Christianity in the first century. God was preparing the world for the fullness of time when He would send His Son (Galatians 4:4)."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Paul said the Greeks sought wisdom, but the Gospel seemed like foolishness to them (1 Corinthians 1:23). Why does the message of the cross seem foolish to human wisdom? How does it actually demonstrate the highest wisdom?",
+            "guidance": "Consider what human wisdom values (power, success, self-sufficiency) versus what the cross represents (weakness, sacrifice, dependence on God). Think about 1 Corinthians 1:25."
+        },
+        {
+            "id": 2,
+            "question": "Compare Athenian democracy with the American constitutional republic. What did the American Founders learn from Athens' strengths and failures?",
+            "guidance": "Consider the differences between direct democracy and representative government, and between majoritarian rule and constitutional protections for individual rights. Think about the role of God-given rights."
+        },
+        {
+            "id": 3,
+            "question": "How did God use Greek civilization providentially to prepare the world for the Gospel? Consider language, philosophy, and political conditions.",
+            "guidance": "Think about the spread of the Greek language, the philosophical questions that found answers in Christ, and the political conditions (later enhanced by Rome) that enabled the rapid spread of Christianity."
+        }
+    ]
+}

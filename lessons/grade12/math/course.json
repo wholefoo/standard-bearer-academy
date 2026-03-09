@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "math",
+    "title": "Statistics and Probability — Understanding God's World",
+    "description": "An exploration of statistics and probability through the lens of Biblical stewardship, examining how data analysis reveals patterns in God's orderly creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Statistics and Probability",
+            "lessons": ["data_collection", "descriptive_statistics", "probability_fundamentals", "distributions", "inferential_statistics", "regression_correlation"]
+        }
+    ],
+    "quiz_id": "statistics_quiz"
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "reading",
+    "title": "Reading God's Word — Phonics and Bible Stories",
+    "description": "Begin your reading journey by learning letter sounds and enjoying wonderful stories from God's Word!",
+    "units": [
+        {
+            "id": "phonics_bible",
+            "title": "Phonics and Bible Stories",
+            "lessons": ["vowels", "consonants", "blending", "sight_words", "bible_stories"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

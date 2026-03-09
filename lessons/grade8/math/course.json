@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "math",
+    "title": "Algebra I — Patterns in God's Creation",
+    "description": "Discovering the algebraic patterns God wove into the fabric of creation — variables, equations, and functions.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Patterns in God's Creation",
+            "lessons": ["variables_expressions", "solving_equations", "inequalities", "linear_functions", "systems_equations", "polynomials"]
+        }
+    ],
+    "quiz_id": "algebra_quiz"
+}

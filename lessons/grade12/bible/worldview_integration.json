@@ -1,0 +1,86 @@
+{
+    "id": "worldview_integration",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Integrating Faith and Knowledge",
+    "subtitle": "Thinking Christianly About Every Area of Life",
+    "scripture": "Colossians 1:17",
+    "primary_source": "Abraham Kuyper, 'Sphere Sovereignty' Address (1880)",
+    "key_concepts": ["Integration of faith and learning", "The lordship of Christ over all domains", "Sacred vs. secular dichotomy", "Coherent worldview thinking"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "Christ is not merely Lord of 'spiritual' matters — He is the one in whom all reality coheres. Every field of study, every area of human endeavor, finds its ultimate meaning and coherence in Him. There is no domain of knowledge or life that exists outside His lordship."
+            },
+            {
+                "reference": "Proverbs 1:7",
+                "text": "\"The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.\"",
+                "commentary": "True knowledge begins with reverence for God. This does not mean that non-Christians cannot discover facts, but that knowledge divorced from its Source is ultimately incomplete and distorted. A Biblical worldview provides the framework within which all other knowledge finds its proper place."
+            },
+            {
+                "reference": "2 Corinthians 10:5",
+                "text": "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"",
+                "commentary": "Paul calls believers to active intellectual engagement — not passive acceptance of secular ideas, but the rigorous work of evaluating every claim against the truth of God's Word and bringing all thinking under the authority of Christ."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Whole of Life Under Christ",
+            "paragraphs": [
+                "As you prepare to graduate and enter adulthood — whether heading to college, the workforce, the military, or another calling — you face a fundamental question: Will your faith be a compartment of your life (something you practice on Sundays) or the foundation of your entire life (the lens through which you see everything)? The answer to this question will determine the kind of person you become.",
+                "Abraham Kuyper, the Dutch theologian and prime minister, famously declared: 'There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry, \"Mine!\"' This conviction — that Christ is Lord over every area of life — is the starting point for a truly integrated Biblical worldview."
+            ]
+        },
+        {
+            "heading": "Rejecting the Sacred-Secular Divide",
+            "paragraphs": [
+                "One of the most damaging ideas in modern Christianity is the 'sacred-secular divide' — the notion that some activities (prayer, worship, Bible study) are 'spiritual' while others (work, science, politics, art) are 'secular' and therefore less important to God. This division has no basis in Scripture.",
+                "The Bible teaches that God created the whole world and called it 'very good' (Genesis 1:31). He gave humanity the mandate to cultivate the earth, develop its resources, and build civilizations (Genesis 1:28). Work, learning, creativity, governance, and cultural development are all part of God's plan for humanity — not distractions from it.",
+                "When Christians accept the sacred-secular divide, they effectively surrender most of life to non-Christian thinking. If faith is relevant only to church and private devotion, then education, science, business, law, media, and the arts will be shaped entirely by secular worldviews. The result is a culture increasingly hostile to Christian truth — not because Christianity lacks intellectual resources, but because Christians have abandoned the public square."
+            ]
+        },
+        {
+            "heading": "What Is Worldview Integration?",
+            "paragraphs": [
+                "Worldview integration means bringing Biblical truth to bear on every area of knowledge and life. It means asking: How does the truth about God, creation, humanity, sin, and redemption inform my understanding of history, science, literature, economics, law, medicine, and every other field?",
+                "This is not about forcing Bible verses onto subjects where they don't apply. It is about recognizing that every field of study rests on foundational assumptions about the nature of reality — and that the Bible speaks to those assumptions. For example, science assumes that the universe is orderly and intelligible; the Christian worldview explains why: because an intelligent God designed it. Ethics assumes that moral truths exist; the Christian worldview explains why: because God is the source of moral law.",
+                "Worldview integration also means recognizing where secular assumptions in various fields contradict Biblical truth — and having the intellectual courage to challenge those assumptions with well-reasoned alternatives."
+            ]
+        },
+        {
+            "heading": "Kuyper's Sphere Sovereignty",
+            "paragraphs": [
+                "Abraham Kuyper developed the concept of 'sphere sovereignty' — the idea that God has established distinct spheres of authority in human life (family, church, state, education, business, arts), each with its own God-given purpose and jurisdiction. No sphere should dominate or absorb the others; each operates under God's ultimate authority within its proper domain.",
+                "This concept has profound practical implications. The state should not try to replace the family or control the church. The market should not override moral considerations. The church should not try to run the government. Each sphere has legitimate authority within its domain, and all are accountable to God.",
+                "Kuyper's framework provides a basis for both cultural engagement and institutional boundaries. Christians should be active in every sphere — not because they want to impose theocracy, but because Christ is Lord over every domain and His truth brings flourishing to every area of human life."
+            ]
+        },
+        {
+            "heading": "Living an Integrated Life",
+            "paragraphs": [
+                "As you enter adulthood, the challenge is to live a coherent, integrated life — one in which your faith shapes your work, your relationships, your intellectual pursuits, and your public engagement. This requires ongoing study of Scripture, serious engagement with the ideas that shape your culture, and the courage to think and live differently from the prevailing secular consensus.",
+                "The integrated life is not easy, but it is the life God calls you to. It is the difference between a faith that merely comforts and a faith that transforms — transforming not only your heart but your mind, your work, your community, and ultimately your world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does Kuyper mean when he says there is 'not a square inch' over which Christ does not claim lordship? What areas of your life or future plans might you be tempted to treat as 'secular' — outside the scope of faith?",
+            "guidance": "Think honestly about areas where you might compartmentalize your faith. Consider how acknowledging Christ's lordship over those areas would change your approach."
+        },
+        {
+            "id": 2,
+            "question": "How does the sacred-secular divide weaken Christianity's influence in culture? Give specific examples of fields or institutions that have been shaped primarily by secular worldviews because Christians withdrew from them.",
+            "guidance": "Consider education, media, law, entertainment, and other cultural institutions. Think about what it would look like for Christians to engage these fields with intellectual excellence and Biblical conviction."
+        },
+        {
+            "id": 3,
+            "question": "Choose a field of study or career you are interested in. How would a Biblical worldview inform your understanding of that field differently from a secular worldview?",
+            "guidance": "Consider the foundational assumptions of your chosen field and how Biblical truth speaks to them. Think about specific ways a Christian perspective would shape your practice in that field."
+        }
+    ]
+}

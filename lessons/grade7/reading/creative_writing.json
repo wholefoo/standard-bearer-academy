@@ -1,0 +1,77 @@
+{
+    "id": "creative_writing",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Creative Writing",
+    "subtitle": "Using the Gift of Language to Glorify God",
+    "scripture": "Colossians 3:17",
+    "key_concepts": ["Narrative writing techniques", "Descriptive writing", "Dialogue", "Voice and style", "Writing as stewardship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:17",
+                "text": "\"And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.\"",
+                "commentary": "Writing is included in 'whatever you do.' Whether we write stories, poems, essays, or letters, we can do so for God's glory. Creative writing is an act of stewardship — using the gift of language to honor the One who gave us the ability to communicate."
+            },
+            {
+                "reference": "Exodus 35:35",
+                "text": "\"He has filled them with skill to do all kinds of work — as engravers, designers, embroiderers... and weavers — all of them skilled workers and designers.\"",
+                "commentary": "God fills people with creative skill. Just as He gifted artisans for the tabernacle, He gives some the skill of crafting words. Creative talent is a gift from God, meant to be developed and used for His purposes."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Call to Create",
+            "paragraphs": [
+                "Human beings are made in the image of a creative God. The very first thing we learn about God in Genesis is that He creates. When we write stories, compose poems, or craft essays, we are exercising a God-given capacity that reflects His nature. Creative writing is not frivolous — it is an expression of the image of God in us.",
+                "In this lesson, we will explore the techniques of creative writing: how to tell compelling stories, write vivid descriptions, craft realistic dialogue, and develop a personal voice. These skills will make you a more effective communicator in every area of life."
+            ]
+        },
+        {
+            "heading": "Narrative Writing: Telling a Story",
+            "paragraphs": [
+                "Narrative writing tells a story with a beginning, middle, and end. The key ingredients are character, conflict, and change. Something must happen — a character must face a challenge, make a choice, and be transformed (or fail to be transformed) by the experience.",
+                "Strong narratives use 'show, don't tell.' Instead of writing 'She was scared,' show the fear: 'Her hands trembled as she reached for the door handle, and the breath caught in her throat.' Showing creates a vivid experience; telling merely reports information. The Gospels are masterful at showing — they describe what Jesus did and said, letting the reader draw conclusions."
+            ]
+        },
+        {
+            "heading": "Descriptive Writing: Painting with Words",
+            "paragraphs": [
+                "Descriptive writing uses sensory details to create a vivid picture in the reader's mind. Effective description engages all five senses, uses specific rather than general words, and selects details that serve the purpose of the piece.",
+                "Compare: 'The garden was nice' with 'Rows of scarlet roses lined the stone path, their fragrance mixing with the earthy smell of rain-soaked soil. A mockingbird sang from the old magnolia, its melody rising and falling like a hymn.' The second version transports the reader into the scene. Practice writing descriptions that are so vivid your reader can see, hear, smell, taste, and feel what you describe."
+            ]
+        },
+        {
+            "heading": "Writing Dialogue",
+            "paragraphs": [
+                "Dialogue is the words characters speak to each other. Good dialogue sounds natural, reveals character, and advances the story. Each character should have a distinct voice — a shy child speaks differently from a confident leader.",
+                "Formatting rules for dialogue: use quotation marks around spoken words, start a new paragraph when the speaker changes, use dialogue tags (said, asked, replied) to identify speakers, and let the dialogue itself convey emotion rather than relying on adverbs. 'I can't believe you did that,' she said, is stronger than 'I can't believe you did that,' she said angrily."
+            ]
+        },
+        {
+            "heading": "Voice and Style",
+            "paragraphs": [
+                "Voice is the unique personality that comes through in your writing — the way you phrase things, the rhythm of your sentences, your choice of words. Voice makes your writing distinctly yours. C.S. Lewis has a different voice from J.R.R. Tolkien, even though both were Christian authors writing in the same era.",
+                "Style develops through practice. Read widely, write regularly, and pay attention to what makes your favorite authors compelling. Experiment with sentence length — short sentences create urgency; longer sentences create a flowing, reflective pace. Find the voice God has given you and develop it with discipline and joy."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Rewrite this 'telling' sentence as a 'showing' paragraph: 'The boy was very happy when he found his lost dog.' Use at least three sensory details.",
+            "guidance": "Show the happiness through actions, facial expressions, sounds, and physical sensations rather than just naming the emotion."
+        },
+        {
+            "id": 2,
+            "question": "Write a short dialogue (6-8 lines) between two characters who disagree about something. Make each character's voice distinct and let the dialogue reveal their personalities without describing them.",
+            "guidance": "Think about how word choice, sentence length, and mannerisms differ between people. Avoid using adverbs in dialogue tags."
+        },
+        {
+            "id": 3,
+            "question": "How does Colossians 3:17 apply to creative writing? What does it mean to write 'in the name of the Lord Jesus'? Does this mean all writing must be explicitly religious?",
+            "guidance": "Consider that writing with excellence, honesty, beauty, and truth glorifies God even when the subject is not directly Biblical. Think about how a Christian worldview shapes the stories we tell."
+        }
+    ]
+}

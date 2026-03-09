@@ -1,0 +1,74 @@
+{
+    "id": "legislative_branch",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: The Legislative Branch",
+    "subtitle": "Congress — The People's Representatives",
+    "scripture": "Deuteronomy 1:13",
+    "primary_source": "Federalist No. 10 by James Madison (excerpt)",
+    "key_concepts": ["Congress", "Senate and House of Representatives", "How laws are made", "Representation", "Congressional powers and limits"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Deuteronomy 1:13",
+                "text": "\"Choose some wise, understanding and respected men from each of your tribes, and I will set them over you.\"",
+                "commentary": "God instructed Israel to choose wise and respected representatives. The American system of electing legislators to represent the people echoes this Biblical pattern of representative governance."
+            },
+            {
+                "reference": "Proverbs 11:14",
+                "text": "\"For lack of guidance a nation falls, but victory is won through many advisers.\"",
+                "commentary": "Congress brings together representatives from across the nation to deliberate and make laws. The wisdom of many counselors, as Solomon taught, leads to better decisions than relying on one person alone."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Lawmaking Power",
+            "paragraphs": [
+                "Article I of the Constitution establishes Congress as the legislative branch of government. Congress has the sole power to make federal laws, and this power was intentionally placed first because the Founders believed that the legislature — as the branch closest to the people — should be the most important.",
+                "Congress is bicameral, meaning it has two chambers: the Senate and the House of Representatives. This two-chamber structure was the result of the 'Great Compromise' at the Constitutional Convention, balancing the interests of large and small states."
+            ]
+        },
+        {
+            "heading": "The Senate",
+            "paragraphs": [
+                "The Senate consists of 100 members — two from each state, regardless of population. Senators serve six-year terms, with one-third of the Senate up for election every two years. This staggered system ensures continuity and prevents sudden shifts in policy.",
+                "The Senate was designed to be the more deliberative body, insulated from short-term popular passions. It has unique powers including confirming presidential appointments, ratifying treaties, and serving as the jury in impeachment trials.",
+                "Originally, Senators were chosen by state legislatures, not directly by voters. The Seventeenth Amendment (1913) changed this to direct election. Some scholars argue this weakened the federal system by reducing states' influence in the national government."
+            ]
+        },
+        {
+            "heading": "The House of Representatives",
+            "paragraphs": [
+                "The House of Representatives consists of 435 members, apportioned among the states based on population. Representatives serve two-year terms, making them directly accountable to the voters.",
+                "The House was designed to be the chamber closest to the people. It has the exclusive power to originate revenue bills (tax legislation) and to bring articles of impeachment against federal officials.",
+                "Because House members face election every two years, they must stay closely connected to their constituents' concerns. This frequent accountability was intentional — the Founders wanted at least one branch of government to be highly responsive to the people's will."
+            ]
+        },
+        {
+            "heading": "How a Bill Becomes a Law",
+            "paragraphs": [
+                "The process of making a law is deliberately complex. A bill must be introduced, debated, amended, and passed by both the House and the Senate. If the two chambers pass different versions, a conference committee works out the differences.",
+                "Once both chambers agree on a final version, the bill goes to the President. The President can sign it into law or veto it. Congress can override a presidential veto with a two-thirds vote in both chambers.",
+                "This complex process reflects the Founders' belief that it should be difficult to pass new laws. They feared that too many laws would restrict liberty, so they designed a system that requires broad agreement before the government can impose new regulations on the people."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did the Founders create a bicameral (two-chamber) Congress? What are the advantages of having both a Senate and a House of Representatives?",
+            "guidance": "Think about the different qualities of each chamber — the Senate's deliberation and the House's responsiveness. Consider how this structure balances the interests of large and small states."
+        },
+        {
+            "id": 2,
+            "question": "Why is the lawmaking process deliberately complex? What might happen if it were easy to pass new laws quickly?",
+            "guidance": "Consider the Founders' concern about protecting liberty from hasty or oppressive legislation. Think about historical examples of governments that passed sweeping laws without careful deliberation."
+        },
+        {
+            "id": 3,
+            "question": "How does Deuteronomy 1:13 relate to our system of representative government? What qualities should voters look for when choosing their representatives?",
+            "guidance": "Think about the qualities God specified: wisdom, understanding, and respectability. Consider how these Biblical criteria might guide Christians as they participate in elections."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "america_world_stage",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: America on the World Stage",
+    "subtitle": "From World Wars to the Cold War — Defending Liberty Abroad",
+    "scripture": "Psalm 2:1-4",
+    "primary_source": "Ronald Reagan's 'Evil Empire' Speech (1983)",
+    "key_concepts": ["World War I and American idealism", "World War II and the defeat of tyranny", "The Cold War and the battle against communism", "American exceptionalism", "Faith and freedom in the modern era"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 2:1-4",
+                "text": "\"Why do the nations conspire and the peoples plot in vain? The kings of the earth rise up and the rulers band together against the LORD and against his anointed... The One enthroned in heaven laughs; the Lord scoffs at them.\"",
+                "commentary": "The twentieth century saw powerful ideologies — fascism and communism — rise up against God and His moral order. Both sought to replace God with the state. Both ultimately failed, demonstrating that no human power can prevail against the Almighty."
+            },
+            {
+                "reference": "Isaiah 40:15",
+                "text": "\"Surely the nations are like a drop in a bucket; they are regarded as dust on the scales; he weighs the islands as though they were fine dust.\"",
+                "commentary": "Even the mightiest nations are small in God's sight. America's role in twentieth-century history should be understood not as national superiority but as stewardship — a responsibility given by Providence that must be exercised with humility."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "World War I: The End of Innocence",
+            "paragraphs": [
+                "When World War I erupted in 1914, most Americans wanted no part of European conflicts. President Woodrow Wilson won re-election in 1916 on the slogan 'He Kept Us Out of War.' But German submarine warfare and the Zimmermann Telegram eventually drew America into the conflict in April 1917.",
+                "Wilson framed American involvement in idealistic terms: the war would 'make the world safe for democracy.' While Wilson's vision for a new international order (embodied in his Fourteen Points and the League of Nations) was well-intentioned, it reflected a Progressive optimism about human nature that Scripture does not support. The Senate's refusal to join the League of Nations reflected a more realistic — and more Biblical — skepticism about the possibility of achieving lasting peace through international institutions alone."
+            ]
+        },
+        {
+            "heading": "World War II: The Great Crusade",
+            "paragraphs": [
+                "The rise of Adolf Hitler and Nazi Germany in the 1930s represented one of the most demonic movements in human history. Nazism was explicitly anti-Christian, replacing Biblical morality with racial ideology, and culminated in the Holocaust — the systematic murder of six million Jews and millions of others.",
+                "America's entry into World War II after the attack on Pearl Harbor (December 7, 1941) thrust the nation into a global struggle against totalitarian evil. General Dwight Eisenhower called the Allied invasion of Normandy (D-Day, June 6, 1944) a 'great crusade' — language that reflected the moral clarity of the cause.",
+                "The Allied victory in 1945 liberated millions from tyranny and demonstrated that free nations, under God's Providence, could defeat seemingly invincible evil. The post-war period saw America rebuild both Europe (through the Marshall Plan) and Japan, demonstrating a generosity toward defeated enemies that reflected Christian principles of mercy and reconciliation."
+            ]
+        },
+        {
+            "heading": "The Cold War: Communism vs. Freedom",
+            "paragraphs": [
+                "The defeat of Nazi Germany revealed a new threat: Soviet communism. The Cold War (1947-1991) was a global struggle between two fundamentally different visions of human life. Communism, rooted in atheistic materialism, denied God's existence, abolished private property, suppressed religious freedom, and subjected hundreds of millions of people to totalitarian control.",
+                "America led the free world's resistance to communist expansion. The Truman Doctrine, the Berlin Airlift, the Korean War, and the Vietnam War were all part of this struggle. While American policies were not always wise or just, the fundamental cause — defending human freedom against a godless ideology that enslaved nations — was morally sound.",
+                "It is not coincidental that 'In God We Trust' was adopted as America's official motto in 1956 and 'under God' was added to the Pledge of Allegiance in 1954. These acts reflected the nation's recognition that the struggle against communism was ultimately a spiritual battle — a conflict between a civilization rooted in faith and one rooted in the denial of God."
+            ]
+        },
+        {
+            "heading": "Reagan and the Defeat of the Evil Empire",
+            "paragraphs": [
+                "By the late 1970s, many believed the Cold War was unwinnable and that the West must learn to coexist with communism permanently. President Ronald Reagan rejected this defeatism. In his 1983 'Evil Empire' speech, Reagan called the Soviet Union exactly what it was — an evil empire — and argued that the struggle between freedom and communism was a moral and spiritual battle, not merely a geopolitical competition.",
+                "Reagan's strategy combined military strength (including the Strategic Defense Initiative), economic pressure, and moral clarity. He supported freedom movements behind the Iron Curtain and challenged Soviet leader Mikhail Gorbachev to 'tear down this wall.' The Berlin Wall fell in November 1989, and the Soviet Union dissolved in 1991.",
+                "The peaceful collapse of Soviet communism was one of the most remarkable events in modern history. Reagan and many others attributed it to Providence — the same Providence that the Founders had invoked two centuries earlier. The defeat of communism vindicated the principles of liberty, limited government, and faith in God that had defined America from its beginning."
+            ]
+        },
+        {
+            "heading": "American Exceptionalism: Stewardship, Not Superiority",
+            "paragraphs": [
+                "The concept of American exceptionalism does not mean that Americans are better than other peoples. It means that America has been given an exceptional role in history — a stewardship of liberty that carries enormous responsibility. From the Founders' 'city upon a hill' to Reagan's 'shining city,' the American story is one of a nation striving (often imperfectly) to live out principles of freedom grounded in Biblical truth.",
+                "The challenges facing America today — cultural division, moral decline, the erosion of constitutional principles — are not new. Every generation has faced the question Franklin posed: Can we keep the republic? The answer depends on whether Americans continue to acknowledge the source of their liberty, uphold the principles of their Constitution, and fulfill their responsibilities as citizens of a nation uniquely blessed by Providence.",
+                "As students of American history, you inherit both the achievements and the failures of those who came before you. Understanding this story — honestly, gratefully, and with a commitment to Biblical truth — is essential for the task of preserving and extending the blessings of liberty to future generations."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is communism fundamentally incompatible with Christianity? What specific Christian teachings does communist ideology deny? Why was the Cold War a spiritual battle as well as a political one?",
+            "guidance": "Consider communism's atheism, its denial of individual dignity, its abolition of private property, and its suppression of religious freedom. Compare these positions to Biblical teachings about God, human nature, property, and worship."
+        },
+        {
+            "id": 2,
+            "question": "What does 'American exceptionalism' mean from a Christian perspective? How is it different from national pride or arrogance? What responsibilities come with the belief that God has given America a special role in history?",
+            "guidance": "Think about Biblical examples of nations given special roles and responsibilities (especially Israel). Consider how God's blessings come with expectations of faithfulness. Discuss the difference between stewardship and superiority."
+        },
+        {
+            "id": 3,
+            "question": "Looking at the full sweep of American history from the colonial period to the present, what do you see as America's greatest achievements and greatest failures? How does a Biblical worldview help you evaluate both honestly?",
+            "guidance": "Consider achievements like constitutional government, the abolition of slavery, and the defeat of totalitarianism. Consider failures like the treatment of Native Americans, the persistence of racism, and moral decline. Apply Biblical standards of justice, mercy, and faithfulness."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "explorers_quiz",
+    "title": "Explorers and Settlers Quiz",
+    "description": "Test your knowledge of the brave explorers and faithful settlers who built America!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which Viking explorer reached North America around the year 1000 AD?",
+            "options": ["Erik the Red", "Leif Erikson", "Christopher Columbus", "Daniel Boone"],
+            "correct": 1,
+            "explanation": "Leif Erikson landed on the coast of North America around 1000 AD and called the land 'Vinland.'"
+        },
+        {
+            "id": 2,
+            "question": "In what year did Christopher Columbus first sail to the New World?",
+            "options": ["1776", "1607", "1492", "1620"],
+            "correct": 2,
+            "explanation": "Columbus set sail in 1492 with three ships — the Niña, the Pinta, and the Santa María — and reached islands in the Caribbean Sea."
+        },
+        {
+            "id": 3,
+            "question": "What was the first permanent English settlement in America?",
+            "options": ["Plymouth", "Jamestown", "Boston", "Philadelphia"],
+            "correct": 1,
+            "explanation": "Jamestown, Virginia, was founded in 1607 and was the first permanent English settlement in America."
+        },
+        {
+            "id": 4,
+            "question": "What agreement did the Pilgrims sign before going ashore at Plymouth?",
+            "options": ["The Declaration of Independence", "The Constitution", "The Mayflower Compact", "The Bill of Rights"],
+            "correct": 2,
+            "explanation": "The Pilgrims signed the Mayflower Compact, an agreement to make fair laws and govern themselves based on Biblical principles."
+        },
+        {
+            "id": 5,
+            "question": "Who taught the Pilgrims how to plant corn and catch fish?",
+            "options": ["Captain John Smith", "Daniel Boone", "Squanto", "Leif Erikson"],
+            "correct": 2,
+            "explanation": "God sent Squanto, a Native American, to help the Pilgrims survive by teaching them to plant corn and catch fish."
+        },
+        {
+            "id": 6,
+            "question": "Why did the colonists believe every child should learn to read?",
+            "options": ["To get rich", "So they could study the Bible", "To become ship captains", "To write letters to England"],
+            "correct": 1,
+            "explanation": "The colonists believed reading was essential so that every person could study the Bible for themselves."
+        },
+        {
+            "id": 7,
+            "question": "What trail did Daniel Boone blaze through the Appalachian Mountains?",
+            "options": ["The Oregon Trail", "The Wilderness Road", "The Santa Fe Trail", "The Pilgrim Path"],
+            "correct": 1,
+            "explanation": "Daniel Boone blazed the Wilderness Road through the Cumberland Gap, opening the way for settlers to move into Kentucky and beyond."
+        },
+        {
+            "id": 8,
+            "question": "What was the House of Burgesses?",
+            "options": ["A church in Jamestown", "The first elected government in America", "A school for colonial children", "A trading post"],
+            "correct": 1,
+            "explanation": "The House of Burgesses, created in 1619 in Virginia, was the first elected government in America and an important step toward self-government."
+        }
+    ]
+}

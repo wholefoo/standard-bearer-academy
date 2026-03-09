@@ -1,0 +1,82 @@
+{
+    "id": "parallel_perpendicular",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Parallel and Perpendicular Lines",
+    "subtitle": "Angle Relationships and the Precision of God's Design",
+    "scripture": "Isaiah 28:17",
+    "primary_source": "Euclid's Elements, Book I, Propositions 27-31",
+    "key_concepts": ["Parallel lines and transversals", "Angle pair relationships", "Perpendicular lines", "Proving lines parallel"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 28:17",
+                "text": "\"I will make justice the measuring line and righteousness the plumb bob.\"",
+                "commentary": "God uses the language of geometry — measuring lines and plumb bobs (which create perpendicular lines) — to describe His perfect standard of justice. Just as perpendicular lines form a true right angle, God's righteousness is the absolute standard against which all else is measured."
+            },
+            {
+                "reference": "Amos 7:7-8",
+                "text": "\"Then the Lord said, 'Look, I am setting a plumb line among my people Israel; I will spare them no longer.'\"",
+                "commentary": "A plumb line uses gravity to establish a perfectly vertical line — perpendicular to the horizon. God uses this geometric tool as a symbol of His unwavering standards. His judgments, like geometric truths, are perfectly straight and true."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Lines in Relationship",
+            "paragraphs": [
+                "In the previous lesson, we studied individual geometric objects — points, lines, and planes. Now we examine how lines relate to one another. Two lines in the same plane must do one of three things: intersect at exactly one point, be parallel (never intersect), or be the same line (coincide). These relationships create predictable angle patterns that are essential to both theoretical geometry and practical applications like architecture and engineering.",
+                "The study of parallel and perpendicular lines reveals the beautiful consistency of geometric truth — relationships that hold universally, regardless of where or when they are observed. This universality reflects the unchanging character of the God who established these mathematical realities."
+            ]
+        },
+        {
+            "heading": "Parallel Lines and Transversals",
+            "paragraphs": [
+                "Two lines are parallel if they lie in the same plane and never intersect, no matter how far they are extended. When a third line (called a transversal) crosses two parallel lines, it creates eight angles with specific, predictable relationships.",
+                "These angle pairs include: corresponding angles (same position at each intersection, and they are congruent), alternate interior angles (on opposite sides of the transversal between the parallel lines, and they are congruent), alternate exterior angles (on opposite sides of the transversal outside the parallel lines, and they are congruent), and co-interior angles, also called same-side interior angles (on the same side of the transversal between the parallel lines, and they are supplementary — their measures sum to 180°).",
+                "These relationships are not arbitrary — they follow necessarily from the nature of parallel lines and the properties of angles. Euclid proved these relationships over two thousand years ago, and they remain as true today as they were then. Mathematical truth does not change because it reflects the mind of an unchanging God."
+            ]
+        },
+        {
+            "heading": "Proving Lines Parallel",
+            "paragraphs": [
+                "The angle relationships created by parallel lines and transversals can also be used in reverse: if we can show that certain angle relationships exist, we can prove that lines are parallel. This is the converse of the parallel line theorems.",
+                "For example, if two lines are cut by a transversal and corresponding angles are congruent, then the lines are parallel. Similarly, if alternate interior angles are congruent, or if co-interior angles are supplementary, the lines must be parallel. These converses give us powerful tools for proving geometric relationships.",
+                "The ability to reason in both directions — from parallel lines to angle relationships, and from angle relationships to parallel lines — illustrates the logical coherence of geometry. Truth in mathematics is interconnected, forming a web of consistent, mutually supporting relationships."
+            ]
+        },
+        {
+            "heading": "Perpendicular Lines",
+            "paragraphs": [
+                "Perpendicular lines intersect at right angles (90°). The concept of perpendicularity is fundamental to construction, navigation, and countless practical applications. A plumb line — a weight hanging on a string — creates a line perpendicular to the ground, and builders have used this simple tool for thousands of years to ensure structures are truly vertical.",
+                "Key properties of perpendicular lines include: perpendicular lines form four right angles at their point of intersection; the shortest distance from a point to a line is the perpendicular distance; and in a coordinate plane, perpendicular lines have slopes that are negative reciprocals of each other (if one line has slope m, a perpendicular line has slope -1/m).",
+                "The perpendicular bisector of a line segment is a line that is both perpendicular to the segment and passes through its midpoint. Every point on the perpendicular bisector is equidistant from the segment's two endpoints — a beautiful and useful property with applications in construction, design, and problem-solving."
+            ]
+        },
+        {
+            "heading": "Applications in Architecture and Design",
+            "paragraphs": [
+                "Parallel and perpendicular lines are everywhere in the built environment. The walls of a building are perpendicular to the floor. The rungs of a ladder are parallel to each other and perpendicular to the rails. Railroad tracks are parallel lines, and the ties are perpendicular transversals.",
+                "Throughout history, builders have applied geometric principles to construct structures of beauty and permanence. The ancient Egyptians used geometry to build the pyramids with remarkable precision. Medieval cathedral builders used geometric relationships to create soaring arches and perfectly balanced structures. These achievements testify to the practical power of geometric truth and to the creativity God has given human beings, made in His image, to shape the physical world.",
+                "As you study parallel and perpendicular lines, remember that you are learning the same geometric principles that God used in designing the universe and that human beings, as His image-bearers, have used for millennia to build, create, and solve problems."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "When a transversal crosses two parallel lines, eight angles are formed. Identify all four types of angle pairs and state whether each pair is congruent or supplementary.",
+            "guidance": "Draw a diagram showing two parallel lines cut by a transversal. Label all eight angles and identify which pairs are corresponding, alternate interior, alternate exterior, and co-interior."
+        },
+        {
+            "id": 2,
+            "question": "If two lines are cut by a transversal and one pair of alternate interior angles measures 65° and 65°, what can you conclude about the two lines? Explain your reasoning.",
+            "guidance": "Apply the converse of the Alternate Interior Angles Theorem. State the theorem and explain why congruent alternate interior angles guarantee that the lines are parallel."
+        },
+        {
+            "id": 3,
+            "question": "Read Isaiah 28:17. How does God use geometric concepts (measuring line, plumb bob) to communicate spiritual truth? What does this tell us about the relationship between mathematics and God's character?",
+            "guidance": "Consider why God chose geometric tools — instruments of precision and straightness — as metaphors for justice and righteousness. What does this suggest about the nature of God's moral standards?"
+        }
+    ]
+}

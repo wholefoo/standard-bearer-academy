@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "reading",
+    "title": "Reading with Purpose — Phonics and Comprehension",
+    "description": "Building reading skills through phonics, vocabulary, and Bible-based stories",
+    "units": [
+        {
+            "id": "phonics_comprehension",
+            "title": "Phonics and Comprehension",
+            "lessons": ["short_vowels", "long_vowels", "consonant_blends", "sight_words", "comprehension", "reading_aloud"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

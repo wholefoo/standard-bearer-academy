@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "science",
+    "title": "Seasons and Weather — God's Amazing Design",
+    "description": "Discover the four seasons and different kinds of weather that God created to care for His world!",
+    "units": [
+        {
+            "id": "seasons_weather",
+            "title": "Seasons and Weather",
+            "lessons": ["fall", "winter", "spring", "summer", "weather"]
+        }
+    ],
+    "quiz_id": "seasons_quiz"
+}

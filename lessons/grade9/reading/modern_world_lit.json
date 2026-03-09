@@ -1,0 +1,81 @@
+{
+    "id": "modern_world_lit",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Modern World Literature and the Christian Response",
+    "subtitle": "Dostoevsky, Lewis, and Literature in a Post-Christian Age",
+    "scripture": "Romans 1:20-22",
+    "primary_source": "Fyodor Dostoevsky, The Brothers Karamazov (1880) — Ivan's 'Grand Inquisitor' parable",
+    "key_concepts": ["Modernism and the loss of faith", "Dostoevsky's Christian vision", "C.S. Lewis and Christian apologetics through fiction", "Evaluating modern literature Biblically"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:20-22",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made, so that people are without excuse. For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened. Although they claimed to be wise, they became fools.\"",
+                "commentary": "Paul describes the trajectory of a culture that turns away from God — a trajectory visible in much modern literature. As Western civilization abandoned its Christian foundations, its literature increasingly reflected despair, nihilism, and moral confusion."
+            },
+            {
+                "reference": "1 John 4:1",
+                "text": "\"Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.\"",
+                "commentary": "In an age of competing worldviews expressed through literature, Christians must exercise discernment — testing the ideas embedded in every work against the standard of God's Word."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Literature After Christendom",
+            "paragraphs": [
+                "The modern era (roughly 18th century to present) witnessed a gradual turning away from the Christian worldview that had shaped Western civilization for over a thousand years. The Enlightenment elevated human reason above divine revelation. Romanticism exalted feeling over faith. Modernism embraced fragmentation and doubt. Postmodernism rejected the very concept of objective truth.",
+                "These intellectual shifts profoundly shaped literature. As Western culture moved away from its Christian foundations, its literature increasingly reflected despair, moral confusion, and the search for meaning in a world believed to be without God. Yet even in this cultural darkness, Christian authors produced works of extraordinary power that defended the faith and proclaimed hope."
+            ]
+        },
+        {
+            "heading": "Dostoevsky: The Novelist of the Soul",
+            "paragraphs": [
+                "Fyodor Dostoevsky (1821-1881) is one of the greatest novelists in world literature and a profound Christian thinker. His novels — Crime and Punishment, The Brothers Karamazov, The Idiot — explore the consequences of life without God and the transforming power of faith, love, and suffering.",
+                "In Crime and Punishment, the student Raskolnikov commits murder based on a philosophical theory that 'extraordinary' people are above moral law. His subsequent psychological torment and eventual repentance demonstrate that human beings cannot live outside the moral order God has established. The novel shows, in devastating detail, what happens when a person acts as though God does not exist.",
+                "In The Brothers Karamazov, Ivan Karamazov argues that 'if God does not exist, everything is permitted.' This is one of literature's most powerful statements of the logical consequence of atheism. Without God, there is no objective basis for morality, and human life becomes meaningless. Dostoevsky does not merely state this as an argument; he shows it through characters whose lives are shaped — or destroyed — by their relationship to God."
+            ]
+        },
+        {
+            "heading": "The Crisis of Modernism",
+            "paragraphs": [
+                "The 20th century produced literature that reflected the spiritual crisis of a civilization that had largely abandoned Christianity. Writers like Franz Kafka, Albert Camus, and Jean-Paul Sartre expressed the anxiety, alienation, and absurdity that characterize life without God.",
+                "Kafka's The Trial depicts a man condemned by an incomprehensible system with no justice or meaning. Camus' The Stranger presents a protagonist who feels nothing — not even at his mother's death. Sartre declared that 'existence precedes essence,' meaning that life has no inherent purpose; we must create our own meaning.",
+                "From a Christian perspective, these works are valuable not because they are right but because they honestly depict the consequences of rejecting God. They confirm what Scripture teaches: that apart from God, life becomes 'meaningless, a chasing after the wind' (Ecclesiastes 1:14). The despair of modern literature is the logical outcome of the worldview Paul described in Romans 1:21 — 'their thinking became futile and their foolish hearts were darkened.'"
+            ]
+        },
+        {
+            "heading": "C.S. Lewis and the Christian Literary Renaissance",
+            "paragraphs": [
+                "Against the tide of secular modernism, Christian authors produced works of enduring power and beauty. C.S. Lewis (1898-1963) used fiction to present Christian truth in compelling, imaginative forms. The Chronicles of Narnia introduced millions of children to the gospel through the figure of Aslan. The Screwtape Letters exposed the strategies of spiritual warfare with wit and insight. His Space Trilogy explored theological themes through science fiction.",
+                "Lewis understood that stories can convey truth in ways that arguments alone cannot. By engaging the imagination, fiction can bypass intellectual defenses and speak directly to the heart. Lewis wrote: 'I believe in Christianity as I believe that the Sun has risen, not only because I see it, but because by it I see everything else.'",
+                "Other significant Christian authors of the modern era include J.R.R. Tolkien, whose Lord of the Rings is deeply shaped by Catholic theology; Flannery O'Connor, whose Southern Gothic stories explore grace and redemption; and Aleksandr Solzhenitsyn, whose exposure of Soviet tyranny was rooted in Christian conviction."
+            ]
+        },
+        {
+            "heading": "Reading Modern Literature with Biblical Discernment",
+            "paragraphs": [
+                "As Christian readers of modern world literature, we must develop the skill of Biblical discernment. This means evaluating every work we read against the standard of Scripture, identifying the worldview assumptions embedded in the text, and distinguishing between what is true and what is false.",
+                "We should ask of every work: What does this author believe about God, human nature, morality, and the meaning of life? Where do these beliefs align with Scripture, and where do they contradict it? What can we learn from this work — even from its errors? How does the Gospel address the questions and longings this work expresses? This kind of thoughtful, critical reading is essential for every Christian who wants to engage the culture wisely and speak truth in a confused world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Ivan Karamazov declares, 'If God does not exist, everything is permitted.' Do you agree that atheism logically leads to moral relativism? Use Scripture and reason to defend your answer.",
+            "guidance": "Consider what provides the foundation for objective morality. Think about Romans 2:14-15 (the law written on the heart) and the logical consequences of a worldview without a transcendent moral lawgiver."
+        },
+        {
+            "id": 2,
+            "question": "Compare the worldview of modern secular literature (Kafka, Camus, Sartre) with the Christian vision presented by Lewis, Tolkien, and Dostoevsky. How does each group's understanding of God shape their view of human life and meaning?",
+            "guidance": "Consider how belief or disbelief in God affects one's view of purpose, morality, death, and hope. Think about Ecclesiastes 1:2 (vanity without God) versus John 10:10 (abundant life in Christ)."
+        },
+        {
+            "id": 3,
+            "question": "C.S. Lewis believed that stories could convey Christian truth in ways that arguments alone cannot. Do you agree? How has a story — from literature, film, or personal experience — helped you understand a spiritual truth more deeply?",
+            "guidance": "Consider Jesus' use of parables (Matthew 13:34) and why He often taught through stories rather than lectures. Think about the unique power of narrative to engage the imagination and touch the heart."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "science",
+    "title": "Chemistry — The Elements of Creation",
+    "description": "An exploration of chemistry from atomic structure to chemical reactions, revealing the elegant design of the Creator in the fundamental building blocks of matter.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Chemistry — The Elements of Creation",
+            "lessons": ["atomic_structure", "periodic_table", "chemical_bonds", "chemical_reactions", "stoichiometry", "acids_bases"]
+        }
+    ],
+    "quiz_id": "chemistry_quiz"
+}

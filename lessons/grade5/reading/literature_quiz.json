@@ -1,0 +1,63 @@
+{
+    "id": "literature_quiz",
+    "title": "Literature and Composition Quiz",
+    "description": "Test your knowledge of literary elements, character analysis, writing, poetry, and research skills!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which literary element describes WHERE and WHEN a story takes place?",
+            "options": ["Plot", "Theme", "Setting", "Conflict"],
+            "correct": 2,
+            "explanation": "The setting is where and when the story takes place — the time and location of the events."
+        },
+        {
+            "id": 2,
+            "question": "A character who changes during a story is called a:",
+            "options": ["Static character", "Dynamic character", "Flat character", "Minor character"],
+            "correct": 1,
+            "explanation": "A dynamic character is one who changes or grows during the story, like Saul becoming Paul."
+        },
+        {
+            "id": 3,
+            "question": "What are the three parts of an expository paragraph?",
+            "options": ["Beginning, middle, end", "Topic sentence, supporting sentences, concluding sentence", "Title, body, bibliography", "Introduction, climax, resolution"],
+            "correct": 1,
+            "explanation": "An expository paragraph has a topic sentence (main idea), supporting sentences (details), and a concluding sentence."
+        },
+        {
+            "id": 4,
+            "question": "Which type of writing tells a story?",
+            "options": ["Expository", "Persuasive", "Narrative", "Technical"],
+            "correct": 2,
+            "explanation": "Narrative writing tells a story, whether true (personal narrative) or fictional."
+        },
+        {
+            "id": 5,
+            "question": "'God is my rock' is an example of which poetic device?",
+            "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+            "correct": 1,
+            "explanation": "A metaphor says one thing IS another. 'God is my rock' compares God to a rock without using 'like' or 'as.'"
+        },
+        {
+            "id": 6,
+            "question": "How many syllables does a haiku have in its three lines?",
+            "options": ["3, 5, 3", "5, 7, 5", "7, 5, 7", "4, 6, 4"],
+            "correct": 1,
+            "explanation": "A haiku has three lines with 5 syllables, 7 syllables, and 5 syllables."
+        },
+        {
+            "id": 7,
+            "question": "What is the MAIN problem or struggle in a story called?",
+            "options": ["Theme", "Conflict", "Climax", "Resolution"],
+            "correct": 1,
+            "explanation": "The conflict is the main problem or struggle that the characters face, which drives the story forward."
+        },
+        {
+            "id": 8,
+            "question": "When doing research, why should you write notes in your own words?",
+            "options": ["To make your handwriting look nice", "To avoid copying and to show you understand the material", "Because note cards are too small for full sentences", "To make the report shorter"],
+            "correct": 1,
+            "explanation": "Writing notes in your own words helps you understand the material and avoids copying someone else's work."
+        }
+    ]
+}

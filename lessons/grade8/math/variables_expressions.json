@@ -1,0 +1,71 @@
+{
+    "id": "variables_expressions",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Variables and Expressions",
+    "subtitle": "The Language of Algebra — Describing God's Patterns",
+    "scripture": "Proverbs 25:2",
+    "key_concepts": ["Variables", "Algebraic expressions", "Evaluating expressions", "Combining like terms"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has hidden patterns and relationships throughout creation. Algebra gives us the language to discover and express these hidden patterns — using variables and expressions to describe relationships that words alone cannot capture."
+            },
+            {
+                "reference": "1 Kings 4:29",
+                "text": "\"God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore.\"",
+                "commentary": "Mathematical understanding is a gift from God. As we develop algebraic thinking, we are exercising the intellectual capacities God gave us to understand His ordered creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Variable?",
+            "paragraphs": [
+                "A variable is a letter or symbol that represents an unknown or changing value. In algebra, we commonly use letters like x, y, and n to stand for numbers we don't yet know. Variables allow us to write general rules and relationships that apply to many situations, not just one specific case.",
+                "For example, the formula for the area of a rectangle is A = lw, where A represents the area, l represents the length, and w represents the width. This single formula works for every rectangle, no matter what its specific dimensions are. Variables give mathematics incredible power and flexibility."
+            ]
+        },
+        {
+            "heading": "Algebraic Expressions",
+            "paragraphs": [
+                "An algebraic expression is a mathematical phrase that contains numbers, variables, and operations (addition, subtraction, multiplication, division). Examples include 3x + 5, 2y - 7, and 4a²b. Note that an expression is not an equation — it does not contain an equals sign.",
+                "In an expression like 3x + 5, the number 3 is called the coefficient (it multiplies the variable), x is the variable, and 5 is a constant (a fixed number). Understanding the parts of an expression is essential for simplifying and working with algebraic statements."
+            ]
+        },
+        {
+            "heading": "Evaluating Expressions",
+            "paragraphs": [
+                "To evaluate an algebraic expression means to substitute a specific value for the variable and calculate the result. For example, to evaluate 3x + 5 when x = 4, replace x with 4: 3(4) + 5 = 12 + 5 = 17.",
+                "You can evaluate expressions with multiple variables by substituting values for each variable. To evaluate 2a + 3b when a = 5 and b = 2: 2(5) + 3(2) = 10 + 6 = 16. Being careful with the order of operations (PEMDAS) is essential when evaluating complex expressions."
+            ]
+        },
+        {
+            "heading": "Combining Like Terms",
+            "paragraphs": [
+                "Like terms are terms in an expression that have the same variable raised to the same power. For example, 3x and 7x are like terms because they both contain x to the first power. However, 3x and 3x² are not like terms because the exponents are different.",
+                "To simplify an expression, combine like terms by adding or subtracting their coefficients. For example: 5x + 3y + 2x - y = (5x + 2x) + (3y - y) = 7x + 2y. Simplifying expressions makes them easier to work with and reveals the underlying structure of mathematical relationships.",
+                "The ability to simplify complex expressions into simpler forms reflects a deeper truth: God's creation, though complex on the surface, is governed by elegant, simple principles. Algebra helps us see through complexity to find the beautiful order beneath."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why are variables so powerful in mathematics? How do they allow us to describe general patterns rather than just specific cases?",
+            "guidance": "Think about how the formula A = lw describes every rectangle, not just one. Consider how variables allow us to express universal truths about mathematical relationships."
+        },
+        {
+            "id": 2,
+            "question": "Evaluate the expression 4x² - 3x + 7 when x = 3. Show each step of your work.",
+            "guidance": "Substitute 3 for x: 4(3)² - 3(3) + 7 = 4(9) - 9 + 7 = 36 - 9 + 7 = 34. Follow the order of operations carefully."
+        },
+        {
+            "id": 3,
+            "question": "How does Proverbs 25:2 relate to the study of algebra? In what sense does algebra help us 'search out' matters that God has 'concealed'?",
+            "guidance": "Consider how algebraic thinking helps us discover hidden patterns and relationships in creation — from physics formulas to growth patterns in nature."
+        }
+    ]
+}

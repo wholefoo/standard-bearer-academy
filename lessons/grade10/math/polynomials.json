@@ -1,0 +1,81 @@
+{
+    "id": "polynomials",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Polynomials — Building Blocks of Algebra",
+    "subtitle": "Operations, Factoring, and the Fundamental Theorem of Algebra",
+    "scripture": "Psalm 147:5",
+    "primary_source": "Carl Friedrich Gauss's 'Disquisitiones Arithmeticae' (1801)",
+    "key_concepts": ["Polynomial operations", "Factoring techniques", "The Remainder and Factor Theorems", "Zeros of polynomials", "End behavior"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 147:5",
+                "text": "\"Great is our Lord and mighty in power; his understanding has no limit.\"",
+                "commentary": "God's understanding is infinite, encompassing all mathematical truth. Polynomials — expressions that can model everything from projectile motion to population growth — are part of the mathematical language God has woven into creation."
+            },
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has embedded mathematical patterns throughout creation for us to discover. Finding the zeros of a polynomial is like uncovering hidden treasure — revealing the precise points where complex relationships balance."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Are Polynomials?",
+            "paragraphs": [
+                "A polynomial is an algebraic expression consisting of variables and coefficients combined using addition, subtraction, and multiplication, with only non-negative integer exponents. Examples include 3x² + 2x - 5 (a quadratic), x³ - 4x + 1 (a cubic), and 2x⁴ - x² + 7 (a quartic).",
+                "Polynomials are classified by degree: constant (degree 0), linear (degree 1), quadratic (degree 2), cubic (degree 3), quartic (degree 4), and so on. The degree of a polynomial determines its fundamental behavior — how many zeros it can have, what its graph looks like, and how it behaves for very large or very small values of x."
+            ]
+        },
+        {
+            "heading": "Operations with Polynomials",
+            "paragraphs": [
+                "Polynomials can be added and subtracted by combining like terms — terms with the same variable raised to the same power. For example: (3x² + 2x - 1) + (x² - 5x + 4) = 4x² - 3x + 3.",
+                "Polynomial multiplication uses the distributive property. To multiply (2x + 3)(x² - x + 4), distribute each term of the first polynomial across every term of the second: 2x(x²) + 2x(-x) + 2x(4) + 3(x²) + 3(-x) + 3(4) = 2x³ - 2x² + 8x + 3x² - 3x + 12 = 2x³ + x² + 5x + 12.",
+                "Polynomial long division and synthetic division allow us to divide polynomials, finding quotients and remainders. These techniques are essential for factoring higher-degree polynomials and finding their zeros."
+            ]
+        },
+        {
+            "heading": "Factoring Polynomials",
+            "paragraphs": [
+                "Factoring is the reverse of multiplication — breaking a polynomial into the product of simpler expressions. Key factoring techniques include: Greatest Common Factor (GCF): 6x³ + 9x² = 3x²(2x + 3). Difference of Squares: x² - 25 = (x + 5)(x - 5). Trinomial factoring: x² + 7x + 12 = (x + 3)(x + 4).",
+                "For higher-degree polynomials, grouping and the Rational Root Theorem help identify factors. The Rational Root Theorem states that if a polynomial with integer coefficients has a rational zero p/q, then p is a factor of the constant term and q is a factor of the leading coefficient.",
+                "The Fundamental Theorem of Algebra, proved by Gauss, guarantees that every polynomial of degree n has exactly n zeros (counting multiplicity and complex zeros). This remarkable theorem assures us that polynomial equations always have solutions — a mathematical certainty reflecting the completeness of God's mathematical design."
+            ]
+        },
+        {
+            "heading": "Zeros and Graphs of Polynomials",
+            "paragraphs": [
+                "The zeros (roots) of a polynomial are the values of x where the polynomial equals zero. Graphically, these are the x-intercepts of the polynomial's graph. Finding zeros is one of the most important skills in algebra, with applications in physics, engineering, economics, and many other fields.",
+                "The end behavior of a polynomial is determined by its leading term (the term with the highest degree). For a polynomial with an even degree and positive leading coefficient, both ends point upward. For odd degree with positive leading coefficient, the left end points down and the right end points up. These patterns help us sketch polynomial graphs.",
+                "Multiplicity affects how the graph behaves at each zero. If a zero has odd multiplicity, the graph crosses the x-axis at that point. If the zero has even multiplicity, the graph touches the x-axis and turns around. This creates a rich variety of shapes from relatively simple algebraic expressions."
+            ]
+        },
+        {
+            "heading": "Polynomials in God's Creation",
+            "paragraphs": [
+                "Polynomial functions model many natural phenomena. Projectile motion follows a quadratic (degree 2) path — a ball thrown in the air traces a parabola. The volume of geometric shapes is described by cubic (degree 3) polynomials. Population growth models, structural engineering calculations, and economic models all use polynomial functions.",
+                "The fact that so many aspects of creation can be described by polynomial equations — simple, elegant mathematical expressions — testifies to the mathematical order God has built into the universe. Mathematics is not a human invention imposed on nature; it is a discovery of the language in which God wrote creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Factor the polynomial x³ - 6x² + 11x - 6 completely. Verify your answer by multiplication.",
+            "guidance": "Try possible rational roots (factors of 6 divided by factors of 1): ±1, ±2, ±3, ±6. Use synthetic division to test each. Once you find one root, factor the remaining quadratic."
+        },
+        {
+            "id": 2,
+            "question": "Explain the Fundamental Theorem of Algebra and why it guarantees solutions to polynomial equations. How does this mathematical certainty reflect the orderly nature of God's creation?",
+            "guidance": "Think about what it means that every polynomial has exactly n zeros. Consider how this completeness and predictability in mathematics mirror the reliability of God's design."
+        },
+        {
+            "id": 3,
+            "question": "Describe how end behavior and zeros help you sketch the graph of a polynomial. Sketch the graph of f(x) = -(x + 2)(x - 1)(x - 3).",
+            "guidance": "Identify the zeros (-2, 1, 3), the leading term (-x³), and determine end behavior. Plot the zeros and connect with a smooth curve following the end behavior pattern."
+        }
+    ]
+}

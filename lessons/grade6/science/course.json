@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "science",
+    "title": "Life Science — The Miracle of Living Things",
+    "description": "An exploration of living organisms and the intricate systems God designed, from cells to ecosystems, revealing the miracle of life in His creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Life Science — The Miracle of Living Things",
+            "lessons": ["cells", "classification", "plants", "animals", "human_body", "ecosystems"]
+        }
+    ],
+    "quiz_id": "life_science_quiz"
+}

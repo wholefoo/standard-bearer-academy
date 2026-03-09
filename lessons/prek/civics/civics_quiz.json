@@ -1,0 +1,42 @@
+{
+    "id": "civics_quiz",
+    "title": "God's Rules Quiz",
+    "description": "Let's see what you learned about following God's rules!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Why do we have rules?",
+            "options": ["To make us sad", "To keep us safe and happy", "Rules are not important", "To be mean"],
+            "correct": 1,
+            "explanation": "Rules keep us safe and happy! God gave us rules because He loves us (Colossians 3:20)."
+        },
+        {
+            "id": 2,
+            "question": "What does it mean to be kind?",
+            "options": ["Being mean to others", "Being nice and loving to people", "Ignoring people", "Being loud"],
+            "correct": 1,
+            "explanation": "Being kind means being nice and loving to other people, just like Jesus! (Ephesians 4:32)."
+        },
+        {
+            "id": 3,
+            "question": "What did the little boy share with Jesus?",
+            "options": ["His toys", "His fish and bread", "His coat", "His shoes"],
+            "correct": 1,
+            "explanation": "The little boy shared his lunch of fish and bread, and Jesus used it to feed thousands of people!"
+        },
+        {
+            "id": 4,
+            "question": "Does God want us to tell the truth?",
+            "options": ["No", "Only sometimes", "Yes, always", "Only when it is easy"],
+            "correct": 2,
+            "explanation": "Yes! God wants us to always tell the truth. The Lord delights in truthful people (Proverbs 12:22)."
+        },
+        {
+            "id": 5,
+            "question": "How can we be helpers?",
+            "options": ["By making messes", "By picking up toys and being kind", "By not listening", "By hiding"],
+            "correct": 1,
+            "explanation": "We can be helpers by picking up toys, being kind, and helping others. When we help, we are being like Jesus! (Galatians 6:2)."
+        }
+    ]
+}

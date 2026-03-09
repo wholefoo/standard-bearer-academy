@@ -1,0 +1,116 @@
+{
+    "id": "constitutional_quiz",
+    "title": "Constitutional Law — Original Intent and Application: Unit Quiz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is originalism in constitutional interpretation?",
+            "options": [
+                "The belief that the Constitution should evolve with changing social values",
+                "The approach that interprets the Constitution according to the original meaning understood by those who wrote and ratified it",
+                "The idea that only the original thirteen states have constitutional rights",
+                "The theory that the Constitution is outdated and should be replaced"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "What does the First Amendment's Establishment Clause originally prohibit?",
+            "options": [
+                "Any mention of God in public life",
+                "Prayer in any government building",
+                "The federal government from establishing a national church or preferring one denomination over another",
+                "Religious organizations from participating in politics"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "In District of Columbia v. Heller (2008), the Supreme Court held that the Second Amendment protects:",
+            "options": [
+                "Only the right of state militias to bear arms",
+                "An individual right to possess firearms unconnected with militia service",
+                "The right to bear arms only during wartime",
+                "Only the right to own hunting weapons"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "Which Bible verse is often cited as the inspiration for the separation of powers in the U.S. Constitution?",
+            "options": [
+                "Genesis 1:1",
+                "John 3:16",
+                "Isaiah 33:22",
+                "Romans 8:28"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "The Tenth Amendment reserves powers not delegated to the federal government to:",
+            "options": [
+                "The President",
+                "The Supreme Court",
+                "The States respectively, or to the people",
+                "Federal agencies"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 6,
+            "question": "What principle was established by Marbury v. Madison (1803)?",
+            "options": [
+                "The President can veto Supreme Court decisions",
+                "Congress has unlimited legislative power",
+                "The courts have the power of judicial review — to declare laws unconstitutional",
+                "States can nullify federal laws"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 7,
+            "question": "Madison wrote in Federalist No. 51 that 'ambition must be made to counteract ambition.' This reflects the Framers' belief in:",
+            "options": [
+                "The essential goodness of human nature",
+                "The sinfulness of human nature and the need to check power with power",
+                "The superiority of monarchy over democracy",
+                "The importance of political parties"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "What is the 'administrative state' and why is it considered a constitutional problem?",
+            "options": [
+                "The state governments that administer local laws — it's not a problem",
+                "The network of federal agencies that combine legislative, executive, and judicial powers in unelected bodies",
+                "The administrative offices within Congress — it's an efficient system",
+                "The President's cabinet — it's authorized by Article II"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 9,
+            "question": "George Washington's Farewell Address warned that which two things are 'indispensable supports' of political prosperity?",
+            "options": [
+                "Military strength and economic growth",
+                "Political parties and free elections",
+                "Religion and morality",
+                "Foreign alliances and trade agreements"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 10,
+            "question": "Why did the Framers require search warrants to be specific rather than general?",
+            "options": [
+                "To make law enforcement more efficient",
+                "To prevent government agents from conducting arbitrary, open-ended searches of citizens' homes and property",
+                "To reduce paperwork for judges",
+                "To allow searches only during business hours"
+            ],
+            "correct": 1
+        }
+    ]
+}

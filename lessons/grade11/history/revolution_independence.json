@@ -1,0 +1,81 @@
+{
+    "id": "revolution_independence",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Revolution and Independence",
+    "subtitle": "The War for Liberty Under God's Providence",
+    "scripture": "Galatians 5:1",
+    "primary_source": "The Declaration of Independence (1776)",
+    "key_concepts": ["Natural rights from the Creator", "Tyranny and the right of revolution", "Providential history", "The Declaration as a theological document"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"",
+                "commentary": "While Paul speaks here of spiritual freedom, the American Founders believed that political liberty was a corollary of the freedom God intends for His image-bearers. They saw resistance to tyranny as a duty, not merely a right."
+            },
+            {
+                "reference": "Proverbs 29:2",
+                "text": "\"When the righteous thrive, the people rejoice; when the wicked rule, the people groan.\"",
+                "commentary": "The colonists experienced the truth of this proverb firsthand as British policies became increasingly oppressive. They concluded that submission to tyranny was not the same as submission to God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Road to Revolution",
+            "paragraphs": [
+                "The American Revolution did not begin as a desire for independence. For over a decade, the colonists sought reconciliation with Britain while insisting on their rights as Englishmen. The Stamp Act (1765), the Townshend Acts (1767), and the Intolerable Acts (1774) progressively convinced Americans that the British government intended to reduce them to a state of dependence and submission.",
+                "Colonial resistance was shaped by two powerful traditions: the English common law tradition of limited government (rooted in the Magna Carta and the English Bill of Rights) and the Protestant theological tradition that rulers who violate God's law forfeit their claim to obedience. Pastors throughout the colonies preached 'resistance sermons' arguing from Scripture that submission to tyranny was a sin against God."
+            ]
+        },
+        {
+            "heading": "The Declaration of Independence: A Theological Document",
+            "paragraphs": [
+                "The Declaration of Independence, adopted on July 4, 1776, is far more than a political document — it is a theological statement. Its opening paragraphs establish four critical truths that rest on a Biblical foundation.",
+                "First, 'all men are created equal' — human equality is grounded not in biology or social convention but in the act of creation by God. Second, people 'are endowed by their Creator with certain unalienable Rights' — rights come from God, not government, and therefore government cannot legitimately take them away. Third, government exists 'to secure these rights' — its purpose is protective, not creative. Fourth, when government becomes destructive of these ends, 'it is the Right of the People to alter or to abolish it.'",
+                "Thomas Jefferson, the primary author, drew on John Locke, the English Whig tradition, and — whether he fully realized it — centuries of Christian political theology. The idea that there is a 'Law of Nature and of Nature's God' superior to all human legislation is fundamentally a Biblical concept."
+            ]
+        },
+        {
+            "heading": "Providence on the Battlefield",
+            "paragraphs": [
+                "The military struggle for independence seemed, by any human calculation, hopeless. The Continental Army was poorly trained, poorly supplied, and vastly outnumbered. Britain possessed the most powerful military in the world. Yet the Americans prevailed.",
+                "George Washington, the commander-in-chief, repeatedly attributed American survival to divine Providence. After the miraculous evacuation from Brooklyn Heights in August 1776 — when a sudden fog allowed the entire army to escape across the East River undetected — Washington wrote that 'the hand of Providence' had preserved them. Similar instances of seemingly providential intervention occurred throughout the war.",
+                "The winter at Valley Forge (1777-1778) tested the army to its limits. Starvation, disease, and desertion threatened to destroy the Continental forces. Yet the army emerged from that terrible winter stronger and more disciplined, thanks in part to the training provided by Baron von Steuben. Washington's faith and perseverance during this dark period exemplify the Christian virtue of steadfastness under trial."
+            ]
+        },
+        {
+            "heading": "Victory and Its Meaning",
+            "paragraphs": [
+                "The British surrender at Yorktown in October 1781 effectively ended the war. The Treaty of Paris (1783) recognized American independence. The thirteen colonies had defeated the greatest empire on earth.",
+                "The American Revolution was unique among revolutions. Unlike the French Revolution that followed it, the American Revolution did not seek to overthrow all existing social order. It did not descend into mob violence, mass executions, or dictatorship. The Americans fought to preserve and extend liberties they already possessed — liberties grounded in English common law and Biblical principles.",
+                "This conserving character of the American Revolution reflects its deeply Christian roots. The Founders were not utopians seeking to create a perfect society through human effort. They were realists who understood human sin and sought to create institutions that would restrain power and protect liberty. As James Madison would later write, 'If men were angels, no government would be necessary.'"
+            ]
+        },
+        {
+            "heading": "The Revolution's Legacy",
+            "paragraphs": [
+                "The American Revolution established principles that continue to shape the world: that legitimate government derives its authority from the consent of the governed, that rights are inherent and God-given rather than government-granted, and that the people have the right to resist tyranny.",
+                "These principles did not emerge from secular philosophy alone. They grew from centuries of Christian reflection on the nature of authority, the dignity of the individual made in God's image, and the accountability of all rulers to a higher law. Understanding this heritage is essential for preserving the liberty the Founders secured at so great a cost."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "The Declaration of Independence states that rights are 'endowed by their Creator.' Why is it significant that the Founders grounded human rights in God rather than in government or popular opinion? What happens to rights when their divine origin is denied?",
+            "guidance": "Consider how the source of rights affects their permanence and universality. Compare the American view to the French Revolutionary view that rights come from the nation or the state."
+        },
+        {
+            "id": 2,
+            "question": "Compare and contrast the American Revolution with the French Revolution. Why did the American Revolution produce a stable republic while the French Revolution produced the Reign of Terror and eventually Napoleon's dictatorship?",
+            "guidance": "Consider the role of Christian theology in the American Revolution versus the role of Enlightenment secularism in the French Revolution. Think about differing views of human nature and the purpose of government."
+        },
+        {
+            "id": 3,
+            "question": "George Washington frequently attributed American victories to divine Providence. How should Christians think about the role of Providence in history? Does belief in God's sovereignty mean that every military victory is morally justified?",
+            "guidance": "Think carefully about the difference between acknowledging God's sovereignty over events and claiming divine approval for every human action. Consider Biblical examples where God used events — including military defeats — for His purposes."
+        }
+    ]
+}

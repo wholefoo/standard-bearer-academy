@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "bible",
+    "title": "Old Testament Adventures — From Noah to David",
+    "description": "Journey through the Old Testament and discover how God kept His promises through faithful men and women from Noah to David.",
+    "units": [
+        {
+            "id": "old_testament",
+            "title": "Old Testament Adventures",
+            "lessons": ["noah", "abraham", "joseph", "moses", "joshua", "david"]
+        }
+    ],
+    "quiz_id": "bible_quiz"
+}

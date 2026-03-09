@@ -1,0 +1,82 @@
+{
+    "id": "industrialization_reform",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Industrialization and Reform",
+    "subtitle": "Progress, Peril, and the Christian Response",
+    "scripture": "Micah 6:8",
+    "primary_source": "Theodore Roosevelt's 'The New Nationalism' Speech (1910)",
+    "key_concepts": ["Industrial Revolution in America", "Free enterprise and biblical stewardship", "The Social Gospel movement", "Progressive Era reforms", "Immigration and American identity"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "The rapid industrialization of America created enormous wealth but also serious injustices. Christians were called to apply Biblical principles of justice and mercy to the new challenges of an industrial society."
+            },
+            {
+                "reference": "Proverbs 14:31",
+                "text": "\"Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God.\"",
+                "commentary": "Scripture consistently commands care for the vulnerable. During the Gilded Age, Christians debated how best to fulfill this command — through individual charity, church ministry, or government action."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Rise of Industrial America",
+            "paragraphs": [
+                "Between the Civil War and World War I, the United States was transformed from a predominantly agricultural nation into the world's leading industrial power. Railroads connected the continent, factories produced goods on an unprecedented scale, and entrepreneurs like Andrew Carnegie, John D. Rockefeller, and Thomas Edison reshaped the economy.",
+                "This transformation was driven largely by free enterprise — the economic system most compatible with Biblical principles of individual responsibility, private property, and voluntary exchange. The freedom to innovate, invest, and profit created more wealth and raised more people out of poverty than any system in human history."
+            ]
+        },
+        {
+            "heading": "The Challenges of Industrialization",
+            "paragraphs": [
+                "Industrial progress also brought serious challenges. Factory workers — including children — often labored in dangerous conditions for long hours and low wages. Urban slums grew as immigrants and rural migrants crowded into cities. Corporate monopolies threatened economic competition, and the gap between rich and poor widened dramatically.",
+                "These conditions raised urgent moral questions. Was the suffering of workers simply the price of progress? Did the Biblical command to care for the poor require government intervention in the economy? Could free enterprise be reformed without being destroyed?",
+                "Christians answered these questions differently. Some emphasized individual charity and personal evangelism as the primary solutions to social problems. Others argued that systemic injustice required systemic reform. The debate between these approaches continues to this day."
+            ]
+        },
+        {
+            "heading": "The Social Gospel and Its Critics",
+            "paragraphs": [
+                "The Social Gospel movement, led by ministers like Walter Rauschenbusch, argued that the church should focus on transforming social structures rather than merely saving individual souls. Rauschenbusch taught that the Kingdom of God could be progressively realized on earth through social reform.",
+                "While the Social Gospel correctly applied Biblical concern for justice to industrial conditions, it had significant theological weaknesses. By focusing on social transformation at the expense of personal salvation, it tended to reduce Christianity to a program of political reform. Orthodox Christians rightly criticized this imbalance, insisting that genuine social improvement flows from the transformation of individual hearts by the Gospel.",
+                "The most faithful Christian response combined both emphases: proclaiming the Gospel of personal salvation while also working for just laws, fair wages, and humane working conditions. Organizations like the Salvation Army exemplified this approach, meeting both spiritual and physical needs."
+            ]
+        },
+        {
+            "heading": "The Progressive Era",
+            "paragraphs": [
+                "The Progressive Era (roughly 1890-1920) saw a wave of reforms aimed at addressing industrial abuses. Child labor laws, food safety regulations (prompted by Upton Sinclair's The Jungle), women's suffrage (19th Amendment, 1920), and antitrust legislation all emerged from this period.",
+                "Many of these reforms were genuinely needed and reflected Biblical principles of justice and protection for the vulnerable. However, the Progressive movement also contained elements that were inconsistent with Biblical principles — particularly its confidence in government expertise and its tendency to centralize power in Washington at the expense of local self-government and individual liberty.",
+                "Theodore Roosevelt's 'New Nationalism' represented a moderate progressive vision that sought to use government power to ensure fair competition and protect workers while preserving the fundamental principles of free enterprise. Roosevelt argued that concentrated economic power was as dangerous to liberty as concentrated political power."
+            ]
+        },
+        {
+            "heading": "Immigration and the American Experiment",
+            "paragraphs": [
+                "Between 1880 and 1920, over 20 million immigrants arrived in the United States, primarily from Southern and Eastern Europe. These newcomers brought diverse cultures, languages, and religious traditions to American shores.",
+                "The Christian response to immigration was shaped by competing convictions. On one hand, Scripture commands hospitality to the stranger and affirms that all people are made in God's image. On the other hand, preserving the cultural and institutional foundations of American liberty required that immigrants be integrated into American civic life — learning English, understanding the Constitution, and embracing the principles of self-government.",
+                "The great strength of the American experiment has been its ability to assimilate diverse peoples into a unified nation bound by shared principles rather than shared ethnicity. E pluribus unum — 'out of many, one' — reflects the Biblical truth that God creates unity from diversity for His purposes."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What are the strengths and weaknesses of free enterprise from a Biblical perspective? How can Christians affirm the benefits of economic freedom while also addressing its potential for injustice?",
+            "guidance": "Consider Biblical teachings about private property, fair wages, care for the poor, and the dangers of greed. Think about the difference between voluntary charity and government-mandated redistribution."
+        },
+        {
+            "id": 2,
+            "question": "Evaluate the Social Gospel movement. What did it get right, and where did it go wrong? How can Christians avoid the errors of both reducing the Gospel to social activism and ignoring the social implications of the Gospel?",
+            "guidance": "Consider the relationship between personal salvation and social justice in Scripture. Think about Biblical examples of prophets who addressed both individual sin and systemic injustice."
+        },
+        {
+            "id": 3,
+            "question": "How should Christians think about immigration? What Biblical principles should guide national immigration policy? How do we balance hospitality toward the stranger with responsibility to preserve the institutions and principles that make liberty possible?",
+            "guidance": "Consider Old Testament laws regarding the 'sojourner' alongside principles of national sovereignty and the rule of law. Think about the difference between personal Christian duty and national policy."
+        }
+    ]
+}

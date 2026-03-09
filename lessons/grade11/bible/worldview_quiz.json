@@ -1,0 +1,116 @@
+{
+    "id": "worldview_quiz",
+    "title": "Worldview Studies — Biblical vs. Secular Thinking: Unit Quiz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is a worldview?",
+            "options": [
+                "A political ideology",
+                "A comprehensive framework of beliefs through which a person interprets all of reality",
+                "A scientific theory about the origin of the universe",
+                "A set of religious rituals and practices"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "What are the four acts of the Biblical worldview's grand narrative?",
+            "options": [
+                "Birth, Life, Death, Judgment",
+                "Law, Prophets, Gospels, Epistles",
+                "Creation, Fall, Redemption, Restoration",
+                "Faith, Hope, Love, Obedience"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 3,
+            "question": "What is naturalism?",
+            "options": [
+                "The belief that nature is sacred and should be worshipped",
+                "The worldview that the physical, material universe is all that exists",
+                "The belief that humans should live in harmony with nature",
+                "The scientific study of natural phenomena"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "According to C.S. Lewis, why is naturalism self-defeating?",
+            "options": [
+                "Because science has disproven it",
+                "Because it is too complicated for most people to understand",
+                "Because if our thoughts are mere chemical reactions, we have no reason to trust them — including the thought that naturalism is true",
+                "Because it contradicts the theory of evolution"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "Why is the statement 'There are no absolute moral truths' self-refuting?",
+            "options": [
+                "Because morality is always culturally determined",
+                "Because it is itself presented as an absolute moral truth",
+                "Because some cultures do have absolute truths",
+                "Because science cannot measure moral truths"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 6,
+            "question": "What is postmodernism's central claim about truth?",
+            "options": [
+                "That truth can only be discovered through science",
+                "That truth is found in ancient traditions",
+                "That objective truth is unknowable or nonexistent, and all truth claims are expressions of power",
+                "That truth is revealed only through Scripture"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 7,
+            "question": "According to the Biblical worldview, where does morality ultimately come from?",
+            "options": [
+                "From cultural consensus",
+                "From individual conscience",
+                "From the character of God",
+                "From evolutionary advantage"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 8,
+            "question": "What did Abraham Kuyper mean when he said there is 'not a square inch' over which Christ does not claim sovereignty?",
+            "options": [
+                "That Christians should control every government",
+                "That the church should own all property",
+                "That every area of life — science, art, politics, education — falls under Christ's lordship",
+                "That Christians should never engage with secular culture"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 9,
+            "question": "What does 1 Peter 3:15 command Christians to do?",
+            "options": [
+                "Avoid all philosophical debates",
+                "Be prepared to give an answer for the hope they have, with gentleness and respect",
+                "Prove God's existence through scientific experiments",
+                "Separate completely from secular society"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 10,
+            "question": "Which of the following best describes the relationship between apologetics and evangelism?",
+            "options": [
+                "Apologetics replaces evangelism in the modern world",
+                "Apologetics and evangelism are unrelated activities",
+                "Apologetics removes intellectual barriers so that people can hear and respond to the Gospel",
+                "Evangelism is for uneducated people; apologetics is for intellectuals"
+            ],
+            "correct": 2
+        }
+    ]
+}

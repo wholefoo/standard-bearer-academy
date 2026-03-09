@@ -1,0 +1,63 @@
+{
+    "id": "math_quiz",
+    "title": "God's Numbers — Addition and Subtraction Quiz",
+    "description": "Test your addition and subtraction skills!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is 3 + 4?",
+            "options": ["5", "6", "7", "8"],
+            "correct": 2,
+            "explanation": "3 + 4 = 7. When we put 3 and 4 together, we get 7."
+        },
+        {
+            "id": 2,
+            "question": "What is 9 - 3?",
+            "options": ["5", "6", "7", "12"],
+            "correct": 1,
+            "explanation": "9 - 3 = 6. When we take 3 away from 9, we have 6 left."
+        },
+        {
+            "id": 3,
+            "question": "Noah brought animals in pairs (groups of 2). How many animals are in 4 pairs?",
+            "options": ["4", "6", "8", "10"],
+            "correct": 2,
+            "explanation": "4 pairs means 2 + 2 + 2 + 2 = 8 animals."
+        },
+        {
+            "id": 4,
+            "question": "What is 8 + 7?",
+            "options": ["13", "14", "15", "16"],
+            "correct": 2,
+            "explanation": "8 + 7 = 15. Count up 7 from 8: 9, 10, 11, 12, 13, 14, 15."
+        },
+        {
+            "id": 5,
+            "question": "What is 14 - 6?",
+            "options": ["7", "8", "9", "10"],
+            "correct": 1,
+            "explanation": "14 - 6 = 8. Count back 6 from 14: 13, 12, 11, 10, 9, 8."
+        },
+        {
+            "id": 6,
+            "question": "What does the plus sign (+) mean?",
+            "options": ["Take away", "Put together", "Equal to", "Less than"],
+            "correct": 1,
+            "explanation": "The plus sign (+) means to put groups together, or add."
+        },
+        {
+            "id": 7,
+            "question": "Jesus had 12 disciples. If 5 went fishing, how many stayed with Jesus?",
+            "options": ["5", "6", "7", "8"],
+            "correct": 2,
+            "explanation": "12 - 5 = 7. Seven disciples stayed with Jesus."
+        },
+        {
+            "id": 8,
+            "question": "David found 6 stones and then found 4 more. How many stones did he have in all?",
+            "options": ["8", "9", "10", "11"],
+            "correct": 2,
+            "explanation": "6 + 4 = 10. David had 10 stones in all."
+        }
+    ]
+}

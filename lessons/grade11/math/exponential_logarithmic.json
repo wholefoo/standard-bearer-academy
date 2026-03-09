@@ -1,0 +1,96 @@
+{
+    "id": "exponential_logarithmic",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Exponential and Logarithmic Functions",
+    "subtitle": "Growth, Decay, and the Patterns of Creation",
+    "scripture": "Matthew 13:31-32",
+    "primary_source": "John Napier's Mirifici Logarithmorum Canonis Descriptio (1614)",
+    "key_concepts": ["Exponential growth and decay", "The number e", "Logarithms as inverse functions", "Properties of logarithms", "Applications: compound interest, population growth, radioactive decay"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 13:31-32",
+                "text": "\"The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches.\"",
+                "commentary": "Jesus used the image of exponential growth — a tiny seed becoming a great tree — to describe the Kingdom of God. Exponential functions model growth that starts small but accelerates dramatically, just as the gospel began with twelve disciples and spread to fill the earth."
+            },
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it.'\"",
+                "commentary": "God's command to 'be fruitful and multiply' describes exponential population growth — each generation produces more individuals who themselves reproduce. The mathematics of exponential functions describe the pattern God built into living things."
+            },
+            {
+                "reference": "Proverbs 13:11",
+                "text": "\"Dishonest money dwindles away, but whoever gathers money little by little makes it grow.\"",
+                "commentary": "Compound interest — an exponential process — is the mathematical principle behind the wisdom of steady saving. The exponential function models the patient growth that Proverbs commends."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Power of Exponential Growth",
+            "paragraphs": [
+                "Exponential functions are among the most important in all of mathematics because they model a special type of growth (or decay) that appears throughout creation. In exponential growth, a quantity increases by a constant percentage in each time period. In exponential decay, it decreases by a constant percentage.",
+                "The classic illustration: if you fold a piece of paper in half 42 times (if this were physically possible), the stack would reach from the Earth to the Moon. This counterintuitive result captures the essence of exponential growth — it starts slowly but accelerates dramatically, eventually producing enormous quantities from modest beginnings."
+            ]
+        },
+        {
+            "heading": "Exponential Functions: f(x) = bˣ",
+            "paragraphs": [
+                "An exponential function has the form f(x) = bˣ, where b > 0 and b ≠ 1. The base b determines the function's behavior. If b > 1, the function models exponential growth — it increases as x increases. If 0 < b < 1, it models exponential decay — it decreases as x increases.",
+                "Key properties of exponential functions: the domain is all real numbers, the range is (0, ∞) — exponential functions are always positive. The graph always passes through (0, 1) because b⁰ = 1 for any valid base. The x-axis (y = 0) is a horizontal asymptote.",
+                "The general exponential model is f(t) = a · bᵗ, where a is the initial amount and b is the growth (or decay) factor. For growth, b = 1 + r, where r is the growth rate. For decay, b = 1 - r. This simple model describes phenomena ranging from bacterial populations to radioactive decay to compound interest."
+            ]
+        },
+        {
+            "heading": "The Number e: Nature's Growth Constant",
+            "paragraphs": [
+                "The number e ≈ 2.71828... is one of the most important constants in mathematics. It arises naturally from the study of continuous compound interest: if you invest $1 at 100% annual interest, compounded n times per year, and let n approach infinity, the result approaches e dollars.",
+                "The function f(x) = eˣ is called the natural exponential function. It has the remarkable property that its rate of change at any point equals its value at that point — the derivative of eˣ is eˣ. This makes it the natural model for processes where the rate of growth is proportional to the current amount.",
+                "The number e appears in an astonishing variety of contexts: probability theory, complex analysis, number theory, and physics. Its ubiquity suggests that it is not a human invention but a discovery — a number woven into the fabric of mathematical reality by the Creator."
+            ]
+        },
+        {
+            "heading": "Logarithms: The Inverse of Exponential Functions",
+            "paragraphs": [
+                "A logarithm answers the question: 'To what power must I raise the base to get this number?' Formally, log_b(x) = y means bʸ = x. For example, log₂(8) = 3 because 2³ = 8. The logarithm is the inverse function of the exponential.",
+                "Common logarithms use base 10: log(x) = log₁₀(x). Natural logarithms use base e: ln(x) = logₑ(x). Both are used extensively in science and engineering.",
+                "Properties of logarithms make them powerful tools for simplifying calculations: log_b(mn) = log_b(m) + log_b(n) (product rule), log_b(m/n) = log_b(m) - log_b(n) (quotient rule), log_b(mⁿ) = n · log_b(m) (power rule). These properties convert multiplication into addition and exponentiation into multiplication — which is exactly why John Napier invented logarithms in 1614, to simplify astronomical calculations."
+            ]
+        },
+        {
+            "heading": "Applications: Compound Interest, Growth, and Decay",
+            "paragraphs": [
+                "Compound interest is modeled by A = P(1 + r/n)^(nt), where P is the principal, r is the annual rate, n is the number of compounding periods per year, and t is the time in years. As n approaches infinity (continuous compounding), this becomes A = Pe^(rt).",
+                "Population growth often follows exponential models. If a population of bacteria doubles every 20 minutes, starting with 100 bacteria, the population after t minutes is N(t) = 100 · 2^(t/20). After 3 hours (180 minutes), N(180) = 100 · 2⁹ = 51,200 bacteria.",
+                "Radioactive decay is modeled by N(t) = N₀ · e^(-λt), where N₀ is the initial quantity, λ is the decay constant, and t is time. The half-life — the time for half the substance to decay — is t₁/₂ = ln(2)/λ. Understanding radioactive decay is important for nuclear medicine, archaeology, and energy production.",
+                "Biblical stewardship applies to financial mathematics. Understanding compound interest helps Christians manage resources wisely (Luke 16:10-12). The parable of the talents (Matthew 25:14-30) commends those who invest and grow what they have been given — a principle that compound interest models mathematically."
+            ]
+        },
+        {
+            "heading": "John Napier: Logarithms and Faith",
+            "paragraphs": [
+                "John Napier (1550-1617) was a Scottish mathematician and devout Presbyterian who invented logarithms to simplify the massive calculations required for astronomy and navigation. He considered his theological work — particularly his commentary on the book of Revelation — to be more important than his mathematical discoveries.",
+                "Napier's logarithms transformed science by reducing tedious multiplication and division to simple addition and subtraction. The astronomer Pierre-Simon Laplace said that Napier's invention 'by shortening the labors, doubled the life of the astronomer.' For over 300 years, until electronic calculators appeared, logarithm tables were an essential tool of every scientist and engineer.",
+                "Napier's work illustrates how mathematical tools created for practical purposes reveal deep theoretical truths. Logarithms are not merely computational shortcuts — they expose the fundamental relationship between exponential growth and linear scaling, a relationship that pervades all of nature."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the relationship between exponential functions and logarithmic functions. Why are logarithms called 'inverse functions' of exponentials? Give a specific numerical example.",
+            "guidance": "Show that if f(x) = 2ˣ and g(x) = log₂(x), then f(g(x)) = x and g(f(x)) = x. Use specific numbers to illustrate."
+        },
+        {
+            "id": 2,
+            "question": "How does compound interest illustrate the biblical principle of stewardship? Use the compound interest formula to calculate how $1,000 grows over 30 years at 7% annual interest, compounded annually.",
+            "guidance": "Use A = P(1 + r)^t. Connect the result to Jesus's parable of the talents and the biblical call to faithfully manage what God has entrusted to us."
+        },
+        {
+            "id": 3,
+            "question": "Jesus compared the Kingdom of God to a mustard seed that grows into a great tree (Matthew 13:31-32). How does this parable illustrate exponential growth? What does this mathematical model teach us about the spread of the gospel?",
+            "guidance": "Consider how exponential growth starts imperceptibly small but eventually dominates. Reflect on how the early church grew from a handful of disciples to a worldwide faith."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "bible",
+    "title": "Worldview Studies — Biblical vs. Secular Thinking",
+    "description": "An examination of competing worldviews and how the Biblical worldview provides the only consistent foundation for truth, morality, meaning, and human dignity.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Biblical vs. Secular Thinking",
+            "lessons": ["what_is_worldview", "biblical_worldview", "naturalism_materialism", "moral_relativism", "postmodernism", "defending_biblical_worldview"]
+        }
+    ],
+    "quiz_id": "worldview_quiz"
+}

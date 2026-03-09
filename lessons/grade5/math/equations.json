@@ -1,0 +1,20 @@
+{
+    "id": "equations",
+    "lesson_number": 3,
+    "title": "Solving Simple Equations — Finding the Unknown",
+    "scripture": "Jeremiah 33:3",
+    "memory_verse": "\"Call to me and I will answer you and tell you great and unsearchable things you do not know.\" — Jeremiah 33:3 (NIV)",
+    "objective": "Students will learn to solve one-step equations using addition, subtraction, multiplication, and division.",
+    "content": [
+        "An equation is a math sentence that uses an equal sign (=) to show that two things have the same value. For example, x + 5 = 12 tells us that some number plus 5 equals 12.",
+        "To solve an equation, we find the value of the variable that makes the equation true. For x + 5 = 12, we subtract 5 from both sides: x = 7. We can check: 7 + 5 = 12. ✓",
+        "We use inverse operations to solve equations. Addition and subtraction are inverses. Multiplication and division are inverses. If 3n = 15, we divide both sides by 3: n = 5.",
+        "Just as God reveals truth to those who seek Him, solving equations reveals the unknown number hidden in the problem. Math rewards careful, patient work — just as God rewards faithful seeking."
+    ],
+    "activity": "Solve these equations and check your answers: (1) x + 8 = 15, (2) n - 4 = 9, (3) 5y = 35, (4) m ÷ 3 = 6. Then write two of your own equations and trade with a partner to solve.",
+    "discussion": [
+        "Why is it important to do the same thing to both sides of an equation?",
+        "How is solving an equation like being a detective?",
+        "What does 'inverse operation' mean?"
+    ]
+}

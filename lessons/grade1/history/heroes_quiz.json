@@ -1,0 +1,54 @@
+{
+    "id": "heroes_quiz",
+    "title": "American Heroes Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Who was the first president of the United States?",
+            "options": ["Abraham Lincoln", "George Washington", "Betsy Ross", "Benjamin Franklin"],
+            "correct": 1
+        },
+        {
+            "id": "q2",
+            "question": "Why was Abraham Lincoln called 'Honest Abe'?",
+            "options": ["He was very tall", "He always told the truth", "He lived in a big house", "He was a soldier"],
+            "correct": 1
+        },
+        {
+            "id": "q3",
+            "question": "What did Betsy Ross sew?",
+            "options": ["A quilt", "A dress", "The first American flag", "A blanket"],
+            "correct": 2
+        },
+        {
+            "id": "q4",
+            "question": "How did Harriet Tubman find her way at night?",
+            "options": ["She used a map", "She followed the North Star", "She used a flashlight", "She followed a road"],
+            "correct": 1
+        },
+        {
+            "id": "q5",
+            "question": "Why did the Pilgrims come to America?",
+            "options": ["To find gold", "To go on vacation", "To worship God freely", "To build a castle"],
+            "correct": 2
+        },
+        {
+            "id": "q6",
+            "question": "What ship did the Pilgrims sail on?",
+            "options": ["The Titanic", "The Mayflower", "The Santa Maria", "The Freedom"],
+            "correct": 1
+        },
+        {
+            "id": "q7",
+            "question": "What words in the Pledge of Allegiance remind us that America honors God?",
+            "options": ["Liberty and justice", "One nation under God", "Stars and stripes", "We the people"],
+            "correct": 1
+        },
+        {
+            "id": "q8",
+            "question": "What Bible verse is on the Liberty Bell?",
+            "options": ["Genesis 1:1", "John 3:16", "Leviticus 25:10", "Psalm 23:1"],
+            "correct": 2
+        }
+    ]
+}

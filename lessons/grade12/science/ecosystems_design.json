@@ -1,0 +1,87 @@
+{
+    "id": "ecosystems_design",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Ecosystems by Design",
+    "subtitle": "The Interconnected Web of Life in God's Creation",
+    "scripture": "Genesis 1:31",
+    "primary_source": "Genesis 1-2 — The Creation Account and the Dominion Mandate",
+    "key_concepts": ["Ecosystem structure and function", "Biotic and abiotic factors", "Energy flow and trophic levels", "Biogeochemical cycles", "Design and interdependence in creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:31",
+                "text": "\"God saw all that he had made, and it was very good.\"",
+                "commentary": "God's original creation was perfectly designed — every organism, every cycle, every interaction worked together in harmony. Studying ecosystems reveals the extraordinary complexity and intentionality of the Creator's handiwork."
+            },
+            {
+                "reference": "Colossians 1:16-17",
+                "text": "\"For in him all things were created: things in heaven and on earth... He is before all things, and in him all things hold together.\"",
+                "commentary": "Christ not only created all things but sustains them. The remarkable stability and resilience of ecosystems reflect the sustaining power of God, who holds all of creation together."
+            },
+            {
+                "reference": "Job 12:7-10",
+                "text": "\"But ask the animals, and they will teach you, or the birds in the sky, and they will tell you... In his hand is the life of every creature and the breath of all mankind.\"",
+                "commentary": "Scripture encourages us to learn from the natural world. Studying ecology is an act of worship, revealing God's wisdom in the design of living systems."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Study Ecosystems?",
+            "paragraphs": [
+                "Environmental science begins with a fundamental question: How do living things interact with each other and with their physical environment? The answer reveals a world of staggering complexity and beauty — a world that points unmistakably to a Designer.",
+                "An ecosystem is a community of living organisms (biotic factors) interacting with their non-living environment (abiotic factors such as temperature, water, sunlight, and soil). From tropical rainforests to arctic tundra, from coral reefs to prairie grasslands, every ecosystem displays intricate design and interdependence."
+            ]
+        },
+        {
+            "heading": "Energy Flow and Trophic Levels",
+            "paragraphs": [
+                "Energy enters most ecosystems through sunlight, which producers (plants, algae) convert into chemical energy through photosynthesis. This energy flows through the ecosystem in a predictable pattern: from producers to primary consumers (herbivores), to secondary consumers (carnivores), and to tertiary consumers (top predators). Decomposers break down dead organisms, returning nutrients to the soil.",
+                "At each trophic level, approximately 90% of the energy is lost as heat through metabolic processes, which is why food chains rarely exceed four or five levels. This elegant design — the 10% rule — demonstrates the precise mathematical order embedded in God's creation.",
+                "Food webs illustrate how energy pathways interconnect, creating resilient networks where the loss of one species affects many others. This interconnectedness reflects the Creator's design for mutual dependence within His creation."
+            ]
+        },
+        {
+            "heading": "Biogeochemical Cycles",
+            "paragraphs": [
+                "Matter cycles through ecosystems in biogeochemical cycles — the water cycle, carbon cycle, nitrogen cycle, and phosphorus cycle. Unlike energy, which flows in one direction, matter is continuously recycled, demonstrating remarkable efficiency in God's design.",
+                "The water cycle (evaporation, condensation, precipitation, runoff) distributes fresh water across the planet. The carbon cycle moves carbon through the atmosphere, organisms, oceans, and rocks. The nitrogen cycle converts atmospheric nitrogen into usable forms for organisms through nitrogen fixation, a process carried out by specially designed bacteria.",
+                "These cycles operate with extraordinary precision. Even small disruptions can have significant consequences, reminding us of the delicate balance God established and our responsibility to understand and respect it."
+            ]
+        },
+        {
+            "heading": "Biodiversity and Ecosystem Resilience",
+            "paragraphs": [
+                "Biodiversity — the variety of life within an ecosystem — is a key indicator of ecosystem health. Greater biodiversity generally leads to greater resilience, meaning the ecosystem can better withstand and recover from disturbances.",
+                "The sheer diversity of life on Earth — estimated at 8.7 million species — reflects the lavish creativity of the Creator. Each species plays a role in its ecosystem, from pollinating plants to controlling pest populations to decomposing organic matter. The loss of even one species can trigger cascading effects throughout the food web.",
+                "As stewards of God's creation, understanding biodiversity helps us make wise decisions about land use, resource management, and conservation priorities."
+            ]
+        },
+        {
+            "heading": "The Dominion Mandate and Environmental Responsibility",
+            "paragraphs": [
+                "Genesis 1:28 gives humanity dominion over the earth, but this dominion is not a license for exploitation — it is a mandate for responsible stewardship. Just as a manager is entrusted with a business but is accountable to the owner, humanity has been entrusted with creation but is accountable to the Creator.",
+                "Understanding ecosystems equips us to exercise this stewardship wisely. When we understand how energy flows, how nutrients cycle, and how species interact, we can make informed decisions that honor God's creation while meeting legitimate human needs.",
+                "Environmental science, properly understood, is not about worshipping nature but about understanding and caring for what God has made — to His glory and for the benefit of all people."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the interdependence of organisms within an ecosystem point to intelligent design rather than random processes? Provide specific examples from the lesson.",
+            "guidance": "Consider the precision of energy transfer between trophic levels, the complexity of biogeochemical cycles, and the role of biodiversity in ecosystem resilience. How do these features suggest purposeful design?"
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between having 'dominion' over creation and exploiting creation? How does Genesis 1:28, read in context with Genesis 2:15, shape a Biblical view of environmental responsibility?",
+            "guidance": "Think about the concept of stewardship — managing something on behalf of its true owner. How does this differ from both environmental exploitation and the secular environmental movement's tendency to elevate nature above human well-being?"
+        },
+        {
+            "id": 3,
+            "question": "Explain how the 10% rule of energy transfer demonstrates mathematical order in ecosystems. Why does this rule limit the length of food chains?",
+            "guidance": "Consider the thermodynamic implications and how the predictable loss of energy at each trophic level creates a natural structure in ecosystems."
+        }
+    ]
+}

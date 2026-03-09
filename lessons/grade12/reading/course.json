@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "reading",
+    "title": "Senior Thesis and Composition",
+    "description": "Writing with Conviction — Mastering Persuasive and Analytical Writing from a Biblical Worldview",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Senior Thesis and Composition — Writing with Conviction",
+            "lessons": ["foundations_thesis", "research_methods", "argument_structure", "rhetorical_analysis", "literary_criticism", "capstone_writing"]
+        }
+    ],
+    "quiz_id": "composition_quiz"
+}

@@ -1,0 +1,103 @@
+{
+    "id": "ratios_quiz",
+    "title": "Ratios and Proportions — God's Mathematical Design",
+    "description": "Test your understanding of ratios, equivalent ratios, rates, proportions, and percentages.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "A bag contains 8 red marbles and 12 blue marbles. What is the ratio of red marbles to blue marbles in simplest form?",
+            "options": [
+                "8:12",
+                "2:3",
+                "3:2",
+                "4:6"
+            ],
+            "correct": 1,
+            "explanation": "The ratio 8:12 is simplified by dividing both parts by their greatest common factor (4), giving 2:3."
+        },
+        {
+            "id": 2,
+            "question": "Which of the following ratios is equivalent to 3:5?",
+            "options": [
+                "6:15",
+                "9:15",
+                "5:3",
+                "3:10"
+            ],
+            "correct": 1,
+            "explanation": "Multiply both parts of 3:5 by 3 to get 9:15. You can verify: 9 ÷ 3 = 3 and 15 ÷ 3 = 5, confirming the ratios are equivalent."
+        },
+        {
+            "id": 3,
+            "question": "A car travels 240 miles in 4 hours. What is the unit rate?",
+            "options": [
+                "240 miles per hour",
+                "4 miles per hour",
+                "60 miles per hour",
+                "40 miles per hour"
+            ],
+            "correct": 2,
+            "explanation": "To find the unit rate, divide distance by time: 240 miles ÷ 4 hours = 60 miles per hour."
+        },
+        {
+            "id": 4,
+            "question": "Solve the proportion: 4/6 = x/15",
+            "options": [
+                "x = 8",
+                "x = 12",
+                "x = 10",
+                "x = 9"
+            ],
+            "correct": 2,
+            "explanation": "Cross-multiply: 4 × 15 = 6 × x, so 60 = 6x, and x = 10."
+        },
+        {
+            "id": 5,
+            "question": "What is 25% of 160?",
+            "options": [
+                "25",
+                "40",
+                "45",
+                "32"
+            ],
+            "correct": 1,
+            "explanation": "Convert 25% to a decimal (0.25) and multiply: 0.25 × 160 = 40."
+        },
+        {
+            "id": 6,
+            "question": "Abraham gave a tithe, which is what percentage of his possessions?",
+            "options": [
+                "5%",
+                "15%",
+                "10%",
+                "20%"
+            ],
+            "correct": 2,
+            "explanation": "A tithe is one-tenth, or 10%. In Genesis 14:20, Abraham gave Melchizedek a tenth of everything — establishing the principle of percentage-based giving."
+        },
+        {
+            "id": 7,
+            "question": "A map has a scale of 1 cm = 50 km. If two cities are 4.5 cm apart on the map, what is the actual distance?",
+            "options": [
+                "200 km",
+                "225 km",
+                "250 km",
+                "180 km"
+            ],
+            "correct": 1,
+            "explanation": "Set up the proportion: 1/50 = 4.5/x. Cross-multiply: x = 50 × 4.5 = 225 km."
+        },
+        {
+            "id": 8,
+            "question": "A shirt originally costs $40 and is on sale for $30. What is the percent decrease?",
+            "options": [
+                "10%",
+                "30%",
+                "25%",
+                "20%"
+            ],
+            "correct": 2,
+            "explanation": "Percent decrease = (Original - New) / Original × 100 = (40 - 30) / 40 × 100 = 10/40 × 100 = 25%."
+        }
+    ]
+}

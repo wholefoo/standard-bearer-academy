@@ -1,0 +1,63 @@
+{
+    "id": "reading_quiz",
+    "title": "Great Stories of Faith — Reading and Writing Quiz",
+    "description": "Test your knowledge of reading skills, writing, and figurative language!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What are the five main elements of a narrative?",
+            "options": ["Title, author, pages, chapters, index", "Characters, setting, plot, conflict, resolution", "Beginning, middle, end, moral, title", "Words, sentences, paragraphs, pages, chapters"],
+            "correct": 1,
+            "explanation": "The five main elements of a narrative are characters, setting, plot, conflict, and resolution. These work together to tell a complete story."
+        },
+        {
+            "id": 2,
+            "question": "What is a character trait?",
+            "options": ["The name of a character", "A quality that describes what a person is like on the inside", "The clothes a character wears", "The job a character has"],
+            "correct": 1,
+            "explanation": "A character trait is a quality that describes what a person is like on the inside, such as brave, honest, kind, or faithful."
+        },
+        {
+            "id": 3,
+            "question": "Which figure of speech uses the words 'like' or 'as' to compare two things?",
+            "options": ["Metaphor", "Personification", "Simile", "Alliteration"],
+            "correct": 2,
+            "explanation": "A simile compares two things using the words 'like' or 'as.' For example, 'As the deer pants for streams of water, so my soul pants for you, my God' (Psalm 42:1)."
+        },
+        {
+            "id": 4,
+            "question": "When Jesus said 'I am the bread of life,' what type of figurative language was He using?",
+            "options": ["Simile", "Personification", "Rhyme", "Metaphor"],
+            "correct": 3,
+            "explanation": "This is a metaphor because it compares two things without using 'like' or 'as.' Jesus compared Himself to bread to show that He is what our souls need to be satisfied."
+        },
+        {
+            "id": 5,
+            "question": "What is the first sentence of a well-organized paragraph called?",
+            "options": ["The concluding sentence", "The supporting detail", "The topic sentence", "The summary"],
+            "correct": 2,
+            "explanation": "The topic sentence is usually the first sentence of a paragraph. It tells the reader what the paragraph is about."
+        },
+        {
+            "id": 6,
+            "question": "Where would you find an index in a book?",
+            "options": ["At the front of the book", "In the middle of the book", "At the back of the book", "On the cover of the book"],
+            "correct": 2,
+            "explanation": "An index is found at the back of a book. It lists important words and topics in alphabetical order with page numbers."
+        },
+        {
+            "id": 7,
+            "question": "What is a Bible concordance used for?",
+            "options": ["Reading the Bible in a different language", "Finding verses about a specific word or topic", "Memorizing Bible books in order", "Drawing pictures of Bible stories"],
+            "correct": 1,
+            "explanation": "A Bible concordance helps you find verses about a specific topic or word. It is one of the most valuable tools for studying God's Word."
+        },
+        {
+            "id": 8,
+            "question": "When giving a book presentation, what should you NOT do?",
+            "options": ["Share the title and author", "Give away the ending of the story", "Tell your favorite part", "Explain the lesson of the book"],
+            "correct": 1,
+            "explanation": "You should avoid giving away the ending — called 'spoilers' — so your audience will be curious enough to read the book themselves."
+        }
+    ]
+}

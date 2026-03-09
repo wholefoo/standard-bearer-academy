@@ -1,0 +1,72 @@
+{
+    "id": "energy_forms",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Forms of Energy",
+    "subtitle": "The Power Behind God's Creation",
+    "scripture": "Isaiah 40:26",
+    "key_concepts": ["Kinetic and potential energy", "Forms of energy", "Law of conservation of energy", "Energy transformations"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 40:26",
+                "text": "\"Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name. Because of his great power and mighty strength, not one of them is missing.\"",
+                "commentary": "The energy radiating from every star in the universe was set in motion by God's power. The vast amounts of energy in creation — from nuclear fusion in stars to the chemical energy in food — all originate from the Creator."
+            },
+            {
+                "reference": "Nehemiah 9:6",
+                "text": "\"You alone are the LORD. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship you.\"",
+                "commentary": "God is the source of all energy and life. The energy that powers every living cell, every weather system, and every cosmic event traces back to the Creator who sustains all things."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Energy?",
+            "paragraphs": [
+                "Energy is the ability to do work or cause change. Everything that happens in the physical world — from a leaf falling to a star exploding — involves energy. Energy cannot be created or destroyed by natural processes; it can only be transformed from one form to another. This fundamental principle is known as the Law of Conservation of Energy.",
+                "Scientists measure energy in joules (J). While energy itself is invisible, we can observe its effects everywhere: in the motion of objects, the heat of a fire, the light from a lamp, and the growth of a plant."
+            ]
+        },
+        {
+            "heading": "Kinetic and Potential Energy",
+            "paragraphs": [
+                "All energy falls into two broad categories: kinetic energy and potential energy. Kinetic energy is the energy of motion — any object that is moving has kinetic energy. The faster an object moves and the more massive it is, the more kinetic energy it possesses. The formula for kinetic energy is KE = ½mv².",
+                "Potential energy is stored energy — energy that an object has because of its position, condition, or composition. A book held above a table has gravitational potential energy. A stretched rubber band has elastic potential energy. Food contains chemical potential energy that your body converts to kinetic energy when you move."
+            ]
+        },
+        {
+            "heading": "Forms of Energy",
+            "paragraphs": [
+                "Energy exists in many specific forms. Mechanical energy is the energy of moving objects and their positions. Thermal energy (heat) is the total kinetic energy of particles in a substance. Chemical energy is stored in the bonds between atoms and is released during chemical reactions like combustion or digestion.",
+                "Electrical energy is the energy of moving electrons through a conductor. Nuclear energy is stored in the nucleus of atoms and is released during nuclear reactions — this is the energy that powers the sun. Sound energy is the energy of vibrating particles moving in waves through a medium. Light (radiant) energy is electromagnetic radiation that travels in waves.",
+                "Each form of energy serves a specific purpose in God's creation. The sun produces nuclear and radiant energy that reaches Earth, where plants convert it to chemical energy through photosynthesis, which animals then convert to mechanical and thermal energy. This elegant chain of energy transformations sustains all life on Earth."
+            ]
+        },
+        {
+            "heading": "Energy Transformations and Conservation",
+            "paragraphs": [
+                "Energy constantly transforms from one form to another. When you turn on a flashlight, chemical energy in the battery becomes electrical energy, which becomes light and thermal energy. When you eat food, chemical energy becomes thermal energy (body heat) and mechanical energy (movement).",
+                "The Law of Conservation of Energy states that energy cannot be created or destroyed in natural processes — only transformed. The total amount of energy in a closed system remains constant. This law is one of the most fundamental principles in all of science, and it points to a Creator who established a universe that operates by consistent, reliable principles.",
+                "While energy is conserved, it does tend to become less useful over time. This principle, known as entropy (the Second Law of Thermodynamics), means that energy transformations always produce some waste heat. This is why perpetual motion machines are impossible and why the universe is gradually running down — a fact consistent with the Biblical teaching that creation had a definite beginning."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Trace the energy transformations that occur from the sun to your ability to run across a field. How many transformations can you identify?",
+            "guidance": "Start with nuclear energy in the sun, then consider radiant energy traveling to Earth, photosynthesis in plants, chemical energy in food, digestion, and finally mechanical energy in your muscles."
+        },
+        {
+            "id": 2,
+            "question": "How does the Law of Conservation of Energy support the Biblical teaching that the universe had a beginning? Why can't energy create itself?",
+            "guidance": "Consider that if energy cannot be created by natural processes, then the energy that exists in the universe must have had a supernatural origin. This aligns with Genesis 1:1."
+        },
+        {
+            "id": 3,
+            "question": "Explain the difference between kinetic and potential energy. Give three examples of each from everyday life.",
+            "guidance": "Think about objects in motion (kinetic) versus objects with stored energy due to position, condition, or composition (potential)."
+        }
+    ]
+}

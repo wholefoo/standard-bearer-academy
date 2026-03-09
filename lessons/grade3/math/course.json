@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "math",
+    "title": "Multiplication and Division — God's Order in Numbers",
+    "description": "Discover God's order in numbers through multiplication and division, learning how math reveals patterns in His creation.",
+    "units": [
+        {
+            "id": "mult_div",
+            "title": "Multiplication and Division",
+            "lessons": ["groups_arrays", "times_tables", "multiply_practice", "division_intro", "division_practice", "word_problems"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

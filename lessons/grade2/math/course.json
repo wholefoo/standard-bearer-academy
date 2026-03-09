@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "math",
+    "title": "Building with Numbers — Place Value and Measurement",
+    "description": "Learn about place value, measurement, and telling time while discovering how God uses numbers to bring order to His creation.",
+    "units": [
+        {
+            "id": "numbers",
+            "title": "Building with Numbers",
+            "lessons": ["place_value", "comparing_numbers", "addition_regrouping", "subtraction_regrouping", "measurement", "telling_time"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

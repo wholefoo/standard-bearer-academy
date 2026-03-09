@@ -1,0 +1,78 @@
+{
+    "id": "cell_structure",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Cell — Life's Fundamental Unit",
+    "subtitle": "Examining the Irreducible Complexity of the Cell",
+    "scripture": "Psalm 139:14",
+    "primary_source": "Robert Hooke's Micrographia (1665)",
+    "key_concepts": ["Cell theory", "Organelle functions", "Prokaryotic vs. eukaryotic cells", "Irreducible complexity"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 139:14",
+                "text": "\"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "David's praise reflects the truth that the human body — down to each individual cell — displays a complexity and purposefulness that points directly to an intelligent Creator rather than to blind, undirected processes."
+            },
+            {
+                "reference": "Jeremiah 1:5",
+                "text": "\"Before I formed you in the womb I knew you, before you were born I set you apart.\"",
+                "commentary": "God's intimate involvement in forming life at the cellular level reminds us that biology is not a product of chance. Every cell division, every protein fold, reflects divine intention."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Building Block of Life",
+            "paragraphs": [
+                "All living organisms — from the smallest bacterium to the largest whale — are composed of cells. The cell is the fundamental unit of life, and its discovery in the seventeenth century opened a window into a world of astonishing complexity that earlier generations could not have imagined.",
+                "When Robert Hooke first observed cells through his microscope in 1665, he saw only the empty walls of dead cork cells. Today, modern microscopy reveals that even the simplest cell is a miniature factory of breathtaking intricacy — containing molecular machines, information storage systems, and quality-control mechanisms that rival anything human engineers have ever designed."
+            ]
+        },
+        {
+            "heading": "Cell Theory and Its Foundations",
+            "paragraphs": [
+                "Cell theory, developed in the 1830s by Matthias Schleiden and Theodor Schwann, establishes three principles: (1) all living things are composed of one or more cells, (2) the cell is the basic unit of life, and (3) all cells arise from pre-existing cells. This third principle — omnis cellula e cellula — poses a significant question for materialist origins theories: if cells only come from other cells, where did the first cell come from?",
+                "From a Biblical creationist perspective, the answer is clear: God created the first living cells during the Creation Week described in Genesis 1. The extraordinary leap from non-living chemistry to a functioning cell — with its DNA, ribosomes, membranes, and metabolic pathways all working together — has never been replicated in any laboratory and points powerfully to intelligent design."
+            ]
+        },
+        {
+            "heading": "Prokaryotic and Eukaryotic Cells",
+            "paragraphs": [
+                "Cells are classified into two broad categories: prokaryotic and eukaryotic. Prokaryotic cells (bacteria and archaea) lack a membrane-bound nucleus and are generally smaller and simpler in structure. Eukaryotic cells (found in plants, animals, fungi, and protists) contain a true nucleus and a variety of specialized organelles.",
+                "Even so-called 'simple' prokaryotic cells contain hundreds of different proteins, a complete DNA replication system, and sophisticated molecular machinery for energy production and waste removal. The notion that such cells could arise by chance from a primordial soup remains an article of faith in materialist science, unsupported by experimental evidence."
+            ]
+        },
+        {
+            "heading": "Key Organelles and Their Functions",
+            "paragraphs": [
+                "The eukaryotic cell contains a remarkable array of organelles, each performing a specific function essential to the life of the cell. The nucleus houses DNA — the cell's instruction manual — protected within a double membrane. The mitochondria serve as powerhouses, converting nutrients into ATP through cellular respiration. The endoplasmic reticulum and Golgi apparatus manufacture, process, and ship proteins throughout the cell.",
+                "Ribosomes read the genetic code and assemble amino acids into proteins with astonishing speed and accuracy. Lysosomes serve as the cell's recycling centers, breaking down worn-out components. The cell membrane controls what enters and exits the cell with selective precision. Each organelle depends on the others, forming an integrated system where no single part can function meaningfully alone."
+            ]
+        },
+        {
+            "heading": "Irreducible Complexity: Evidence for Design",
+            "paragraphs": [
+                "Biochemist Michael Behe introduced the concept of 'irreducible complexity' to describe systems that require all their parts to be present simultaneously in order to function. The bacterial flagellum — a microscopic rotary motor that propels certain bacteria — is a classic example. It consists of approximately 40 different protein components, and removing any one of them causes the entire motor to cease functioning.",
+                "The cell itself is an irreducibly complex system. Without DNA, there are no instructions. Without ribosomes, the instructions cannot be read. Without the cell membrane, there is no boundary to contain the machinery. Without energy from mitochondria, nothing operates. All of these systems must exist together from the very beginning — a reality that is fully consistent with creation by an intelligent Designer and deeply problematic for gradual, unguided evolutionary explanations."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does the third principle of cell theory — that all cells come from pre-existing cells — present a challenge for materialist explanations of life's origin?",
+            "guidance": "Consider what would be required for the first cell to arise without a pre-existing cell. Think about the minimum components needed for a cell to function and reproduce."
+        },
+        {
+            "id": 2,
+            "question": "Explain the concept of irreducible complexity using the cell as an example. How does this concept support the case for intelligent design?",
+            "guidance": "Identify at least three organelles that are interdependent and explain why the cell could not function if any one of them were missing."
+        },
+        {
+            "id": 3,
+            "question": "Read Psalm 139:14. How does the study of cell biology deepen your appreciation for the truth expressed in this verse?",
+            "guidance": "Consider the complexity you have learned about in this lesson and reflect on how the intricate design of even a single cell reflects the character and power of the Creator."
+        }
+    ]
+}

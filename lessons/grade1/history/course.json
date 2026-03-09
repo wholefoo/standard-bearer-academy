@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "history",
+    "title": "American Heroes — Leaders Who Trusted God",
+    "description": "Learn about brave American leaders who trusted God and helped build our great nation.",
+    "units": [
+        {
+            "id": "heroes",
+            "title": "American Heroes of Faith",
+            "lessons": ["george_washington", "abraham_lincoln", "betsy_ross", "harriet_tubman", "pilgrim_fathers", "our_flag"]
+        }
+    ],
+    "quiz_id": "heroes_quiz"
+}

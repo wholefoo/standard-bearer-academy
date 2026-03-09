@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "history",
+    "title": "Explorers and Settlers — God's Hand in the New World",
+    "description": "Discover how God guided brave explorers and faithful settlers to the New World, shaping the nation we love today.",
+    "units": [
+        {
+            "id": "explorers_settlers",
+            "title": "Explorers and Settlers",
+            "lessons": ["vikings", "columbus", "jamestown", "pilgrims", "colonial_life", "westward_dream"]
+        }
+    ],
+    "quiz_id": "explorers_quiz"
+}

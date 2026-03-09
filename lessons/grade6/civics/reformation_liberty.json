@@ -1,0 +1,76 @@
+{
+    "id": "reformation_liberty",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Reformation and the Rise of Liberty",
+    "subtitle": "How the Protestant Reformation Transformed Government and Freedom",
+    "scripture": "Galatians 5:1; John 8:36",
+    "primary_source": "The Mayflower Compact (1620)",
+    "key_concepts": ["The Protestant Reformation", "Religious liberty", "Self-government under God", "The Mayflower Compact", "Covenant communities"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Galatians 5:1",
+                "text": "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"",
+                "commentary": "The Reformation reclaimed the biblical truth that Christ sets people free — free from the bondage of sin and free from man-made religious systems that contradict God's Word. This spiritual freedom had profound implications for civil liberty."
+            },
+            {
+                "reference": "John 8:36",
+                "text": "\"So if the Son sets you free, you will be free indeed.\"",
+                "commentary": "Jesus taught that true freedom comes from Him. The Reformers applied this principle broadly: if individuals can read the Bible for themselves and know God directly, then no institution — whether church or state — has the right to stand between a person and God."
+            },
+            {
+                "reference": "Acts 5:29",
+                "text": "\"Peter and the other apostles replied: 'We must obey God rather than human beings!'\"",
+                "commentary": "This principle — that obedience to God takes priority over obedience to any human authority — was central to the Reformation and to the development of the right of conscience and religious liberty."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Reformation: Returning to Scripture",
+            "paragraphs": [
+                "In 1517, Martin Luther nailed his Ninety-Five Theses to the church door in Wittenberg, Germany, challenging abuses within the Catholic Church. Luther insisted that the Bible alone — not church tradition or papal decrees — is the ultimate authority for faith and life. This act sparked the Protestant Reformation, which transformed not only religion but also government and society.",
+                "The Reformation's central principle — that every individual has the right to read the Bible and approach God directly — had revolutionary implications for civil government. If individuals have the right and responsibility to read God's Word for themselves, then they are capable of self-government. If no human institution can stand between a person and God, then there are limits to what any government can demand."
+            ]
+        },
+        {
+            "heading": "Religious Liberty: The Right of Conscience",
+            "paragraphs": [
+                "One of the Reformation's most important contributions was the idea of religious liberty — the right to worship God according to one's own conscience without government interference. This was a radical idea in an era when kings and emperors controlled which religion their subjects could practice.",
+                "Many early Protestants suffered persecution for their beliefs. The Huguenots in France, the Puritans in England, and the Pilgrims who eventually sailed to America all endured hardship because they refused to submit their consciences to the demands of the state. Their courage and sacrifice laid the groundwork for the religious freedom protections that would later be enshrined in the American Bill of Rights."
+            ]
+        },
+        {
+            "heading": "The Mayflower Compact: Self-Government Under God",
+            "paragraphs": [
+                "In 1620, the Pilgrims arrived in America aboard the Mayflower. Before going ashore, they drafted the Mayflower Compact — a document in which they covenanted together to form a 'civil Body Politick' for their 'better Ordering and Preservation.' This was a groundbreaking act of self-government.",
+                "The Mayflower Compact was based on the biblical concept of covenant — a solemn agreement before God. The Pilgrims believed that just as individuals covenant with God for salvation, communities can covenant together to form a just government. This idea of government by consent and covenant — rather than by royal decree — became a foundational principle of American democracy."
+            ]
+        },
+        {
+            "heading": "From Reformation to Revolution: The Seeds of American Liberty",
+            "paragraphs": [
+                "The ideas of the Reformation — the authority of Scripture, the dignity of the individual, the right of conscience, and government by covenant — traveled across the Atlantic with the colonists who settled America. Puritan communities in New England practiced self-government based on church covenants. Colonial charters reflected the principle that government derives its authority from the consent of the governed under God.",
+                "These Reformation principles would eventually bear fruit in the American Revolution and the founding of the United States. The Declaration of Independence's assertion that all men are 'endowed by their Creator with certain unalienable Rights' is a direct descendant of Reformation theology. The American experiment in self-government is, in many ways, the political fruit of the Protestant Reformation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the Reformation's emphasis on individual Bible reading lead to the idea of self-government? What is the connection between spiritual freedom and political freedom?",
+            "guidance": "Think about what it means for every person to be able to read and understand God's Word. If individuals can govern themselves spiritually, why would they need a king or pope to govern every aspect of their lives?"
+        },
+        {
+            "id": 2,
+            "question": "Why is religious liberty — the right to worship God according to one's own conscience — so important? What happens when government tries to control people's religious beliefs?",
+            "guidance": "Consider examples from history: the persecution of Protestants in Europe, the Pilgrims fleeing England. Think about why the First Amendment protects religious freedom."
+        },
+        {
+            "id": 3,
+            "question": "What made the Mayflower Compact a revolutionary document? How is government by covenant different from government by royal decree?",
+            "guidance": "Think about who has authority in each model. In a covenant, the people agree together before God. In a monarchy, power flows from the top down. Consider why the covenant model is more consistent with biblical principles."
+        }
+    ]
+}

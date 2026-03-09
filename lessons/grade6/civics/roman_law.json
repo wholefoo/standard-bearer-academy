@@ -1,0 +1,76 @@
+{
+    "id": "roman_law",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Greek Democracy and Roman Law",
+    "subtitle": "Classical Contributions to Government — What Worked and What Didn't",
+    "scripture": "Acts 22:25-29; Acts 25:10-12",
+    "primary_source": "The Twelve Tables of Roman Law (450 BC)",
+    "key_concepts": ["Athenian democracy", "The Roman Republic", "Written law and citizens' rights", "Providence in preparing for the Gospel"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Acts 22:27-28",
+                "text": "\"The commander went to Paul and asked, 'Tell me, are you a Roman citizen?' 'Yes, I am,' he answered. Then the commander said, 'I had to pay a lot of money for my citizenship.' 'But I was born a citizen,' Paul replied.\"",
+                "commentary": "The Apostle Paul used his Roman citizenship to protect his legal rights. Roman law gave citizens the right to a fair trial and protection from arbitrary punishment — legal protections that God providentially used to help spread the Gospel."
+            },
+            {
+                "reference": "Acts 17:26-27",
+                "text": "\"From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. God did this so that they would seek him and perhaps reach out for him and find him.\"",
+                "commentary": "God sovereignly arranged the rise and fall of nations — including Greece and Rome — so that the conditions would be perfect for the spread of the Gospel. Greek language, Roman roads, and Roman law all served God's purposes."
+            },
+            {
+                "reference": "Galatians 4:4",
+                "text": "\"But when the set time had fully come, God sent his Son, born of a woman, born under the law.\"",
+                "commentary": "Jesus was born at exactly the right moment in history, during the Pax Romana (Roman Peace), when Roman law, roads, and a common language made it possible for the Gospel to spread rapidly throughout the known world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Athenian Democracy: The People Rule",
+            "paragraphs": [
+                "In ancient Athens, around 500 BC, a revolutionary idea emerged: the people themselves could participate in governing. Athenian democracy allowed free male citizens to vote directly on laws and policies in a public assembly. This was a radical departure from rule by kings and tyrants.",
+                "However, Athenian democracy had serious limitations. Women, slaves, and foreigners could not vote or participate. Direct democracy also proved unstable — the passions of the crowd could lead to unjust decisions. The Athenians even condemned Socrates, one of their wisest philosophers, to death by popular vote. Athens shows us that democracy without moral foundations can become mob rule."
+            ]
+        },
+        {
+            "heading": "The Roman Republic: Law, Order, and Representation",
+            "paragraphs": [
+                "Rome developed a different system — the Republic. Instead of direct democracy, Rome had representative government with a Senate, elected officials called consuls, and popular assemblies. Power was divided among different branches to prevent any one person from becoming too powerful.",
+                "Rome's greatest contribution to Western civilization was the idea of written law that applied to all citizens. The Twelve Tables, published around 450 BC, were Rome's first written law code. They established that the law must be publicly known, not hidden or arbitrary. This principle — that laws must be written, public, and applied equally — became a cornerstone of Western legal tradition."
+            ]
+        },
+        {
+            "heading": "Roman Citizenship and the Rights of the Individual",
+            "paragraphs": [
+                "Roman citizenship came with important legal protections: the right to a fair trial, protection from torture without conviction, and the right to appeal to higher courts. These were remarkable protections in the ancient world, and they directly influenced later concepts of individual rights.",
+                "God used Roman citizenship providentially in the spread of Christianity. The Apostle Paul, a Roman citizen by birth, appealed to his citizenship rights on multiple occasions. When he was about to be flogged without trial, Paul revealed his citizenship and was immediately protected. When he was imprisoned in Judea, he appealed to Caesar — which resulted in his being transported to Rome, where he could preach the Gospel at the center of the empire."
+            ]
+        },
+        {
+            "heading": "The Fall of the Republic: A Warning for All Nations",
+            "paragraphs": [
+                "Despite its impressive system, the Roman Republic eventually fell. Corruption, moral decay, political power struggles, and the concentration of power in the hands of military generals led to civil wars and the rise of emperors. The Republic became an Empire, and the freedoms Romans had enjoyed were gradually lost.",
+                "The fall of the Roman Republic is a warning that no system of government can survive without moral virtue among its leaders and citizens. As John Adams would later say about the American Republic: 'Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.' Government structures matter, but the character of the people matters even more."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What were the strengths and weaknesses of Athenian democracy? Why is democracy without moral foundations dangerous?",
+            "guidance": "Consider that Athens allowed direct popular vote but also condemned Socrates to death by majority rule. Think about why the 'will of the majority' is not always just."
+        },
+        {
+            "id": 2,
+            "question": "How did God use Roman law, roads, and citizenship to prepare the world for the spread of the Gospel? Give specific examples from the book of Acts.",
+            "guidance": "Think about Paul's use of his Roman citizenship, the Roman road system that missionaries traveled, and the common Greek language that allowed the New Testament to be understood throughout the empire."
+        },
+        {
+            "id": 3,
+            "question": "Why did the Roman Republic eventually fail? What lessons does its fall teach us about the importance of moral character in a free society?",
+            "guidance": "Consider how corruption, greed, and the pursuit of power destroyed Rome's republican institutions. Think about how these same dangers exist in any society, including our own."
+        }
+    ]
+}

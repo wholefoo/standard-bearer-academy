@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "civics",
+    "title": "We the People — Our Government and Constitution",
+    "description": "Learn how America's government was built on Biblical principles of justice, freedom, and service to others.",
+    "units": [
+        {
+            "id": "government_constitution",
+            "title": "Our Government and Constitution",
+            "lessons": ["why_government", "constitution", "three_branches", "bill_of_rights", "state_local", "good_citizen"]
+        }
+    ],
+    "quiz_id": "government_quiz"
+}

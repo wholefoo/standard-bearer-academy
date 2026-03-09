@@ -1,0 +1,127 @@
+{
+    "id": "apologetics_quiz",
+    "title": "Christian Apologetics — Defending the Faith",
+    "description": "Test your understanding of Christian apologetics and the evidence for the Christian faith.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What does the Greek word 'apologia' mean, from which we get the word 'apologetics'?",
+            "options": [
+                "An apology for wrongdoing",
+                "A reasoned defense",
+                "A religious sermon",
+                "A philosophical debate"
+            ],
+            "correct": 1,
+            "explanation": "Apologia means 'a reasoned defense,' as in a legal defense presented in court. Apologetics is about defending the faith with evidence and reason, not apologizing for it."
+        },
+        {
+            "id": 2,
+            "question": "According to 1 Peter 3:15, how should Christians deliver their defense of the faith?",
+            "options": [
+                "With anger and conviction",
+                "Only when in church settings",
+                "With gentleness and respect",
+                "Only to fellow believers"
+            ],
+            "correct": 2,
+            "explanation": "Peter commands believers to defend their faith 'with gentleness and respect,' emphasizing that the manner of apologetics is as important as its content."
+        },
+        {
+            "id": 3,
+            "question": "The cosmological argument for God's existence begins with which observation?",
+            "options": [
+                "Morality exists in all cultures",
+                "The universe exists and began to exist",
+                "Miracles have been reported throughout history",
+                "The Bible predicts future events"
+            ],
+            "correct": 1,
+            "explanation": "The cosmological argument reasons from the existence and beginning of the universe to a necessary uncaused cause — God."
+        },
+        {
+            "id": 4,
+            "question": "What does the 'fine-tuning' of the universe refer to?",
+            "options": [
+                "The beauty of natural landscapes",
+                "The precision of universal constants necessary for life to exist",
+                "The ability of humans to create technology",
+                "The accuracy of astronomical predictions"
+            ],
+            "correct": 1,
+            "explanation": "Fine-tuning refers to the fact that the fundamental constants of the universe are precisely calibrated to permit life — even a tiny change would make life impossible."
+        },
+        {
+            "id": 5,
+            "question": "How many Greek manuscripts of the New Testament exist, making it the best-attested document from the ancient world?",
+            "options": [
+                "About 50",
+                "About 500",
+                "Over 5,800",
+                "Over 50,000"
+            ],
+            "correct": 2,
+            "explanation": "Over 5,800 Greek manuscripts of the New Testament exist, with the earliest fragments dating to within decades of the originals — far more than any other ancient document."
+        },
+        {
+            "id": 6,
+            "question": "What did the Dead Sea Scrolls demonstrate about the Old Testament?",
+            "options": [
+                "That the Old Testament was written much later than believed",
+                "That the Old Testament text was transmitted with extraordinary accuracy over centuries",
+                "That the Old Testament contains many errors",
+                "That the Old Testament was originally written in Greek"
+            ],
+            "correct": 1,
+            "explanation": "The Dead Sea Scrolls, especially the Isaiah scroll dating to about 150 BC, showed that the Old Testament text had been copied and preserved with remarkable accuracy over a thousand years."
+        },
+        {
+            "id": 7,
+            "question": "According to Augustine, what is the nature of evil?",
+            "options": [
+                "Evil is an independent force equal to God",
+                "Evil is a privation (absence) of good, not a created thing",
+                "Evil was created by God as a test",
+                "Evil does not really exist"
+            ],
+            "correct": 1,
+            "explanation": "Augustine taught that evil is not a substance or created thing but a privation of good — a corruption of something God made good. Evil entered through the misuse of free will."
+        },
+        {
+            "id": 8,
+            "question": "Why is the early date of the creed in 1 Corinthians 15:3-5 significant for the Resurrection?",
+            "options": [
+                "It shows Paul was a good writer",
+                "It proves the creed was written by eyewitnesses only",
+                "It dates to within 3-5 years of the event, eliminating the possibility of legendary development",
+                "It was written before the Gospels and therefore less reliable"
+            ],
+            "correct": 2,
+            "explanation": "The creed dates to within a few years of the Resurrection itself — far too early for the claim to be the result of gradual legendary development over generations."
+        },
+        {
+            "id": 9,
+            "question": "Why is the disciples' willingness to suffer and die strong evidence for the Resurrection?",
+            "options": [
+                "Because many people die for their beliefs",
+                "Because they were too ignorant to know better",
+                "Because people may die for beliefs they hold sincerely, but not for what they know to be a lie",
+                "Because Roman persecution was mild and they were never in real danger"
+            ],
+            "correct": 2,
+            "explanation": "The disciples claimed to be eyewitnesses of the risen Christ. While people often die for beliefs they sincerely hold, they do not willingly die for something they personally know to be false."
+        },
+        {
+            "id": 10,
+            "question": "What did Blaise Pascal mean by 'The heart has its reasons, which reason does not know'?",
+            "options": [
+                "That faith is completely irrational",
+                "That emotions should replace logical thinking",
+                "That the deepest truths are apprehended by the whole person, not merely by logic alone",
+                "That the Bible contradicts reason"
+            ],
+            "correct": 2,
+            "explanation": "Pascal recognized that while reason is important, the deepest truths — love, beauty, meaning, God — are grasped by the whole person, including heart and spirit, not by abstract logic alone."
+        }
+    ]
+}

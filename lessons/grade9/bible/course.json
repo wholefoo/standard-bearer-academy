@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "bible",
+    "title": "New Testament Survey — The Gospel and the Church",
+    "description": "A comprehensive survey of the New Testament, exploring the life of Christ, the birth of the Church, and the letters of the Apostles.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: New Testament Survey",
+            "lessons": ["the_gospels", "life_of_christ", "acts_early_church", "pauline_epistles", "general_epistles", "revelation_hope"]
+        }
+    ],
+    "quiz_id": "nt_quiz"
+}

@@ -1,0 +1,54 @@
+{
+    "id": "government_quiz",
+    "title": "American Government — Unit Quiz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which Bible verse describes the three functions of government (judge, lawgiver, king) that inspired the separation of powers?",
+            "options": ["Genesis 1:1", "Isaiah 33:22", "Romans 13:1", "Psalm 119:105"],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "How many members does the United States Senate have?",
+            "options": ["50", "100", "435", "535"],
+            "correct": 1
+        },
+        {
+            "id": 3,
+            "question": "What is the primary duty of the President according to the Constitution?",
+            "options": ["To make laws", "To interpret laws", "To faithfully execute the laws", "To declare war"],
+            "correct": 2
+        },
+        {
+            "id": 4,
+            "question": "What landmark case established the power of judicial review?",
+            "options": ["Brown v. Board of Education", "Marbury v. Madison", "Dred Scott v. Sandford", "McCulloch v. Maryland"],
+            "correct": 1
+        },
+        {
+            "id": 5,
+            "question": "What does the Tenth Amendment protect?",
+            "options": ["Freedom of speech", "The right to bear arms", "Powers reserved to the states and the people", "The right to a fair trial"],
+            "correct": 2
+        },
+        {
+            "id": 6,
+            "question": "Which Founder warned that the Constitution was made only for a 'moral and religious people'?",
+            "options": ["Thomas Jefferson", "Benjamin Franklin", "James Madison", "John Adams"],
+            "correct": 3
+        },
+        {
+            "id": 7,
+            "question": "What is federalism?",
+            "options": ["Rule by a king", "The division of power between national and state governments", "Government by judges", "Direct democracy"],
+            "correct": 1
+        },
+        {
+            "id": 8,
+            "question": "Which president set the precedent of voluntarily leaving office after two terms?",
+            "options": ["John Adams", "Thomas Jefferson", "Abraham Lincoln", "George Washington"],
+            "correct": 3
+        }
+    ]
+}

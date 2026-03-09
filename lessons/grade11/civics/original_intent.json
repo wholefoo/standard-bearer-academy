@@ -1,0 +1,81 @@
+{
+    "id": "original_intent",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Original Intent",
+    "subtitle": "Understanding the Constitution as the Framers Wrote It",
+    "scripture": "Psalm 119:160",
+    "primary_source": "James Madison, Notes on the Federal Convention (1787)",
+    "key_concepts": ["Originalism vs. living constitutionalism", "The Framers' intent", "Textualism", "The dangers of judicial activism"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 119:160",
+                "text": "\"All your words are true; all your righteous laws are eternal.\"",
+                "commentary": "Just as God's Word has a fixed meaning that does not change with the times, the Constitution has a fixed meaning determined by its authors. The principle of original intent in constitutional law parallels the principle of authorial intent in Biblical interpretation."
+            },
+            {
+                "reference": "Deuteronomy 4:2",
+                "text": "\"Do not add to what I command you and do not subtract from it, but keep the commands of the LORD your God that I give you.\"",
+                "commentary": "God commanded Israel not to add to or subtract from His law. Similarly, the Constitution provides its own amendment process — judges and politicians should not add to or subtract from its meaning through reinterpretation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: How Should We Read the Constitution?",
+            "paragraphs": [
+                "The most important debate in American constitutional law is not about any particular issue — it is about how the Constitution itself should be interpreted. This meta-question determines the outcome of every other constitutional controversy. Two fundamentally different approaches compete for dominance: originalism and living constitutionalism.",
+                "How we answer this question has profound consequences. If the Constitution means what its authors intended, then it is a fixed standard that limits government power and protects individual liberty. If it means whatever contemporary judges say it means, then it is no standard at all — it is a blank check for judicial power."
+            ]
+        },
+        {
+            "heading": "Originalism: The Constitution Means What It Says",
+            "paragraphs": [
+                "Originalism holds that the Constitution should be interpreted according to the original public meaning of its text — the meaning understood by the people who wrote and ratified it. This approach respects the Constitution as a written document with a fixed meaning, just as a contract between parties has a fixed meaning determined at the time of agreement.",
+                "Originalists argue that this approach is the only one consistent with the rule of law. If judges can change the Constitution's meaning to suit contemporary preferences, then the Constitution is not the supreme law of the land — the judges are. The whole purpose of a written constitution is to establish fixed principles that endure beyond the passions of the moment.",
+                "James Madison, the 'Father of the Constitution,' was clear about this. He argued that the Constitution's meaning should be determined by 'the sense in which the Constitution was accepted and ratified by the Nation' — not by the evolving opinions of future generations. Madison's extensive notes from the Constitutional Convention provide invaluable evidence of the Framers' intent."
+            ]
+        },
+        {
+            "heading": "Living Constitutionalism: A Dangerous Alternative",
+            "paragraphs": [
+                "Living constitutionalism holds that the Constitution is a 'living, breathing document' whose meaning evolves with changing social conditions. Under this view, judges should interpret the Constitution in light of contemporary values, social science, and moral progress — even if this means departing from the original understanding of the text.",
+                "This approach sounds appealing — who wants to be governed by 'dead men's ideas'? But it has devastating consequences for constitutional government. If the Constitution means whatever judges say it means, then there are no real limits on government power. The Constitution becomes not a fence protecting liberty but a mirror reflecting whatever the current judicial majority desires.",
+                "Moreover, living constitutionalism is inherently undemocratic. When judges 'update' the Constitution's meaning, they are effectively amending it without going through the amendment process prescribed in Article V. This transfers power from the people and their elected representatives to unelected, life-tenured judges — the very concentration of power the Framers sought to prevent."
+            ]
+        },
+        {
+            "heading": "The Biblical Parallel: Authorial Intent",
+            "paragraphs": [
+                "The debate between originalism and living constitutionalism parallels a debate in Biblical interpretation. Just as originalists insist that the Constitution means what its authors intended, conservative Biblical scholars insist that Scripture means what its divine and human authors intended. Just as living constitutionalists want to 'update' the Constitution's meaning, liberal theologians want to 'reinterpret' Scripture to conform to modern sensibilities.",
+                "In both cases, the fundamental issue is the same: Does a text have a fixed meaning determined by its author, or does its meaning change with each new reader? If meaning is fixed, then both the Constitution and the Bible function as authoritative standards that stand above human opinion. If meaning is fluid, then neither document has any real authority — it says whatever the reader wants it to say.",
+                "Christians who believe in the authority of Scripture should naturally be drawn to originalism in constitutional interpretation. The same principles of textual interpretation apply: respect for the author's intent, attention to the plain meaning of words, consideration of historical context, and resistance to imposing modern assumptions on ancient texts."
+            ]
+        },
+        {
+            "heading": "Why Original Intent Matters Today",
+            "paragraphs": [
+                "The debate over constitutional interpretation is not merely academic — it determines the outcome of crucial issues including religious liberty, the right to bear arms, freedom of speech, the structure of federalism, and the scope of government power. When courts abandon original intent, they inevitably expand government authority and diminish individual liberty.",
+                "As future citizens and voters, you must understand this debate and its stakes. When you evaluate judicial nominees, court decisions, or constitutional arguments, always ask: Does this interpretation reflect what the Constitution actually says and what its authors meant? Or does it impose a meaning that the text cannot bear? The preservation of constitutional government depends on citizens who understand and insist upon the original meaning of their founding charter."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Compare and contrast originalism and living constitutionalism. What are the strongest arguments for each approach? Why is originalism more consistent with the rule of law?",
+            "guidance": "Consider the purpose of a written constitution. Think about what happens to legal certainty and individual rights when judges can change the Constitution's meaning without going through the amendment process."
+        },
+        {
+            "id": 2,
+            "question": "How does the debate over constitutional interpretation parallel the debate over Biblical interpretation? What principles of textual interpretation apply to both the Constitution and Scripture?",
+            "guidance": "Consider the role of authorial intent, the plain meaning of words, historical context, and the distinction between what a text says and what a reader wants it to say."
+        },
+        {
+            "id": 3,
+            "question": "Why did the Framers include an amendment process in Article V? How does the existence of this process undermine the case for living constitutionalism?",
+            "guidance": "If the Constitution were meant to evolve through judicial reinterpretation, there would be no need for a formal amendment process. Discuss how Article V provides a democratic mechanism for change while living constitutionalism bypasses democratic accountability."
+        }
+    ]
+}

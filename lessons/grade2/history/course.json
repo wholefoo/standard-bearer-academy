@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "history",
+    "title": "Pilgrims and Patriots — America's Early Days",
+    "description": "Learn about the brave men and women who sailed to America, built a new nation, and trusted God to guide them through exciting times in early American history.",
+    "units": [
+        {
+            "id": "early_america",
+            "title": "Pilgrims and Patriots",
+            "lessons": ["mayflower", "plymouth", "first_thanksgiving", "colonial_life", "paul_revere", "independence"]
+        }
+    ],
+    "quiz_id": "heritage_quiz"
+}

@@ -1,0 +1,87 @@
+{
+    "id": "capstone_writing",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "The Capstone Project — Writing Your Senior Thesis",
+    "subtitle": "Bringing It All Together — Research, Argument, and Conviction",
+    "scripture": "Ecclesiastes 12:12-13",
+    "primary_source": "Abraham Lincoln, 'Gettysburg Address' (1863) — A Model of Concise, Powerful Writing",
+    "key_concepts": ["Thesis revision process", "Style and voice", "Drafting and editing", "Oral defense preparation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 12:12-13",
+                "text": "\"Be warned, my son, of anything in addition to them. Of making many books there is no end, and much study wearies the body. Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for this is the duty of all mankind.\"",
+                "commentary": "Solomon reminds us that all human knowledge must ultimately point to its Source. The senior thesis, however excellent, is valuable not as an end in itself but as a means of exercising the mind God has given you in service of truth. Keep the ultimate perspective: all scholarship is under God."
+            },
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "The revision process — receiving feedback, engaging with criticism, refining your argument — mirrors the Biblical principle that growth comes through community and constructive challenge. Your thesis improves when others test and sharpen your thinking."
+            },
+            {
+                "reference": "Colossians 4:6",
+                "text": "\"Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.\"",
+                "commentary": "The final presentation and defense of your thesis should reflect this principle: your words should be gracious and compelling, demonstrating both intellectual rigor and Christian character."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Capstone as Culmination",
+            "paragraphs": [
+                "The senior thesis is the culmination of your writing education — an extended argument that demonstrates your ability to research, analyze, and communicate on a topic of significance. This lesson guides you through the final stages of the thesis process: drafting, revising, editing, and preparing for oral defense.",
+                "Abraham Lincoln's Gettysburg Address — just 272 words — demonstrates that the most powerful writing is often the most disciplined. Lincoln spent weeks crafting and revising those few paragraphs, and the result is one of the most influential pieces of writing in American history. The lesson is clear: great writing is not produced in a single draft but through careful, patient revision."
+            ]
+        },
+        {
+            "heading": "The Drafting Process",
+            "paragraphs": [
+                "Begin your first draft by focusing on content and structure, not perfection. Your goal is to get your argument on paper in a logical sequence. Follow your outline, but be prepared for your argument to evolve as you write — the act of writing often clarifies thinking in ways that planning alone cannot.",
+                "Write your introduction last. This may seem counterintuitive, but your introduction should prepare the reader for the argument that follows — and you cannot do that effectively until you know exactly what your argument is. Write the body of your thesis first, then craft an introduction that establishes the context, states your thesis, and previews your argument's structure.",
+                "Each body paragraph should make one main point that supports your thesis. Begin with a clear topic sentence, present your evidence, analyze it, and explain how it connects to your overall argument. Transitions between paragraphs should show how each point builds on the previous one, creating a coherent chain of reasoning."
+            ]
+        },
+        {
+            "heading": "Revision: The Heart of Good Writing",
+            "paragraphs": [
+                "Revision is not merely fixing typos — it is rethinking and reshaping your argument. The best writers revise extensively, often producing multiple drafts before arriving at a final version. Approach revision in layers: first revise for argument and structure (Is my thesis clear? Does each section advance my argument? Is my reasoning logical?), then for evidence and analysis (Have I supported every claim? Have I analyzed my evidence rather than just presenting it?), then for style and clarity (Are my sentences clear and varied? Have I eliminated unnecessary words?).",
+                "Read your thesis aloud. This simple technique reveals awkward sentences, unclear passages, and rhythmic problems that your eye might miss. If a sentence is hard to read aloud, it is probably hard to understand on the page.",
+                "Seek feedback from others — peers, teachers, and mentors. Fresh eyes will catch problems you cannot see because you are too close to the text. Receive criticism graciously and evaluate it honestly. Not all feedback will be correct, but all of it deserves consideration."
+            ]
+        },
+        {
+            "heading": "Style, Voice, and the Power of Concision",
+            "paragraphs": [
+                "Academic writing should be clear, precise, and confident. Avoid unnecessary jargon, wordy constructions, and vague language. Every word should earn its place. Lincoln's Gettysburg Address succeeds because every word matters — there is nothing wasted, nothing unclear, nothing unnecessary.",
+                "Develop your own scholarly voice — the distinctive way you express ideas in writing. Your voice should be authoritative without being arrogant, precise without being cold, and engaging without being informal. The best academic writing combines intellectual rigor with genuine passion for the subject.",
+                "Pay attention to sentence variety. Alternate between long, complex sentences and short, punchy ones. Use parallel structure for emphasis. Begin sentences in different ways to avoid monotony. These stylistic choices are not cosmetic — they affect how effectively your argument communicates."
+            ]
+        },
+        {
+            "heading": "The Oral Defense: Presenting and Defending Your Thesis",
+            "paragraphs": [
+                "Many thesis programs require an oral defense — a presentation followed by questions from evaluators. This is not an interrogation but a scholarly conversation about your work. Prepare by knowing your thesis thoroughly, anticipating likely questions, and practicing your presentation.",
+                "During the defense, speak clearly and confidently. When asked a question, take a moment to think before responding. If you don't know the answer, say so honestly — intellectual honesty is more impressive than bluffing. If a questioner raises a valid criticism, acknowledge it graciously. The goal is not to win a debate but to demonstrate mastery of your subject and the ability to think on your feet.",
+                "Remember Colossians 4:6: let your words be 'full of grace, seasoned with salt.' Your defense should showcase not only your intellectual preparation but also your character as a Christian scholar — humble, honest, and committed to truth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does Ecclesiastes 12:12-13 provide an important perspective for the thesis writer? How does 'fearing God' relate to academic scholarship?",
+            "guidance": "Consider how the pursuit of knowledge can become an idol if disconnected from its ultimate purpose. Think about how a proper fear of God keeps scholarship in its proper perspective."
+        },
+        {
+            "id": 2,
+            "question": "Why is revision the 'heart of good writing'? How does the principle of Proverbs 27:17 apply to the process of receiving and incorporating feedback on your thesis?",
+            "guidance": "Think about why first drafts are almost never good enough and how feedback from others improves your work. Consider the humility required to accept constructive criticism."
+        },
+        {
+            "id": 3,
+            "question": "Study Lincoln's Gettysburg Address. What makes it so effective despite its brevity? What lessons about style and concision can you apply to your own writing?",
+            "guidance": "Analyze Lincoln's word choices, sentence structures, and rhetorical strategies. Consider how every word serves a purpose and how brevity can be more powerful than length."
+        }
+    ]
+}

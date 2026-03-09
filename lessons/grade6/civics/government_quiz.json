@@ -1,0 +1,103 @@
+{
+    "id": "government_quiz",
+    "title": "Ancient to Modern Government — God's Design for Order",
+    "description": "Test your understanding of how God's design for government has shaped civilization from ancient times to the American founding.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Romans 13:1, where does the authority of government come from?",
+            "options": [
+                "From the will of the majority",
+                "From military strength",
+                "From God, who establishes all authority",
+                "From the personal wisdom of the ruler"
+            ],
+            "correct": 2,
+            "explanation": "Romans 13:1 states, 'There is no authority except that which God has established.' Government authority is delegated by God, which means rulers are accountable to Him for how they use their power."
+        },
+        {
+            "id": 2,
+            "question": "What is the biblical basis for civil government, established in the covenant with Noah?",
+            "options": [
+                "God commanded Noah to build a government building",
+                "God delegated the authority to enforce justice to human beings, including punishment for murder",
+                "God told Noah that government was unnecessary",
+                "God appointed Noah as king over all nations"
+            ],
+            "correct": 1,
+            "explanation": "In Genesis 9:5-6, God delegated to human beings the responsibility of enforcing justice, establishing the principle that human life is sacred and that evil must be punished — the foundation of civil government."
+        },
+        {
+            "id": 3,
+            "question": "How did ancient Israel's system of government differ from other ancient civilizations?",
+            "options": [
+                "Israel had no government at all",
+                "Israel was a democracy where everyone voted on laws",
+                "Israel was a theocracy where God Himself was the ruler, governing through judges, prophets, and priests",
+                "Israel was an empire like Egypt with a Pharaoh"
+            ],
+            "correct": 2,
+            "explanation": "Israel was unique as a theocracy — God was their king. He governed through judges, prophets, and priests, and His law protected the rights of all people equally, unlike other ancient law codes."
+        },
+        {
+            "id": 4,
+            "question": "What important principle did the Magna Carta (1215) establish?",
+            "options": [
+                "That the king had unlimited power over his subjects",
+                "That the Church should control the government",
+                "That even the king is subject to the law and cannot act above it",
+                "That democracy should replace monarchy immediately"
+            ],
+            "correct": 2,
+            "explanation": "The Magna Carta established the revolutionary principle of the rule of law — that no one, not even the king, is above the law. This principle became a cornerstone of Western liberty."
+        },
+        {
+            "id": 5,
+            "question": "How did the Protestant Reformation contribute to the development of political freedom?",
+            "options": [
+                "It had no effect on politics, only on religion",
+                "It taught that kings should have absolute power",
+                "It emphasized individual Bible reading, the right of conscience, and self-government under God, which led to demands for political liberty",
+                "It eliminated all forms of government"
+            ],
+            "correct": 2,
+            "explanation": "The Reformation's emphasis on individual access to Scripture, the right of conscience, and the dignity of every person laid the groundwork for religious liberty, self-government, and the principles that shaped American democracy."
+        },
+        {
+            "id": 6,
+            "question": "What was the significance of the Mayflower Compact?",
+            "options": [
+                "It was a trade agreement between the Pilgrims and Native Americans",
+                "It was the first act of self-government in America, where the Pilgrims covenanted together to form a civil government",
+                "It declared independence from England",
+                "It established the first monarchy in America"
+            ],
+            "correct": 1,
+            "explanation": "The Mayflower Compact (1620) was a covenant in which the Pilgrims agreed to form a government based on consent and mutual agreement before God — a pioneering act of self-government that foreshadowed the American system."
+        },
+        {
+            "id": 7,
+            "question": "According to the Declaration of Independence, where do human rights come from?",
+            "options": [
+                "From the British Parliament",
+                "From the U.S. Constitution",
+                "From the Creator — God",
+                "From the majority vote of citizens"
+            ],
+            "correct": 2,
+            "explanation": "The Declaration states that all men 'are endowed by their Creator with certain unalienable Rights.' This means rights come from God, not from government, and therefore no government can legitimately take them away."
+        },
+        {
+            "id": 8,
+            "question": "Why did the Founders create a system of checks and balances with three branches of government?",
+            "options": [
+                "Because they wanted to make government as complicated as possible",
+                "Because they did not trust any single person or group with unlimited power, reflecting the biblical understanding of human sinfulness",
+                "Because England had three branches and they wanted to copy the system exactly",
+                "Because the Bible specifically commands three branches of government"
+            ],
+            "correct": 1,
+            "explanation": "The Founders understood the biblical teaching that the human heart is sinful (Jeremiah 17:9) and that power corrupts. They divided power into three branches so that each could check the others, preventing tyranny."
+        }
+    ]
+}

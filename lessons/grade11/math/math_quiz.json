@@ -1,0 +1,128 @@
+{
+    "id": "math_quiz",
+    "title": "Pre-Calculus — Mathematics and the Mind of God: Unit Quiz",
+    "quiz_type": "unit",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which of the following is NOT a function?",
+            "options": [
+                "f(x) = x²",
+                "f(x) = 2x + 3",
+                "x² + y² = 25 (a circle)",
+                "f(x) = |x|"
+            ],
+            "correct": 2,
+            "explanation": "A circle fails the Vertical Line Test — for most x-values, there are two corresponding y-values. A function requires exactly one output for each input."
+        },
+        {
+            "id": 2,
+            "question": "What is the domain of f(x) = 1/(x - 3)?",
+            "options": [
+                "All real numbers",
+                "All real numbers except x = 0",
+                "All real numbers except x = 3",
+                "x > 3 only"
+            ],
+            "correct": 2,
+            "explanation": "The function is undefined when the denominator equals zero: x - 3 = 0, so x = 3 is excluded from the domain."
+        },
+        {
+            "id": 3,
+            "question": "A polynomial of degree 4 has at most how many turning points?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct": 1,
+            "explanation": "A polynomial of degree n has at most n - 1 turning points. A degree 4 polynomial has at most 3 turning points."
+        },
+        {
+            "id": 4,
+            "question": "What is log₂(32)?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "8"
+            ],
+            "correct": 1,
+            "explanation": "log₂(32) asks: '2 to what power equals 32?' Since 2⁵ = 32, log₂(32) = 5."
+        },
+        {
+            "id": 5,
+            "question": "Using the compound interest formula A = P(1 + r)ᵗ, if you invest $1,000 at 10% annual interest for 3 years, how much will you have?",
+            "options": [
+                "$1,300.00",
+                "$1,331.00",
+                "$1,100.00",
+                "$1,210.00"
+            ],
+            "correct": 1,
+            "explanation": "A = 1000(1 + 0.10)³ = 1000(1.1)³ = 1000(1.331) = $1,331.00. Compound interest grows the investment by 10% each year, applied to the new total."
+        },
+        {
+            "id": 6,
+            "question": "On the unit circle, what are the coordinates of the point at angle π/4 (45°)?",
+            "options": [
+                "(1/2, √3/2)",
+                "(√3/2, 1/2)",
+                "(√2/2, √2/2)",
+                "(0, 1)"
+            ],
+            "correct": 2,
+            "explanation": "At π/4 (45°), both sine and cosine equal √2/2, so the coordinates are (cos 45°, sin 45°) = (√2/2, √2/2)."
+        },
+        {
+            "id": 7,
+            "question": "What is the sum of the arithmetic series 2 + 5 + 8 + 11 + 14?",
+            "options": [
+                "35",
+                "40",
+                "45",
+                "50"
+            ],
+            "correct": 1,
+            "explanation": "This arithmetic series has 5 terms with a₁ = 2 and a₅ = 14. S₅ = 5/2 × (2 + 14) = 5/2 × 16 = 40."
+        },
+        {
+            "id": 8,
+            "question": "What is the sum of the infinite geometric series 1 + 1/3 + 1/9 + 1/27 + ...?",
+            "options": [
+                "2",
+                "3/2",
+                "4/3",
+                "3"
+            ],
+            "correct": 1,
+            "explanation": "This is an infinite geometric series with a₁ = 1 and r = 1/3. Since |r| < 1, S = a₁/(1-r) = 1/(1 - 1/3) = 1/(2/3) = 3/2."
+        },
+        {
+            "id": 9,
+            "question": "What is lim(x→2) (x² - 4)/(x - 2)?",
+            "options": [
+                "0",
+                "2",
+                "4",
+                "Undefined"
+            ],
+            "correct": 2,
+            "explanation": "Factor the numerator: (x² - 4)/(x - 2) = (x+2)(x-2)/(x-2) = x + 2 for x ≠ 2. As x → 2, x + 2 → 4."
+        },
+        {
+            "id": 10,
+            "question": "The Fibonacci sequence appears in flower petals, seed spirals, and branching patterns. Many Christian mathematicians see this as evidence of:",
+            "options": [
+                "Random evolutionary processes",
+                "Mathematical coincidence",
+                "Intelligent design by a Creator who embedded mathematical beauty in nature",
+                "Human projection of patterns onto nature"
+            ],
+            "correct": 2,
+            "explanation": "The consistent appearance of the Fibonacci sequence across diverse living things points to a Designer who embedded mathematical order and beauty into the structure of creation, reflecting His wisdom (Romans 1:20)."
+        }
+    ]
+}

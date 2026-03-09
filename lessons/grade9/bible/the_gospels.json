@@ -1,0 +1,89 @@
+{
+    "id": "the_gospels",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Four Gospels — One Story, Four Perspectives",
+    "subtitle": "Understanding Matthew, Mark, Luke, and John as Inspired Testimonies of Christ",
+    "scripture": "John 20:31",
+    "primary_source": "The Muratorian Fragment (c. 170 AD) — the earliest known list of New Testament books",
+    "key_concepts": ["The four Gospels and their distinctives", "Synoptic Gospels vs. John", "Inspiration and reliability of the Gospels", "Each Gospel's portrait of Christ"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "John 20:31",
+                "text": "\"But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.\"",
+                "commentary": "John states the purpose of his Gospel — and, by extension, all four Gospels — plainly: they were written to produce faith in Jesus Christ. The Gospels are not merely historical records; they are inspired testimonies designed to bring readers to saving faith."
+            },
+            {
+                "reference": "Luke 1:1-4",
+                "text": "\"Many have undertaken to draw up an account of the things that have been fulfilled among us, just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught.\"",
+                "commentary": "Luke emphasizes that his Gospel is based on careful historical research and eyewitness testimony. The Gospels are not myths or legends — they are carefully documented accounts of real events witnessed by real people."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Four Gospels?",
+            "paragraphs": [
+                "The New Testament opens with four accounts of the life, death, and resurrection of Jesus Christ — the Gospels of Matthew, Mark, Luke, and John. A natural question arises: why four? Why not one definitive biography? The answer reveals the wisdom of God's design.",
+                "Having four Gospels provides multiple perspectives on the same events, much like four eyewitnesses to an event each notice different details. The Gospels complement one another, and their diversity strengthens rather than weakens their testimony. Each Gospel was written for a specific audience with a specific purpose, together presenting a comprehensive portrait of Jesus Christ."
+            ]
+        },
+        {
+            "heading": "Matthew: Jesus the King",
+            "paragraphs": [
+                "The Gospel of Matthew was written primarily for a Jewish audience and presents Jesus as the long-awaited Messiah, the fulfillment of Old Testament prophecy. Matthew begins with a genealogy tracing Jesus' lineage back to Abraham and David, establishing His royal credentials.",
+                "Matthew contains more Old Testament quotations than any other Gospel, repeatedly using the phrase 'that it might be fulfilled which was spoken by the prophet.' He records five major blocks of Jesus' teaching (including the Sermon on the Mount, chapters 5-7), presenting Jesus as the new and greater Moses who brings not merely a new law but the fulfillment of the Law.",
+                "Key themes in Matthew include the Kingdom of Heaven, the fulfillment of prophecy, the authority of Jesus' teaching, and the Great Commission (28:18-20) — Christ's command to make disciples of all nations."
+            ]
+        },
+        {
+            "heading": "Mark: Jesus the Servant",
+            "paragraphs": [
+                "Mark is the shortest Gospel and likely the earliest written (c. 65-70 AD). Tradition holds that Mark recorded the eyewitness testimony of the Apostle Peter. Mark's fast-paced, action-oriented narrative emphasizes what Jesus did rather than what He said.",
+                "Mark presents Jesus as the suffering Servant who came 'not to be served, but to serve, and to give his life as a ransom for many' (Mark 10:45). The word 'immediately' appears frequently, driving the narrative forward with urgency. Mark devotes a disproportionate amount of his Gospel (nearly one-third) to the final week of Jesus' life — the Passion narrative — emphasizing that the cross is the center of Jesus' mission.",
+                "Mark was likely written for a Roman audience, and his portrait of Jesus as a powerful, decisive, self-sacrificing leader would have resonated with Roman ideals of strength through service."
+            ]
+        },
+        {
+            "heading": "Luke: Jesus the Savior of All",
+            "paragraphs": [
+                "Luke, a physician and companion of Paul, wrote his Gospel as a careful historical investigation (Luke 1:1-4). His account is the most comprehensive and emphasizes Jesus as the Savior of all people — Jews and Gentiles, rich and poor, men and women.",
+                "Luke uniquely highlights Jesus' compassion for those on the margins of society: women, children, the poor, Samaritans, and sinners. Parables found only in Luke — the Good Samaritan, the Prodigal Son, the Rich Man and Lazarus — emphasize God's mercy and the reversal of worldly values.",
+                "Luke also wrote the Book of Acts, making his two-volume work (Luke-Acts) the longest single contribution to the New Testament. Together, these books trace the story of salvation from the birth of Christ to the spread of the Gospel to Rome."
+            ]
+        },
+        {
+            "heading": "John: Jesus the Son of God",
+            "paragraphs": [
+                "John's Gospel is distinct from the other three (called the 'Synoptic Gospels' because they share a similar perspective). Written later (c. 85-95 AD), John provides a deeply theological account of Jesus' identity as the eternal Son of God.",
+                "John opens with a majestic prologue: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). This identifies Jesus as the divine Logos — the eternal Word through whom all things were created. John records seven miraculous 'signs' and seven 'I AM' statements of Jesus (I am the bread of life, the light of the world, the door, the good shepherd, the resurrection and the life, the way the truth and the life, the true vine) — each revealing an aspect of Christ's divine nature and saving work.",
+                "John's stated purpose — 'that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name' (20:31) — makes his Gospel the most explicitly evangelistic of the four."
+            ]
+        },
+        {
+            "heading": "The Reliability of the Gospels",
+            "paragraphs": [
+                "Critics have questioned whether the Gospels are reliable historical documents. The evidence overwhelmingly supports their trustworthiness. The Gospels were written within the lifetime of eyewitnesses. They contain specific historical, geographical, and cultural details that have been confirmed by archaeology. The manuscript evidence for the New Testament far exceeds that of any other ancient document.",
+                "The apparent differences between the Gospels actually strengthen their credibility. If four witnesses told exactly the same story in exactly the same words, we would suspect collusion. The Gospels agree on the essential facts while differing in emphasis, detail, and arrangement — exactly what we would expect from multiple independent, honest witnesses to the same events."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did God inspire four Gospels instead of one? How does having four perspectives strengthen rather than weaken the case for the historical reliability of the Gospel accounts?",
+            "guidance": "Consider how multiple witnesses work in a courtroom. Think about how each Gospel's unique emphasis contributes to a fuller understanding of Jesus' person and work."
+        },
+        {
+            "id": 2,
+            "question": "Each Gospel presents Jesus from a different angle: King (Matthew), Servant (Mark), Savior of all (Luke), Son of God (John). How do these portraits complement each other? Why is each perspective important?",
+            "guidance": "Consider how Jesus fulfills multiple roles simultaneously. Think about how different audiences needed to understand different aspects of who Jesus is."
+        },
+        {
+            "id": 3,
+            "question": "Luke emphasizes that his Gospel is based on careful historical investigation (Luke 1:1-4). Why is the historical reliability of the Gospels important for Christian faith? Can Christianity survive if the Gospel accounts are merely legends?",
+            "guidance": "Consider 1 Corinthians 15:14-17, where Paul says that if Christ has not been raised, our faith is futile. Think about the relationship between historical fact and saving faith."
+        }
+    ]
+}

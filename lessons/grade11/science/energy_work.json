@@ -1,0 +1,96 @@
+{
+    "id": "energy_work",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Energy and Work",
+    "subtitle": "The Power Behind God's Creation",
+    "scripture": "Isaiah 40:26",
+    "primary_source": "James Joule's On the Mechanical Equivalent of Heat (1845)",
+    "key_concepts": ["Work and its definition", "Kinetic and potential energy", "Conservation of energy", "Power", "Simple machines and mechanical advantage"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 40:26",
+                "text": "\"Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name. Because of his great power and mighty strength, not one of them is missing.\"",
+                "commentary": "The energy that powers every star, every planet, and every living thing ultimately comes from God's 'great power and mighty strength.' The law of conservation of energy tells us that energy cannot be created or destroyed by natural processes — it had to be put into the universe by the Creator."
+            },
+            {
+                "reference": "Colossians 1:16-17",
+                "text": "\"For in him all things were created: things in heaven and on earth... all things have been created through him and for him. He is before all things, and in him all things hold together.\"",
+                "commentary": "Energy is the capacity to do work — to cause change in the physical world. Christ, through whom all things were created, is the ultimate source of this capacity. The energy in the universe exists because He spoke it into being."
+            },
+            {
+                "reference": "Nehemiah 9:6",
+                "text": "\"You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything.\"",
+                "commentary": "God gives life and energy to everything. The transformations of energy we observe — from chemical to thermal, from kinetic to potential — are all governed by laws He established."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Energy?",
+            "paragraphs": [
+                "Energy is one of the most fundamental concepts in all of physics. Simply defined, energy is the capacity to do work — to cause change in the physical world. Energy comes in many forms: kinetic (motion), potential (stored), thermal (heat), chemical (bonds), electrical, nuclear, and radiant (light). Despite this diversity of forms, energy obeys a single, overarching principle: it is always conserved.",
+                "The study of energy reveals the extraordinary economy of God's creation. Nothing is wasted. Energy flows from one form to another, powering everything from the beating of a human heart to the burning of a star, all governed by precise, mathematical laws."
+            ]
+        },
+        {
+            "heading": "Work: The Transfer of Energy",
+            "paragraphs": [
+                "In physics, work has a precise definition: Work = Force × Displacement × cos(θ), where θ is the angle between the force and the direction of displacement. Work is measured in Joules (J), named after James Prescott Joule, a devout Christian who demonstrated the relationship between heat and mechanical work.",
+                "Work is done only when a force causes displacement. If you push against a wall and it does not move, you do no work on the wall (even though you expend effort). If you carry a box horizontally at constant height, you do no work against gravity because the force (upward) is perpendicular to the displacement (horizontal).",
+                "This precise definition of work allows us to calculate exactly how much energy is transferred from one system to another. It transforms our intuitive understanding of effort into a quantitative, measurable science."
+            ]
+        },
+        {
+            "heading": "Kinetic and Potential Energy",
+            "paragraphs": [
+                "Kinetic energy is the energy of motion. Any object that is moving has kinetic energy, calculated as KE = ½mv², where m is mass and v is velocity. Notice that kinetic energy depends on the square of velocity — doubling an object's speed quadruples its kinetic energy. This is why highway speed limits matter so much for safety.",
+                "Potential energy is stored energy due to an object's position or configuration. Gravitational potential energy (PE = mgh) depends on an object's mass, the acceleration due to gravity, and its height above a reference point. Elastic potential energy is stored in stretched or compressed springs.",
+                "The relationship between kinetic and potential energy is beautifully illustrated by a pendulum. At the highest point of its swing, the pendulum has maximum potential energy and zero kinetic energy. At the lowest point, it has maximum kinetic energy and minimum potential energy. Energy continuously transforms between these two forms, but the total remains constant — a demonstration of conservation of energy."
+            ]
+        },
+        {
+            "heading": "The Law of Conservation of Energy",
+            "paragraphs": [
+                "The Law of Conservation of Energy states that energy cannot be created or destroyed — it can only be transformed from one form to another or transferred from one object to another. The total energy in a closed system remains constant.",
+                "This law is one of the most fundamental principles in all of science. It holds true in every experiment ever conducted, from subatomic particle collisions to the dynamics of galaxies. No exception has ever been found.",
+                "For the Christian, the conservation of energy raises a profound question: if energy cannot be created by natural processes, where did all the energy in the universe come from? The answer is clear — it was spoken into existence by the Creator. 'And God said, Let there be light' (Genesis 1:3). The energy that powers the entire cosmos originated in the creative act of God.",
+                "The Second Law of Thermodynamics adds an important nuance: while total energy is conserved, usable energy decreases over time. In every energy transformation, some energy becomes unavailable (usually as waste heat). This increasing disorder (entropy) means the universe is running down — it had a beginning and will have an end, consistent with the biblical narrative of creation and consummation."
+            ]
+        },
+        {
+            "heading": "Power and Simple Machines",
+            "paragraphs": [
+                "Power is the rate at which work is done or energy is transferred: P = W/t, measured in Watts (W). One Watt equals one Joule per second. A 100-Watt light bulb converts 100 Joules of electrical energy into light and heat every second.",
+                "Simple machines — levers, pulleys, inclined planes, wedges, screws, and wheel-and-axle systems — do not create energy. Instead, they redirect or multiply force, making work easier. A lever allows you to lift a heavy object with less force by applying that force over a greater distance. The work output can never exceed the work input.",
+                "The mechanical advantage of a simple machine is the factor by which it multiplies force. An ideal machine with a mechanical advantage of 3 allows you to lift a 300 N object with only 100 N of force — but you must move your end three times as far. This trade-off between force and distance is a consequence of energy conservation."
+            ]
+        },
+        {
+            "heading": "James Joule: A Scientist of Deep Faith",
+            "paragraphs": [
+                "James Prescott Joule (1818-1889) was a devout Christian whose meticulous experiments established the mechanical equivalent of heat and contributed to the formulation of the First Law of Thermodynamics. Joule showed that mechanical work and heat are both forms of energy and are interconvertible.",
+                "Joule saw his scientific work as an expression of worship. He wrote: 'It is evident that an acquaintance with natural laws means no less than an acquaintance with the mind of God therein expressed.' The unit of energy — the Joule — bears his name as a permanent reminder of his contributions.",
+                "Joule's work illustrates a key principle: the laws of physics are not mere human inventions. They are discoveries — revelations of how God has structured the physical world. Every time we calculate work, energy, or power in Joules and Watts, we are using tools developed by scientists who saw their work as a way to glorify the Creator."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the Law of Conservation of Energy. Why does this law raise important questions about the origin of the universe? How does the Christian worldview provide a satisfying answer?",
+            "guidance": "Consider the implication that if energy cannot be created by natural processes, it must have a supernatural origin. Connect this to Genesis 1 and the creative power of God."
+        },
+        {
+            "id": 2,
+            "question": "How does the Second Law of Thermodynamics (increasing entropy) support the biblical teaching that the universe had a beginning and is moving toward an end? How does this contrast with the idea of an eternal, self-sustaining universe?",
+            "guidance": "Consider that a universe running down must have been 'wound up' at some point. Reflect on passages like Romans 8:21 about creation being subject to decay."
+        },
+        {
+            "id": 3,
+            "question": "A simple machine cannot create energy — it can only redirect or multiply force. What does this limitation tell us about the nature of physical reality? How does it illustrate the principle that only God can truly create something from nothing?",
+            "guidance": "Think about the difference between human creativity (rearranging existing materials and energy) and divine creation (bringing something into existence from nothing — ex nihilo)."
+        }
+    ]
+}

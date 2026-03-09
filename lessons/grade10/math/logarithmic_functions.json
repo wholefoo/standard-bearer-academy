@@ -1,0 +1,82 @@
+{
+    "id": "logarithmic_functions",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Logarithmic Functions — Unlocking Exponential Equations",
+    "subtitle": "Logarithms, Properties, and Applications",
+    "scripture": "Daniel 12:4",
+    "primary_source": "John Napier's 'Mirifici Logarithmorum Canonis Descriptio' (1614)",
+    "key_concepts": ["Definition of logarithms", "Common and natural logarithms", "Properties of logarithms", "Solving logarithmic equations", "Change of base formula"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Daniel 12:4",
+                "text": "\"But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.\"",
+                "commentary": "The increase of knowledge has followed an exponential pattern throughout history, accelerating dramatically in recent centuries. Logarithms — the mathematical inverse of exponential functions — were invented to help manage and measure this kind of growth. John Napier, a devout Christian, developed logarithms as a tool to advance learning."
+            },
+            {
+                "reference": "Psalm 90:12",
+                "text": "\"Teach us to number our days, that we may gain a heart of wisdom.\"",
+                "commentary": "Logarithms help us 'number' quantities that span enormous ranges — from the faintest whisper to the roar of a jet engine, from the weakest acid to the strongest. This mathematical tool helps us comprehend the vast scales of God's creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Inverse of Exponential Functions",
+            "paragraphs": [
+                "If exponential functions ask 'What is 2 raised to the 5th power?' (answer: 32), logarithms ask the inverse question: 'What power must 2 be raised to in order to get 32?' (answer: 5). In notation: log₂(32) = 5 because 2⁵ = 32.",
+                "The logarithm logb(x) = y means bʸ = x. The base b must be positive and not equal to 1, and x must be positive. Logarithms convert multiplication into addition, division into subtraction, and exponentiation into multiplication — transformations that made complex calculations possible before electronic calculators existed."
+            ]
+        },
+        {
+            "heading": "Common and Natural Logarithms",
+            "paragraphs": [
+                "Two bases are used so frequently that they have special notations. Common logarithms use base 10 and are written simply as log(x) without specifying the base. log(100) = 2 because 10² = 100. log(1000) = 3 because 10³ = 1000.",
+                "Natural logarithms use base e (≈ 2.71828) and are written as ln(x). The natural logarithm appears throughout calculus, physics, and biology because exponential growth and decay with base e are the most natural form of continuous growth. ln(e) = 1 because e¹ = e, and ln(1) = 0 because e⁰ = 1.",
+                "John Napier, a Scottish Presbyterian who published his work on logarithms in 1614, invented them to simplify astronomical calculations. He spent 20 years developing logarithm tables — a labor of mathematical devotion that revolutionized scientific computation and demonstrates how Christians have contributed foundationally to mathematical progress."
+            ]
+        },
+        {
+            "heading": "Properties of Logarithms",
+            "paragraphs": [
+                "Logarithms have three fundamental properties that derive from the rules of exponents. The Product Rule: logb(MN) = logb(M) + logb(N) — the logarithm of a product equals the sum of the logarithms. The Quotient Rule: logb(M/N) = logb(M) - logb(N) — the logarithm of a quotient equals the difference of the logarithms.",
+                "The Power Rule: logb(Mⁿ) = n · logb(M) — the logarithm of a power equals the exponent times the logarithm of the base. These properties transform complex calculations into simpler ones. For example: log(500) = log(5 × 100) = log(5) + log(100) = log(5) + 2.",
+                "These properties also allow us to expand or condense logarithmic expressions. Expanding: log(x²y/z) = 2log(x) + log(y) - log(z). Condensing: 3ln(x) - ln(y) + ln(z) = ln(x³z/y). This flexibility is essential for solving equations and simplifying complex expressions."
+            ]
+        },
+        {
+            "heading": "Solving Logarithmic and Exponential Equations",
+            "paragraphs": [
+                "Logarithms are the key to solving exponential equations where matching bases is not possible. To solve 3ˣ = 20: take log of both sides → x · log(3) = log(20) → x = log(20)/log(3) ≈ 2.727.",
+                "The Change of Base Formula allows us to evaluate logarithms of any base using common or natural logarithms: logb(x) = log(x)/log(b) = ln(x)/ln(b). This formula is essential for calculator work, since most calculators only have log and ln buttons.",
+                "To solve logarithmic equations, use the definition of logarithm or the properties to consolidate, then convert to exponential form. For example: log₂(x) + log₂(x - 2) = 3 → log₂(x(x-2)) = 3 → x² - 2x = 8 → x² - 2x - 8 = 0 → (x-4)(x+2) = 0. Since logarithms require positive arguments, x = 4 is the only valid solution."
+            ]
+        },
+        {
+            "heading": "Logarithmic Scales in God's Creation",
+            "paragraphs": [
+                "Many measurements in science use logarithmic scales because the quantities involved span enormous ranges. The Richter scale for earthquakes is logarithmic — each whole number increase represents a tenfold increase in ground motion. A magnitude 7 earthquake is 10 times stronger than magnitude 6 and 100 times stronger than magnitude 5.",
+                "The decibel scale for sound intensity is also logarithmic. Normal conversation is about 60 dB; a rock concert is about 120 dB — which means the concert is not twice as loud but one million times more intense. The pH scale for acidity is logarithmic as well, as we learned in chemistry.",
+                "The need for logarithmic scales reveals something profound about creation: God has designed a universe that operates across vast ranges of magnitude, from subatomic particles to galaxy clusters, from barely audible sounds to thunderclaps. Logarithms are the mathematical tool that allows finite human minds to comprehend these God-sized scales."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Solve: 5^(2x-1) = 125. Then solve: 4ˣ = 50 using logarithms. Round to three decimal places.",
+            "guidance": "For the first equation, express 125 as a power of 5. For the second, take the logarithm of both sides and use the power rule."
+        },
+        {
+            "id": 2,
+            "question": "Use logarithm properties to expand: log₃(x⁴y²/z³). Then condense: 2ln(a) - 3ln(b) + ln(c) into a single logarithm.",
+            "guidance": "Apply the product, quotient, and power rules. For expanding, work from outside in. For condensing, convert coefficients to exponents first, then combine."
+        },
+        {
+            "id": 3,
+            "question": "Why are logarithmic scales (Richter, decibel, pH) necessary for measuring certain phenomena? What does the enormous range of scales in God's creation tell us about the nature of His design?",
+            "guidance": "Consider why linear scales would be impractical for quantities spanning many orders of magnitude. Think about what the vast dynamic range of creation reveals about God's power and wisdom."
+        }
+    ]
+}

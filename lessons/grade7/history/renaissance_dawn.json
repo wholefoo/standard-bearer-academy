@@ -1,0 +1,74 @@
+{
+    "id": "renaissance_dawn",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: The Dawn of the Renaissance",
+    "subtitle": "From Medieval Faith to the Rebirth of Learning",
+    "scripture": "Ecclesiastes 1:9",
+    "primary_source": "Petrarch, Letters (excerpt, c. 1350)",
+    "key_concepts": ["The Renaissance", "Humanism and Christianity", "Revival of classical learning", "Art and innovation", "Transition to the modern world"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 1:9",
+                "text": "\"What has been will be again, what has been done will be done again; there is nothing new under the sun.\"",
+                "commentary": "The Renaissance was a 'rebirth' of classical Greek and Roman learning that had been preserved through the Middle Ages. As Solomon observed, history often cycles as human civilization rediscovers and builds upon the knowledge of previous generations."
+            },
+            {
+                "reference": "Genesis 1:27",
+                "text": "\"So God created mankind in his own image, in the image of God he created them.\"",
+                "commentary": "The Renaissance celebrated human creativity and achievement, which at its best reflected the Biblical truth that humans are made in God's image. Our ability to create beauty, discover truth, and innovate comes from our Creator."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Was the Renaissance?",
+            "paragraphs": [
+                "The Renaissance — meaning 'rebirth' — was a cultural and intellectual movement that began in Italy around 1300 and gradually spread across Europe. It was characterized by a renewed interest in the art, literature, and philosophy of ancient Greece and Rome, combined with new innovations in art, science, and thought.",
+                "The Renaissance did not reject Christianity — many of its greatest achievements were deeply Christian in inspiration. However, it also introduced ideas that would eventually challenge traditional faith. Understanding the Renaissance is essential for understanding the transition from the medieval to the modern world."
+            ]
+        },
+        {
+            "heading": "Why Italy?",
+            "paragraphs": [
+                "The Renaissance began in Italy for several reasons. Italian city-states like Florence, Venice, and Rome were wealthy centers of trade and banking. Wealthy families like the Medici became patrons of art and learning, funding artists, architects, and scholars.",
+                "Italy's geographic location made it a crossroads of trade between Europe and the East, bringing new ideas and rediscovered ancient texts. Italy was also the heir to the Roman Empire, and the ruins of ancient Rome provided constant inspiration.",
+                "The fall of Constantinople to the Ottoman Turks in 1453 sent Greek scholars fleeing westward, bringing ancient manuscripts and knowledge that further fueled the Renaissance."
+            ]
+        },
+        {
+            "heading": "Renaissance Art and Creativity",
+            "paragraphs": [
+                "Renaissance art achieved new heights of beauty and technical skill. Artists like Leonardo da Vinci, Michelangelo, and Raphael created masterpieces that continue to inspire wonder. Many of the greatest works — Michelangelo's Sistine Chapel ceiling, Leonardo's Last Supper, Raphael's School of Athens — depicted Biblical scenes or Christian themes.",
+                "These artists believed that beauty reflects the character of God. By studying human anatomy, perspective, and the natural world, they sought to represent God's creation with greater accuracy and reverence. Art was not merely entertainment — it was an expression of worship.",
+                "The invention of the printing press by Johannes Gutenberg around 1440 was perhaps the most important innovation of the era. By making books affordable and widely available, the printing press spread knowledge, fueled the Reformation, and transformed civilization."
+            ]
+        },
+        {
+            "heading": "Humanism: Strengths and Dangers",
+            "paragraphs": [
+                "Renaissance humanism emphasized the study of classical literature, history, and moral philosophy. At its best, Christian humanism — represented by scholars like Erasmus — combined deep reverence for Scripture with appreciation for classical learning. Erasmus produced a new edition of the Greek New Testament that became the foundation for Protestant Bible translations.",
+                "However, some forms of humanism gradually shifted focus from God to man. When 'the glory of man' replaced 'the glory of God' as the central principle, the seeds of secularism were planted. This tension between God-centered and man-centered thinking would shape the centuries to come.",
+                "The Renaissance reminds us that human creativity and learning are gifts from God, to be used for His glory. When these gifts are directed toward honoring the Creator, civilization flourishes. When they become ends in themselves, they can lead away from truth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the Renaissance build upon the achievements of the Middle Ages? Was the 'rebirth' truly a new beginning, or a continuation of what came before?",
+            "guidance": "Consider how medieval monasteries preserved classical texts, how cathedral schools became universities, and how Christian faith continued to inspire Renaissance art."
+        },
+        {
+            "id": 2,
+            "question": "Why was the invention of the printing press so revolutionary? How did it change the spread of knowledge and the course of history?",
+            "guidance": "Think about how books were produced before the printing press and how widespread literacy changed society. Consider the printing press's role in the coming Reformation."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between Christian humanism and secular humanism? Why does it matter whether human creativity is directed toward God's glory or toward man's glory?",
+            "guidance": "Consider Genesis 1:27 — we are creative because we are made in God's image. Think about what happens when human achievement becomes an idol rather than an offering to God."
+        }
+    ]
+}

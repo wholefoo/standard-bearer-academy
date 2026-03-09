@@ -1,0 +1,80 @@
+{
+    "id": "anglo_saxon",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Anglo-Saxon Literature",
+    "subtitle": "Beowulf and the Christian Warrior Tradition",
+    "scripture": "Ephesians 6:10-18",
+    "primary_source": "Beowulf (c. 700-1000 AD)",
+    "key_concepts": ["Anglo-Saxon heroic code", "Christian overlay in pagan literature", "Old English poetic devices", "Kennings and alliteration", "Providence in epic literature"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ephesians 6:12",
+                "text": "\"For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.\"",
+                "commentary": "The Anglo-Saxon poets understood the reality of spiritual warfare. Beowulf's battles against Grendel and the dragon reflect the Christian understanding that the true enemy is evil itself, not merely physical opponents."
+            },
+            {
+                "reference": "Proverbs 21:31",
+                "text": "\"The horse is made ready for the day of battle, but victory rests with the LORD.\"",
+                "commentary": "Anglo-Saxon literature consistently portrays the theme that even the mightiest warrior depends on God's providence for victory — a truth woven into Beowulf's acknowledgment that God governs the outcome of battle."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Roots of English Literature",
+            "paragraphs": [
+                "English literature begins not with the printing press or the novel, but with the oral poetry of the Anglo-Saxon tribes who settled in Britain after the fall of Rome. These Germanic peoples — Angles, Saxons, and Jutes — brought with them a rich tradition of heroic poetry that celebrated courage, loyalty, and the struggle against overwhelming evil.",
+                "When Christianity came to the Anglo-Saxons through missionaries like Augustine of Canterbury (597 AD), it transformed their literary culture. The old heroic ideals were not discarded but reinterpreted through a Christian lens. The result was a unique literary tradition that blended Germanic warrior values with Biblical truth."
+            ]
+        },
+        {
+            "heading": "Beowulf: The Christian Epic",
+            "paragraphs": [
+                "Beowulf, the greatest surviving work of Old English literature, tells the story of a Geatish warrior who travels to Denmark to slay the monster Grendel, then Grendel's mother, and finally a dragon in his old age. While the setting is pre-Christian Scandinavia, the poem is thoroughly shaped by Christian theology.",
+                "The poet describes Grendel as a descendant of Cain (Genesis 4), placing the monster's evil within a Biblical framework. Beowulf himself repeatedly attributes his victories to God's favor, saying after defeating Grendel's mother: 'The fight would have ended straightaway if God had not guarded me.' This is not mere lip service — it reflects the Anglo-Saxon Christian conviction that God is sovereign over all battles.",
+                "The poem also explores the tension between earthly glory and eternal judgment. The dragon-hoard that Beowulf dies to win is ultimately useless — buried with him in the ground. The poet's message is clear: earthly treasure passes away, but a life lived in service to others endures in God's memory."
+            ]
+        },
+        {
+            "heading": "Old English Poetic Techniques",
+            "paragraphs": [
+                "Anglo-Saxon poetry used distinctive literary devices that modern readers should understand. Alliteration — the repetition of initial consonant sounds — was the primary organizing principle of Old English verse, rather than rhyme. Each line was divided into two halves, linked by alliterating stressed syllables.",
+                "Kennings were compound metaphorical expressions used to describe common things in vivid ways: the sea was the 'whale-road,' a king was a 'ring-giver,' and the body was a 'bone-house.' These creative expressions reveal how the Anglo-Saxons saw the world — as a place of mystery, danger, and divine design.",
+                "The elegiac tone of much Anglo-Saxon poetry reflects a people who understood the passing nature of earthly life. Poems like 'The Wanderer' and 'The Seafarer' express the loneliness and sorrow of exile, while pointing toward the eternal home that only God can provide."
+            ]
+        },
+        {
+            "heading": "Caedmon and Bede: Faith and Learning",
+            "paragraphs": [
+                "Caedmon's Hymn (c. 670 AD) is considered the earliest surviving English poem. According to the Venerable Bede, Caedmon was an illiterate cowherd who received the miraculous gift of song from God in a dream. His hymn praises God as the Creator of heaven and earth — making the very first English poem a song of worship.",
+                "Bede himself (673-735 AD) was one of the greatest scholars of the early medieval period. His Ecclesiastical History of the English People chronicles how Christianity transformed Anglo-Saxon England. Bede's work demonstrates that faith and learning are not enemies but allies — a principle that would shape British education for centuries."
+            ]
+        },
+        {
+            "heading": "Legacy: Why Anglo-Saxon Literature Matters",
+            "paragraphs": [
+                "Anglo-Saxon literature matters because it established themes and values that would echo throughout the entire English literary tradition: the battle between good and evil, the importance of courage and sacrifice, the sovereignty of God over human affairs, and the fleeting nature of earthly glory compared to eternal truth.",
+                "When J.R.R. Tolkien — a devout Christian and Oxford scholar — wrote The Lord of the Rings, he drew deeply on Anglo-Saxon language, themes, and worldview. The tradition that began with Beowulf continues to shape how English-speaking people tell stories about heroism, sacrifice, and the triumph of good over evil."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Beowulf poet use the Biblical story of Cain to explain the origin of Grendel's evil? What does this tell us about the poet's worldview?",
+            "guidance": "Consider how placing Grendel in a Biblical genealogy transforms a pagan monster story into a Christian narrative about the consequences of sin and rebellion against God."
+        },
+        {
+            "id": 2,
+            "question": "Compare Beowulf's understanding of God's sovereignty in battle with Ephesians 6:10-18. How do both texts teach that ultimate victory depends on God rather than human strength alone?",
+            "guidance": "Think about Beowulf's repeated acknowledgments that God determines the outcome of his fights, and compare this with Paul's teaching about putting on the 'full armor of God.'"
+        },
+        {
+            "id": 3,
+            "question": "What is the significance of the fact that the earliest surviving English poem, Caedmon's Hymn, is a song of worship? What does this suggest about the relationship between Christianity and English literary culture?",
+            "guidance": "Consider what it means that English literature literally begins with praise to God the Creator, and how this Christian foundation shaped the literary tradition that followed."
+        }
+    ]
+}

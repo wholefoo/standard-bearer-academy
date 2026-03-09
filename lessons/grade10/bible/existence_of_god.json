@@ -1,0 +1,82 @@
+{
+    "id": "existence_of_god",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Arguments for God's Existence",
+    "subtitle": "Evidence That Points to the Creator",
+    "scripture": "Romans 1:19-20",
+    "primary_source": "Thomas Aquinas, Summa Theologica, 'Five Ways' (1265-1274)",
+    "key_concepts": ["Cosmological argument", "Teleological argument (design)", "Moral argument", "Argument from consciousness", "General revelation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:19-20",
+                "text": "\"Since what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made, so that people are without excuse.\"",
+                "commentary": "Paul declares that God's existence is evident from creation itself. The arguments for God's existence are not inventing evidence — they are articulating what creation already reveals to every human being."
+            },
+            {
+                "reference": "Psalm 14:1",
+                "text": "\"The fool says in his heart, 'There is no God.'\"",
+                "commentary": "Scripture describes atheism not as intellectual sophistication but as moral foolishness — a refusal to acknowledge what is plainly evident. The evidence for God is not lacking; the problem is the human heart's rebellion against what it knows to be true."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Can God's Existence Be Demonstrated?",
+            "paragraphs": [
+                "Throughout history, Christian thinkers have developed rational arguments that point to God's existence. These arguments do not replace faith, nor do they prove God's existence with mathematical certainty. Rather, they show that belief in God is reasonable — indeed, more reasonable than atheism — by pointing to evidence in nature, morality, and human experience that is best explained by the existence of a Creator.",
+                "Paul teaches in Romans 1:19-20 that God has already made His existence 'plain' through creation. The arguments for God's existence are simply careful articulations of what every person can already perceive."
+            ]
+        },
+        {
+            "heading": "The Cosmological Argument: Why Is There Something Rather Than Nothing?",
+            "paragraphs": [
+                "The cosmological argument, developed by thinkers from Aristotle to Thomas Aquinas to William Lane Craig, begins with a simple observation: the universe exists. Why? Everything that begins to exist has a cause. The universe began to exist (confirmed by modern cosmology's discovery of the Big Bang). Therefore, the universe has a cause.",
+                "This cause must be outside the universe itself — it cannot be physical, temporal, or material, since it created all physical, temporal, and material reality. It must be an uncaused, eternal, immensely powerful, personal being — which is precisely what the Bible means by 'God.'",
+                "The alternative — that the universe simply popped into existence from nothing, with no cause — is not only unscientific but philosophically absurd. Nothing cannot produce something. The existence of the universe demands an adequate cause, and only a transcendent Creator fits the evidence."
+            ]
+        },
+        {
+            "heading": "The Teleological Argument: The Design of Creation",
+            "paragraphs": [
+                "The teleological argument (from the Greek telos, meaning 'purpose' or 'end') argues that the extraordinary order, complexity, and fine-tuning of the universe point to an intelligent Designer. Just as a watch implies a watchmaker, the intricate design of the natural world implies a cosmic Designer.",
+                "Modern science has strengthened this argument enormously. The 'fine-tuning' of the universe's fundamental constants — the strength of gravity, the mass of the electron, the cosmological constant — is so precise that if any of these values were altered by an infinitesimally small amount, life would be impossible. The probability of this fine-tuning occurring by chance is effectively zero.",
+                "The complexity of biological life — particularly the information-rich structure of DNA — further supports the design argument. DNA contains a four-letter chemical code that stores, copies, and transmits the instructions for building every living organism. Information always comes from an intelligent source. The information in DNA points to an intelligent Creator."
+            ]
+        },
+        {
+            "heading": "The Moral Argument: The Law Written on Our Hearts",
+            "paragraphs": [
+                "C.S. Lewis popularized the moral argument in Mere Christianity. Every human society recognizes certain behaviors as right and others as wrong. This universal moral awareness — what Lewis called 'the Moral Law' — cannot be explained by evolution, cultural conditioning, or personal preference alone.",
+                "If morality is merely a product of evolution, then moral claims have no objective truth — they are just survival instincts. But we intuitively know that some things are genuinely wrong (torturing children for fun, for example), not just culturally disapproved. This objective moral law requires a moral Lawgiver — a personal, moral being who is the source and standard of goodness.",
+                "Paul confirms this in Romans 2:14-15, teaching that even Gentiles who lack the written law of Moses 'show that the requirements of the law are written on their hearts.' God's moral law is not merely an external code but an internal witness that testifies to every human being of God's moral reality."
+            ]
+        },
+        {
+            "heading": "Responding to Objections",
+            "paragraphs": [
+                "Atheists sometimes respond: 'If everything needs a cause, what caused God?' But the cosmological argument does not say everything needs a cause — it says everything that begins to exist needs a cause. God, by definition, is eternal and uncaused. The question 'Who made God?' misunderstands the argument.",
+                "Others argue that science has explained the universe without God. But science explains how the universe works, not why it exists. Science can describe the laws of physics but cannot explain why there are laws of physics at all. Science and theology answer different kinds of questions, and both point to the same Creator.",
+                "The cumulative force of these arguments — cosmological, teleological, and moral — is powerful. Each argument alone is significant; taken together, they build an overwhelming case that the existence of God is the most rational explanation for the universe, its design, and the moral law within us."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the cosmological argument in your own words. Why does the existence of the universe require a cause, and why must that cause be God?",
+            "guidance": "Focus on the key premises: everything that begins to exist has a cause; the universe began to exist; therefore the universe has a cause that must be eternal, powerful, and personal."
+        },
+        {
+            "id": 2,
+            "question": "How does the fine-tuning of the universe support the teleological argument? Why is it more reasonable to attribute this fine-tuning to an intelligent Designer than to chance?",
+            "guidance": "Consider the extreme improbability of the universe's constants being 'just right' for life by accident, and compare this with the straightforward explanation that an intelligent Creator set them deliberately."
+        },
+        {
+            "id": 3,
+            "question": "Read Romans 1:19-20. According to Paul, why are all people 'without excuse' for denying God's existence? How do the arguments in this lesson support Paul's teaching?",
+            "guidance": "Consider how the evidence from creation — its existence, its design, and the moral law — leaves every person without excuse, since God has made His reality plain through what He has made."
+        }
+    ]
+}

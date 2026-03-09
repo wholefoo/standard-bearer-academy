@@ -1,0 +1,95 @@
+{
+    "id": "limits_intro",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Introduction to Limits",
+    "subtitle": "Approaching the Infinite — The Gateway to Calculus",
+    "scripture": "Psalm 90:2",
+    "primary_source": "Augustin-Louis Cauchy's Cours d'Analyse (1821)",
+    "key_concepts": ["The concept of a limit", "Evaluating limits algebraically", "One-sided limits", "Limits at infinity", "Continuity and its importance"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 90:2",
+                "text": "\"Before the mountains were born or you brought forth the whole earth, from everlasting to everlasting you are God.\"",
+                "commentary": "The concept of a limit — approaching a value without necessarily reaching it — gives us mathematical language to discuss the infinite and the eternal. God exists 'from everlasting to everlasting,' beyond any limit we can approach. Limits are our mathematical attempt to reach toward the infinite."
+            },
+            {
+                "reference": "Philippians 3:14",
+                "text": "\"I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.\"",
+                "commentary": "Paul describes the Christian life as pressing toward a goal — approaching a target with ever-increasing closeness. This is precisely what a limit describes: getting arbitrarily close to a value. The spiritual journey, like a limit, involves continual approach and growth."
+            },
+            {
+                "reference": "Ephesians 3:18-19",
+                "text": "\"May have power, together with all the Lord's holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge.\"",
+                "commentary": "Paul prays that believers would 'grasp' a love that 'surpasses knowledge' — approach understanding of something that is ultimately infinite. The limit concept captures this idea: we can approach ever closer to understanding God's love, even though its fullness exceeds our finite capacity."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Limit?",
+            "paragraphs": [
+                "A limit describes the value that a function approaches as its input approaches a particular value. We write lim(x→c) f(x) = L to mean: 'As x gets closer and closer to c, f(x) gets closer and closer to L.' The limit may exist even if f(c) is undefined — what matters is the behavior near c, not at c.",
+                "Limits are the foundational concept of calculus, which Newton and Leibniz developed independently in the late 17th century. Every major concept in calculus — derivatives, integrals, infinite series — is defined using limits. Understanding limits is therefore the gateway to the most powerful mathematical framework ever developed."
+            ]
+        },
+        {
+            "heading": "Evaluating Limits: Direct Substitution and Beyond",
+            "paragraphs": [
+                "The simplest way to evaluate a limit is direct substitution: if f(x) is continuous at x = c, then lim(x→c) f(x) = f(c). For example, lim(x→3) (2x + 1) = 2(3) + 1 = 7.",
+                "When direct substitution yields an indeterminate form like 0/0, we need algebraic techniques. Factoring and canceling: lim(x→2) (x² - 4)/(x - 2) = lim(x→2) (x + 2)(x - 2)/(x - 2) = lim(x→2) (x + 2) = 4. Rationalizing: for limits involving radicals, multiply by the conjugate.",
+                "Special limits include: lim(x→0) sin(x)/x = 1 (a fundamental trigonometric limit) and lim(x→∞) (1 + 1/x)^x = e (the definition of the number e). These limits connect different areas of mathematics in elegant and unexpected ways."
+            ]
+        },
+        {
+            "heading": "One-Sided Limits",
+            "paragraphs": [
+                "A one-sided limit describes the behavior of a function as x approaches c from one direction only. The left-hand limit, lim(x→c⁻) f(x), considers only values of x less than c. The right-hand limit, lim(x→c⁺) f(x), considers only values of x greater than c.",
+                "The two-sided limit lim(x→c) f(x) exists if and only if both one-sided limits exist and are equal. If lim(x→c⁻) f(x) ≠ lim(x→c⁺) f(x), then the two-sided limit does not exist, even though each one-sided limit may exist individually.",
+                "One-sided limits are essential for analyzing piecewise functions — functions defined by different formulas on different intervals. They also help us understand the behavior of functions near vertical asymptotes, where the function may approach +∞ from one side and -∞ from the other."
+            ]
+        },
+        {
+            "heading": "Limits at Infinity",
+            "paragraphs": [
+                "Limits at infinity describe the end behavior of functions — what happens as x grows without bound. lim(x→∞) f(x) = L means that as x becomes arbitrarily large, f(x) approaches L. If such a limit exists, y = L is a horizontal asymptote of the graph.",
+                "For rational functions p(x)/q(x): if the degree of p is less than the degree of q, the limit at infinity is 0. If the degrees are equal, the limit is the ratio of leading coefficients. If the degree of p exceeds the degree of q, the limit does not exist (the function grows without bound).",
+                "Limits at infinity formalize the concept of long-term behavior. In applied contexts, they answer questions like: 'What will the population approach eventually?' or 'What is the maximum concentration a drug will reach?' The concept of a limit — a value that is approached but perhaps never reached — is a powerful tool for understanding processes that unfold over time."
+            ]
+        },
+        {
+            "heading": "Continuity",
+            "paragraphs": [
+                "A function f(x) is continuous at x = c if three conditions are met: (1) f(c) is defined, (2) lim(x→c) f(x) exists, and (3) lim(x→c) f(x) = f(c). Informally, a function is continuous if you can draw its graph without lifting your pencil.",
+                "Most functions encountered in applications are continuous on their domains. Polynomial functions are continuous everywhere. Rational functions are continuous everywhere except at vertical asymptotes. Trigonometric functions are continuous on their domains.",
+                "Continuity is important because continuous functions are predictable — small changes in input produce small changes in output. This property, called stability, is essential for engineering and science. A bridge must respond continuously to loads; a small increase in weight should produce only a small increase in stress. The continuity of natural processes reflects the reliability and faithfulness of the Creator who sustains them."
+            ]
+        },
+        {
+            "heading": "The Gateway to Calculus",
+            "paragraphs": [
+                "Limits are the foundation upon which all of calculus is built. The derivative — the instantaneous rate of change — is defined as a limit: f'(x) = lim(h→0) [f(x+h) - f(x)]/h. The integral — the accumulation of quantities — is defined as a limit of sums. Infinite series convergence is determined by limits.",
+                "Calculus, built on limits, has been called 'the most powerful mathematical tool ever devised by the human mind.' It enables us to calculate the orbits of planets, design aircraft, model the spread of diseases, and optimize countless processes. All of this rests on the simple but profound idea of a limit.",
+                "As you complete your pre-calculus studies, you stand at the threshold of this remarkable mathematical framework. The God who created a universe of continuous change — flowing water, growing plants, moving planets, beating hearts — also created the mathematical tools to understand that change. In studying limits and preparing for calculus, you are equipping yourself to read the book of nature with ever-greater clarity and to appreciate the mathematical mind of the Creator with ever-deeper wonder."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the concept of a limit in your own words. Why is the limit lim(x→2) (x² - 4)/(x - 2) = 4, even though the function is undefined at x = 2?",
+            "guidance": "Focus on the distinction between the value of a function at a point and the behavior of a function near that point. Show the algebraic simplification that reveals the limit."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of continuity reflect the reliability and faithfulness of God's creation? Why is it important for natural processes to be continuous rather than discontinuous?",
+            "guidance": "Consider what would happen if small changes in input produced wild, unpredictable changes in output. Reflect on how the continuity of physical laws enables us to plan, build, and live with confidence."
+        },
+        {
+            "id": 3,
+            "question": "Paul describes the Christian life as 'pressing on toward the goal' (Philippians 3:14). How is this spiritual journey analogous to a mathematical limit — approaching a value with ever-increasing closeness? What does this metaphor teach us about spiritual growth?",
+            "guidance": "Consider how a limit involves continual approach without necessarily arriving. Reflect on how sanctification is a process of growing ever closer to Christlikeness, even though perfection is not fully reached in this life."
+        }
+    ]
+}

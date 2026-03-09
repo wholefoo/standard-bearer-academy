@@ -1,0 +1,76 @@
+{
+    "id": "parables",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: The Parables of Jesus",
+    "subtitle": "Stories with a Purpose — How Jesus Taught Eternal Truths",
+    "scripture": "Matthew 13; Luke 10, 15",
+    "primary_source": "The Parable of the Prodigal Son (Luke 15:11-32)",
+    "key_concepts": ["What a parable is", "The Parable of the Sower", "The Good Samaritan", "The Prodigal Son", "God's grace and mercy"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 13:34",
+                "text": "\"Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.\"",
+                "commentary": "Jesus used parables — earthly stories with heavenly meanings — as His primary teaching method. Parables revealed truth to those with open hearts while concealing it from those who refused to listen."
+            },
+            {
+                "reference": "Luke 15:7",
+                "text": "\"I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent.\"",
+                "commentary": "This verse from the parable of the lost sheep reveals the heart of God — He rejoices when even one person turns back to Him. God is not distant or indifferent; He actively seeks those who are lost."
+            },
+            {
+                "reference": "Luke 15:24",
+                "text": "\"'For this son of mine was dead and is alive again; he was lost and is found.' So they began to celebrate.\"",
+                "commentary": "In the Prodigal Son parable, the father represents God, and his joy at his son's return illustrates God's grace — He does not just tolerate repentant sinners, He celebrates their return with overwhelming love."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Parable?",
+            "paragraphs": [
+                "A parable is a short story that uses familiar, everyday situations to teach a spiritual truth. Jesus was the master storyteller — He used images of farming, fishing, family life, and daily work to communicate profound truths about the Kingdom of God. His parables were memorable, easy to retell, and packed with meaning.",
+                "Jesus explained to His disciples that parables served a dual purpose: they revealed truth to those whose hearts were open and ready to receive it, while hiding truth from those who had hardened their hearts against God. Understanding the parables requires not just intellectual knowledge but spiritual openness."
+            ]
+        },
+        {
+            "heading": "The Parable of the Sower: Four Responses to God's Word",
+            "paragraphs": [
+                "In one of His most important parables, Jesus described a farmer who scattered seed on four types of soil. The seed represents the Word of God, and the soils represent different kinds of hearts that hear it.",
+                "Some seed fell on the path and was eaten by birds — these are people who hear the Word but do not understand it, and Satan snatches it away. Some fell on rocky ground and sprang up quickly but died in the heat — people who receive the Word with joy but fall away when trouble comes. Some fell among thorns and was choked — people whose faith is strangled by worldly worries and the desire for wealth. But some seed fell on good soil and produced an abundant harvest — people who hear the Word, understand it, and live it out faithfully."
+            ]
+        },
+        {
+            "heading": "The Good Samaritan: Who Is My Neighbor?",
+            "paragraphs": [
+                "When a religious expert asked Jesus, 'Who is my neighbor?' Jesus told the story of a man attacked by robbers and left for dead on the road from Jerusalem to Jericho. A priest passed by without stopping. A Levite (a temple worker) did the same. But a Samaritan — a member of a despised ethnic group — stopped, bandaged the man's wounds, and paid for his care.",
+                "Jesus' point was revolutionary: your neighbor is anyone in need, regardless of race, social status, or whether you think they deserve help. True love for God shows itself in practical, sacrificial love for others — even those who are different from us. This parable challenges us to ask not 'Who is my neighbor?' but 'Am I being a neighbor to those in need?'"
+            ]
+        },
+        {
+            "heading": "The Prodigal Son: The Father's Lavish Grace",
+            "paragraphs": [
+                "Perhaps the most beloved of all Jesus' parables is the story of the Prodigal Son. A young man demanded his inheritance early, left home, and wasted everything on wild living. When he hit rock bottom — feeding pigs and starving — he came to his senses and decided to return to his father, hoping to be accepted as a servant.",
+                "But the father saw his son coming from a long way off, ran to meet him, embraced him, and threw a lavish celebration. He did not lecture him or punish him — he restored him completely as a son. This parable is a picture of God's grace: no matter how far we have wandered, God is watching and waiting, ready to welcome us back with open arms. The older brother's resentment in the story also warns us against self-righteousness — thinking we are too good for grace."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "In the Parable of the Sower, which type of soil do you think best describes your heart right now? What can you do to become 'good soil' that produces fruit?",
+            "guidance": "Be honest in your self-assessment. Think about what distracts you from God's Word — is it busyness, worry, peer pressure, or lack of understanding? Consider practical steps to cultivate a receptive heart."
+        },
+        {
+            "id": 2,
+            "question": "How does the Parable of the Good Samaritan challenge the way we think about who deserves our help? Can you think of a modern-day situation where this parable applies?",
+            "guidance": "Think about people in your school or community who are overlooked or mistreated. Consider how the parable challenges us to cross social boundaries to help others."
+        },
+        {
+            "id": 3,
+            "question": "In the Parable of the Prodigal Son, why is the father's response so surprising? What does this teach us about God's character and His attitude toward repentant sinners?",
+            "guidance": "Consider what the father did NOT do — he did not reject his son, demand an explanation, or require him to earn his way back. Think about how this reflects God's grace toward us."
+        }
+    ]
+}

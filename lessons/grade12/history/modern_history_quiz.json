@@ -1,0 +1,127 @@
+{
+    "id": "modern_history_quiz",
+    "title": "Modern World History Quiz",
+    "description": "Test your understanding of 20th and 21st century world history from a Christian perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What four factors are commonly identified as the main causes of World War I?",
+            "options": [
+                "Democracy, capitalism, Christianity, and colonialism",
+                "Militarism, Alliances, Imperialism, and Nationalism (MAIN)",
+                "Communism, Fascism, Nazism, and Anarchism",
+                "Trade disputes, religious wars, ethnic conflicts, and border disputes"
+            ],
+            "correct": 1,
+            "explanation": "The four main causes of World War I are Militarism (arms races), Alliances (entangling treaty obligations), Imperialism (competition for colonies), and Nationalism (extreme devotion to national glory). Each of these reflected a departure from Biblical principles of justice and humility."
+        },
+        {
+            "id": 2,
+            "question": "What was the primary consequence of the Treaty of Versailles' harsh treatment of Germany?",
+            "options": [
+                "It brought lasting peace to Europe for centuries",
+                "It strengthened democratic institutions in Germany permanently",
+                "It created resentment and economic hardship that fueled the rise of Hitler and Nazism",
+                "It had no significant impact on future events"
+            ],
+            "correct": 2,
+            "explanation": "The Treaty of Versailles imposed harsh reparations, territorial losses, and the 'war guilt' clause on Germany. This created the economic devastation and national humiliation that Hitler exploited to rise to power, demonstrating how pursuing revenge rather than justice leads to greater conflict."
+        },
+        {
+            "id": 3,
+            "question": "According to Aleksandr Solzhenitsyn, what was the root cause of Soviet tyranny?",
+            "options": [
+                "Insufficient government funding for social programs",
+                "The failure of capitalism to provide for the poor",
+                "That 'men have forgotten God' — the rejection of transcendent moral truth",
+                "Russia's geographic isolation from Western Europe"
+            ],
+            "correct": 2,
+            "explanation": "Solzhenitsyn, a Christian who survived the Soviet prison camps, argued that the fundamental cause of Soviet evil was the rejection of God. When a society abandons transcendent moral truth, there is no limit to the evil it can inflict."
+        },
+        {
+            "id": 4,
+            "question": "How does the Holocaust demonstrate the consequences of denying the Biblical doctrine that all humans are made in God's image?",
+            "options": [
+                "It has no connection to theological questions",
+                "When human dignity depends on race or utility rather than creation by God, certain groups can be deemed unworthy of life",
+                "The Holocaust was caused entirely by economic factors",
+                "The doctrine of the image of God has no relevance to political ethics"
+            ],
+            "correct": 1,
+            "explanation": "The Holocaust — the murder of six million Jews — was the logical conclusion of an ideology that denied the image of God in certain peoples. When human dignity is not grounded in creation by God, it can be denied to any group that those in power deem unworthy."
+        },
+        {
+            "id": 5,
+            "question": "What was the significance of Winston Churchill's leadership during World War II?",
+            "options": [
+                "He negotiated a peace treaty with Hitler that ended the war early",
+                "He rallied the British people to resist Nazi tyranny when Britain stood alone, recognizing the war as a moral struggle",
+                "He remained neutral throughout the conflict",
+                "He focused exclusively on economic recovery rather than military resistance"
+            ],
+            "correct": 1,
+            "explanation": "Churchill's defiant leadership during Britain's darkest hours — captured in speeches like 'We Shall Fight on the Beaches' — rallied a nation to resist Nazi tyranny. Churchill recognized the war as a moral struggle, declaring that failure would mean the world sinking 'into the abyss of a new dark age.'"
+        },
+        {
+            "id": 6,
+            "question": "Why did Ronald Reagan call the Soviet Union an 'evil empire' in his 1983 speech?",
+            "options": [
+                "As a diplomatic tactic with no sincere conviction behind it",
+                "Because he believed the Cold War was fundamentally a moral struggle between freedom and totalitarian atheism",
+                "Because he wanted to start a nuclear war with the Soviets",
+                "Because he had no understanding of Soviet society"
+            ],
+            "correct": 1,
+            "explanation": "Reagan rejected the idea of 'moral equivalence' between the US and USSR, arguing that the Cold War was a moral struggle between freedom and tyranny, belief in God and militant atheism. His moral clarity, combined with strategic strength, contributed to the eventual collapse of the Soviet system."
+        },
+        {
+            "id": 7,
+            "question": "What role did the Catholic Church and Christian faith play in the fall of Communism in Poland?",
+            "options": [
+                "No significant role — the collapse was purely economic",
+                "The Church supported the Communist government throughout",
+                "Pope John Paul II inspired the Solidarity movement, and faith provided moral authority and courage that the regime could not control",
+                "The Church discouraged political resistance of any kind"
+            ],
+            "correct": 2,
+            "explanation": "Pope John Paul II's visit to Poland in 1979 inspired millions, and the Solidarity movement — rooted in Catholic social teaching — became the first independent labor movement in the Communist bloc. Faith provided an alternative source of authority, meaning, and moral courage that the totalitarian state could not suppress."
+        },
+        {
+            "id": 8,
+            "question": "What event on September 11, 2001, fundamentally changed American foreign policy and national security?",
+            "options": [
+                "A major economic recession caused by stock market collapse",
+                "Terrorist attacks that destroyed the World Trade Center and struck the Pentagon, killing nearly 3,000 people",
+                "The signing of a major international trade agreement",
+                "A natural disaster that devastated the East Coast"
+            ],
+            "correct": 1,
+            "explanation": "The September 11 terrorist attacks killed nearly 3,000 people and shattered America's post-Cold War sense of security. The attacks led to the War on Terror, including wars in Afghanistan and Iraq, and raised profound questions about the balance between security and liberty."
+        },
+        {
+            "id": 9,
+            "question": "What does Isaiah 40:23-24 teach about God's sovereignty over nations and empires?",
+            "options": [
+                "That God has no interest in political affairs",
+                "That all empires will last forever if they are powerful enough",
+                "That God brings rulers to naught and reduces them to nothing — no human empire endures against His purposes",
+                "That only democratic governments receive God's blessing"
+            ],
+            "correct": 2,
+            "explanation": "Isaiah declares that God 'brings princes to naught and reduces the rulers of this world to nothing.' The sudden collapse of seemingly invincible empires — including the Soviet Union — demonstrates that no human power can endure when it defies God's purposes."
+        },
+        {
+            "id": 10,
+            "question": "According to Jeremiah 29:7, what is the Christian's responsibility toward the culture in which they live?",
+            "options": [
+                "To withdraw completely from public life and focus only on spiritual matters",
+                "To seek the peace and prosperity of the city, praying for it and working for the common good",
+                "To overthrow the government and establish a theocracy",
+                "To conform to whatever the dominant culture demands"
+            ],
+            "correct": 1,
+            "explanation": "Jeremiah instructs God's people to 'seek the peace and prosperity of the city' where they live, even when that culture is hostile to their faith. Christians are called to engage constructively with their society — working for the common good while maintaining faithfulness to God's truth."
+        }
+    ]
+}

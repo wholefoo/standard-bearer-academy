@@ -1,0 +1,76 @@
+{
+    "id": "american_founding",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: The American Founding",
+    "subtitle": "One Nation Under God — The Declaration, the Constitution, and the Bill of Rights",
+    "scripture": "Proverbs 14:34; 2 Corinthians 3:17",
+    "primary_source": "The Declaration of Independence (1776)",
+    "key_concepts": ["The Declaration of Independence", "God-given rights", "The Constitution and separation of powers", "The Bill of Rights", "Government by the consent of the governed"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 14:34",
+                "text": "\"Righteousness exalts a nation, but sin is a disgrace to any people.\"",
+                "commentary": "The American Founders understood this principle deeply. They believed that a nation built on righteous principles — respect for God, protection of individual rights, and moral virtue — would be blessed, while a nation that abandons these principles would decline."
+            },
+            {
+                "reference": "2 Corinthians 3:17",
+                "text": "\"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.\"",
+                "commentary": "The Founders believed that true freedom comes from God. The liberty they sought to protect was not freedom to do whatever one pleases, but freedom to do what is right — ordered liberty under God's moral law."
+            },
+            {
+                "reference": "Jeremiah 17:9",
+                "text": "\"The heart is deceitful above all things and beyond cure. Who can understand it?\"",
+                "commentary": "The Founders' decision to divide government power into three branches reflects the biblical understanding of human sinfulness. Because no person can be trusted with unlimited power, power must be divided and checked."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Declaration of Independence: Rights from the Creator",
+            "paragraphs": [
+                "On July 4, 1776, the American colonies declared their independence from Great Britain with a document that would change the world. The Declaration of Independence, written primarily by Thomas Jefferson, begins with one of the most powerful statements in political history: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.'",
+                "Notice the source of these rights: they come from 'the Creator' — not from the king, not from Parliament, not from government at all. This is a profoundly biblical idea. If rights come from God, then no government can legitimately take them away. If rights come from government, then government can also revoke them at will. The entire American system of liberty rests on this foundational claim."
+            ]
+        },
+        {
+            "heading": "The Constitution: Dividing Power to Protect Freedom",
+            "paragraphs": [
+                "After winning independence, the Founders faced the challenge of creating a new government. They had learned from history — from ancient Rome, from the Magna Carta, from the Reformation — that power concentrated in one person or group always leads to tyranny. So they designed a Constitution that deliberately divided power.",
+                "The Constitution created three branches of government: the Legislative Branch (Congress) to make laws, the Executive Branch (the President) to enforce laws, and the Judicial Branch (the courts) to interpret laws. Each branch has the ability to check and balance the others. This system of checks and balances reflects the biblical understanding that fallen human beings cannot be trusted with unlimited power."
+            ]
+        },
+        {
+            "heading": "The Bill of Rights: Protecting the Individual",
+            "paragraphs": [
+                "Many Americans worried that the new Constitution did not sufficiently protect individual liberties. In response, the first ten amendments — known as the Bill of Rights — were added in 1791. These amendments protect specific freedoms including religion, speech, the press, assembly, the right to bear arms, and protection from unreasonable searches and unfair trials.",
+                "The First Amendment is especially important: 'Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof.' This protects both religious freedom and the separation of church and state — not to keep God out of government, but to keep government out of the church. The Founders wanted to prevent the kind of government-controlled religion that had caused so much persecution in Europe."
+            ]
+        },
+        {
+            "heading": "A Republic, Not a Democracy: Government Under Law",
+            "paragraphs": [
+                "When asked what kind of government the Constitutional Convention had created, Benjamin Franklin reportedly answered, 'A republic, if you can keep it.' The Founders deliberately chose a republic — a government of elected representatives bound by a written constitution and the rule of law — rather than a pure democracy, which they feared would lead to mob rule.",
+                "The American system is built on the principle that there are certain things government may never do, regardless of how many people vote for them. The rights protected in the Bill of Rights cannot be taken away by majority vote. This reflects the biblical principle that God's moral law stands above all human opinion and that the rights God has given are truly unalienable. The great American experiment is, at its heart, an attempt to build a government on biblical principles of justice, liberty, and accountability before God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did the Declaration of Independence say that rights come from 'the Creator'? What difference does it make whether rights come from God or from government?",
+            "guidance": "Think about the practical implications: if the government gives you your rights, the government can also take them away. If God gives you your rights, no government has the authority to remove them."
+        },
+        {
+            "id": 2,
+            "question": "Why did the Founders divide government power into three branches? How does this system reflect the biblical teaching about human sinfulness?",
+            "guidance": "Consider Jeremiah 17:9 and the Founders' understanding that no one can be trusted with too much power. Think about how checks and balances prevent tyranny."
+        },
+        {
+            "id": 3,
+            "question": "What did Benjamin Franklin mean when he said the Founders had created 'a republic, if you can keep it'? What is required of citizens to maintain a free republic?",
+            "guidance": "Think about the responsibilities that come with freedom: moral virtue, informed citizenship, participation in government, and commitment to the rule of law. Consider why the Founders believed a free republic requires a moral and religious people."
+        }
+    ]
+}

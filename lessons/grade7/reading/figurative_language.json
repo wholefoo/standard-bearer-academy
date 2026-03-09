@@ -1,0 +1,77 @@
+{
+    "id": "figurative_language",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Figurative Language",
+    "subtitle": "Simile, Metaphor, and Imagery — Painting Pictures with Words",
+    "scripture": "Psalm 18:2",
+    "key_concepts": ["Simile", "Metaphor", "Personification", "Hyperbole", "Imagery and sensory language"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 18:2",
+                "text": "\"The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.\"",
+                "commentary": "David uses a chain of metaphors to describe God — rock, fortress, shield, stronghold. God is not literally a rock, but the metaphor communicates strength, stability, and protection more powerfully than literal language could."
+            },
+            {
+                "reference": "Matthew 5:13-14",
+                "text": "\"You are the salt of the earth... You are the light of the world.\"",
+                "commentary": "Jesus frequently used figurative language. By calling His followers 'salt' and 'light,' He communicated complex truths about influence and witness in vivid, memorable images."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Figurative Language?",
+            "paragraphs": [
+                "Figurative language uses words in non-literal ways to create vivid images, make comparisons, and convey meaning that plain language cannot easily express. When the psalmist says 'The LORD is my shepherd,' he does not mean God literally tends sheep — he means God guides, provides for, and protects him the way a shepherd cares for his flock.",
+                "The Bible is rich with figurative language. Jesus taught in parables, the prophets used vivid imagery, and the Psalms overflow with metaphor and simile. Understanding figurative language is essential for reading Scripture well and for becoming a more expressive writer and speaker."
+            ]
+        },
+        {
+            "heading": "Simile and Metaphor",
+            "paragraphs": [
+                "A simile compares two unlike things using 'like' or 'as.' 'He is as strong as an ox' and 'Her voice was like honey' are similes. The comparison helps us understand one thing by relating it to something familiar.",
+                "A metaphor makes a direct comparison without 'like' or 'as.' 'The LORD is my rock' is a metaphor — it says God is a rock, not that He is like a rock. Metaphors are generally stronger and more vivid than similes because they assert identity rather than similarity. Both devices appear throughout Scripture and great literature."
+            ]
+        },
+        {
+            "heading": "Personification and Hyperbole",
+            "paragraphs": [
+                "Personification gives human qualities to non-human things. 'The trees clap their hands' (Isaiah 55:12) and 'The mountains sang together for joy' (Psalm 98:8) are Biblical examples. Personification brings creation to life on the page and emphasizes the idea that all creation praises God.",
+                "Hyperbole is deliberate exaggeration for emphasis. When Jesus said, 'It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God' (Matthew 19:24), He used hyperbole to make a powerful point about the dangers of trusting wealth. Hyperbole is not lying — it is an accepted literary device that both speaker and listener understand as exaggeration."
+            ]
+        },
+        {
+            "heading": "Imagery and Sensory Language",
+            "paragraphs": [
+                "Imagery is language that appeals to the five senses: sight, sound, smell, taste, and touch. Good imagery helps readers see, hear, and feel what the writer describes. 'The cool water rushed over smooth stones' appeals to touch, sound, and sight simultaneously.",
+                "The Song of Solomon is filled with sensory imagery: gardens, spices, wine, lilies, and doves. Revelation uses vivid visual imagery — streets of gold, a sea of glass, a city descending from heaven. When writers engage the senses, they create experiences rather than just conveying information."
+            ]
+        },
+        {
+            "heading": "Recognizing and Using Figurative Language",
+            "paragraphs": [
+                "Skilled readers recognize figurative language and interpret it correctly. When Jesus says 'I am the bread of life' (John 6:35), we understand this is a metaphor, not a literal statement. Context, audience, and literary form help us determine when language is figurative.",
+                "Skilled writers use figurative language intentionally to make their writing more powerful. Instead of writing 'The sunset was beautiful,' try 'The sky blazed with molten gold and crimson, as if heaven itself were on fire.' Figurative language transforms ordinary writing into something vivid and memorable."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Psalm 18:1-6. Identify at least three examples of figurative language and classify each as simile, metaphor, personification, or hyperbole. Explain what each figure of speech communicates about God.",
+            "guidance": "Look for comparisons (with or without 'like/as'), human qualities given to non-human things, and deliberate exaggeration."
+        },
+        {
+            "id": 2,
+            "question": "Why did Jesus often teach using figurative language (parables, metaphors) rather than plain, direct statements? What advantages does figurative language have for teaching spiritual truths?",
+            "guidance": "Consider how stories and images engage the imagination, are easier to remember, and invite the listener to think deeply."
+        },
+        {
+            "id": 3,
+            "question": "Write a short paragraph (4-5 sentences) describing a storm, using at least one simile, one metaphor, and one example of personification. Label each device.",
+            "guidance": "Think about what a storm looks like, sounds like, and feels like. Compare it to something unexpected. Give the wind or clouds human actions."
+        }
+    ]
+}

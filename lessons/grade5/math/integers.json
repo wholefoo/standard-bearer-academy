@@ -1,0 +1,20 @@
+{
+    "id": "integers",
+    "lesson_number": 5,
+    "title": "Understanding Integers — Numbers Above and Below Zero",
+    "scripture": "Psalm 139:8",
+    "memory_verse": "\"If I go up to the heavens, you are there; if I make my bed in the depths, you are there.\" — Psalm 139:8 (NIV)",
+    "objective": "Students will understand positive and negative integers and how to compare and order them on a number line.",
+    "content": [
+        "Integers are whole numbers that can be positive, negative, or zero. Positive integers (1, 2, 3, ...) are numbers greater than zero. Negative integers (-1, -2, -3, ...) are numbers less than zero.",
+        "We use negative numbers in everyday life: temperatures below zero, depths below sea level, and owing money. If the temperature is -5°F, it is 5 degrees below zero — very cold!",
+        "On a number line, negative numbers are to the left of zero and positive numbers are to the right. The further left you go, the smaller the number: -10 is less than -3.",
+        "Just as God is present in the highest heavens and the deepest depths, numbers extend in both directions from zero. God's creation has no limits, and neither does the number line He designed."
+    ],
+    "activity": "Draw a large number line from -10 to 10. Place these integers on it: -7, 3, -2, 8, 0, -5, 6. Then list them in order from least to greatest. Write a real-world example for each negative number.",
+    "discussion": [
+        "Where do you see negative numbers in everyday life?",
+        "Is -1 greater or less than -10? How do you know?",
+        "Why is zero neither positive nor negative?"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "science",
+    "title": "Astronomy — The Heavens Declare God's Glory",
+    "description": "Explore the wonders of God's universe — from the sun and moon to distant stars and galaxies — and see how the heavens declare the glory of their Creator.",
+    "units": [
+        {
+            "id": "astronomy",
+            "title": "The Heavens Declare God's Glory",
+            "lessons": ["sun", "moon", "planets", "stars", "galaxies", "space_exploration"]
+        }
+    ],
+    "quiz_id": "astronomy_quiz"
+}

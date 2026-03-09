@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "bible",
+    "title": "Kings and Prophets — God's Faithful Servants",
+    "description": "Study the kings and prophets of Israel and Judah, learning how God remained faithful even when His people turned away.",
+    "units": [
+        {
+            "id": "kings_prophets",
+            "title": "Kings and Prophets of Israel",
+            "lessons": ["king_saul", "king_david", "king_solomon", "divided_kingdom", "elijah", "josiah"]
+        }
+    ],
+    "quiz_id": "bible_quiz"
+}

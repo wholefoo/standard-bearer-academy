@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "math",
+    "title": "Fractions and Decimals — Parts of God's Whole",
+    "description": "Learn how fractions and decimals help us understand parts of a whole, and see God's order and precision reflected in mathematics.",
+    "units": [
+        {
+            "id": "fractions_decimals",
+            "title": "Fractions and Decimals",
+            "lessons": ["intro_fractions", "equivalent_fractions", "comparing_fractions", "adding_fractions", "intro_decimals", "decimals_fractions"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

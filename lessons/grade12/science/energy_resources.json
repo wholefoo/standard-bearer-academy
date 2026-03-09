@@ -1,0 +1,87 @@
+{
+    "id": "energy_resources",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Energy Resources",
+    "subtitle": "Using God's Provision Wisely",
+    "scripture": "Genesis 1:28",
+    "primary_source": "The Industrial Revolution — Energy, Progress, and Stewardship",
+    "key_concepts": ["Renewable vs. nonrenewable energy", "Fossil fuels and their formation", "Solar, wind, and hydroelectric energy", "Nuclear energy", "Energy stewardship and human flourishing"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'\"",
+                "commentary": "God commanded humanity to subdue the earth — to develop its resources for human benefit. Energy development is part of fulfilling this mandate, enabling human flourishing, reducing poverty, and improving quality of life."
+            },
+            {
+                "reference": "Proverbs 31:17-18",
+                "text": "\"She sets about her work vigorously; her arms are strong for her tasks. She sees that her trading is profitable, and her lamp does not go out at night.\"",
+                "commentary": "The virtuous woman of Proverbs uses resources productively and ensures her household has light and energy. This passage illustrates the principle that wise resource use — including energy — is a virtue, not a vice."
+            },
+            {
+                "reference": "Matthew 25:14-30",
+                "text": "The Parable of the Talents",
+                "commentary": "Jesus' parable teaches that God expects us to develop and multiply the resources He has given us, not to bury them unused. This principle applies directly to energy resources: we are called to develop them wisely, not to leave them untouched out of fear."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Energy: The Foundation of Modern Life",
+            "paragraphs": [
+                "Energy is the capacity to do work, and access to reliable, affordable energy is essential for human flourishing. Energy powers homes, hospitals, schools, and industries. It enables food production, clean water treatment, transportation, and communication. Throughout history, advances in energy production have correlated directly with improvements in human health, longevity, and prosperity.",
+                "Energy resources are classified as either nonrenewable (finite supplies that are depleted over time) or renewable (naturally replenished on human timescales). Both categories are gifts from the Creator, placed in the earth for human benefit and development."
+            ]
+        },
+        {
+            "heading": "Fossil Fuels: Coal, Oil, and Natural Gas",
+            "paragraphs": [
+                "Fossil fuels — coal, petroleum (oil), and natural gas — currently provide approximately 80% of the world's energy. These resources are the remains of ancient organisms buried under layers of sediment and transformed by heat and pressure over time. From a Biblical perspective, much of these deposits may have been formed during and after the global Flood described in Genesis 6-9, when vast quantities of organic material were rapidly buried.",
+                "Coal forms from the remains of ancient plant material in swamp environments. Oil and natural gas form from marine organisms buried in sedimentary rock. These resources are concentrated in specific geological formations, and their extraction involves mining (coal) or drilling (oil and gas).",
+                "Fossil fuels are energy-dense, reliable, and transportable — qualities that have made them the backbone of modern industrial civilization. However, their combustion releases carbon dioxide, sulfur dioxide, and other emissions. Advances in technology have dramatically reduced many of these emissions; modern natural gas plants, for example, produce far fewer pollutants than older coal-fired plants."
+            ]
+        },
+        {
+            "heading": "Renewable Energy Sources",
+            "paragraphs": [
+                "Solar energy harnesses the Sun's radiation using photovoltaic cells or concentrated solar power systems. The Sun delivers more energy to Earth in one hour than humanity uses in an entire year, but capturing and storing this energy at scale presents significant engineering challenges, including intermittency (the Sun doesn't always shine) and the need for large land areas.",
+                "Wind energy uses turbines to convert the kinetic energy of moving air into electricity. Wind power has grown rapidly, but like solar, it is intermittent and location-dependent. Wind farms require significant land area and can affect bird and bat populations.",
+                "Hydroelectric power generates electricity from flowing water, typically by damming rivers. It is one of the most reliable and efficient renewable sources, but dam construction can significantly alter river ecosystems and displace communities. Other renewable sources include geothermal energy (heat from Earth's interior) and biomass (organic material burned or converted to fuel)."
+            ]
+        },
+        {
+            "heading": "Nuclear Energy",
+            "paragraphs": [
+                "Nuclear energy generates electricity through nuclear fission — splitting heavy atomic nuclei (typically uranium-235) to release enormous amounts of energy. A single nuclear fuel pellet (about the size of a pencil eraser) contains as much energy as one ton of coal, making nuclear energy extraordinarily energy-dense.",
+                "Nuclear power plants produce no direct carbon emissions during operation and provide reliable baseload power. However, concerns include radioactive waste disposal, the risk of accidents (such as Chernobyl in 1986 and Fukushima in 2011), and the high cost of construction.",
+                "Nuclear energy illustrates the remarkable potential God placed within the atom. Understanding and safely harnessing nuclear reactions is a triumph of human ingenuity that reflects our God-given capacity to subdue and develop the earth's resources."
+            ]
+        },
+        {
+            "heading": "Energy Policy and Biblical Stewardship",
+            "paragraphs": [
+                "Energy policy decisions involve complex trade-offs between reliability, affordability, environmental impact, and human well-being. A Biblical framework prioritizes human flourishing while exercising responsible stewardship of God's creation.",
+                "Access to affordable, reliable energy is a moral issue. Approximately 675 million people worldwide lack access to electricity, and billions more rely on wood and dung for cooking, leading to indoor air pollution that causes millions of premature deaths annually. Policies that raise energy costs disproportionately harm the poor.",
+                "Wise stewardship means developing all available energy resources responsibly, investing in technological innovation, and ensuring that energy policies serve human welfare. Christians should advocate for energy solutions that reduce genuine pollution, expand access for the poor, and respect both creation and the Creator's mandate for human development."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Parable of the Talents (Matthew 25:14-30) apply to energy resource development? What does this parable teach about the balance between development and conservation?",
+            "guidance": "Consider the master's expectation that the servants would develop and multiply what they were given. How does this principle apply to natural resources?"
+        },
+        {
+            "id": 2,
+            "question": "Compare the advantages and disadvantages of fossil fuels and renewable energy sources. Why is it important to consider reliability, affordability, and environmental impact together rather than in isolation?",
+            "guidance": "Think about the trade-offs involved in each energy source and why no single source is perfect. Consider how energy poverty affects the world's poorest people."
+        },
+        {
+            "id": 3,
+            "question": "Why is access to affordable energy a moral issue? How should Christians think about energy policy in light of the command to love our neighbors?",
+            "guidance": "Consider the connection between energy access and human health, economic opportunity, and quality of life, especially in developing nations."
+        }
+    ]
+}

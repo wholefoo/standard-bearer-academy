@@ -1,0 +1,77 @@
+{
+    "id": "persuasive_writing",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Persuasive Writing",
+    "subtitle": "Making a Case — Argument, Evidence, and Conviction",
+    "scripture": "1 Peter 3:15",
+    "key_concepts": ["Claim and thesis", "Evidence and reasoning", "Logical fallacies", "Counterarguments", "Persuasion in Scripture"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Peter 3:15",
+                "text": "\"But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.\"",
+                "commentary": "Peter calls Christians to be persuasive — to give reasons for their faith. Persuasive writing and speaking are not worldly tricks; they are skills God expects His people to develop so they can defend truth with clarity and grace."
+            },
+            {
+                "reference": "Acts 17:2-4",
+                "text": "\"As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures, explaining and proving that the Messiah had to suffer and rise from the dead.\"",
+                "commentary": "Paul was a master persuader. He reasoned, explained, and proved his case using evidence from Scripture. He adapted his arguments to his audience. His example shows that persuasion is a tool for advancing truth."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Art of Persuasion",
+            "paragraphs": [
+                "Persuasive writing aims to convince the reader to accept a particular position or take a specific action. It is one of the most important forms of writing because it shapes opinions, influences decisions, and advances ideas. From courtroom arguments to editorial pages, from sermons to political debates, persuasion is everywhere.",
+                "Christians have a special responsibility to be persuasive. We are called to defend the faith (1 Peter 3:15), contend for the truth (Jude 1:3), and reason with those who disagree (Acts 17). Developing persuasive writing skills equips us to be effective ambassadors for Christ."
+            ]
+        },
+        {
+            "heading": "Claim and Thesis",
+            "paragraphs": [
+                "Every persuasive piece begins with a claim — a statement of the position the writer wants to defend. A strong claim is specific, debatable, and significant. 'The speed limit should be raised' is a claim. 'Speed limits exist' is not — it is a fact, not a position.",
+                "The thesis statement is the main claim of an essay, usually stated in the introduction. It tells the reader exactly what you will argue. A good thesis is clear and direct: 'American students should be required to study the Constitution because understanding our founding principles is essential for responsible citizenship.' Every paragraph in the essay should support this thesis."
+            ]
+        },
+        {
+            "heading": "Evidence and Reasoning",
+            "paragraphs": [
+                "A claim without evidence is just an opinion. Strong persuasive writing supports every claim with evidence: facts, statistics, expert testimony, examples, historical precedents, and logical reasoning. The more credible and relevant your evidence, the more convincing your argument.",
+                "Reasoning is the logical connection between your evidence and your claim. It explains why the evidence supports your position. Paul modeled this in Acts 17 when he did not just assert that Jesus was the Messiah — he reasoned from the Scriptures, showing how prophecies were fulfilled. Evidence without reasoning is a pile of facts; reasoning without evidence is empty assertion."
+            ]
+        },
+        {
+            "heading": "Logical Fallacies to Avoid",
+            "paragraphs": [
+                "A logical fallacy is an error in reasoning that weakens an argument. Common fallacies include: ad hominem (attacking the person rather than the argument), straw man (misrepresenting the opponent's position), appeal to emotion (substituting feelings for evidence), bandwagon (arguing something is true because many people believe it), and false dilemma (presenting only two options when more exist).",
+                "Recognizing fallacies helps you evaluate arguments you encounter and avoid them in your own writing. A Christian commitment to truth means we should never rely on deceptive reasoning, even to advance a good cause. Our arguments should be honest, fair, and logically sound."
+            ]
+        },
+        {
+            "heading": "Addressing Counterarguments",
+            "paragraphs": [
+                "Strong persuasive writing acknowledges and responds to opposing viewpoints. This is called addressing counterarguments. Rather than ignoring objections, a skilled writer states the opposing view fairly, then explains why it is incorrect or insufficient.",
+                "Addressing counterarguments actually strengthens your position. It shows that you have considered other perspectives and still find your argument more compelling. It also demonstrates intellectual honesty and respect for your audience — qualities that 1 Peter 3:15 emphasizes when it calls for 'gentleness and respect.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Paul's speech in Acts 17:22-31. Identify his claim, at least two pieces of evidence or reasoning he uses, and how he adapts his argument for a non-Jewish audience. What can we learn from his approach?",
+            "guidance": "Notice how Paul starts with common ground (the altar to an unknown god), uses their own poets as evidence, and builds to the resurrection. He is persuasive without being aggressive."
+        },
+        {
+            "id": 2,
+            "question": "Identify a logical fallacy in this statement: 'Everyone at school thinks this rule is unfair, so it must be wrong.' Name the fallacy and explain why it weakens the argument. How could the argument be made stronger?",
+            "guidance": "This is the bandwagon fallacy — popularity does not equal correctness. A stronger argument would provide reasons why the rule is unfair, with specific evidence."
+        },
+        {
+            "id": 3,
+            "question": "Write a thesis statement and one supporting paragraph for a persuasive essay on a topic you care about. Include a claim, evidence, and reasoning. Then write one sentence acknowledging a counterargument.",
+            "guidance": "Choose a topic you can support with facts, not just feelings. Make sure your evidence logically connects to your claim."
+        }
+    ]
+}

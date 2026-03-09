@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "history",
+    "title": "Our Country — America the Beautiful",
+    "description": "Learn about our beautiful country, its flag, its heroes, and the God who blessed America!",
+    "units": [
+        {
+            "id": "america_beautiful",
+            "title": "America the Beautiful",
+            "lessons": ["our_flag", "george_washington", "thanksgiving", "liberty_bell", "america_song"]
+        }
+    ],
+    "quiz_id": "history_quiz"
+}

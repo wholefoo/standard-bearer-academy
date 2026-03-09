@@ -1,0 +1,79 @@
+{
+    "id": "biblical_justice",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "The Biblical Foundation of Justice",
+    "subtitle": "God's Moral Law as the Basis for All Human Law",
+    "scripture": "Micah 6:8; Deuteronomy 16:18-20",
+    "primary_source": "The Declaration of Independence (1776) — 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.'",
+    "key_concepts": ["Justice as a divine attribute", "Natural law and moral law", "God-given rights", "The basis of human law in divine law", "Equality before the law"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "This verse summarizes God's requirements for His people in three interconnected commands. Justice, mercy, and humility before God are inseparable — true justice must be tempered by mercy, and both must be grounded in humble submission to God's authority."
+            },
+            {
+                "reference": "Deuteronomy 16:20",
+                "text": "\"Follow justice and justice alone, so that you may live and possess the land the LORD your God is giving you.\"",
+                "commentary": "God commanded Israel to pursue justice as a fundamental obligation. The repetition — 'justice and justice alone' — emphasizes that justice must not be compromised by bribery, favoritism, or political pressure. This standard shaped the American founders' commitment to equal justice under law."
+            },
+            {
+                "reference": "Proverbs 29:4",
+                "text": "\"By justice a king gives a country stability, but those who are greedy for bribes tear it down.\"",
+                "commentary": "This proverb teaches that justice is essential for national stability. When leaders administer justice fairly, society flourishes. When corruption and injustice prevail, society crumbles. This principle is as true today as when Solomon wrote it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Justice?",
+            "paragraphs": [
+                "Justice is one of the most frequently discussed concepts in modern society, but its meaning is often confused or distorted. From a Biblical perspective, justice means rendering to each person what is due to them according to God's moral standard. It is not primarily a human invention but a reflection of God's own character — God Himself is just (Deuteronomy 32:4), and He commands human beings and institutions to reflect His justice.",
+                "The Bible distinguishes between different aspects of justice. Retributive justice involves punishing wrongdoing — ensuring that those who break the law face appropriate consequences. Distributive justice involves treating people fairly and impartially. Restorative justice involves making things right when injustice has been done. All of these flow from God's character and His revealed moral law."
+            ]
+        },
+        {
+            "heading": "Natural Law: The Law Written on Every Heart",
+            "paragraphs": [
+                "The Apostle Paul wrote that God's moral law is written on every human heart, so that 'even Gentiles, who do not have the law, do by nature things required by the law' (Romans 2:14-15). This concept — that there is a universal moral law accessible to all people through conscience and reason — is known as 'natural law.'",
+                "The American founders drew heavily on natural law theory. The Declaration of Independence appeals to 'the Laws of Nature and of Nature's God' as the basis for the colonies' right to independence. Thomas Jefferson, drawing on the natural law tradition rooted in Biblical theology, argued that certain rights — life, liberty, and the pursuit of happiness — are not granted by government but are 'endowed by their Creator.'",
+                "This is a crucial distinction: if rights come from God, then no government can legitimately take them away. If rights come from government, then government can redefine or revoke them at will. The Biblical view that justice is grounded in God's unchanging moral law provides the strongest possible foundation for human rights and liberties."
+            ]
+        },
+        {
+            "heading": "Equality Before the Law",
+            "paragraphs": [
+                "One of the most revolutionary ideas in the Biblical view of justice is that all people are equal before the law. God commanded Israel: 'Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly' (Leviticus 19:15). Justice must be blind to a person's wealth, status, or influence.",
+                "This principle was radical in the ancient world, where the powerful typically operated above the law. It profoundly influenced the development of Western legal systems, particularly the American commitment to 'equal justice under law' — the words inscribed above the entrance to the Supreme Court.",
+                "True equality before the law does not mean that all outcomes must be equal, but that all people must be judged by the same standard. The Biblical vision of justice protects both the poor from oppression and the wealthy from unfair targeting. Justice is impartial because God Himself is impartial."
+            ]
+        },
+        {
+            "heading": "Why Biblical Justice Matters Today",
+            "paragraphs": [
+                "In a secular society, justice is often reduced to whatever the majority decides or whatever serves the interests of the powerful. But if justice is merely a social construct — a human invention that changes with culture — then there is no basis for saying that slavery was always wrong, that genocide is always evil, or that human dignity is always sacred.",
+                "The Biblical view provides what no secular theory can: an absolute, unchanging standard of justice rooted in the character of an absolute, unchanging God. When Martin Luther King Jr. argued for civil rights, he appealed not to popular opinion but to 'a higher law' — the law of God that declares all people equal because they are all made in His image.",
+                "As American citizens, we inherit a legal and political tradition deeply rooted in these Biblical principles. Understanding the divine foundation of justice equips us to think clearly about law, rights, and citizenship in an age of confusion."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does the source of justice matter? Compare what happens to human rights if justice comes from God versus if justice is merely a social construction.",
+            "guidance": "Consider: if there is no God and no natural law, on what basis can we say that slavery, genocide, or oppression are objectively wrong rather than simply culturally disapproved?"
+        },
+        {
+            "id": 2,
+            "question": "How does Micah 6:8 connect justice, mercy, and humility? Why are all three necessary, and what happens if you pursue one without the others?",
+            "guidance": "Think about what justice without mercy looks like (harsh legalism), what mercy without justice looks like (permissiveness), and why both require humility before God."
+        },
+        {
+            "id": 3,
+            "question": "How did the concept of natural law influence the Declaration of Independence? Why did the founders ground American rights in 'the Laws of Nature and of Nature's God' rather than in government itself?",
+            "guidance": "Consider the founders' fear of tyranny. If government grants rights, government can take them away. How does grounding rights in God's law protect against governmental abuse?"
+        }
+    ]
+}

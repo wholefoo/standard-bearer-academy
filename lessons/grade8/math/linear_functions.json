@@ -1,0 +1,72 @@
+{
+    "id": "linear_functions",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Linear Functions",
+    "subtitle": "Straight Lines — God's Consistent Patterns",
+    "scripture": "Malachi 3:6",
+    "key_concepts": ["Functions and relations", "Slope", "Slope-intercept form", "Graphing linear equations"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Malachi 3:6",
+                "text": "\"I the LORD do not change.\"",
+                "commentary": "A linear function has a constant rate of change — its slope never varies. This mathematical consistency mirrors the unchanging character of God. Just as a line maintains the same slope throughout, God's nature, promises, and character remain constant."
+            },
+            {
+                "reference": "James 1:17",
+                "text": "\"Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.\"",
+                "commentary": "God is not variable or unpredictable. His goodness follows a 'straight line' — consistent, reliable, and unchanging. Linear functions model this kind of predictable, faithful consistency."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Function?",
+            "paragraphs": [
+                "A function is a relationship between inputs and outputs where each input produces exactly one output. Think of a function as a machine: you put a number in, the function applies a rule, and one specific number comes out. If you input the same number, you always get the same result.",
+                "We write functions using notation like f(x) = 2x + 3. This means 'the function f takes an input x, doubles it, and adds 3.' So f(1) = 5, f(2) = 7, f(3) = 9, and so on. Functions can be represented as equations, tables of values, graphs, or verbal descriptions."
+            ]
+        },
+        {
+            "heading": "Understanding Slope",
+            "paragraphs": [
+                "The slope of a line measures its steepness and direction. Slope is defined as the ratio of the vertical change (rise) to the horizontal change (run) between any two points on the line: m = rise/run = (y₂ - y₁)/(x₂ - x₁).",
+                "A positive slope means the line rises from left to right. A negative slope means the line falls from left to right. A zero slope is a horizontal line, and an undefined slope is a vertical line. The slope of a linear function is constant — it has the same rate of change everywhere along the line.",
+                "Slope has practical meaning in real life. If a car travels at a constant speed of 60 miles per hour, the graph of distance vs. time is a straight line with a slope of 60. The slope tells you the rate of change — how quickly the output changes for each unit change in the input."
+            ]
+        },
+        {
+            "heading": "Slope-Intercept Form",
+            "paragraphs": [
+                "The slope-intercept form of a linear equation is y = mx + b, where m is the slope and b is the y-intercept (the point where the line crosses the y-axis). This form makes it easy to identify the key features of a line and graph it quickly.",
+                "For example, y = 2x + 3 has a slope of 2 (rises 2 units for every 1 unit to the right) and a y-intercept of 3 (crosses the y-axis at the point (0, 3)). To graph this line, start at (0, 3) and use the slope to plot additional points: from (0, 3), go up 2 and right 1 to reach (1, 5), then up 2 and right 1 to reach (2, 7)."
+            ]
+        },
+        {
+            "heading": "Graphing and Interpreting Linear Functions",
+            "paragraphs": [
+                "Graphing linear functions helps us visualize relationships and make predictions. Every linear function produces a straight line on a coordinate plane. The slope tells us the rate of change, and the y-intercept tells us the starting value.",
+                "Linear functions model many real-world situations: constant-speed travel, hourly wages, simple interest on savings, and temperature conversions. For example, if a plumber charges $50 for a service call plus $75 per hour, the total cost is modeled by C = 75h + 50, where h is the number of hours.",
+                "The beauty of linear functions is their predictability. Just as God's character is constant and reliable, linear functions maintain a steady, unchanging rate of change. This predictability allows us to plan, budget, and make wise decisions — an application of the mathematical stewardship God calls us to exercise."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Graph the function y = -3x + 6. Identify the slope and y-intercept. What does the negative slope tell you about the line?",
+            "guidance": "The slope is -3 (falls 3 units for every 1 unit right) and the y-intercept is 6 (crosses y-axis at (0,6)). A negative slope means the line goes downward from left to right."
+        },
+        {
+            "id": 2,
+            "question": "A church is raising money for a mission trip. They start with $200 in donations and raise $150 each week. Write a linear function to model their total funds. How much will they have after 8 weeks?",
+            "guidance": "f(w) = 150w + 200, where w is weeks. After 8 weeks: f(8) = 150(8) + 200 = 1200 + 200 = $1,400."
+        },
+        {
+            "id": 3,
+            "question": "How does the concept of a constant slope in a linear function reflect God's unchanging nature (Malachi 3:6)?",
+            "guidance": "Just as a line maintains the same rate of change at every point, God's character, promises, and faithfulness never change. Mathematical consistency mirrors divine consistency."
+        }
+    ]
+}

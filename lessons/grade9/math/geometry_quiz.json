@@ -1,0 +1,97 @@
+{
+    "id": "geometry_quiz",
+    "title": "Geometry — The Architecture of Creation: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "What are the three undefined terms in Euclidean geometry?",
+            "options": ["Point, line, plane", "Angle, segment, ray", "Triangle, circle, polygon", "Length, width, height"],
+            "correct": 0,
+            "explanation": "Point, line, and plane are the three undefined terms — foundational concepts accepted without formal definition upon which all geometric reasoning is built."
+        },
+        {
+            "id": 2,
+            "question": "When a transversal crosses two parallel lines, which angle pairs are congruent?",
+            "options": [
+                "Co-interior angles only",
+                "Corresponding angles, alternate interior angles, and alternate exterior angles",
+                "All eight angles are congruent",
+                "Only vertical angles"
+            ],
+            "correct": 1,
+            "explanation": "Corresponding angles, alternate interior angles, and alternate exterior angles are all congruent when formed by a transversal crossing parallel lines. Co-interior angles are supplementary (sum to 180°)."
+        },
+        {
+            "id": 3,
+            "question": "What is the sum of the interior angles of any triangle?",
+            "options": ["90°", "120°", "180°", "360°"],
+            "correct": 2,
+            "explanation": "The Triangle Angle Sum Theorem states that the interior angles of any triangle always sum to exactly 180°."
+        },
+        {
+            "id": 4,
+            "question": "Which of the following is NOT a valid triangle congruence postulate?",
+            "options": ["SSS", "SAS", "SSA", "ASA"],
+            "correct": 2,
+            "explanation": "SSA (Side-Side-Angle) is not a valid congruence postulate because it can produce two different triangles (the ambiguous case). SSS, SAS, ASA, and AAS are all valid."
+        },
+        {
+            "id": 5,
+            "question": "Two triangles are similar. The sides of the smaller triangle are 3, 4, and 5. If the longest side of the larger triangle is 15, what is the scale factor?",
+            "options": ["2", "3", "4", "5"],
+            "correct": 1,
+            "explanation": "The longest side of the smaller triangle is 5, and the corresponding side of the larger triangle is 15. The scale factor is 15 ÷ 5 = 3."
+        },
+        {
+            "id": 6,
+            "question": "What is the value of π (pi)?",
+            "options": [
+                "Exactly 3.14",
+                "Exactly 22/7",
+                "An irrational number approximately equal to 3.14159...",
+                "A rational number that terminates after 10 decimal places"
+            ],
+            "correct": 2,
+            "explanation": "Pi is an irrational number — its decimal expansion never terminates and never repeats. It is approximately 3.14159265... Both 3.14 and 22/7 are common approximations but not exact values."
+        },
+        {
+            "id": 7,
+            "question": "An inscribed angle intercepts a semicircle. What is the measure of the inscribed angle?",
+            "options": ["45°", "60°", "90°", "180°"],
+            "correct": 2,
+            "explanation": "By Thales' Theorem, an inscribed angle that intercepts a semicircle (180° arc) is always a right angle (90°), since an inscribed angle is half its intercepted arc."
+        },
+        {
+            "id": 8,
+            "question": "What is the volume of a cone with radius 6 cm and height 10 cm?",
+            "options": ["60π cm³", "120π cm³", "360π cm³", "1080π cm³"],
+            "correct": 1,
+            "explanation": "V(cone) = ⅓πr²h = ⅓ × π × 36 × 10 = 120π cm³."
+        },
+        {
+            "id": 9,
+            "question": "Can segments of lengths 4, 7, and 12 form a triangle?",
+            "options": [
+                "Yes, because 4 + 7 + 12 = 23",
+                "Yes, because all three lengths are positive",
+                "No, because 4 + 7 = 11, which is less than 12",
+                "No, because the sides are not equal"
+            ],
+            "correct": 2,
+            "explanation": "By the Triangle Inequality Theorem, the sum of any two sides must be greater than the third side. Since 4 + 7 = 11 < 12, these segments cannot form a triangle."
+        },
+        {
+            "id": 10,
+            "question": "According to Scripture, what is the Biblical basis for studying and applying geometry?",
+            "options": [
+                "Mathematics was invented by Greek philosophers independent of God",
+                "God built mathematical order into His creation, and geometry helps us understand and steward it",
+                "Geometry is only useful for building churches",
+                "The Bible does not reference any mathematical or geometric concepts"
+            ],
+            "correct": 1,
+            "explanation": "Scripture reveals that God measured, marked, and designed creation with mathematical precision (Isaiah 40:12, Proverbs 8:27). Studying geometry helps us understand God's orderly creation and equips us to be faithful stewards."
+        }
+    ]
+}

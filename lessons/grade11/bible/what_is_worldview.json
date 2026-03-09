@@ -1,0 +1,81 @@
+{
+    "id": "what_is_worldview",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: What Is a Worldview?",
+    "subtitle": "The Lens Through Which We See Everything",
+    "scripture": "Colossians 2:8",
+    "primary_source": "Francis Schaeffer, 'How Should We Then Live?' (1976)",
+    "key_concepts": ["Definition of worldview", "Worldview questions", "Presuppositions", "The inescapability of worldview"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 2:8",
+                "text": "\"See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces of this world rather than on Christ.\"",
+                "commentary": "Paul warns believers that competing philosophies — worldviews — are not neutral. They are either rooted in Christ or rooted in human tradition and spiritual deception. Every person must choose which foundation to build upon."
+            },
+            {
+                "reference": "Proverbs 1:7",
+                "text": "\"The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.\"",
+                "commentary": "All knowledge begins with a starting point — a presupposition. Scripture teaches that the proper starting point is reverence for God. Every worldview that begins elsewhere starts on the wrong foundation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Everyone Has a Worldview",
+            "paragraphs": [
+                "A worldview is a comprehensive framework of beliefs through which a person interprets all of reality. It is the set of assumptions — often unconscious — that shapes how you think about God, the universe, human nature, morality, meaning, and destiny. Everyone has a worldview, whether they have consciously examined it or not.",
+                "Your worldview determines how you answer life's most fundamental questions: Does God exist? What is the nature of reality? What does it mean to be human? How do we know right from wrong? What is the purpose of life? What happens after death? The answers you give to these questions shape every decision you make."
+            ]
+        },
+        {
+            "heading": "The Big Questions Every Worldview Must Answer",
+            "paragraphs": [
+                "Every worldview — whether religious or secular — must address the same fundamental questions. First, the question of Origin: Where did everything come from? Is the universe the product of an intelligent Creator, or is it the result of blind, purposeless forces? Second, the question of Identity: What does it mean to be human? Are we created in the image of God, or are we merely highly evolved animals?",
+                "Third, the question of Meaning: What is the purpose of life? Does existence have inherent significance given by a Creator, or must we manufacture our own meaning in an indifferent universe? Fourth, the question of Morality: How do we know right from wrong? Is there an objective moral law rooted in God's nature, or is morality simply a human invention that varies from culture to culture?",
+                "Fifth, the question of Destiny: What happens when we die? Is there a final judgment, a resurrection, and an eternal destiny — or does consciousness simply cease? How a worldview answers these five questions determines its entire character and its practical consequences for how people live."
+            ]
+        },
+        {
+            "heading": "Presuppositions: The Starting Points of Thought",
+            "paragraphs": [
+                "Every worldview begins with presuppositions — foundational beliefs that are assumed rather than proven. These are the starting points from which all other reasoning proceeds. The Christian worldview presupposes the existence of the God of the Bible — a personal, infinite, triune God who has revealed Himself in Scripture and in creation.",
+                "Secular worldviews also have presuppositions, though their adherents often fail to recognize them. Naturalism presupposes that matter and energy are all that exist. Rationalism presupposes that human reason is the ultimate authority. Postmodernism presupposes that all truth claims are culturally constructed. None of these starting points can be 'proven' by the very system they undergird — they are assumed by faith, just as the Christian's belief in God is held by faith.",
+                "The key question is not whether you have presuppositions — everyone does — but whether your presuppositions are true and whether the worldview built upon them is internally consistent and livable. As we will see in this course, the Biblical worldview alone passes both tests."
+            ]
+        },
+        {
+            "heading": "Francis Schaeffer and the Battle of Worldviews",
+            "paragraphs": [
+                "Francis Schaeffer (1912-1984) was one of the twentieth century's most important Christian thinkers. In works like How Should We Then Live? and The God Who Is There, Schaeffer argued that Western civilization was in crisis because it had abandoned its Christian foundations and embraced secular worldviews that could not sustain truth, morality, or human dignity.",
+                "Schaeffer demonstrated that ideas have consequences. When a culture adopts a worldview that denies God, it inevitably loses its basis for human rights, moral absolutes, and the meaning of life. The cultural decay visible in art, philosophy, politics, and personal morality all flows from the rejection of the Biblical worldview.",
+                "Schaeffer called Christians to engage the culture intellectually — not retreating into an isolated subculture, but understanding competing worldviews and demonstrating the superior coherence, beauty, and truth of the Christian faith. This course follows Schaeffer's example by examining the major worldviews of our time and measuring them against the standard of Scripture."
+            ]
+        },
+        {
+            "heading": "Why Worldview Study Matters",
+            "paragraphs": [
+                "Studying worldviews is not an abstract academic exercise. The worldview you hold determines how you live your life, how you raise your children, how you vote, how you treat other people, and how you face death. A person who believes human beings are made in God's image will treat people differently than one who believes humans are merely complex biological machines.",
+                "As Christians entering adulthood, you will encounter powerful and persuasive worldviews that contradict Scripture — in college classrooms, in media and entertainment, in the workplace, and even in some churches. You must be prepared to identify these worldviews, understand their claims, evaluate their coherence, and articulate the Biblical alternative with clarity, conviction, and compassion."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is a worldview, and why does everyone have one — even people who have never thought about it consciously? How does your worldview affect your daily decisions and relationships?",
+            "guidance": "Think of specific examples: How does your view of human nature affect how you treat a difficult person? How does your view of morality affect how you respond to peer pressure? Show that worldview is practical, not merely theoretical."
+        },
+        {
+            "id": 2,
+            "question": "Explain what presuppositions are and why every worldview depends on them. Why can't any worldview 'prove' its own starting point? How does this affect the claim that science has 'disproven' Christianity?",
+            "guidance": "Consider that science itself rests on presuppositions (the orderliness of nature, the reliability of the senses, the validity of logic) that cannot be proven by science. Discuss how this levels the playing field between Christian and secular starting points."
+        },
+        {
+            "id": 3,
+            "question": "Francis Schaeffer argued that 'ideas have consequences.' Choose one example from contemporary culture and show how a specific secular idea has produced specific real-world consequences — for better or worse.",
+            "guidance": "Possible examples include the consequences of moral relativism for law and ethics, the consequences of materialism for views of human dignity, or the consequences of postmodernism for the concept of truth."
+        }
+    ]
+}

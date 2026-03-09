@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "science",
+    "title": "Biology — The Design of Life",
+    "description": "Exploring the intricate design of living organisms through the lens of Biblical creation and intelligent design.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Design of Life",
+            "lessons": ["cell_structure", "cell_processes", "genetics_heredity", "dna_blueprint", "body_systems", "ecology_stewardship"]
+        }
+    ],
+    "quiz_id": "biology_quiz"
+}

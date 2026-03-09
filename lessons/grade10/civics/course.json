@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "civics",
+    "title": "Comparative Government — Liberty vs. Tyranny",
+    "description": "A comparative study of governmental systems throughout history, examining how Biblical principles of liberty contrast with secular ideologies that lead to tyranny.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Comparative Government — Liberty vs. Tyranny",
+            "lessons": ["foundations_of_liberty", "constitutional_republics", "socialism_communism", "fascism_authoritarianism", "democracy_limits", "american_exceptionalism"]
+        }
+    ],
+    "quiz_id": "government_quiz"
+}

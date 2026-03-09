@@ -1,0 +1,42 @@
+{
+    "id": "math_quiz",
+    "title": "Counting God's Blessings Quiz",
+    "description": "Let's see how well you can count and find shapes!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "How many fingers are on one hand?",
+            "options": ["3", "5", "10", "2"],
+            "correct": 1,
+            "explanation": "You have 5 fingers on one hand! God gave us fingers to count with."
+        },
+        {
+            "id": 2,
+            "question": "What shape is the sun?",
+            "options": ["Square", "Triangle", "Circle", "Rectangle"],
+            "correct": 2,
+            "explanation": "The sun is round like a circle! God made the sun to give us light (Genesis 1:16)."
+        },
+        {
+            "id": 3,
+            "question": "What color is the grass?",
+            "options": ["Red", "Blue", "Yellow", "Green"],
+            "correct": 3,
+            "explanation": "Grass is green! God made the beautiful green grass and plants (Genesis 1:11)."
+        },
+        {
+            "id": 4,
+            "question": "Which animal is bigger?",
+            "options": ["An ant", "A butterfly", "An elephant", "A mouse"],
+            "correct": 2,
+            "explanation": "An elephant is the biggest! God made big animals and small animals, and each one is special."
+        },
+        {
+            "id": 5,
+            "question": "What comes after the number 7?",
+            "options": ["6", "9", "8", "5"],
+            "correct": 2,
+            "explanation": "8 comes after 7! Great counting! 6, 7, 8, 9, 10!"
+        }
+    ]
+}

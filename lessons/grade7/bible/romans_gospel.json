@@ -1,0 +1,75 @@
+{
+    "id": "romans_gospel",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Romans — The Power of the Gospel",
+    "subtitle": "Paul's Masterwork on Sin, Grace, and Salvation",
+    "scripture": "Romans 1:16-17",
+    "key_concepts": ["The Gospel defined", "Universal sinfulness", "Justification by faith", "Grace vs. works", "The righteousness of God"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:16",
+                "text": "\"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.\"",
+                "commentary": "Paul declares his thesis for the entire letter: the Gospel is God's power for salvation. It is not merely good advice or moral teaching — it is divine power that rescues sinners. This power is available to everyone who believes, regardless of ethnic background."
+            },
+            {
+                "reference": "Romans 3:23-24",
+                "text": "\"For all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus.\"",
+                "commentary": "These verses contain the heart of the Gospel: every human being is a sinner, and every sinner can be justified — declared righteous — freely by God's grace through faith in Jesus Christ. Salvation cannot be earned; it is a gift."
+            },
+            {
+                "reference": "Romans 8:1",
+                "text": "\"Therefore, there is now no condemnation for those who are in Christ Jesus.\"",
+                "commentary": "The glorious conclusion of Paul's argument: those who trust in Christ are completely free from condemnation. Not partially forgiven, not conditionally pardoned — no condemnation at all. This is the security of the believer."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Most Important Letter Ever Written",
+            "paragraphs": [
+                "The letter to the Romans is widely considered the most theologically important book in the New Testament. Written by the Apostle Paul around AD 57 to the church in Rome, it presents the most systematic explanation of the Gospel found anywhere in Scripture. Martin Luther called Romans 'the chief part of the New Testament and the purest Gospel.'",
+                "Paul wrote Romans to a church he had never visited, laying out the essential truths of the Christian faith so the Roman believers would be grounded in sound doctrine. Understanding Romans is essential for every Christian because it answers the most fundamental questions: How are sinners made right with God? What does salvation accomplish? How should the saved live?"
+            ]
+        },
+        {
+            "heading": "The Problem: Universal Sinfulness (Romans 1-3)",
+            "paragraphs": [
+                "Paul begins by establishing that every human being is guilty before God. The Gentiles are guilty because they suppressed the knowledge of God available through creation (Romans 1:18-32). The Jews are guilty because they had God's law but failed to keep it (Romans 2:17-29). The conclusion is devastating: 'There is no one righteous, not even one' (Romans 3:10).",
+                "This universal diagnosis of sin is not popular, but it is essential. Until we understand how serious the problem is, we cannot appreciate how glorious the solution is. Sin is not merely making mistakes — it is rebellion against the holy Creator. And every person, without exception, stands guilty."
+            ]
+        },
+        {
+            "heading": "The Solution: Justification by Faith (Romans 3-5)",
+            "paragraphs": [
+                "Having established the problem, Paul reveals God's solution: justification by faith. Justification is a legal term meaning 'to declare righteous.' God does not make sinners righteous by improving them first — He declares them righteous based on the finished work of Christ. This declaration is received by faith, not earned by works.",
+                "Paul uses Abraham as his primary example (Romans 4). Abraham was declared righteous because he believed God — not because he performed religious rituals or lived a perfect life. This shows that justification by faith is not a new idea; it has always been God's way of saving sinners. The result of justification is peace with God (Romans 5:1) and access to His grace."
+            ]
+        },
+        {
+            "heading": "The Result: Life in the Spirit (Romans 6-8)",
+            "paragraphs": [
+                "Salvation is not merely a legal transaction — it transforms the believer's life. Romans 6 teaches that believers have died to sin and been raised to new life in Christ. Romans 7 honestly describes the ongoing struggle with sin that every believer experiences. Romans 8 soars to the heights of Christian assurance: life in the Spirit, adoption as God's children, and the certainty that nothing can separate us from God's love.",
+                "Romans 8 is one of the most beloved chapters in the Bible. It begins with 'no condemnation' (8:1) and ends with 'no separation' (8:38-39). Between those bookends, Paul describes the Spirit's work in believers: giving life, producing holiness, guaranteeing our inheritance, and interceding for us in prayer."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "According to Romans 3:23-24, what is the condition of every human being, and what is God's remedy? Why is it important that justification is 'freely by his grace'?",
+            "guidance": "Consider what 'freely' means — without cost to the recipient, though it cost God everything. Think about why grace (unearned favor) is the only possible basis for salvation."
+        },
+        {
+            "id": 2,
+            "question": "Why does Paul spend three full chapters (Romans 1-3) establishing the reality of human sinfulness before presenting the Gospel solution? What happens when we skip the diagnosis and go straight to the cure?",
+            "guidance": "Think about how a doctor must diagnose the disease before prescribing treatment. Consider how understanding the depth of our sin magnifies the greatness of God's grace."
+        },
+        {
+            "id": 3,
+            "question": "Read Romans 8:38-39. List the things Paul says cannot separate us from God's love. What does this passage teach about the security of the believer? How should this truth affect how we live?",
+            "guidance": "Note how comprehensive Paul's list is — it covers every possible threat. Consider what it means to live with this level of assurance."
+        }
+    ]
+}

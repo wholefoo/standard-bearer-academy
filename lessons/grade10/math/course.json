@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "math",
+    "title": "Algebra II — Advanced Patterns in God's Design",
+    "description": "A rigorous study of advanced algebraic concepts including polynomials, rational expressions, exponential and logarithmic functions, and sequences — revealing the mathematical order woven into God's creation.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Algebra II — Advanced Patterns in God's Design",
+            "lessons": ["polynomials", "rational_expressions", "radical_functions", "exponential_functions", "logarithmic_functions", "sequences_series"]
+        }
+    ],
+    "quiz_id": "algebra2_quiz"
+}

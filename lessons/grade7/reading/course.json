@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "reading",
+    "title": "Poetry and Prose — The Beauty of Language",
+    "description": "Explore the art of poetry, prose, and literary analysis, appreciating language as a gift from God and developing skills in reading, writing, and critical thinking.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Poetry and Prose — The Beauty of Language",
+            "lessons": ["elements_poetry", "figurative_language", "prose_forms", "literary_analysis", "persuasive_writing", "creative_writing"]
+        }
+    ],
+    "quiz_id": "literature_quiz"
+}

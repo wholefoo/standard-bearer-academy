@@ -1,0 +1,77 @@
+{
+    "id": "equations",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Solving One-Step and Two-Step Equations",
+    "subtitle": "Finding the Unknown Through Balanced Reasoning",
+    "scripture": "Proverbs 11:1",
+    "key_concepts": ["Equations vs. expressions", "Inverse operations", "Solving one-step equations", "Solving two-step equations", "Checking solutions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"A false balance is an abomination to the LORD, but a just weight is his delight.\"",
+                "commentary": "God values fairness and balance. An equation is like a balance scale — both sides must be equal. When we solve equations by doing the same operation to both sides, we are maintaining the balance that God delights in."
+            },
+            {
+                "reference": "Isaiah 40:12",
+                "text": "\"Who has measured the waters in the hollow of his hand, or with the breadth of his hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?\"",
+                "commentary": "God is the ultimate mathematician — He measures, weighs, and balances all things with perfect precision. Our study of equations is a small reflection of His infinite ability to calculate and order all things."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is an Equation?",
+            "paragraphs": [
+                "An equation is a mathematical sentence that states two expressions are equal. It always contains an equals sign (=). For example, x + 7 = 12 is an equation. It tells us that some number plus 7 equals 12. Our job is to find that number.",
+                "Unlike an expression, which we simplify or evaluate, an equation asks us to solve — to find the value of the variable that makes the statement true. The solution is the number that, when substituted for the variable, produces a true statement."
+            ]
+        },
+        {
+            "heading": "Inverse Operations: The Key to Solving",
+            "paragraphs": [
+                "To solve an equation, we use inverse operations — operations that undo each other. Addition and subtraction are inverses: if a number was added to x, we subtract it from both sides to isolate x. Multiplication and division are inverses: if x was multiplied by a number, we divide both sides by that number.",
+                "The golden rule of equation solving is: whatever you do to one side, you must do to the other side. This keeps the equation balanced and ensures the equality remains true. Think of it as a balance scale — if you remove weight from one side, you must remove the same weight from the other."
+            ]
+        },
+        {
+            "heading": "Solving One-Step Equations",
+            "paragraphs": [
+                "A one-step equation requires only one inverse operation to solve. For x + 9 = 15, subtract 9 from both sides: x = 6. For 4x = 28, divide both sides by 4: x = 7. For x - 3 = 10, add 3 to both sides: x = 13. For x/5 = 8, multiply both sides by 5: x = 40.",
+                "After solving, always check your answer by substituting it back into the original equation. For x + 9 = 15, we found x = 6. Check: 6 + 9 = 15. True! This verification step confirms that our solution is correct."
+            ]
+        },
+        {
+            "heading": "Solving Two-Step Equations",
+            "paragraphs": [
+                "A two-step equation requires two inverse operations. The general strategy is to undo addition or subtraction first, then undo multiplication or division. For the equation 3x + 5 = 20, first subtract 5 from both sides: 3x = 15. Then divide both sides by 3: x = 5.",
+                "For 2x - 7 = 11, add 7 to both sides: 2x = 18. Then divide by 2: x = 9. Check: 2(9) - 7 = 18 - 7 = 11. True! The order matters — always deal with the term being added or subtracted before the coefficient of the variable."
+            ]
+        },
+        {
+            "heading": "Real-World Applications",
+            "paragraphs": [
+                "Equations help us solve practical problems. Suppose a church youth group is saving for a mission trip. They have already raised $150 and need $600 total. They plan to earn money by washing cars at $15 each. How many cars must they wash? We write: 15c + 150 = 600. Subtract 150: 15c = 450. Divide by 15: c = 30. They need to wash 30 cars.",
+                "Being able to translate real situations into equations and solve them is one of the most practical skills in mathematics. It turns word problems into step-by-step procedures and gives us precise answers. This ability to bring order to complex situations reflects the God-given gift of rational thinking."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Solve the equation 4x - 9 = 23. Show each step and explain which inverse operation you used and why. Then check your answer.",
+            "guidance": "First add 9 to both sides, then divide by 4. Substitute your answer back into the original equation to verify."
+        },
+        {
+            "id": 2,
+            "question": "Write and solve an equation for this problem: A family budgets $200 per month for groceries. After spending some amount on produce, they have $128 left for other items. How much did they spend on produce?",
+            "guidance": "Let p represent the produce spending. Set up the equation and solve using inverse operations."
+        },
+        {
+            "id": 3,
+            "question": "How does solving an equation by keeping both sides balanced relate to Proverbs 11:1 and God's value of justice and fairness?",
+            "guidance": "Think about why balance is essential — if you treat both sides unequally, you get a false result. Consider how this principle applies beyond mathematics."
+        }
+    ]
+}

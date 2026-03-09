@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "math",
+    "title": "Counting God's Blessings — Numbers and Shapes",
+    "description": "Learn to count and discover shapes in God's wonderful world! Fun math for ages 3-5.",
+    "units": [
+        {
+            "id": "numbers_shapes",
+            "title": "Numbers and Shapes",
+            "lessons": ["counting_1_5", "counting_6_10", "shapes", "colors", "big_small"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

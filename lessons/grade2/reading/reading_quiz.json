@@ -1,0 +1,63 @@
+{
+    "id": "reading_quiz",
+    "title": "Growing in Reading Quiz",
+    "description": "Test your knowledge of vowel teams, prefixes, suffixes, fluency, comprehension, vocabulary, and story writing!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "In the word 'boat,' which two vowels form a vowel team?",
+            "options": ["b and o", "o and a", "a and t", "b and t"],
+            "correct": 1,
+            "explanation": "The letters 'o' and 'a' form the vowel team 'oa' in the word boat. The 'o' says its name and the 'a' is silent."
+        },
+        {
+            "id": 2,
+            "question": "What does the prefix 'un-' mean?",
+            "options": ["Again", "Before", "Not", "After"],
+            "correct": 2,
+            "explanation": "The prefix 'un-' means not. For example, 'unhappy' means not happy."
+        },
+        {
+            "id": 3,
+            "question": "What does the suffix '-ful' mean?",
+            "options": ["Without", "Full of", "One who", "Again"],
+            "correct": 1,
+            "explanation": "The suffix '-ful' means full of. 'Thankful' means full of thanks."
+        },
+        {
+            "id": 4,
+            "question": "What does reading fluently mean?",
+            "options": ["Reading very fast", "Reading smoothly and with expression", "Reading very quietly", "Reading only big words"],
+            "correct": 1,
+            "explanation": "Reading fluently means reading smoothly, accurately, and with expression — like talking naturally."
+        },
+        {
+            "id": 5,
+            "question": "What is the main idea of a story?",
+            "options": ["The first sentence", "What the story is mostly about", "The title of the story", "The last word"],
+            "correct": 1,
+            "explanation": "The main idea is what the passage or story is mostly about."
+        },
+        {
+            "id": 6,
+            "question": "What does the Bible word 'grace' mean?",
+            "options": ["A prayer before meals", "A gift we don't deserve", "Being very polite", "Running fast"],
+            "correct": 1,
+            "explanation": "Grace means receiving a gift or blessing that we do not deserve. God's grace is His free gift of love and salvation."
+        },
+        {
+            "id": 7,
+            "question": "What are the three parts of a good story?",
+            "options": ["Title, author, pictures", "Beginning, middle, end", "Characters, words, pages", "Introduction, body, conclusion"],
+            "correct": 1,
+            "explanation": "Every good story has a beginning (introduction), a middle (problem/adventure), and an end (solution)."
+        },
+        {
+            "id": 8,
+            "question": "What are context clues?",
+            "options": ["Pictures in a book", "Words around an unknown word that help you figure out its meaning", "The table of contents", "The glossary at the back"],
+            "correct": 1,
+            "explanation": "Context clues are the words and sentences around an unknown word that help you figure out what it means."
+        }
+    ]
+}

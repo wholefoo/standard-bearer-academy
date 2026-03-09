@@ -1,0 +1,127 @@
+{
+    "id": "composition_quiz",
+    "title": "Senior Thesis and Composition Quiz",
+    "description": "Test your understanding of thesis writing, research methods, argumentation, rhetorical analysis, and literary criticism.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What three qualities make a strong thesis statement?",
+            "options": [
+                "Long, emotional, and controversial",
+                "Specific, arguable, and supportable",
+                "Vague, universally agreed upon, and simple",
+                "Short, factual, and undebatable"
+            ],
+            "correct": 1,
+            "explanation": "A strong thesis statement is specific (focused on a particular claim), arguable (reasonable people could disagree), and supportable (evidence exists to defend it). These qualities distinguish a thesis from a mere report or unsupported opinion."
+        },
+        {
+            "id": 2,
+            "question": "According to 2 Timothy 2:15, what attitude should a Christian writer bring to academic work?",
+            "options": [
+                "Casual indifference, since secular learning doesn't matter",
+                "Diligent study and careful handling of truth, presenting oneself as an approved worker",
+                "Avoidance of all non-Biblical sources",
+                "Writing only about explicitly religious topics"
+            ],
+            "correct": 1,
+            "explanation": "Paul instructs Timothy to 'do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.' This calls for diligent, careful, honest scholarship in all areas of study."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between a primary source and a secondary source?",
+            "options": [
+                "Primary sources are always more reliable than secondary sources",
+                "Primary sources are original documents from the period being studied; secondary sources analyze and interpret primary sources",
+                "Secondary sources are always written by professors; primary sources are written by students",
+                "There is no meaningful difference between the two"
+            ],
+            "correct": 1,
+            "explanation": "Primary sources are original documents, artifacts, or data created during the period or event being studied. Secondary sources are works that analyze, interpret, or evaluate primary sources. A strong thesis uses both types."
+        },
+        {
+            "id": 4,
+            "question": "Why are the Bereans in Acts 17:11 described as having 'noble character'?",
+            "options": [
+                "Because they rejected everything Paul said",
+                "Because they accepted Paul's message without question",
+                "Because they received the message eagerly but examined the Scriptures to verify it",
+                "Because they refused to listen to anyone except their own leaders"
+            ],
+            "correct": 2,
+            "explanation": "The Bereans combined openness with verification — they 'received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.' This models the research principle of verifying claims against authoritative sources."
+        },
+        {
+            "id": 5,
+            "question": "What are the three classical modes of persuasion identified by Aristotle?",
+            "options": [
+                "Introduction, body, and conclusion",
+                "Primary, secondary, and tertiary sources",
+                "Logos (logical appeal), ethos (ethical appeal), and pathos (emotional appeal)",
+                "Thesis, antithesis, and synthesis"
+            ],
+            "correct": 2,
+            "explanation": "Aristotle identified logos (logical reasoning and evidence), ethos (the speaker's credibility and character), and pathos (emotional connection with the audience) as the three fundamental modes of persuasion. The strongest arguments balance all three."
+        },
+        {
+            "id": 6,
+            "question": "What logical fallacy involves attacking the person making an argument rather than addressing the argument itself?",
+            "options": [
+                "Straw Man",
+                "Ad Hominem",
+                "False Dilemma",
+                "Slippery Slope"
+            ],
+            "correct": 1,
+            "explanation": "An Ad Hominem fallacy attacks the character or motives of the person making an argument rather than engaging with the argument's logic and evidence. This is a common but intellectually dishonest rhetorical tactic."
+        },
+        {
+            "id": 7,
+            "question": "According to George Orwell in 'Politics and the English Language,' what is the relationship between language and thought?",
+            "options": [
+                "Language has no effect on thinking",
+                "Only poetry affects thought; prose does not",
+                "Corrupt language can corrupt thought, and vague language can conceal dishonest reasoning",
+                "All political language is equally valid and honest"
+            ],
+            "correct": 2,
+            "explanation": "Orwell argued that imprecise, euphemistic, and deliberately vague language not only reflects but actively promotes confused and dishonest thinking. Clear language is essential for clear thought, and corrupt language serves to obscure truth."
+        },
+        {
+            "id": 8,
+            "question": "What three transcendent categories does a Christian approach to literary criticism use to evaluate literature?",
+            "options": [
+                "Length, popularity, and entertainment value",
+                "Truth, beauty, and goodness",
+                "Difficulty, age, and genre",
+                "Author's fame, publisher's reputation, and sales figures"
+            ],
+            "correct": 1,
+            "explanation": "A Christian approach evaluates literature according to Truth (Does it accurately portray reality?), Beauty (Does it exhibit artistic excellence?), and Goodness (Does it promote virtue and human flourishing?). These categories reflect the attributes of God Himself."
+        },
+        {
+            "id": 9,
+            "question": "Why is addressing counterarguments considered a strength rather than a weakness in a thesis?",
+            "options": [
+                "It makes the paper longer and therefore more impressive",
+                "It shows you couldn't make up your mind about your position",
+                "It demonstrates intellectual honesty and makes your thesis more convincing by showing it can withstand the strongest objections",
+                "It is required by citation rules but serves no argumentative purpose"
+            ],
+            "correct": 2,
+            "explanation": "Engaging honestly with the best opposing arguments demonstrates intellectual integrity and actually strengthens your position by showing it can withstand rigorous scrutiny. Following Proverbs 18:17, hearing 'both sides' produces stronger, more credible arguments."
+        },
+        {
+            "id": 10,
+            "question": "What does Ecclesiastes 12:12-13 teach about the ultimate purpose of scholarship and learning?",
+            "options": [
+                "That education is pointless and should be avoided",
+                "That academic achievement is the highest goal in life",
+                "That all knowledge and study must ultimately point to fearing God and keeping His commandments",
+                "That Christians should only study the Bible and ignore other subjects"
+            ],
+            "correct": 2,
+            "explanation": "Solomon concludes that while there is 'no end' to the making of books and study, the ultimate purpose of all human knowledge is to fear God and keep His commandments. Scholarship is valuable, but it must be kept in its proper perspective under God's authority."
+        }
+    ]
+}

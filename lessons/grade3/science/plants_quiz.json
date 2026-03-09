@@ -1,0 +1,63 @@
+{
+    "id": "plants_quiz",
+    "title": "Plants and Ecosystems Quiz",
+    "description": "Test your knowledge of plants, ecosystems, and God's green earth!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is inside a seed that helps it start growing?",
+            "options": ["A tiny flower", "A baby plant called an embryo", "A piece of fruit", "A small rock"],
+            "correct": 1,
+            "explanation": "Inside every seed is a baby plant called an embryo, along with stored food and a protective seed coat."
+        },
+        {
+            "id": 2,
+            "question": "What is the main job of a plant's roots?",
+            "options": ["To make flowers", "To absorb water and hold the plant in the soil", "To catch sunlight", "To make seeds"],
+            "correct": 1,
+            "explanation": "Roots absorb water and nutrients from the soil and anchor the plant firmly in the ground."
+        },
+        {
+            "id": 3,
+            "question": "What three things does a plant need for photosynthesis?",
+            "options": ["Soil, darkness, and wind", "Sunlight, water, and carbon dioxide", "Rain, snow, and ice", "Rocks, sand, and mud"],
+            "correct": 1,
+            "explanation": "Plants use sunlight, water, and carbon dioxide to make sugar (food) through photosynthesis."
+        },
+        {
+            "id": 4,
+            "question": "What gas do plants produce during photosynthesis that we need to breathe?",
+            "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Helium"],
+            "correct": 2,
+            "explanation": "Plants produce oxygen as a bonus during photosynthesis — the very air we need to breathe!"
+        },
+        {
+            "id": 5,
+            "question": "What is a habitat?",
+            "options": ["A type of plant", "A place where plants and animals live", "A kind of food chain", "A part of a flower"],
+            "correct": 1,
+            "explanation": "A habitat is a place where plants and animals live that provides them with food, water, and shelter."
+        },
+        {
+            "id": 6,
+            "question": "In a food chain, what are plants called because they make their own food?",
+            "options": ["Consumers", "Decomposers", "Producers", "Herbivores"],
+            "correct": 2,
+            "explanation": "Plants are called producers because they produce their own food through photosynthesis."
+        },
+        {
+            "id": 7,
+            "question": "What do decomposers do in a food chain?",
+            "options": ["They eat only plants", "They hunt other animals", "They break down dead things and return nutrients to the soil", "They make food from sunlight"],
+            "correct": 2,
+            "explanation": "Decomposers like mushrooms and worms break down dead plants and animals, returning nutrients to the soil so new plants can grow."
+        },
+        {
+            "id": 8,
+            "question": "According to Genesis 2:15, what special job did God give humans?",
+            "options": ["To name only the birds", "To take care of the earth", "To live only in cities", "To eat all the plants"],
+            "correct": 1,
+            "explanation": "God put Adam in the Garden of Eden to work it and take care of it. We are called to be good stewards of God's creation."
+        }
+    ]
+}

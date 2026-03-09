@@ -1,0 +1,63 @@
+{
+    "id": "bible_quiz",
+    "title": "The Life of Jesus — Stories from the Gospels Quiz",
+    "description": "Test your knowledge of the life of Jesus!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Where was Jesus born?",
+            "options": ["Nazareth", "Jerusalem", "Bethlehem", "Egypt"],
+            "correct": 2,
+            "explanation": "Jesus was born in Bethlehem, in a stable because there was no room at the inn (Luke 2:4-7)."
+        },
+        {
+            "id": 2,
+            "question": "Where did Mary and Joseph find 12-year-old Jesus?",
+            "options": ["At the market", "In the Temple", "By the river", "At home"],
+            "correct": 1,
+            "explanation": "Mary and Joseph found Jesus in the Temple, talking with the teachers about God (Luke 2:46)."
+        },
+        {
+            "id": 3,
+            "question": "How many disciples did Jesus choose?",
+            "options": ["5", "7", "10", "12"],
+            "correct": 3,
+            "explanation": "Jesus chose 12 special helpers called disciples to follow Him and learn from Him."
+        },
+        {
+            "id": 4,
+            "question": "In the miracle of the feeding of the 5,000, what food did the boy have?",
+            "options": ["Bread and grapes", "Fish and rice", "5 loaves and 2 fish", "Fruit and vegetables"],
+            "correct": 2,
+            "explanation": "A young boy had 5 loaves of bread and 2 fish, which Jesus used to feed 5,000 people (John 6:9)."
+        },
+        {
+            "id": 5,
+            "question": "In the parable of the Good Samaritan, who helped the hurt man?",
+            "options": ["A priest", "A Levite", "A Samaritan", "A soldier"],
+            "correct": 2,
+            "explanation": "The Samaritan stopped to help the hurt man, showing that we should love and help everyone (Luke 10:33-34)."
+        },
+        {
+            "id": 6,
+            "question": "What did the angel say at the empty tomb?",
+            "options": ["Come back tomorrow", "He is not here; He has risen", "Go home and wait", "Do not enter"],
+            "correct": 1,
+            "explanation": "The angel told the women, 'He is not here; He has risen, just as He said' (Matthew 28:6)."
+        },
+        {
+            "id": 7,
+            "question": "What were Peter and Andrew doing when Jesus called them?",
+            "options": ["Building houses", "Fishing", "Farming", "Cooking"],
+            "correct": 1,
+            "explanation": "Peter and Andrew were fishermen casting their nets when Jesus said, 'Follow me' (Matthew 4:18-19)."
+        },
+        {
+            "id": 8,
+            "question": "Why did Jesus perform miracles?",
+            "options": ["To entertain people", "To make money", "To show He is the Son of God", "To become famous"],
+            "correct": 2,
+            "explanation": "Jesus performed miracles to show people that He is the Son of God and that He loves and cares for them."
+        }
+    ]
+}

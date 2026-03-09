@@ -1,0 +1,127 @@
+{
+    "id": "literature_quiz",
+    "title": "World Literature Quiz",
+    "description": "Test your understanding of world literature from a Christian perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which ancient epic contains a flood narrative that parallels the account in Genesis 6-9?",
+            "options": [
+                "Homer's Iliad",
+                "The Epic of Gilgamesh",
+                "Virgil's Aeneid",
+                "Beowulf"
+            ],
+            "correct": 1,
+            "explanation": "The Epic of Gilgamesh from ancient Mesopotamia contains a flood narrative in Tablet XI that closely parallels the Biblical account, with a great flood, survival in a boat, and the sending of birds to find dry land."
+        },
+        {
+            "id": 2,
+            "question": "In Sophocles' Antigone, what principle does the heroine defend when she defies King Creon?",
+            "options": [
+                "The right of women to rule",
+                "The superiority of democratic government",
+                "Divine law is higher than human law",
+                "Military power should override civil law"
+            ],
+            "correct": 2,
+            "explanation": "Antigone defies Creon because she believes divine law — the requirement to bury the dead — is higher than any human decree. This reflects the Biblical principle that God's law is supreme over human authority."
+        },
+        {
+            "id": 3,
+            "question": "The Greek word 'hamartia,' used in tragedy for a character's fatal flaw, is the same word used in the New Testament for what concept?",
+            "options": [
+                "Faith",
+                "Grace",
+                "Sin",
+                "Wisdom"
+            ],
+            "correct": 2,
+            "explanation": "Hamartia is the word used in Romans 3:23 ('all have sinned') and throughout the New Testament for sin. While the Greeks understood it as a tragic error, the Bible reveals it as willful rebellion against God."
+        },
+        {
+            "id": 4,
+            "question": "What are the three classical appeals of rhetoric identified by Aristotle?",
+            "options": [
+                "Truth, beauty, and goodness",
+                "Ethos, pathos, and logos",
+                "Beginning, middle, and end",
+                "Tragedy, comedy, and epic"
+            ],
+            "correct": 1,
+            "explanation": "The three appeals are ethos (character/credibility), pathos (emotion), and logos (logic/evidence). Effective communication uses all three in balance."
+        },
+        {
+            "id": 5,
+            "question": "In Dante's Divine Comedy, why can Virgil guide Dante through Hell and Purgatory but not into Paradise?",
+            "options": [
+                "Because Virgil was too old",
+                "Because Virgil represents human reason, which cannot achieve salvation — only divine grace (Beatrice) can",
+                "Because Virgil was afraid of Heaven",
+                "Because Dante no longer needed a guide"
+            ],
+            "correct": 1,
+            "explanation": "Virgil represents the highest achievements of human reason and natural wisdom. But reason alone cannot bring a soul to God — only divine grace, represented by Beatrice, can accomplish what human effort cannot."
+        },
+        {
+            "id": 6,
+            "question": "What is the central theme of Milton's Paradise Lost?",
+            "options": [
+                "The history of England",
+                "The fall of Satan, the creation of the world, and the Fall of man — justifying God's ways to humanity",
+                "A love story set in ancient Rome",
+                "The life of Jesus Christ"
+            ],
+            "correct": 1,
+            "explanation": "Milton stated that his purpose was to 'justify the ways of God to men.' Paradise Lost retells the Biblical story of Satan's rebellion, creation, and the Fall of Adam and Eve."
+        },
+        {
+            "id": 7,
+            "question": "In Satan's famous line from Paradise Lost — 'Better to reign in Hell than serve in Heaven' — what sin is being expressed?",
+            "options": [
+                "Laziness",
+                "Envy",
+                "Pride — the desire for autonomy from God",
+                "Greed"
+            ],
+            "correct": 2,
+            "explanation": "Satan's declaration expresses the essence of pride: preferring self-rule in misery over joyful submission to God. This is the root sin that led to Satan's fall and to the Fall of humanity in Genesis 3."
+        },
+        {
+            "id": 8,
+            "question": "Ivan Karamazov's claim that 'if God does not exist, everything is permitted' argues that without God, what is impossible?",
+            "options": [
+                "Scientific progress",
+                "Political freedom",
+                "Objective morality",
+                "Artistic creativity"
+            ],
+            "correct": 2,
+            "explanation": "Dostoevsky, through Ivan, argues that without God there is no foundation for objective moral standards. If there is no transcendent moral lawgiver, moral claims become merely subjective preferences."
+        },
+        {
+            "id": 9,
+            "question": "Which Christian author used the fictional land of Narnia to present Christian truths through imaginative storytelling?",
+            "options": [
+                "J.R.R. Tolkien",
+                "Fyodor Dostoevsky",
+                "C.S. Lewis",
+                "Geoffrey Chaucer"
+            ],
+            "correct": 2,
+            "explanation": "C.S. Lewis created The Chronicles of Narnia to present Christian truth — including the atonement, resurrection, and the reality of spiritual warfare — through compelling, imaginative fiction."
+        },
+        {
+            "id": 10,
+            "question": "What does the doctrine of 'common grace' teach about literature written by non-Christians?",
+            "options": [
+                "Non-Christian literature has no value and should never be read",
+                "Non-Christian literature is equal to Scripture in authority",
+                "God gives artistic gifts to all people, so non-Christian literature can contain truth and beauty, though mixed with error",
+                "Only literature written after 1500 AD has any value"
+            ],
+            "correct": 2,
+            "explanation": "Common grace teaches that God gives gifts — including artistic and intellectual gifts — to all people, not only believers. Non-Christian literature can contain genuine truth and beauty because its authors are made in God's image, though their work must be evaluated against Scripture."
+        }
+    ]
+}

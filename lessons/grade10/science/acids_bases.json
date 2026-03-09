@@ -1,0 +1,82 @@
+{
+    "id": "acids_bases",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Acids and Bases — Chemistry in Balance",
+    "subtitle": "pH, Neutralization, and the Chemistry of Life",
+    "scripture": "Matthew 5:13",
+    "primary_source": "Svante Arrhenius's Theory of Electrolytic Dissociation (1884)",
+    "key_concepts": ["Acids and bases defined", "pH scale", "Neutralization reactions", "Buffers", "Acids and bases in biological systems"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 5:13",
+                "text": "\"You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot.\"",
+                "commentary": "Salt (sodium chloride) is the product of an acid-base neutralization reaction — hydrochloric acid and sodium hydroxide combine to produce salt and water. Jesus uses this chemical product as a metaphor for the preserving influence of believers in the world."
+            },
+            {
+                "reference": "2 Kings 2:21",
+                "text": "\"Then he went out to the spring and threw the salt into it, saying, 'This is what the LORD says: I have healed this water. Never again will it cause death or make the land unproductive.'\"",
+                "commentary": "When Elisha purified the water at Jericho by adding salt, he demonstrated a principle related to acid-base chemistry — the balancing of chemical conditions to make water life-sustaining. God has designed chemical balance into creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Chemistry of Taste and Touch",
+            "paragraphs": [
+                "Acids and bases are two of the most important categories of chemicals in our world. Acids taste sour (like citrus fruit and vinegar), while bases taste bitter and feel slippery (like soap). But beyond these familiar properties, acids and bases play critical roles in industrial processes, environmental chemistry, and the biochemistry of every living organism.",
+                "Understanding acids and bases is essential for understanding digestion, blood chemistry, soil science, water treatment, and countless other processes that sustain life and civilization."
+            ]
+        },
+        {
+            "heading": "Defining Acids and Bases",
+            "paragraphs": [
+                "There are three major definitions of acids and bases. The Arrhenius definition (1884) states that acids produce hydrogen ions (H⁺) in water, while bases produce hydroxide ions (OH⁻). Hydrochloric acid (HCl) dissociates into H⁺ and Cl⁻; sodium hydroxide (NaOH) dissociates into Na⁺ and OH⁻.",
+                "The Brønsted-Lowry definition (1923) is broader: acids are proton (H⁺) donors, and bases are proton acceptors. This definition explains acid-base reactions that do not occur in water. The Lewis definition is broader still: acids are electron-pair acceptors, and bases are electron-pair donors.",
+                "Common acids include hydrochloric acid (HCl, found in stomach acid), sulfuric acid (H₂SO₄, used in batteries and industry), and acetic acid (CH₃COOH, the acid in vinegar). Common bases include sodium hydroxide (NaOH, used in soap-making), ammonia (NH₃, a cleaning agent), and calcium hydroxide (Ca(OH)₂, used in agriculture to neutralize acidic soil)."
+            ]
+        },
+        {
+            "heading": "The pH Scale",
+            "paragraphs": [
+                "The pH scale measures how acidic or basic a solution is, ranging from 0 to 14. A pH of 7 is neutral (pure water). Values below 7 are acidic — the lower the number, the more acidic the solution. Values above 7 are basic (alkaline) — the higher the number, the more basic the solution.",
+                "The pH scale is logarithmic, meaning each whole number change represents a tenfold change in hydrogen ion concentration. A solution with pH 3 is ten times more acidic than one with pH 4, and one hundred times more acidic than pH 5. This logarithmic relationship allows the scale to cover an enormous range of concentrations.",
+                "Some common pH values: battery acid ≈ 0, stomach acid ≈ 1.5, lemon juice ≈ 2, vinegar ≈ 3, coffee ≈ 5, pure water = 7, baking soda ≈ 8.3, ammonia ≈ 11, bleach ≈ 12.5, drain cleaner ≈ 14."
+            ]
+        },
+        {
+            "heading": "Neutralization Reactions and Salts",
+            "paragraphs": [
+                "When an acid reacts with a base, they neutralize each other, producing water and a salt. The general equation is: Acid + Base → Salt + Water. For example: HCl + NaOH → NaCl + H₂O. The hydrogen ion from the acid combines with the hydroxide ion from the base to form water, while the remaining ions form the salt.",
+                "Neutralization reactions are used extensively in medicine (antacids neutralize excess stomach acid), agriculture (lime neutralizes acidic soil), and water treatment (adjusting pH to safe levels). The ability to control pH through neutralization is essential for many industrial and biological processes.",
+                "Titration is a laboratory technique used to determine the concentration of an acid or base by gradually adding a solution of known concentration until neutralization is achieved. An indicator or pH meter signals when the equivalence point is reached — the point where the acid and base have completely reacted."
+            ]
+        },
+        {
+            "heading": "Buffers and Biological pH Balance",
+            "paragraphs": [
+                "Buffers are solutions that resist changes in pH when small amounts of acid or base are added. They consist of a weak acid and its conjugate base (or a weak base and its conjugate acid). Buffer systems are essential for life because biochemical reactions require very specific pH conditions.",
+                "Human blood is maintained at a remarkably precise pH of 7.35-7.45 by the carbonic acid-bicarbonate buffer system. A pH below 7.35 (acidosis) or above 7.45 (alkalosis) can be life-threatening. The body's ability to maintain this narrow range despite constantly producing acidic metabolic waste is a marvel of biological engineering.",
+                "The precision of biological pH regulation points to purposeful design. The carbonic acid-bicarbonate buffer, working in concert with the lungs (which exhale CO₂) and kidneys (which excrete excess acid or base), creates a multi-layered system of pH control that far surpasses anything human engineers have devised. This complexity speaks to the wisdom of the Creator who designed our bodies with extraordinary care."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the pH scale and why it is logarithmic. What is the hydrogen ion concentration difference between a solution of pH 2 and pH 5?",
+            "guidance": "Remember that each pH unit represents a tenfold change. Calculate the total difference across 3 pH units."
+        },
+        {
+            "id": 2,
+            "question": "Describe a neutralization reaction and explain its importance in everyday life and medicine. Write a balanced equation for the neutralization of sulfuric acid with sodium hydroxide.",
+            "guidance": "Use the general pattern: Acid + Base → Salt + Water. Remember that sulfuric acid is diprotic (H₂SO₄ has two H⁺ ions)."
+        },
+        {
+            "id": 3,
+            "question": "How does the body's blood buffer system demonstrate intelligent design? Why is maintaining a precise pH so critical for life?",
+            "guidance": "Consider the narrow pH range of blood (7.35-7.45) and the multiple systems (buffer, lungs, kidneys) working together. Think about what would happen if pH regulation were less precise."
+        }
+    ]
+}

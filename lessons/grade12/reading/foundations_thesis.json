@@ -1,0 +1,85 @@
+{
+    "id": "foundations_thesis",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Foundations of the Senior Thesis",
+    "subtitle": "Writing as a Christian Calling — Crafting Arguments That Honor God",
+    "scripture": "Colossians 3:17",
+    "primary_source": "C.S. Lewis, 'Learning in War-Time' (1939)",
+    "key_concepts": ["Thesis statement development", "Academic integrity", "Writing as vocation", "Audience analysis"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:17",
+                "text": "\"And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.\"",
+                "commentary": "Academic writing is not a secular activity separate from faith. When Christians write with excellence, clarity, and truthfulness, they honor God and serve their neighbors by communicating truth effectively."
+            },
+            {
+                "reference": "Proverbs 25:11",
+                "text": "\"Like apples of gold in settings of silver is a ruling rightly given.\"",
+                "commentary": "Well-crafted words — the right argument at the right time, presented beautifully — have tremendous power. The thesis writer seeks not merely to inform but to present truth in its most compelling and beautiful form."
+            },
+            {
+                "reference": "2 Timothy 2:15",
+                "text": "\"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.\"",
+                "commentary": "Diligent study and careful handling of truth are essential Christian virtues. A thesis demands rigorous research, honest engagement with sources, and faithful representation of evidence."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Writing Matters",
+            "paragraphs": [
+                "The ability to write a sustained, well-reasoned argument is one of the most important skills you will develop in your academic career. The senior thesis represents the culmination of twelve years of learning — an opportunity to demonstrate mastery of research, analysis, and persuasion on a topic you care deeply about.",
+                "For the Christian student, writing is more than an academic exercise. It is an act of stewardship — using the intellectual gifts God has given you to advance truth, serve others, and glorify your Creator. Throughout history, the greatest Christian thinkers — Augustine, Aquinas, Luther, Calvin, Lewis, Schaeffer — advanced the Kingdom of God through the written word."
+            ]
+        },
+        {
+            "heading": "What Is a Thesis?",
+            "paragraphs": [
+                "A thesis is a focused, arguable claim that you develop and defend through evidence, reasoning, and analysis. It is not a report (which merely summarizes information) or an opinion piece (which states preferences without rigorous support). A thesis makes a specific claim and then marshals evidence to prove it.",
+                "A strong thesis statement has three qualities: it is specific (not vague or overly broad), it is arguable (reasonable people could disagree), and it is supportable (evidence exists to defend it). For example, 'The Protestant Reformation improved literacy in Europe' is a thesis — it makes a specific, arguable claim that can be supported with historical evidence.",
+                "A weak thesis, by contrast, is either too broad ('History is important'), too obvious ('World War II was a major conflict'), or purely subjective ('Shakespeare is boring'). Your thesis should invite investigation and reward careful analysis."
+            ]
+        },
+        {
+            "heading": "Choosing a Topic and Formulating Your Claim",
+            "paragraphs": [
+                "Topic selection is one of the most important decisions in the thesis process. Choose a subject that genuinely interests you — you will spend weeks researching and writing about it. Consider topics that intersect with your faith, your future studies, or issues you believe matter for the common good.",
+                "Begin with a broad area of interest, then narrow it through preliminary research. Ask focused questions: What do I want to know? What argument do I want to make? What evidence would I need to prove my claim? This process of narrowing transforms a general interest into a researchable, arguable thesis.",
+                "C.S. Lewis modeled this approach brilliantly. In 'Learning in War-Time,' he argued that intellectual pursuits remain valuable even during crisis — a specific, arguable claim defended with theological reasoning and practical wisdom. Lewis did not merely state an opinion; he constructed a sustained argument grounded in evidence and logic."
+            ]
+        },
+        {
+            "heading": "Academic Integrity and the Christian Writer",
+            "paragraphs": [
+                "Academic integrity is not merely a school policy — it is a moral imperative rooted in the Ninth Commandment: 'You shall not bear false witness.' Plagiarism — presenting another's words or ideas as your own — is a form of theft and deception. The Christian writer must be scrupulously honest in attributing sources, representing evidence fairly, and acknowledging the contributions of others.",
+                "Proper citation is an act of justice — giving credit where credit is due. It is also an act of humility, acknowledging that your argument builds on the work of those who came before you. Every great thinker stands on the shoulders of giants, and honest citation honors that intellectual heritage."
+            ]
+        },
+        {
+            "heading": "Understanding Your Audience",
+            "paragraphs": [
+                "Effective writing requires understanding your audience. Who will read your thesis? What do they already know? What objections might they raise? A skilled writer anticipates the reader's questions and addresses them proactively.",
+                "The Christian writer has a unique advantage: the conviction that truth is objective and knowable. You are not merely expressing personal preferences; you are making claims about reality that can be evaluated by evidence and reason. This confidence in objective truth frees you to engage honestly with opposing viewpoints, knowing that truth can withstand scrutiny."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Colossians 3:17 apply to academic writing? In what ways can a senior thesis be an act of worship and service?",
+            "guidance": "Consider how excellence, truthfulness, and diligence in writing reflect Christian character. Think about how your thesis topic might serve others or advance understanding of important issues."
+        },
+        {
+            "id": 2,
+            "question": "What makes a thesis statement strong versus weak? Write three example thesis statements on topics that interest you and evaluate each for specificity, arguability, and supportability.",
+            "guidance": "Practice the skill of narrowing broad topics into specific, arguable claims. Consider how your faith perspective might inform your choice of topics and the arguments you develop."
+        },
+        {
+            "id": 3,
+            "question": "Why is academic integrity a moral issue and not merely an institutional policy? How does the Ninth Commandment apply to research and writing?",
+            "guidance": "Think about plagiarism as a form of both theft and deception. Consider how honest citation practices reflect the Christian commitment to truth-telling."
+        }
+    ]
+}

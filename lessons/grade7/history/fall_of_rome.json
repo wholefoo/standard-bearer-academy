@@ -1,0 +1,73 @@
+{
+    "id": "fall_of_rome",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Fall of Rome",
+    "subtitle": "How Moral Decay and Barbarian Invasions Ended an Empire",
+    "scripture": "Proverbs 14:34",
+    "primary_source": "Edward Gibbon, The Decline and Fall of the Roman Empire (excerpt)",
+    "key_concepts": ["Decline of the Roman Empire", "Moral decay and civilizational collapse", "God's sovereignty over nations", "Barbarian invasions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 14:34",
+                "text": "\"Righteousness exalts a nation, but sin is a disgrace to any people.\"",
+                "commentary": "The fall of Rome illustrates this proverb powerfully. As Roman society abandoned virtue and embraced corruption, the empire weakened from within long before the barbarians breached its walls."
+            },
+            {
+                "reference": "Daniel 2:21",
+                "text": "\"He changes times and seasons; he deposes kings and raises up others.\"",
+                "commentary": "God is sovereign over the rise and fall of every empire. Rome's collapse was not random chance but part of God's providential plan for history."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Mighty Empire Crumbles",
+            "paragraphs": [
+                "For centuries, the Roman Empire was the most powerful civilization the world had ever known. Its roads, laws, and legions stretched from Britain to the deserts of North Africa. Yet by 476 AD, the Western Roman Empire had fallen. How could such a mighty power collapse?",
+                "The answer involves both internal decay and external pressure, and it teaches us timeless lessons about the importance of moral character in sustaining a nation."
+            ]
+        },
+        {
+            "heading": "Internal Causes: Moral and Political Decay",
+            "paragraphs": [
+                "Historians have identified many internal causes of Rome's decline. Political corruption became rampant as emperors seized power through violence rather than legitimate succession. The Senate, once a body of principled leaders, became a rubber stamp for imperial ambition.",
+                "Moral decay spread through Roman society. The family structure weakened, entertainment became increasingly violent and debased, and citizens grew dependent on government handouts of bread and circuses. The work ethic that had built the Republic gave way to laziness and entitlement.",
+                "Economic troubles mounted as heavy taxation crushed the middle class, inflation destroyed the currency, and trade declined. The empire became too large and too expensive to govern effectively."
+            ]
+        },
+        {
+            "heading": "External Causes: The Barbarian Invasions",
+            "paragraphs": [
+                "While Rome rotted from within, Germanic tribes pressed against its borders. The Visigoths, Vandals, Ostrogoths, and Huns all launched devastating invasions. In 410 AD, the Visigoths under Alaric sacked Rome itself — the first time the city had been conquered in 800 years.",
+                "In 476 AD, the Germanic chieftain Odoacer deposed the last Western Roman Emperor, Romulus Augustulus. The Western Roman Empire was no more, though the Eastern Empire (Byzantine Empire) would continue for nearly another thousand years.",
+                "It is important to note that many of these barbarian tribes had already been partially converted to Christianity. God was already at work, preparing the next chapter of civilization."
+            ]
+        },
+        {
+            "heading": "The Church Survives the Empire",
+            "paragraphs": [
+                "While the political structure of Rome collapsed, the Christian Church endured. Bishops became community leaders, monasteries preserved learning, and the Church provided stability and hope in a chaotic world.",
+                "This remarkable survival demonstrates a key truth: earthly kingdoms rise and fall, but God's Kingdom endures forever. The Church would become the primary institution shaping Western civilization for the next thousand years."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Proverbs 14:34 apply to the fall of Rome? What specific examples of moral decay contributed to the empire's collapse?",
+            "guidance": "Consider both personal morality and public virtue. Think about how corruption in leadership, breakdown of families, and dependence on government paralleled Rome's decline."
+        },
+        {
+            "id": 2,
+            "question": "Why did the Christian Church survive even though the Roman Empire fell? What does this tell us about the difference between earthly and heavenly kingdoms?",
+            "guidance": "Consider Jesus' words that the gates of hell would not prevail against His church (Matthew 16:18). Think about what makes God's Kingdom different from human empires."
+        },
+        {
+            "id": 3,
+            "question": "Are there parallels between Rome's internal problems and challenges facing modern nations? Explain your thinking.",
+            "guidance": "Think about issues like political division, moral relativism, economic troubles, and cultural decline. Consider what lessons modern nations might learn from Rome's example."
+        }
+    ]
+}

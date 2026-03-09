@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "math",
+    "title": "God's Numbers — Addition and Subtraction",
+    "description": "Learning addition and subtraction through Biblical examples and God's ordered creation",
+    "units": [
+        {
+            "id": "addition_subtraction",
+            "title": "Addition and Subtraction",
+            "lessons": ["counting_review", "addition_basics", "addition_practice", "subtraction_basics", "subtraction_practice", "word_problems"]
+        }
+    ],
+    "quiz_id": "math_quiz"
+}

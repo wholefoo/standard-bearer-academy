@@ -1,0 +1,79 @@
+{
+    "id": "citizen_duties",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "The Duties of Citizenship",
+    "subtitle": "Biblical Responsibilities of Citizens in a Free Republic",
+    "scripture": "Matthew 22:21; 1 Timothy 2:1-2; Jeremiah 29:7",
+    "primary_source": "George Washington's Farewell Address (1796) — 'Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports.'",
+    "key_concepts": ["Civic duty as Biblical responsibility", "Voting as stewardship", "Paying taxes", "Serving on juries", "Community involvement", "Moral citizenship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 22:21",
+                "text": "\"Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'\"",
+                "commentary": "Jesus acknowledged that citizens have legitimate obligations to their government — including paying taxes — while making clear that God's claims are ultimate. This verse establishes the principle of dual citizenship: Christians live under both civil and divine authority, with God's authority supreme."
+            },
+            {
+                "reference": "1 Timothy 2:1-2",
+                "text": "\"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people — for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness.\"",
+                "commentary": "Paul commands Christians to pray for their government leaders — all of them, not just the ones they agree with. This demonstrates that civic engagement begins with prayer and that Christians have a spiritual responsibility to support good governance."
+            },
+            {
+                "reference": "Jeremiah 29:7",
+                "text": "\"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.\"",
+                "commentary": "God commanded the Jewish exiles in Babylon to actively seek the welfare of the city where they lived — even though it was a pagan city. This establishes the principle that believers are called to be engaged, contributing citizens wherever God places them, working for the common good."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Citizenship as Stewardship",
+            "paragraphs": [
+                "In a self-governing republic like the United States, citizens are not passive subjects — they are active participants in governance. The right to vote, to serve on juries, to petition the government, and to run for office are not merely privileges but responsibilities. From a Biblical perspective, citizenship is a form of stewardship: God has entrusted us with the gift of self-government, and we will give an account of how we used it.",
+                "Jesus taught the parable of the talents (Matthew 25:14-30), in which servants were held accountable for how they invested what their master had given them. The servant who buried his talent out of laziness or fear was condemned. In the same way, citizens who neglect their civic duties — who refuse to vote, stay informed, or participate in their communities — are poor stewards of the freedoms God has given them."
+            ]
+        },
+        {
+            "heading": "Voting: The Responsibility to Choose Wisely",
+            "paragraphs": [
+                "In a republic, voting is the primary way citizens exercise their governing authority. When you vote, you are participating in the selection of leaders who will make laws, enforce justice, and represent your community. This is a serious responsibility that should be approached with prayer, study, and careful thought.",
+                "The Bible provides clear criteria for evaluating leaders. Exodus 18:21 says to 'select capable men from all the people — men who fear God, trustworthy men who hate dishonest gain.' Leaders should be competent, God-fearing, honest, and resistant to corruption. Voters have a responsibility to evaluate candidates against these Biblical standards, not merely by party affiliation or personal charisma.",
+                "Informed voting requires effort. Citizens must understand the issues, study the candidates' positions, and evaluate them against Biblical principles and constitutional standards. Voting based on ignorance or apathy is a failure of stewardship."
+            ]
+        },
+        {
+            "heading": "Taxes, Jury Duty, and Civic Obligations",
+            "paragraphs": [
+                "Jesus affirmed the legitimacy of taxation when He said, 'Give back to Caesar what is Caesar's' (Matthew 22:21). The Apostle Paul echoed this: 'This is also why you pay taxes, for the authorities are God's servants' (Romans 13:6). Paying taxes honestly is a civic and moral obligation, though citizens also have the right to advocate for fair and limited taxation through the political process.",
+                "Jury duty is another essential civic responsibility. The right to a trial by jury is one of the most important protections of individual liberty in the American system. When citizens serve on juries, they stand between the power of the government and the rights of the accused. Jurors are called to render fair and impartial verdicts based on evidence and law — a responsibility that directly reflects the Biblical call to 'judge fairly' (Leviticus 19:15).",
+                "Other civic duties include obeying just laws, serving in the military when called upon, and participating in the civic life of your community. Each of these responsibilities reflects the Biblical principle that we are called to seek the welfare of the communities where God has placed us."
+            ]
+        },
+        {
+            "heading": "Moral Citizenship: Character and the Republic",
+            "paragraphs": [
+                "The founders consistently warned that a free republic cannot survive without a virtuous citizenry. George Washington declared in his Farewell Address that 'religion and morality are indispensable supports' for political prosperity. Benjamin Franklin warned that the Constitutional Convention had created 'a republic, if you can keep it' — implying that maintaining freedom requires ongoing moral effort.",
+                "Moral citizenship means more than just obeying the law. It means being honest in business, faithful in relationships, generous with the needy, respectful in public discourse, and active in your community. It means treating your neighbors — including those with whom you disagree — with the dignity that their status as image-bearers of God demands.",
+                "The greatest civic contribution any citizen can make is to live a life of integrity, faith, and service. A nation of such citizens will produce just laws, fair courts, honest elections, and a society where liberty flourishes. This is what it means to be 'salt and light' (Matthew 5:13-16) in the civic sphere."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is citizenship a form of stewardship? What does the parable of the talents teach us about our civic responsibilities?",
+            "guidance": "Think about how God has entrusted us with the gift of self-government. Consider what it means to be a faithful steward of your right to vote, serve on juries, and participate in civic life."
+        },
+        {
+            "id": 2,
+            "question": "According to Exodus 18:21, what qualities should we look for in leaders? How can you apply these criteria when evaluating candidates for office?",
+            "guidance": "Consider the four qualities listed: capable, God-fearing, trustworthy, and resistant to corruption. Think about how these Biblical standards should shape your approach to voting."
+        },
+        {
+            "id": 3,
+            "question": "Why did Washington and the other founders insist that 'religion and morality' are necessary for a free republic? Do you agree? Why or why not?",
+            "guidance": "Consider what happens to a free society when citizens lack moral self-discipline. Think about why external laws alone cannot maintain order if people lack internal moral convictions."
+        }
+    ]
+}

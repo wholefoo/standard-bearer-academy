@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "bible",
+    "title": "Christian Apologetics — Defending the Faith",
+    "description": "An introduction to Christian apologetics, equipping students to understand and articulate rational defenses of the Christian faith against common objections.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Christian Apologetics — Defending the Faith",
+            "lessons": ["what_is_apologetics", "existence_of_god", "reliability_scripture", "problem_of_evil", "resurrection_evidence", "faith_and_reason"]
+        }
+    ],
+    "quiz_id": "apologetics_quiz"
+}

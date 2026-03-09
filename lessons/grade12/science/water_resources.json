@@ -1,0 +1,88 @@
+{
+    "id": "water_resources",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Water Resources and Stewardship",
+    "subtitle": "Managing God's Gift of Water",
+    "scripture": "Jeremiah 2:13",
+    "primary_source": "The Clean Water Act (1972) — Federal Water Pollution Control Amendments",
+    "key_concepts": ["Hydrologic cycle", "Freshwater distribution", "Groundwater and aquifers", "Water pollution and purification", "Water conservation and stewardship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:9-10",
+                "text": "\"And God said, 'Let the water under the sky be gathered to one place, and let dry ground appear.' And it was so. God called the dry ground 'land,' and the gathered waters he called 'seas.' And God saw that it was good.\"",
+                "commentary": "God designed the separation of water and land with purpose and intentionality. The distribution of water on Earth — covering about 71% of the surface — sustains all life and reflects divine wisdom in creation."
+            },
+            {
+                "reference": "Psalm 104:10-13",
+                "text": "\"He makes springs pour water into the ravines; it flows between the mountains. They give water to all the beasts of the field... He waters the mountains from his upper chambers; the land is satisfied by the fruit of his work.\"",
+                "commentary": "The psalmist celebrates God's provision of water through the hydrologic cycle. Rain, springs, and rivers are not accidents of nature but provisions of a caring Creator who sustains all life."
+            },
+            {
+                "reference": "Proverbs 25:26",
+                "text": "\"Like a muddied spring or a polluted well are the righteous who give way to the wicked.\"",
+                "commentary": "Scripture uses water pollution as a metaphor for moral corruption, but the underlying principle is clear: pure water is valuable and worth protecting. Contaminating water sources is destructive and irresponsible."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Hydrologic Cycle: God's Water Distribution System",
+            "paragraphs": [
+                "The hydrologic (water) cycle is one of the most remarkable systems in creation. Driven by solar energy and gravity, water continuously moves between the atmosphere, land, and oceans through evaporation, condensation, precipitation, infiltration, and runoff.",
+                "Approximately 97% of Earth's water is saltwater in the oceans. Of the remaining 3% that is freshwater, about 69% is locked in ice caps and glaciers, 30% is groundwater, and less than 1% is readily accessible surface freshwater in lakes, rivers, and streams. This distribution makes the careful management of freshwater resources critically important.",
+                "The hydrologic cycle purifies water naturally through evaporation (which leaves contaminants behind) and filtration through soil and rock. This built-in purification system is a testament to the Creator's foresight and provision."
+            ]
+        },
+        {
+            "heading": "Groundwater and Aquifers",
+            "paragraphs": [
+                "Groundwater — water stored in underground rock formations called aquifers — supplies approximately 30% of the world's freshwater. Aquifers are replenished (recharged) when precipitation seeps through soil and rock, but this process can take decades or even centuries.",
+                "The Ogallala Aquifer beneath the American Great Plains is one of the world's largest, providing water for irrigation across eight states. However, water is being withdrawn faster than it is being recharged, raising important questions about sustainable use and generational stewardship.",
+                "Groundwater contamination from agricultural runoff, industrial waste, and improper disposal of chemicals poses serious threats. Once contaminated, aquifers are extremely difficult and expensive to clean, making prevention essential."
+            ]
+        },
+        {
+            "heading": "Water Pollution: Types and Sources",
+            "paragraphs": [
+                "Water pollution comes from two main categories: point sources (identifiable, specific locations like factory discharge pipes) and nonpoint sources (diffuse sources like agricultural runoff across wide areas). Nonpoint source pollution is typically harder to identify and control.",
+                "Major water pollutants include pathogens (disease-causing organisms), nutrients (nitrogen and phosphorus that cause algal blooms and dead zones), heavy metals (mercury, lead), synthetic chemicals (pesticides, pharmaceuticals), sediment, and thermal pollution (heated water discharge from power plants).",
+                "Eutrophication — the excessive enrichment of water bodies with nutrients — leads to algal blooms that deplete dissolved oxygen, creating 'dead zones' where aquatic life cannot survive. The dead zone in the Gulf of Mexico, fed by agricultural runoff from the Mississippi River watershed, illustrates this problem on a massive scale."
+            ]
+        },
+        {
+            "heading": "Water Treatment and Purification",
+            "paragraphs": [
+                "Modern water treatment involves multiple stages: screening and sedimentation to remove large particles, coagulation and flocculation to clump smaller particles together, filtration through sand and activated carbon, and disinfection (typically with chlorine or ultraviolet light) to kill pathogens.",
+                "Wastewater treatment follows a similar multi-stage process, treating sewage and industrial discharge before returning water to the environment. Primary treatment removes solids, secondary treatment uses biological processes to break down organic matter, and tertiary treatment removes remaining nutrients and contaminants.",
+                "These processes mimic and enhance the natural purification processes God designed into the water cycle, demonstrating how human ingenuity can work alongside creation's design to protect water quality."
+            ]
+        },
+        {
+            "heading": "Water Conservation and Biblical Stewardship",
+            "paragraphs": [
+                "Water conservation is both a practical necessity and a stewardship responsibility. Agriculture accounts for approximately 70% of global freshwater use, making efficient irrigation techniques (such as drip irrigation) critically important for responsible resource management.",
+                "Individual conservation efforts — reducing waste, fixing leaks, using water-efficient appliances — also matter, especially in regions facing water scarcity. Approximately 2 billion people worldwide lack access to safely managed drinking water, making conservation in water-rich nations a matter of justice as well as stewardship.",
+                "As stewards of God's creation, Christians should lead in protecting water resources — not out of environmental ideology, but out of obedience to God's command to tend and keep the earth (Genesis 2:15) and love for our neighbors who depend on clean water for survival."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the hydrologic cycle demonstrate God's provision and design? What features of this system suggest intentional creation rather than random natural processes?",
+            "guidance": "Consider the built-in purification through evaporation, the distribution mechanisms through precipitation, and the storage systems in aquifers and ice caps."
+        },
+        {
+            "id": 2,
+            "question": "Explain the difference between point source and nonpoint source water pollution. Why is nonpoint source pollution generally more difficult to address? Provide examples of each.",
+            "guidance": "Think about the challenges of identifying and regulating diffuse pollution sources compared to identifiable discharge points."
+        },
+        {
+            "id": 3,
+            "question": "How does the concept of generational stewardship apply to groundwater management? What responsibility do current users of aquifers like the Ogallala have to future generations?",
+            "guidance": "Consider the slow recharge rate of aquifers and the Biblical principle that the earth belongs to the Lord, and we are temporary stewards of His resources."
+        }
+    ]
+}

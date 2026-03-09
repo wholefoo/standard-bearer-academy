@@ -1,0 +1,77 @@
+{
+    "id": "plants",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: The World of Plants",
+    "subtitle": "Photosynthesis, Structure, and the Design of Green Living Things",
+    "scripture": "Genesis 1:11-12",
+    "primary_source": "Jan Ingenhousz, Experiments upon Vegetables (1779)",
+    "key_concepts": ["Photosynthesis", "Plant structures and functions", "Reproduction in plants", "Plants in God's design for sustaining life"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:11-12",
+                "text": "\"Then God said, 'Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.' And it was so. The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.\"",
+                "commentary": "Plants were among the first living things God created, appearing on Day Three of Creation. God designed them to reproduce 'according to their kinds' and to serve as the foundation of the food chain, sustaining all other life on Earth."
+            },
+            {
+                "reference": "Matthew 6:28-29",
+                "text": "\"See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these.\"",
+                "commentary": "Jesus pointed to plants as evidence of God's care and artistry. The beauty and complexity of flowers — designed to attract pollinators and reproduce — reveal a Creator who delights in both function and beauty."
+            },
+            {
+                "reference": "Isaiah 40:8",
+                "text": "\"The grass withers and the flowers fall, but the word of our God endures forever.\"",
+                "commentary": "While plants follow seasonal cycles of growth and decay, God's Word is eternal. The temporary nature of plants reminds us to build our lives on what lasts — God's unchanging truth."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Plants: The Foundation of Life on Earth",
+            "paragraphs": [
+                "Plants are essential to life on Earth. They produce the oxygen we breathe, provide food for animals and humans, prevent soil erosion, regulate the water cycle, and create habitats for countless organisms. Without plants, life as we know it would be impossible.",
+                "God created plants on Day Three of Creation — before He created animals or humans — because plants are the foundation upon which the rest of the living world depends. This order of creation reveals God's wisdom: He prepared the food supply and the atmosphere before bringing the creatures that would need them."
+            ]
+        },
+        {
+            "heading": "Photosynthesis: God's Energy Conversion System",
+            "paragraphs": [
+                "Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose (sugar) and oxygen. This process takes place primarily in the leaves, within organelles called chloroplasts. The green pigment chlorophyll captures light energy and uses it to power a series of remarkable chemical reactions.",
+                "The equation for photosynthesis is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. In simple terms, plants take in carbon dioxide and water, use sunlight as energy, and produce sugar and oxygen. The sugar provides energy for the plant, while the oxygen is released into the atmosphere for animals and humans to breathe.",
+                "Photosynthesis is one of the most elegant and efficient energy conversion systems known to science. Scientists have spent decades trying to replicate it artificially and have never matched the efficiency of what God designed in a single leaf. This remarkable process points to an intelligent Designer who engineered the perfect system for sustaining life on Earth."
+            ]
+        },
+        {
+            "heading": "Plant Structures: Roots, Stems, and Leaves",
+            "paragraphs": [
+                "Every part of a plant has been designed for a specific purpose. Roots anchor the plant in the soil and absorb water and minerals from the ground. Root systems can be remarkably extensive — a single rye plant, for example, can have over 14 billion root hairs with a combined length of over 6,000 miles.",
+                "Stems provide structural support, holding the leaves up toward sunlight. They also contain vascular tissue — the xylem carries water and minerals upward from the roots, while the phloem carries sugars produced in the leaves to the rest of the plant. Leaves are the primary sites of photosynthesis. Their flat, broad shape maximizes the surface area exposed to sunlight, and tiny pores called stomata allow gases to enter and exit the leaf."
+            ]
+        },
+        {
+            "heading": "Plant Reproduction: Seeds, Flowers, and Fruit",
+            "paragraphs": [
+                "God designed plants with remarkable systems for reproduction. Many plants reproduce through seeds, which contain a tiny embryo plant along with a food supply, all protected by a seed coat. Seeds can survive harsh conditions — some seeds remain viable for decades, even centuries, waiting for the right conditions to germinate.",
+                "Flowering plants (angiosperms) produce flowers, which are specialized reproductive structures. Flowers attract pollinators like bees, butterflies, and hummingbirds through their colors, scents, and nectar. After pollination, the flower develops into a fruit that protects and disperses the seeds. The incredible variety of flowers — from tiny wildflowers to giant sunflowers — reflects God's creativity and His delight in beauty as well as function."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it significant that God created plants on Day Three, before animals and humans? What does this tell us about God's wisdom and planning?",
+            "guidance": "Think about what plants provide that animals and humans need to survive. Consider how the order of creation reflects intentional design."
+        },
+        {
+            "id": 2,
+            "question": "Photosynthesis has been called 'the most important chemical reaction on Earth.' Why? How does the complexity and efficiency of photosynthesis point to an intelligent Designer?",
+            "guidance": "Consider what would happen to all life on Earth without photosynthesis. Think about why scientists have been unable to replicate this process as efficiently as a single leaf does it."
+        },
+        {
+            "id": 3,
+            "question": "Jesus used plants frequently in His teachings (Matthew 6:28-29, John 15:1-5). Why do you think He chose plants as illustrations of spiritual truths?",
+            "guidance": "Consider how the life cycle of plants — planting, growing, bearing fruit — parallels spiritual growth. Think about what plants reveal about God's provision and care."
+        }
+    ]
+}

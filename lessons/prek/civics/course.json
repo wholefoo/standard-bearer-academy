@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "civics",
+    "title": "God's Rules — Learning Right from Wrong",
+    "description": "Learn about following rules, being kind, and doing what is right. Fun lessons for ages 3-5.",
+    "units": [
+        {
+            "id": "gods_rules",
+            "title": "God's Rules for Living",
+            "lessons": ["following_rules", "being_kind", "sharing", "telling_truth", "helping_others"]
+        }
+    ],
+    "quiz_id": "civics_quiz"
+}

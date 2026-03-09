@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "history",
+    "title": "The Medieval World — Christianity and Civilization",
+    "description": "Explore the medieval era from the fall of Rome to the dawn of the Renaissance, examining how Christianity shaped Western Civilization and preserved learning through the ages.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Medieval World",
+            "lessons": ["fall_of_rome", "rise_of_christendom", "feudalism", "crusades", "medieval_church", "renaissance_dawn"]
+        }
+    ],
+    "quiz_id": "medieval_quiz"
+}

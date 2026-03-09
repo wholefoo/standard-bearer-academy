@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "science",
+    "title": "God's Beautiful World — Exploring Creation",
+    "description": "Discover the amazing world God created! Learn about animals, plants, weather, and more. Perfect for ages 3-5.",
+    "units": [
+        {
+            "id": "exploring_creation",
+            "title": "Exploring God's Creation",
+            "lessons": ["animals", "plants", "sky", "water", "senses"]
+        }
+    ],
+    "quiz_id": "creation_quiz"
+}

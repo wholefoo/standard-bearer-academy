@@ -1,0 +1,91 @@
+{
+    "id": "inferential_statistics",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Inferential Statistics",
+    "subtitle": "Drawing Conclusions with Wisdom and Integrity",
+    "scripture": "Proverbs 18:17",
+    "primary_source": "Ronald Fisher's Development of Modern Statistical Testing (1920s-1930s)",
+    "key_concepts": ["Confidence intervals", "Hypothesis testing", "Type I and Type II errors", "P-values and significance", "Statistical vs. practical significance"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 18:17",
+                "text": "\"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.\"",
+                "commentary": "This proverb embodies the spirit of hypothesis testing — initial claims must be examined with evidence before they are accepted. Statistical inference formalizes this Biblical principle of testing claims before drawing conclusions."
+            },
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"But test everything; hold fast what is good.\"",
+                "commentary": "Paul's exhortation to 'test everything' applies broadly, including to empirical claims. Hypothesis testing is a rigorous method for evaluating evidence, consistent with the Biblical call to seek truth through careful examination."
+            },
+            {
+                "reference": "Proverbs 14:15",
+                "text": "\"The simple believe anything, but the prudent give thought to their steps.\"",
+                "commentary": "Statistical literacy helps us be prudent rather than gullible. Understanding confidence intervals and hypothesis tests enables us to evaluate claims critically and make decisions based on evidence rather than assumption."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "From Samples to Populations: The Goal of Inference",
+            "paragraphs": [
+                "Inferential statistics allows us to draw conclusions about a population based on information from a sample. This is necessary because it is usually impractical or impossible to measure every member of a population. Instead, we collect a representative sample and use it to estimate population parameters.",
+                "The two main tools of inferential statistics are confidence intervals (estimating population parameters) and hypothesis tests (testing claims about population parameters). Both rely on the Central Limit Theorem and the principles of probability."
+            ]
+        },
+        {
+            "heading": "Confidence Intervals",
+            "paragraphs": [
+                "A confidence interval provides a range of plausible values for a population parameter, along with a level of confidence. For example, a 95% confidence interval for a population mean might be (45.2, 52.8), meaning we are 95% confident that the true population mean falls within this range.",
+                "The formula for a confidence interval for a mean is: x̄ ± z* × (s/√n), where x̄ is the sample mean, z* is the critical value for the desired confidence level (1.96 for 95%), s is the sample standard deviation, and n is the sample size. The margin of error is z* × (s/√n).",
+                "Increasing the sample size narrows the confidence interval (more data yields more precise estimates). Increasing the confidence level widens the interval (greater certainty requires a wider range). Understanding this trade-off is essential for designing studies and interpreting results.",
+                "A common misconception: a 95% confidence interval does NOT mean there is a 95% probability that the population mean falls in the interval. Rather, it means that if we repeated the sampling process many times, 95% of the resulting intervals would contain the true population mean."
+            ]
+        },
+        {
+            "heading": "Hypothesis Testing",
+            "paragraphs": [
+                "Hypothesis testing is a formal procedure for evaluating claims about population parameters. The process begins with two competing hypotheses: the null hypothesis (H₀), which represents the status quo or the claim being tested, and the alternative hypothesis (Hₐ), which represents the claim we are looking for evidence to support.",
+                "We collect sample data, calculate a test statistic, and determine how likely we would be to observe such data if the null hypothesis were true. If the data would be very unlikely under H₀ (as measured by the p-value), we reject H₀ in favor of Hₐ.",
+                "The significance level (α), typically set at 0.05, is the threshold for rejecting H₀. If the p-value ≤ α, we reject H₀ and conclude there is statistically significant evidence for Hₐ. If the p-value > α, we fail to reject H₀ (we do not 'accept' H₀ — we simply lack sufficient evidence to reject it).",
+                "This process mirrors the legal principle of 'innocent until proven guilty.' The null hypothesis (innocence) is assumed true unless the evidence (data) is strong enough to reject it beyond a reasonable threshold."
+            ]
+        },
+        {
+            "heading": "Errors in Hypothesis Testing",
+            "paragraphs": [
+                "Two types of errors can occur in hypothesis testing. A Type I error (false positive) occurs when we reject H₀ when it is actually true — concluding there is an effect when there isn't one. The probability of a Type I error equals α, the significance level.",
+                "A Type II error (false negative) occurs when we fail to reject H₀ when it is actually false — missing a real effect. The probability of a Type II error is denoted β. The power of a test (1 − β) is the probability of correctly rejecting a false H₀.",
+                "Reducing one type of error generally increases the other. Lowering α (making it harder to reject H₀) reduces Type I errors but increases Type II errors. The appropriate balance depends on the context — in medical testing, the consequences of each type of error must be carefully weighed.",
+                "Understanding these errors promotes intellectual humility. Statistical conclusions are probabilistic, not certain. Even well-designed studies can produce errors, which is why replication — repeating studies to confirm results — is essential in science."
+            ]
+        },
+        {
+            "heading": "Statistical vs. Practical Significance",
+            "paragraphs": [
+                "A statistically significant result (small p-value) does not necessarily mean the result is practically important. With a large enough sample, even trivially small differences can be statistically significant. Conversely, a practically important difference may not reach statistical significance in a small sample.",
+                "For example, a study might find that a new teaching method improves test scores by 0.5 points on a 100-point scale, with p = 0.003. This is statistically significant but practically meaningless — a half-point improvement doesn't warrant changing an entire educational program.",
+                "Wise interpretation requires considering both statistical significance (is the result unlikely due to chance alone?) and practical significance (is the effect large enough to matter in the real world?). This distinction reflects the Biblical principle of wisdom — not just knowing facts but understanding their meaning and implications.",
+                "As future decision-makers, you must resist the temptation to worship p-values. A small p-value is not proof, and a large p-value is not disproof. Statistical results are tools for wise decision-making, not substitutes for judgment, context, and wisdom."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Proverbs 18:17 relate to hypothesis testing? Why is it important to test claims with evidence rather than accepting them at face value?",
+            "guidance": "Consider the structure of hypothesis testing as a formalized cross-examination of claims. How does this process align with the Biblical principle of careful evaluation?"
+        },
+        {
+            "id": 2,
+            "question": "Explain the difference between Type I and Type II errors using a real-world example (such as medical testing or a court trial). Which type of error is more serious in your example, and why?",
+            "guidance": "Think about the consequences of each type of error in your chosen context. In a medical test, a false positive might lead to unnecessary treatment, while a false negative might mean a disease goes untreated."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to distinguish between statistical significance and practical significance? Give an example where a result could be statistically significant but practically unimportant.",
+            "guidance": "Consider how large sample sizes can make tiny effects statistically significant and why wisdom requires looking beyond p-values to the actual size and importance of effects."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "reading",
+    "title": "British Literature — Faith in the English Tradition",
+    "description": "A survey of British literature from the Anglo-Saxon period to the modern era, exploring how Christian faith shaped the greatest works of the English literary tradition.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: British Literature — Faith in the English Tradition",
+            "lessons": ["anglo_saxon", "medieval_lit", "shakespeare", "puritan_milton", "romantic_victorian", "modern_british"]
+        }
+    ],
+    "quiz_id": "literature_quiz"
+}

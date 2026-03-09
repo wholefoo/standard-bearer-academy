@@ -1,0 +1,74 @@
+{
+    "id": "feudalism",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Feudalism and Medieval Society",
+    "subtitle": "Order, Duty, and Community in the Middle Ages",
+    "scripture": "Romans 12:4-5",
+    "primary_source": "The Feudal Oath of Loyalty (medieval text)",
+    "key_concepts": ["Feudalism", "Lords and vassals", "The manor system", "Social order and mutual obligation", "Medieval daily life"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 12:4-5",
+                "text": "\"For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to all the others.\"",
+                "commentary": "Medieval society reflected the Biblical idea that every person has a distinct role and that the community functions best when each member faithfully fulfills their responsibilities."
+            },
+            {
+                "reference": "Colossians 3:23-24",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward.\"",
+                "commentary": "Whether a medieval person was a lord, a knight, a merchant, or a farmer, the Christian faith taught that all honest work was dignified because it was done for God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: A World Without Central Government",
+            "paragraphs": [
+                "After the collapse of Charlemagne's empire, Europe had no strong central governments. Viking raids from the north, Magyar attacks from the east, and Muslim invasions from the south created constant danger. People needed protection, and a new system of social organization emerged: feudalism.",
+                "Feudalism was a system of mutual obligations between lords and vassals, built on oaths of loyalty and land grants. Though imperfect, it provided order and stability during a dangerous time."
+            ]
+        },
+        {
+            "heading": "How Feudalism Worked",
+            "paragraphs": [
+                "Under feudalism, a king granted large estates (called fiefs) to powerful nobles in exchange for military service and loyalty. These nobles, in turn, granted portions of their land to lesser lords, who owed them the same obligations. At each level, the relationship was based on a solemn oath — a covenant of mutual duty.",
+                "Knights were warriors who pledged to serve their lord in battle. In return, they received land and the right to govern the people living on it. The code of chivalry — which included loyalty, courage, honor, and protection of the weak — was deeply influenced by Christian teaching.",
+                "At the base of the system were the peasants and serfs who worked the land. While their lives were often hard, they were not slaves. They had customary rights, including the right to farm their own plots, and their lords had a duty to protect and provide justice for them."
+            ]
+        },
+        {
+            "heading": "Life on the Manor",
+            "paragraphs": [
+                "The manor was the basic economic unit of medieval society. A typical manor included the lord's castle or manor house, a village, farmland, pastures, forests, and a church. The manor was largely self-sufficient, producing its own food, clothing, and tools.",
+                "Daily life followed the rhythm of the agricultural seasons and the Christian calendar. Church bells marked the hours, and the great festivals of Christmas, Easter, and saints' days provided breaks from labor and opportunities for community celebration.",
+                "The parish church was the center of village life. Here people were baptized, married, and buried. The parish priest provided spiritual guidance, and the church often served as a school and a place of refuge."
+            ]
+        },
+        {
+            "heading": "Strengths and Weaknesses of Feudalism",
+            "paragraphs": [
+                "Feudalism had real strengths: it provided local order and protection when central government had collapsed, it established clear responsibilities and relationships, and it was built on the principle of mutual obligation rather than raw power.",
+                "However, feudalism also had significant weaknesses. Social mobility was extremely limited — most people were born into a fixed social position. Justice depended heavily on the character of the local lord, and wars between feudal lords were common.",
+                "Despite its flaws, feudalism preserved the seeds of liberty. The idea that even a king must respect the rights and customary laws of his subjects — an idea rooted in the Christian understanding of limited authority — would eventually grow into constitutional government."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the feudal system reflect the Biblical idea of mutual obligation? What responsibilities did lords have toward their vassals and peasants?",
+            "guidance": "Consider how feudalism was based on oaths and covenants rather than simply on force. Think about how the Christian concept of stewardship influenced the expectations placed on lords."
+        },
+        {
+            "id": 2,
+            "question": "What role did the Christian Church play in the daily life of a medieval village? Why was the parish church so important?",
+            "guidance": "Think about the church as a center for worship, education, community gathering, and marking the stages of life. Consider how faith shaped the rhythm of medieval daily life."
+        },
+        {
+            "id": 3,
+            "question": "What were the strengths and weaknesses of feudalism? How did the principle of mutual obligation contain the seeds of later ideas about limited government?",
+            "guidance": "Consider that even a king had obligations to his vassals. Think about how this idea that rulers are not absolute connects to the later development of constitutional rights."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "expressions",
+    "lesson_number": 2,
+    "title": "Writing and Evaluating Expressions",
+    "scripture": "Proverbs 2:6",
+    "memory_verse": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\" — Proverbs 2:6 (NIV)",
+    "objective": "Students will learn to write and evaluate mathematical expressions using numbers, variables, and operations.",
+    "content": [
+        "A mathematical expression is a combination of numbers, variables, and operations like addition, subtraction, multiplication, and division. For example, 3x + 2 is an expression.",
+        "To evaluate an expression means to find its value by replacing the variable with a specific number. If x = 4, then 3x + 2 = 3(4) + 2 = 12 + 2 = 14.",
+        "We can translate word problems into expressions. 'Three times a number plus two' becomes 3n + 2. 'A number minus five' becomes n - 5.",
+        "God gives us wisdom to solve problems. Writing expressions is like learning a new language — the language of mathematics that helps us describe the world God made."
+    ],
+    "activity": "Create a set of 10 flash cards. On one side write a word phrase like 'twice a number plus seven.' On the other side write the matching expression (2n + 7). Practice with a partner.",
+    "discussion": [
+        "What is the difference between an expression and a single number?",
+        "How do you decide which operation to use when translating words into math?",
+        "Why is it important to be precise in mathematics?"
+    ]
+}

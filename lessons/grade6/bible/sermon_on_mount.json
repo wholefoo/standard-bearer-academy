@@ -1,0 +1,76 @@
+{
+    "id": "sermon_on_mount",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: The Sermon on the Mount",
+    "subtitle": "Jesus' Greatest Teaching — The Heart of Kingdom Living",
+    "scripture": "Matthew 5-7",
+    "primary_source": "The Beatitudes (Matthew 5:3-12)",
+    "key_concepts": ["The Beatitudes", "Heart-level righteousness", "The Lord's Prayer", "Building on the rock"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 5:3",
+                "text": "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\"",
+                "commentary": "Jesus begins His most famous sermon by turning the world's values upside down. The 'poor in spirit' are those who recognize their spiritual need and dependence on God. The kingdom belongs not to the proud and self-sufficient, but to those who humbly acknowledge they need a Savior."
+            },
+            {
+                "reference": "Matthew 5:17",
+                "text": "\"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.\"",
+                "commentary": "Jesus did not come to cancel the Old Testament but to fulfill it. He showed the deeper meaning of God's law — that it is not just about outward behavior but about the attitudes of the heart."
+            },
+            {
+                "reference": "Matthew 7:24-25",
+                "text": "\"Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.\"",
+                "commentary": "Jesus concludes the Sermon on the Mount with this powerful image: those who hear His teaching and obey it are building their lives on an unshakable foundation. Those who hear but do not obey are building on sand — destined to collapse."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Setting: Jesus Teaches the Crowds",
+            "paragraphs": [
+                "The Sermon on the Mount, found in Matthew chapters 5 through 7, is the longest recorded teaching of Jesus in the Gospels. Jesus sat down on a mountainside — the traditional posture of a rabbi teaching with authority — and delivered a message that has shaped the moral thinking of Western civilization for two thousand years.",
+                "In this sermon, Jesus lays out the values and principles of the Kingdom of God. He describes what it looks like to follow Him — not merely in outward religious practices, but in the deepest attitudes of the heart. This teaching challenged both the self-righteous religious leaders and the everyday people who heard it."
+            ]
+        },
+        {
+            "heading": "The Beatitudes: God's Upside-Down Kingdom",
+            "paragraphs": [
+                "Jesus opens with the Beatitudes — a series of blessings that describe the character of a true follower of Christ. 'Blessed are the poor in spirit... blessed are those who mourn... blessed are the meek... blessed are those who hunger and thirst for righteousness.' Each beatitude turns worldly values on their head.",
+                "The world says the powerful, the proud, and the self-made are blessed. Jesus says the humble, the grieving, the gentle, and the hungry-hearted are the truly blessed ones. These are the people who recognize their need for God and are ready to receive His grace. The Beatitudes describe the kind of person God delights in — and the kind of person every Christian should strive to become."
+            ]
+        },
+        {
+            "heading": "Heart-Level Righteousness: Going Deeper Than Rules",
+            "paragraphs": [
+                "In the heart of the sermon, Jesus takes several well-known commandments and reveals their deeper, heart-level meaning. Murder is not just the physical act of killing — it begins with anger and hatred in the heart. Adultery is not just a physical act — it begins with lustful thoughts. Jesus raises the standard far above mere rule-following.",
+                "This was a direct challenge to the Pharisees, who prided themselves on outward obedience to the law while their hearts were far from God. Jesus taught that true righteousness is not about looking good on the outside; it is about being transformed on the inside. Only God can change the human heart, and that is why we need a Savior."
+            ]
+        },
+        {
+            "heading": "The Lord's Prayer and Practical Kingdom Living",
+            "paragraphs": [
+                "Jesus also taught His followers how to pray. The Lord's Prayer (Matthew 6:9-13) is a model that begins with worship ('Our Father in heaven, hallowed be your name'), includes submission to God's will ('Your kingdom come, your will be done'), and covers daily needs, forgiveness, and protection from evil.",
+                "He also taught about worry, money, and judging others. 'Do not store up for yourselves treasures on earth,' He said, 'but store up treasures in heaven' (Matthew 6:19-20). 'Do not worry about tomorrow, for tomorrow will worry about itself' (Matthew 6:34). These teachings call us to trust God completely and to live with an eternal perspective rather than a worldly one."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose one of the Beatitudes and explain what it means in your own words. Why does Jesus consider this quality 'blessed' even though the world might see it as a weakness?",
+            "guidance": "Think about how the world's definition of 'blessed' or 'happy' differs from Jesus' definition. Consider why qualities like humility, mourning over sin, and meekness are actually signs of spiritual strength."
+        },
+        {
+            "id": 2,
+            "question": "What does Jesus mean when He says He came not to abolish the Law but to fulfill it? How does He take the commandments deeper than outward behavior?",
+            "guidance": "Consider Jesus' examples about anger and murder, lust and adultery. Think about why heart-level obedience is more important than just outward rule-following."
+        },
+        {
+            "id": 3,
+            "question": "Read the parable of the wise and foolish builders at the end of the Sermon (Matthew 7:24-27). What is the 'rock' and what is the 'sand'? How can you build your life on the rock?",
+            "guidance": "The rock is hearing Jesus' words and obeying them. The sand is hearing but not obeying. Think about practical ways you can put Jesus' teachings into practice in your daily life."
+        }
+    ]
+}

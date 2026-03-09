@@ -1,0 +1,96 @@
+{
+    "id": "trigonometry",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Trigonometric Functions",
+    "subtitle": "The Mathematics of Cycles and Waves",
+    "scripture": "Ecclesiastes 1:5-7",
+    "primary_source": "Ptolemy's Almagest and the development of trigonometric tables (c. 150 AD)",
+    "key_concepts": ["Angles in radians and degrees", "The unit circle", "Sine, cosine, and tangent functions", "Graphs of trigonometric functions", "Trigonometric identities"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 1:5-7",
+                "text": "\"The sun rises and the sun sets, and hurries back to where it rises. The wind blows to the south and turns to the north; round and round it goes, ever returning on its course. All streams flow into the sea, yet the sea is never full.\"",
+                "commentary": "The Preacher observes the cyclical nature of creation — the sun's daily course, the wind's patterns, the water cycle. Trigonometric functions are the mathematical language of cycles, modeling the periodic rhythms that God has built into the natural world."
+            },
+            {
+                "reference": "Genesis 8:22",
+                "text": "\"As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.\"",
+                "commentary": "God promises that the cycles of nature will continue — seasons, day and night, planting and harvest. Trigonometric functions model these cycles with mathematical precision, describing the periodic patterns that God has guaranteed."
+            },
+            {
+                "reference": "Psalm 19:6",
+                "text": "\"It rises at one end of the heavens and makes its circuit to the other; nothing is deprived of its warmth.\"",
+                "commentary": "The sun's apparent circuit across the sky is a periodic motion that can be modeled using trigonometric functions. The regularity of this motion, which enables life on earth, reflects the faithfulness of the Creator."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Trigonometry?",
+            "paragraphs": [
+                "Trigonometry — the study of triangles and the relationships between their sides and angles — is one of the most practical and beautiful branches of mathematics. Originally developed for astronomy and navigation, trigonometry now underpins physics, engineering, music, computer graphics, and countless other fields.",
+                "At its heart, trigonometry connects geometry (shapes and angles) with algebra (functions and equations). The trigonometric functions — sine, cosine, and tangent — create a bridge between the world of angles and the world of numbers. This bridge reveals the deep unity of mathematical truth."
+            ]
+        },
+        {
+            "heading": "Angles: Degrees and Radians",
+            "paragraphs": [
+                "Angles can be measured in degrees (where a full circle = 360°) or radians (where a full circle = 2π radians). The radian measure of an angle is defined as the ratio of the arc length to the radius: θ = s/r. One radian is approximately 57.3°.",
+                "Radian measure is preferred in higher mathematics because it simplifies many formulas. Key conversions: 180° = π radians, 90° = π/2 radians, 60° = π/3 radians, 45° = π/4 radians, 30° = π/6 radians. To convert degrees to radians, multiply by π/180. To convert radians to degrees, multiply by 180/π.",
+                "The use of π in angle measurement is another example of how this remarkable constant appears throughout mathematics. The ratio of a circle's circumference to its diameter — π ≈ 3.14159... — is a number that God embedded in the geometry of creation."
+            ]
+        },
+        {
+            "heading": "The Unit Circle",
+            "paragraphs": [
+                "The unit circle is a circle of radius 1 centered at the origin. It is the key to understanding trigonometric functions. For any angle θ measured counterclockwise from the positive x-axis, the point on the unit circle at that angle has coordinates (cos θ, sin θ).",
+                "This definition extends sine and cosine beyond right triangles to all angles — including negative angles and angles greater than 360°. The unit circle reveals that sine and cosine are periodic functions: sin(θ + 2π) = sin θ and cos(θ + 2π) = cos θ. They repeat every full revolution.",
+                "Key unit circle values should be memorized: at 0° (0 rad): sin = 0, cos = 1; at 30° (π/6): sin = 1/2, cos = √3/2; at 45° (π/4): sin = √2/2, cos = √2/2; at 60° (π/3): sin = √3/2, cos = 1/2; at 90° (π/2): sin = 1, cos = 0. These values, derived from the geometry of equilateral and isosceles right triangles, form the foundation for all trigonometric calculations."
+            ]
+        },
+        {
+            "heading": "Graphs of Trigonometric Functions",
+            "paragraphs": [
+                "The graph of y = sin x is a smooth, wave-like curve that oscillates between -1 and 1 with period 2π. It starts at the origin, reaches a maximum of 1 at x = π/2, returns to 0 at x = π, reaches a minimum of -1 at x = 3π/2, and completes one cycle at x = 2π.",
+                "The graph of y = cos x has the same shape but is shifted left by π/2 — it starts at its maximum value of 1. The relationship cos x = sin(x + π/2) connects the two functions.",
+                "The general sinusoidal function y = A sin(B(x - C)) + D has amplitude |A| (vertical stretch), period 2π/|B| (horizontal stretch), phase shift C (horizontal shift), and vertical shift D. This general form models an enormous range of periodic phenomena: sound waves, alternating current, tidal patterns, seasonal temperature variations, and the vibrations of musical instruments.",
+                "The tangent function, y = tan x = sin x / cos x, has a period of π and vertical asymptotes wherever cos x = 0 (at x = π/2 + nπ). Unlike sine and cosine, tangent is unbounded — it can take any real value."
+            ]
+        },
+        {
+            "heading": "Trigonometric Identities",
+            "paragraphs": [
+                "Trigonometric identities are equations that are true for all valid values of the variable. The most fundamental is the Pythagorean identity: sin²θ + cos²θ = 1, which follows directly from the Pythagorean theorem applied to the unit circle.",
+                "Other important identities include: tan θ = sin θ / cos θ, the double angle formulas (sin 2θ = 2 sin θ cos θ, cos 2θ = cos²θ - sin²θ), and the sum and difference formulas (sin(A ± B) = sin A cos B ± cos A sin B).",
+                "These identities are not arbitrary — they are necessary consequences of the geometric relationships in circles and triangles. They form an interconnected web of mathematical truth, where each identity can be derived from others. This self-consistency is a hallmark of mathematical reality and a reflection of the coherence of God's creation."
+            ]
+        },
+        {
+            "heading": "Trigonometry in God's Creation",
+            "paragraphs": [
+                "Trigonometric functions describe the rhythms and cycles of creation with remarkable precision. The daily cycle of sunlight follows a sinusoidal pattern. The annual cycle of seasons produces sinusoidal temperature variations. Sound waves are combinations of sine and cosine functions. Even the orbits of planets can be described using trigonometric functions.",
+                "The fact that a single mathematical framework — trigonometry — describes such diverse phenomena is powerful evidence of design. If the universe were random or chaotic, there would be no reason to expect its phenomena to follow the same mathematical patterns. But because the universe was designed by a single, rational Creator, we find unity and coherence throughout.",
+                "As you study trigonometry, you are learning to read one of the most universal patterns in God's creation: the cycle. Day and night, seasons, tides, heartbeats, breathing — the rhythmic, periodic nature of life itself is written in the language of trigonometric functions."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Using the unit circle, explain why sin²θ + cos²θ = 1 for any angle θ. Why is this identity called the 'Pythagorean identity'?",
+            "guidance": "Draw the unit circle and a radius at angle θ. The point on the circle has coordinates (cos θ, sin θ). Apply the Pythagorean theorem to the right triangle formed with the x-axis."
+        },
+        {
+            "id": 2,
+            "question": "Explain how the general sinusoidal function y = A sin(B(x - C)) + D models real-world periodic phenomena. Choose a specific example (e.g., tides, temperature, sound) and identify what A, B, C, and D represent in that context.",
+            "guidance": "Consider amplitude as the maximum deviation from average, period as the time for one complete cycle, phase shift as the starting point, and vertical shift as the average value."
+        },
+        {
+            "id": 3,
+            "question": "Scripture describes many cyclical patterns in nature (Ecclesiastes 1:5-7, Genesis 8:22). How does trigonometry — the mathematics of cycles — help us appreciate the design and regularity that God has built into creation?",
+            "guidance": "Reflect on why cycles exist at all. Consider how the mathematical predictability of natural cycles enables agriculture, navigation, and planning — and how this reflects God's faithfulness."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "graphing",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Graphing on the Coordinate Plane",
+    "subtitle": "Visualizing Mathematical Relationships in Two Dimensions",
+    "scripture": "Psalm 19:1",
+    "key_concepts": ["The coordinate plane and quadrants", "Ordered pairs", "Plotting points", "Graphing linear relationships", "Interpreting graphs"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "Astronomers use coordinate systems to map the positions of stars and galaxies. The coordinate plane is a tool that helps us describe location and pattern — and the patterns we discover in God's universe continually declare His glory."
+            },
+            {
+                "reference": "Jeremiah 31:37",
+                "text": "\"This is what the LORD says: 'Only if the heavens above can be measured and the foundations of the earth below be searched out will I reject all the descendants of Israel.'\"",
+                "commentary": "God speaks of measurement and exploration as vast, meaningful endeavors. The coordinate plane is one of humanity's tools for measuring and mapping the world God created."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Coordinate Plane",
+            "paragraphs": [
+                "The coordinate plane is a two-dimensional grid formed by two perpendicular number lines: the horizontal x-axis and the vertical y-axis. They intersect at the origin, the point (0, 0). This system, developed by the French mathematician René Descartes, allows us to describe any location on a flat surface using two numbers.",
+                "The plane is divided into four quadrants. Quadrant I (upper right) has positive x and y values. Quadrant II (upper left) has negative x and positive y. Quadrant III (lower left) has both negative. Quadrant IV (lower right) has positive x and negative y. Every point on the plane belongs to a quadrant or lies on an axis."
+            ]
+        },
+        {
+            "heading": "Ordered Pairs and Plotting Points",
+            "paragraphs": [
+                "Every point on the coordinate plane is described by an ordered pair (x, y). The first number tells how far to move horizontally from the origin, and the second tells how far to move vertically. The point (3, -2) means 'go right 3, then down 2.'",
+                "Order matters — (3, 5) and (5, 3) are different points. This is why we call them 'ordered' pairs. To plot a point, start at the origin, move along the x-axis first, then move parallel to the y-axis. Practice plotting several points to become comfortable navigating the coordinate plane."
+            ]
+        },
+        {
+            "heading": "Graphing Linear Relationships",
+            "paragraphs": [
+                "A linear relationship produces a straight line when graphed. These come from equations like y = 2x + 1. To graph this equation, choose several values for x, calculate the corresponding y values, plot the ordered pairs, and connect them with a straight line.",
+                "For y = 2x + 1: when x = 0, y = 1; when x = 1, y = 3; when x = 2, y = 5; when x = -1, y = -1. Plotting these points — (0,1), (1,3), (2,5), (-1,-1) — and connecting them reveals a straight line that rises from left to right. The line extends infinitely in both directions."
+            ]
+        },
+        {
+            "heading": "Slope: The Steepness of a Line",
+            "paragraphs": [
+                "The slope of a line describes how steep it is. It is the ratio of the vertical change (rise) to the horizontal change (run) between any two points on the line. Slope = rise/run = (y₂ - y₁)/(x₂ - x₁).",
+                "A positive slope means the line rises from left to right. A negative slope means it falls. A slope of zero is a horizontal line, and an undefined slope is a vertical line. In the equation y = 2x + 1, the slope is 2, meaning for every 1 unit increase in x, y increases by 2 units. Slope connects algebra to geometry and provides a powerful way to describe change."
+            ]
+        },
+        {
+            "heading": "Interpreting Graphs in Context",
+            "paragraphs": [
+                "Graphs tell stories. A graph showing distance vs. time can reveal whether someone is moving fast or slow, stopped, or going backward. A graph of a savings account over months shows growth patterns. Learning to read and interpret graphs is essential for understanding data in science, economics, and everyday life.",
+                "When interpreting a graph, identify what each axis represents, note the scale, look for trends (increasing, decreasing, constant), and identify key features like starting points, intersections, and maximum or minimum values. The ability to extract meaning from visual data is a critical thinking skill that honors God's call for us to be wise and discerning."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Plot the following points on a coordinate plane and identify which quadrant each is in: A(4, 3), B(-2, 5), C(-3, -1), D(6, -4). Then describe what shape is formed if you connect them in order.",
+            "guidance": "Remember that the x-coordinate tells horizontal position and y-coordinate tells vertical position. Check quadrant signs: (+,+) is I, (-,+) is II, (-,-) is III, (+,-) is IV."
+        },
+        {
+            "id": 2,
+            "question": "Graph the equation y = -x + 4 by making a table of values with at least four points. What is the slope of this line? What does the negative slope tell us about the relationship between x and y?",
+            "guidance": "Choose x values like 0, 1, 2, 3. Calculate y for each. The slope is the coefficient of x. A negative slope means y decreases as x increases."
+        },
+        {
+            "id": 3,
+            "question": "How does the coordinate plane help us 'measure' and 'map' the world, as Psalm 19:1 and Jeremiah 31:37 suggest God intended? Give examples from science, navigation, or everyday life.",
+            "guidance": "Think about GPS coordinates, star maps, weather maps, and data visualization. All use coordinate systems to organize and communicate spatial information."
+        }
+    ]
+}

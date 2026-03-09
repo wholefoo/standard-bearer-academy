@@ -1,0 +1,42 @@
+{
+    "id": "math_quiz",
+    "title": "Shapes, Colors, and Counting Quiz",
+    "description": "Let's see what you learned about counting, shapes, colors, and patterns!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What number comes after 10?",
+            "options": ["9", "11", "20", "15"],
+            "correct": 1,
+            "explanation": "11 comes right after 10! It is ten and one more."
+        },
+        {
+            "id": 2,
+            "question": "What shape is the sun?",
+            "options": ["Square", "Triangle", "Circle", "Rectangle"],
+            "correct": 2,
+            "explanation": "The sun is shaped like a circle! Circles are round with no corners."
+        },
+        {
+            "id": 3,
+            "question": "How many sides does a triangle have?",
+            "options": ["2", "4", "3", "5"],
+            "correct": 2,
+            "explanation": "A triangle has 3 sides and 3 corners!"
+        },
+        {
+            "id": 4,
+            "question": "What colors are in God's rainbow?",
+            "options": ["Only blue", "Black and white", "Red, orange, yellow, green, blue, and purple", "Only red"],
+            "correct": 2,
+            "explanation": "God's rainbow has many beautiful colors: red, orange, yellow, green, blue, and purple!"
+        },
+        {
+            "id": 5,
+            "question": "What does sorting mean?",
+            "options": ["Mixing everything up", "Putting things in groups", "Throwing things away", "Counting to 10"],
+            "correct": 1,
+            "explanation": "Sorting means putting things in groups — by color, size, or shape. God is a God of order!"
+        }
+    ]
+}

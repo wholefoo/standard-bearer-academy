@@ -1,0 +1,76 @@
+{
+    "id": "cells",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Building Blocks of Life — Cells",
+    "subtitle": "Exploring the Incredible Complexity of the Cell, the Smallest Unit of Life",
+    "scripture": "Psalm 139:14",
+    "primary_source": "Robert Hooke's Micrographia (1665)",
+    "key_concepts": ["Cell theory", "Plant vs. animal cells", "Organelles and their functions", "Irreducible complexity"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 139:14",
+                "text": "\"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "David's praise acknowledges the incredible complexity of living things. The cell, as the fundamental building block of all life, displays design and purpose that points unmistakably to an intelligent Creator."
+            },
+            {
+                "reference": "Jeremiah 1:5",
+                "text": "\"Before I formed you in the womb I knew you, before you were born I set you apart.\"",
+                "commentary": "God personally forms each living being. The intricate processes within every cell — DNA replication, protein synthesis, energy production — reflect His careful and purposeful design from the very beginning."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The fact that cells function with such remarkable precision — with thousands of coordinated chemical reactions happening every second — demonstrates that Christ sustains all things by His power."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Cell?",
+            "paragraphs": [
+                "Every living thing on Earth, from the smallest bacterium to the largest whale, is made up of cells. A cell is the basic unit of life — the smallest structure that can carry out all the functions of a living organism. Some organisms, like bacteria and certain algae, consist of just one cell. Others, like humans, are made up of trillions of cells working together.",
+                "The discovery of cells began in 1665 when Robert Hooke looked at a thin slice of cork under a microscope and saw tiny box-like structures. He called them 'cells' because they reminded him of the small rooms (cells) in a monastery. Later scientists, including Anton van Leeuwenhoek, discovered that cells are not empty boxes but are filled with complex structures and teeming with activity."
+            ]
+        },
+        {
+            "heading": "Cell Theory: The Foundation of Biology",
+            "paragraphs": [
+                "Over many years of observation, scientists developed what is known as cell theory, which has three main principles: (1) All living things are made of one or more cells. (2) The cell is the basic unit of structure and function in all living things. (3) All cells come from pre-existing cells.",
+                "This third principle is especially important. Scientists have never observed life arising from non-living matter. Every cell comes from another cell, pointing to an original Creator who made the first living cells. The idea that life could spontaneously arise from chemicals contradicts both cell theory and the Biblical account of God creating life directly."
+            ]
+        },
+        {
+            "heading": "Inside the Cell: Organelles and Their Functions",
+            "paragraphs": [
+                "Cells contain specialized structures called organelles, each with a specific job — much like the organs in your body. The nucleus is the control center, containing DNA — the instruction manual for everything the cell does. The mitochondria are the powerhouses, converting food into energy the cell can use. The cell membrane acts as a gatekeeper, controlling what enters and leaves the cell.",
+                "Plant cells have additional organelles that animal cells lack. Chloroplasts capture sunlight and use it to make food through photosynthesis. A large central vacuole stores water and nutrients. A rigid cell wall provides structure and support. These differences reflect God's unique design for plants and animals, each created to fulfill a different role in His creation."
+            ]
+        },
+        {
+            "heading": "The Complexity of the Cell Points to a Designer",
+            "paragraphs": [
+                "Even the simplest cell is extraordinarily complex. A single bacterial cell contains about 100 million protein molecules, a complete DNA instruction set, and molecular machines that would put human engineering to shame. The bacterial flagellum, for example, is a tiny rotary motor that spins at up to 100,000 revolutions per minute — far more efficient than any motor humans have ever built.",
+                "This level of complexity cannot be explained by random chance. Just as a watch requires a watchmaker, the cell — with its precisely coordinated systems — requires an intelligent Designer. Many of the cell's systems exhibit what scientists call 'irreducible complexity,' meaning they cannot function unless all their parts are present and working together simultaneously. This is exactly what we would expect if cells were designed by God rather than assembled by unguided processes over time."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does the principle that 'all cells come from pre-existing cells' support the Biblical view of creation rather than the idea of spontaneous generation?",
+            "guidance": "Consider that scientists have never observed life arising from non-living matter. Think about what the origin of the first cells tells us about the need for a Creator."
+        },
+        {
+            "id": 2,
+            "question": "How does the complexity of a single cell — with its organelles, DNA, and molecular machines — point to intelligent design rather than random processes?",
+            "guidance": "Think about the concept of irreducible complexity. Consider whether systems like the bacterial flagellum could have arisen one part at a time."
+        },
+        {
+            "id": 3,
+            "question": "Read Psalm 139:14 and reflect on what the study of cells reveals about God's creativity and attention to detail. How does learning about cells deepen your appreciation for the Creator?",
+            "guidance": "Consider the incredible coordination within each cell and the trillions of cells working together in your body right now."
+        }
+    ]
+}

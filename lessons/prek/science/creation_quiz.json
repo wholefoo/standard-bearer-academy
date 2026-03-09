@@ -1,0 +1,42 @@
+{
+    "id": "creation_quiz",
+    "title": "God's Beautiful World Quiz",
+    "description": "Let's see what you remember about God's beautiful creation!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who made all the animals?",
+            "options": ["The animals made themselves", "God made them", "Nobody made them", "They just appeared"],
+            "correct": 1,
+            "explanation": "God made all the animals! He made big ones and tiny ones, and each one is special (Genesis 1:25)."
+        },
+        {
+            "id": 2,
+            "question": "What do plants need to grow?",
+            "options": ["Only dirt", "Water and sunshine", "Just air", "Nothing"],
+            "correct": 1,
+            "explanation": "Plants need water and sunshine to grow. God sends the rain and sunshine to help them (Genesis 1:11)."
+        },
+        {
+            "id": 3,
+            "question": "What did God put in the sky to give us light during the day?",
+            "options": ["The moon", "The stars", "The sun", "A lamp"],
+            "correct": 2,
+            "explanation": "God made the sun to give us light during the day and keep us warm (Genesis 1:16)."
+        },
+        {
+            "id": 4,
+            "question": "Why is water important?",
+            "options": ["It is not important", "We need it to drink and plants need it to grow", "Only fish need water", "Water is just for fun"],
+            "correct": 1,
+            "explanation": "Water is very important! We drink water, animals drink water, and plants need water to grow. God gives us water because He loves us."
+        },
+        {
+            "id": 5,
+            "question": "How many senses did God give us?",
+            "options": ["Two", "Three", "Five", "Ten"],
+            "correct": 2,
+            "explanation": "God gave us five senses: sight, hearing, smell, taste, and touch! We are wonderfully made (Psalm 139:14)."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "bible_quiz",
+    "title": "Kings and Prophets Quiz",
+    "description": "Test your knowledge of the kings and prophets of Israel and Judah!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who was Israel's first king?",
+            "options": ["David", "Solomon", "Saul", "Moses"],
+            "correct": 2,
+            "explanation": "Saul was Israel's first king, anointed by the prophet Samuel."
+        },
+        {
+            "id": 2,
+            "question": "Why did God reject Saul as king?",
+            "options": ["He was too short", "He was disobedient to God's commands", "He was too old", "He could not fight"],
+            "correct": 1,
+            "explanation": "God rejected Saul because he repeatedly disobeyed God's commands. Samuel told him, 'To obey is better than sacrifice.'"
+        },
+        {
+            "id": 3,
+            "question": "What did God look at when choosing David as king?",
+            "options": ["His height", "His strength", "His heart", "His age"],
+            "correct": 2,
+            "explanation": "God told Samuel, 'The LORD looks at the heart.' David was chosen because of his faithful heart."
+        },
+        {
+            "id": 4,
+            "question": "What did Solomon ask God for?",
+            "options": ["Gold and silver", "A long life", "Wisdom", "A big army"],
+            "correct": 2,
+            "explanation": "Solomon asked God for wisdom to lead His people, and God was so pleased that He gave Solomon wisdom, riches, and honor."
+        },
+        {
+            "id": 5,
+            "question": "Why did the kingdom of Israel split into two?",
+            "options": ["An earthquake divided the land", "Rehoboam refused to lighten the people's burden", "David commanded it", "The people voted to split"],
+            "correct": 1,
+            "explanation": "Rehoboam listened to foolish advice and made the people's burden heavier, causing ten tribes to rebel and form the northern kingdom."
+        },
+        {
+            "id": 6,
+            "question": "What happened on Mount Carmel when Elijah prayed?",
+            "options": ["Rain fell immediately", "An earthquake shook the mountain", "Fire fell from heaven and consumed the sacrifice", "A great wind blew"],
+            "correct": 2,
+            "explanation": "God sent fire from heaven that consumed Elijah's sacrifice, the wood, the stones, and even the water, proving He is the true God."
+        },
+        {
+            "id": 7,
+            "question": "How old was Josiah when he became king?",
+            "options": ["4 years old", "8 years old", "12 years old", "16 years old"],
+            "correct": 1,
+            "explanation": "Josiah became king of Judah when he was only eight years old, and he chose to follow God."
+        },
+        {
+            "id": 8,
+            "question": "What important book was found during repairs to the temple in Josiah's time?",
+            "options": ["A history book", "The Book of the Law", "A book of songs", "A book of maps"],
+            "correct": 1,
+            "explanation": "The high priest Hilkiah found the Book of the Law (the Scriptures) during temple repairs. When Josiah heard it read, he led the nation back to God."
+        }
+    ]
+}

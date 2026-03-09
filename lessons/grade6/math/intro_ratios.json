@@ -1,0 +1,76 @@
+{
+    "id": "intro_ratios",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Understanding Ratios",
+    "subtitle": "Comparing Quantities and Discovering Mathematical Relationships",
+    "scripture": "Proverbs 11:1",
+    "primary_source": "Euclid's Elements, Book V — Theory of Proportion (c. 300 BC)",
+    "key_concepts": ["Definition of a ratio", "Writing ratios in different forms", "Part-to-part and part-to-whole ratios", "Ratios in God's creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"The LORD detests dishonest scales, but accurate weights find favor with him.\"",
+                "commentary": "God values precise measurement and fair comparison — the very heart of what ratios are about. When we study ratios, we are learning to compare quantities accurately and honestly, a skill that honors God in every area of life."
+            },
+            {
+                "reference": "Genesis 6:15",
+                "text": "\"This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.\"",
+                "commentary": "God gave Noah precise measurements for the Ark. The ratio of the Ark's length to width to height (6:1:0.6) is remarkably similar to the proportions used in modern shipbuilding for maximum stability. God is the master mathematician."
+            },
+            {
+                "reference": "Proverbs 3:19-20",
+                "text": "\"By wisdom the LORD laid the earth's foundations, by understanding he set the heavens in place; by his knowledge the watery depths were broken up, and the clouds let drop the dew.\"",
+                "commentary": "God used wisdom, understanding, and knowledge — including mathematical precision — to create and order the universe. Studying ratios helps us appreciate the mathematical design embedded in creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Ratio?",
+            "paragraphs": [
+                "A ratio is a comparison of two quantities. It tells us how much of one thing there is compared to another. For example, if a recipe calls for 2 cups of flour and 1 cup of sugar, the ratio of flour to sugar is 2 to 1. Ratios are one of the most fundamental concepts in mathematics, and they appear everywhere — in cooking, construction, art, music, and throughout God's creation.",
+                "Ratios can be written in three ways: using the word 'to' (2 to 1), using a colon (2:1), or as a fraction (2/1). All three forms express the same comparison. Learning to work with ratios helps you think precisely about relationships between quantities — a skill that is valuable in science, engineering, business, and everyday life."
+            ]
+        },
+        {
+            "heading": "Part-to-Part and Part-to-Whole Ratios",
+            "paragraphs": [
+                "There are two types of ratios you need to understand. A part-to-part ratio compares one part of a group to another part. For example, if a class has 12 boys and 15 girls, the ratio of boys to girls is 12:15, which simplifies to 4:5. A part-to-whole ratio compares one part to the total. In the same class of 27 students, the ratio of boys to the whole class is 12:27, which simplifies to 4:9.",
+                "Knowing whether you are working with a part-to-part ratio or a part-to-whole ratio is essential for solving problems correctly. Always read carefully to determine what is being compared. The ability to distinguish between these types of ratios will help you throughout your study of mathematics."
+            ]
+        },
+        {
+            "heading": "Simplifying Ratios",
+            "paragraphs": [
+                "Just as fractions can be simplified, ratios can be reduced to their simplest form by dividing both numbers by their greatest common factor (GCF). For example, the ratio 8:12 can be simplified by dividing both numbers by 4, giving us 2:3. The simplified ratio expresses the same relationship as the original but in the most concise form.",
+                "To find the GCF, list the factors of each number and identify the largest factor they have in common. For 8 (factors: 1, 2, 4, 8) and 12 (factors: 1, 2, 3, 4, 6, 12), the GCF is 4. Simplifying ratios makes them easier to understand, compare, and work with in calculations."
+            ]
+        },
+        {
+            "heading": "Ratios in God's Creation",
+            "paragraphs": [
+                "Ratios appear throughout God's creation in remarkable ways. The dimensions God gave Noah for the Ark — 300 cubits long, 50 cubits wide, and 30 cubits high — create a length-to-width ratio of 6:1, which modern naval architects have confirmed is ideal for stability in rough seas. God knew the perfect proportions thousands of years before human engineers figured them out.",
+                "The Fibonacci sequence (1, 1, 2, 3, 5, 8, 13, 21...) produces ratios that appear repeatedly in nature. The ratio of consecutive Fibonacci numbers approaches the 'golden ratio' (approximately 1.618), which appears in the spiral of seashells, the arrangement of sunflower seeds, the branching of trees, and the proportions of the human body. These mathematical patterns in creation reflect the mind of a God who delights in order, beauty, and precision."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did God give Noah such precise measurements for the Ark? What does the fact that these proportions are ideal for ship stability tell us about God's knowledge of mathematics?",
+            "guidance": "Consider that the 6:1 length-to-width ratio was confirmed as optimal by modern ship designers. Think about what this reveals about God's wisdom and the reliability of Scripture."
+        },
+        {
+            "id": 2,
+            "question": "How do the mathematical patterns found in nature (like the golden ratio in seashells and sunflowers) point to an intelligent Designer? Could these precise ratios arise by chance?",
+            "guidance": "Consider the regularity and precision of these patterns across vastly different organisms. Think about whether random processes could produce such consistent mathematical relationships."
+        },
+        {
+            "id": 3,
+            "question": "Proverbs 11:1 says God values accurate measurement. How does learning about ratios help you develop honesty and precision in your thinking and daily life?",
+            "guidance": "Think about situations where accurate comparison matters — in cooking, building, shopping, or sharing resources fairly. How does mathematical precision reflect godly character?"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "history",
+    "title": "Westward Expansion — America Grows Under Providence",
+    "description": "Discover how America grew from sea to shining sea as brave pioneers moved westward, trusting in God's provision and fulfilling the nation's calling.",
+    "units": [
+        {
+            "id": "westward",
+            "title": "Westward Expansion",
+            "lessons": ["louisiana_purchase", "lewis_and_clark", "trail_of_tears", "oregon_trail", "gold_rush", "transcontinental_railroad"]
+        }
+    ],
+    "quiz_id": "westward_quiz"
+}

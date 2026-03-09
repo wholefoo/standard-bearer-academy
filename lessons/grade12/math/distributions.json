@@ -1,0 +1,88 @@
+{
+    "id": "distributions",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Probability Distributions",
+    "subtitle": "The Mathematical Patterns Behind God's Creation",
+    "scripture": "Romans 1:20",
+    "primary_source": "Carl Friedrich Gauss and the Normal Distribution — The 'Bell Curve' That Describes Creation",
+    "key_concepts": ["Random variables", "Discrete probability distributions", "Binomial distribution", "Normal distribution", "The empirical rule and z-scores"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:20",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made.\"",
+                "commentary": "The mathematical patterns found in probability distributions — especially the normal distribution's appearance across countless natural phenomena — reveal the orderly, consistent nature of the Creator. The regularity of these patterns testifies to intelligent design."
+            },
+            {
+                "reference": "Psalm 19:1-2",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.\"",
+                "commentary": "God's creation continuously reveals knowledge to those who observe carefully. The mathematical distributions that describe natural variation — from the heights of people to the luminosity of stars — are part of this ongoing revelation."
+            },
+            {
+                "reference": "Genesis 1:11-12",
+                "text": "\"Then God said, 'Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.'\"",
+                "commentary": "God created organisms to reproduce 'according to their kinds,' producing natural variation within designed boundaries. This variation, described by probability distributions, reflects God's design for diversity within order."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Random Variables and Probability Distributions",
+            "paragraphs": [
+                "A random variable is a numerical quantity whose value is determined by a random process. A discrete random variable takes on countable values (like the number of heads in 10 coin flips), while a continuous random variable takes on any value in an interval (like height or temperature).",
+                "A probability distribution describes all possible values of a random variable and their associated probabilities. For a discrete random variable, this is a list or formula giving P(X = x) for each possible value x. For a continuous random variable, the distribution is described by a probability density function (pdf), where the area under the curve over an interval gives the probability of the variable falling in that interval.",
+                "Every valid probability distribution must satisfy two conditions: all probabilities are between 0 and 1, and the sum (or integral) of all probabilities equals 1. These mathematical constraints reflect the logical structure of a universe governed by a rational Creator."
+            ]
+        },
+        {
+            "heading": "The Binomial Distribution",
+            "paragraphs": [
+                "The binomial distribution models the number of successes in a fixed number of independent trials, where each trial has the same probability of success. The conditions are: fixed number of trials (n), two possible outcomes per trial (success/failure), constant probability of success (p), and independent trials.",
+                "The probability of exactly k successes in n trials is given by: P(X = k) = C(n,k) × p^k × (1-p)^(n-k), where C(n,k) = n! / (k!(n-k)!) is the binomial coefficient. The mean of a binomial distribution is μ = np, and the standard deviation is σ = √(np(1-p)).",
+                "Applications of the binomial distribution are widespread: quality control (defective vs. non-defective products), medical trials (treatment effective vs. not effective), survey research (agree vs. disagree), and genetics (dominant vs. recessive traits). Each application reveals the mathematical order underlying real-world processes."
+            ]
+        },
+        {
+            "heading": "The Normal Distribution",
+            "paragraphs": [
+                "The normal distribution (Gaussian distribution) is the most important probability distribution in statistics. Its bell-shaped curve is symmetric about the mean and is completely described by two parameters: the mean (μ) and the standard deviation (σ).",
+                "The normal distribution appears remarkably often in nature and human affairs. Heights, weights, blood pressure, IQ scores, measurement errors, and countless other quantities follow approximately normal distributions. This ubiquity suggests a deep mathematical order in God's creation — natural variation is not chaotic but follows a precise, predictable pattern.",
+                "The standard normal distribution has mean μ = 0 and standard deviation σ = 1. Any normal distribution can be converted to the standard normal using the z-score formula: z = (x − μ) / σ. The z-score tells us how many standard deviations a value is from the mean, allowing us to compare values from different distributions."
+            ]
+        },
+        {
+            "heading": "The Empirical Rule and Applications",
+            "paragraphs": [
+                "The empirical rule (68-95-99.7 rule) provides a quick way to understand normal distributions: approximately 68% of data falls within 1 standard deviation of the mean, approximately 95% within 2 standard deviations, and approximately 99.7% within 3 standard deviations.",
+                "For example, if the mean height of adult American men is 69.1 inches with a standard deviation of 2.9 inches, then about 68% of men are between 66.2 and 72.0 inches tall, about 95% are between 63.3 and 74.9 inches, and about 99.7% are between 60.4 and 77.8 inches.",
+                "Z-scores enable us to find exact probabilities using the standard normal table or calculator. For instance, to find the probability that a randomly selected man is taller than 74 inches: z = (74 − 69.1) / 2.9 ≈ 1.69, and looking up z = 1.69 gives a probability of approximately 0.045, or about 4.5%."
+            ]
+        },
+        {
+            "heading": "The Central Limit Theorem: Order From Variation",
+            "paragraphs": [
+                "The Central Limit Theorem (CLT) is one of the most remarkable results in all of mathematics. It states that the distribution of sample means approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution. This means that even if individual measurements are highly irregular, their averages become predictably normal.",
+                "Specifically, if we take samples of size n from any population with mean μ and standard deviation σ, the distribution of sample means will be approximately normal with mean μ and standard deviation σ/√n (called the standard error) when n is sufficiently large (typically n ≥ 30).",
+                "The CLT is the mathematical foundation for much of inferential statistics. It explains why sample means are reliable estimates of population means and why confidence intervals and hypothesis tests work. The fact that order emerges from variation — that predictable patterns arise from seemingly chaotic individual measurements — is a profound reflection of the mathematical order God has woven into His creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the normal distribution so common in nature? What does the widespread occurrence of this mathematical pattern suggest about the design of creation?",
+            "guidance": "Consider how the CLT explains the emergence of normal distributions when many small, independent factors combine. How does this mathematical regularity reflect God's orderly design?"
+        },
+        {
+            "id": 2,
+            "question": "Using the empirical rule, if a class's test scores have a mean of 75 and a standard deviation of 8, what range of scores contains approximately 95% of students? Calculate the z-score for a student who scored 91.",
+            "guidance": "Apply the 68-95-99.7 rule: 95% falls within 2 standard deviations. For the z-score, use z = (x − μ) / σ."
+        },
+        {
+            "id": 3,
+            "question": "Explain the Central Limit Theorem in your own words. Why is it called 'central' to statistics? How does it illustrate the principle that order can emerge from variation?",
+            "guidance": "Think about what happens to the distribution of sample means as sample size increases, and why this result is foundational for making inferences about populations from samples."
+        }
+    ]
+}

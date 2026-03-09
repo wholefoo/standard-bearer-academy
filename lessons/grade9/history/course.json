@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "history",
+    "title": "Ancient & Medieval History — The Story of Civilization",
+    "description": "Tracing God's providential hand through ancient and medieval civilizations from Creation to the Renaissance.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Ancient & Medieval History",
+            "lessons": ["creation_early_civilizations", "ancient_israel", "classical_greece", "roman_empire", "rise_of_christendom", "medieval_world"]
+        }
+    ],
+    "quiz_id": "history_quiz"
+}

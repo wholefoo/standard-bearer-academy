@@ -1,0 +1,76 @@
+{
+    "id": "medieval_literature",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Medieval Literature — Faith and Chivalry",
+    "subtitle": "Exploring the Great Works of the Middle Ages",
+    "scripture": "Micah 6:8",
+    "primary_source": "Geoffrey Chaucer, The Canterbury Tales (c. 1390)",
+    "key_concepts": ["Medieval literary genres", "Chivalry and virtue", "Dante's Divine Comedy", "The Canterbury Tales and social commentary"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "The ideals of chivalry in medieval literature — justice, mercy, humility, and service — echo this Biblical command. The best medieval writers understood that true heroism comes from living according to God's standards."
+            },
+            {
+                "reference": "Hebrews 11:13-16",
+                "text": "\"All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance... They were longing for a better country — a heavenly one.\"",
+                "commentary": "Medieval literature is filled with the theme of pilgrimage — journeying toward a heavenly destination. This reflects the Biblical understanding that life on earth is a journey toward our true home with God."
+            },
+            {
+                "reference": "Ephesians 6:10-11",
+                "text": "\"Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes.\"",
+                "commentary": "The medieval ideal of the Christian knight — armed for spiritual battle — draws directly from Paul's imagery of spiritual armor. Medieval writers saw the physical armor of the knight as a symbol of the spiritual armor every Christian needs."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Medieval World and Its Literature",
+            "paragraphs": [
+                "The Middle Ages (roughly 500-1500 AD) produced some of the most enduring works of Western literature. This was a deeply Christian era, and the literature of the period reflects the centrality of faith in medieval life. From epic poems about heroic knights to devotional writings by monks and mystics, medieval literature explores the great themes of faith, duty, honor, sin, redemption, and the journey toward God.",
+                "After the fall of Rome, the Christian Church preserved literacy and learning. Monks copied manuscripts by hand, saving the works of ancient authors and producing new literature of their own. The medieval period gave us some of the greatest literary achievements in Western civilization, including Dante's Divine Comedy, Chaucer's Canterbury Tales, and the legends of King Arthur."
+            ]
+        },
+        {
+            "heading": "Chivalry: The Code of the Christian Knight",
+            "paragraphs": [
+                "Chivalry was the code of conduct for medieval knights, and it deeply influenced the literature of the period. The ideal knight was brave in battle, loyal to his lord, protective of the weak, devoted to justice, and faithful to God. These virtues — courage, loyalty, mercy, justice, and faith — come directly from Scripture, and the best chivalric literature presents them as the foundation of a noble life.",
+                "The legends of King Arthur and the Knights of the Round Table are the most famous examples of chivalric literature. While these stories are legends rather than history, they embody ideals that are deeply Biblical: the quest for righteousness (symbolized by the Holy Grail), the tragedy of sin and betrayal (Lancelot's failure), and the hope of a righteous king who will return (Arthur's promised return, echoing Christ's Second Coming)."
+            ]
+        },
+        {
+            "heading": "Dante's Divine Comedy: A Journey Through Eternity",
+            "paragraphs": [
+                "Dante Alighieri's Divine Comedy (c. 1320) is considered one of the greatest works of literature ever written. In this epic poem, Dante describes an imaginary journey through Hell (Inferno), Purgatory (Purgatorio), and Heaven (Paradiso). While the specific geography is Dante's creation, the poem powerfully illustrates Biblical themes: the reality of sin and its consequences, the necessity of repentance, and the glory of God's presence.",
+                "In the Inferno, Dante shows how sin destroys those who refuse to repent — each punishment reflects the nature of the sin itself. In Paradiso, Dante depicts the overwhelming beauty and joy of being in God's presence. The Divine Comedy reminds us that our choices in this life have eternal consequences, and that the ultimate purpose of human life is to know and love God."
+            ]
+        },
+        {
+            "heading": "Chaucer's Canterbury Tales: A Mirror of Society",
+            "paragraphs": [
+                "Geoffrey Chaucer's Canterbury Tales (c. 1390) tells the story of a group of pilgrims traveling to the shrine of Thomas Becket in Canterbury, England. Each pilgrim tells a story along the way, and Chaucer uses these stories to paint a vivid picture of medieval English society — from the noble Knight to the corrupt Pardoner to the devout Parson.",
+                "Chaucer's genius lies in his ability to portray human nature with both humor and honesty. He celebrates virtue — the Knight's honor, the Parson's genuine faith — while exposing hypocrisy and sin in characters who claim to be religious but live selfishly. The Canterbury Tales teaches us that God looks at the heart, not outward appearances, and that true faith is demonstrated by how we live, not just what we claim to believe."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How do the ideals of chivalry — courage, loyalty, mercy, justice, and faith — reflect Biblical virtues? Are these ideals still relevant today? Why or why not?",
+            "guidance": "Consider Micah 6:8 and Ephesians 6:10-11. Think about how these virtues apply to modern life, even without literal knights and armor."
+        },
+        {
+            "id": 2,
+            "question": "Dante's Divine Comedy presents a vivid picture of the consequences of sin and the joy of God's presence. How can literature help us understand spiritual realities that are difficult to grasp in the abstract?",
+            "guidance": "Think about how stories and images make abstract concepts concrete. Consider how Jesus used parables to teach spiritual truths."
+        },
+        {
+            "id": 3,
+            "question": "In The Canterbury Tales, Chaucer contrasts characters who genuinely live out their faith (like the Parson) with those who only pretend to be religious (like the Pardoner). What does this teach us about authentic faith?",
+            "guidance": "Consider Jesus' warnings about hypocrisy (Matthew 23). Think about the difference between outward religious practice and genuine, heartfelt faith."
+        }
+    ]
+}

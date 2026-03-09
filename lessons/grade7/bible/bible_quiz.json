@@ -1,0 +1,103 @@
+{
+    "id": "bible_quiz",
+    "title": "Paul's Letters — Doctrine and Daily Living",
+    "description": "Test your understanding of Paul's epistles: Romans, 1 Corinthians, Galatians, Ephesians, Philippians, and 1 Thessalonians.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Romans 3:23-24, how are sinners justified before God?",
+            "options": [
+                "By keeping the Ten Commandments perfectly",
+                "By being baptized and attending church",
+                "Freely by God's grace through the redemption in Christ Jesus",
+                "By doing more good deeds than bad deeds"
+            ],
+            "correct": 2,
+            "explanation": "Romans 3:24 states that sinners are 'justified freely by his grace through the redemption that came by Christ Jesus.' Justification is a free gift of grace, not earned by human works."
+        },
+        {
+            "id": 2,
+            "question": "In 1 Corinthians 12, Paul compares the church to:",
+            "options": [
+                "A building under construction",
+                "A human body with many parts",
+                "An army going to war",
+                "A garden growing fruit"
+            ],
+            "correct": 1,
+            "explanation": "Paul uses the metaphor of a human body to explain that every member of the church has a unique role, just as every part of the body has a specific function. All parts are needed and valued."
+        },
+        {
+            "id": 3,
+            "question": "What is the main message of Galatians?",
+            "options": [
+                "Christians must follow all Jewish ceremonial laws",
+                "Salvation is by grace through faith, not by works of the law",
+                "Only apostles can interpret Scripture correctly",
+                "Spiritual gifts are more important than love"
+            ],
+            "correct": 1,
+            "explanation": "Galatians defends the Gospel of grace: salvation is by faith in Christ alone, not by adding works of the law. Paul calls any addition to the Gospel 'a different gospel — which is really no gospel at all' (1:6-7)."
+        },
+        {
+            "id": 4,
+            "question": "Ephesians 2:8-9 teaches that salvation is:",
+            "options": [
+                "Earned by faithful church attendance",
+                "Available only to those who were born into Christian families",
+                "By grace through faith, not by works, so that no one can boast",
+                "Guaranteed to everyone regardless of faith"
+            ],
+            "correct": 2,
+            "explanation": "Ephesians 2:8-9 is one of the clearest Gospel statements: 'For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God — not by works, so that no one can boast.'"
+        },
+        {
+            "id": 5,
+            "question": "Paul wrote Philippians from:",
+            "options": [
+                "A vacation retreat in Greece",
+                "The temple in Jerusalem",
+                "A Roman prison",
+                "His home in Tarsus"
+            ],
+            "correct": 2,
+            "explanation": "Paul wrote Philippians while imprisoned in Rome (around AD 61-62). Despite being in chains, the letter overflows with joy — demonstrating that true joy depends on Christ, not circumstances."
+        },
+        {
+            "id": 6,
+            "question": "According to 1 Thessalonians 4:16-17, what happens when Christ returns?",
+            "options": [
+                "Only those alive at the time will be saved",
+                "The dead in Christ rise first, then living believers are caught up to meet the Lord",
+                "Believers will be judged based on their good works",
+                "The earth will be completely destroyed with no resurrection"
+            ],
+            "correct": 1,
+            "explanation": "Paul teaches that the dead in Christ will rise first, then believers who are alive will be caught up together with them to meet the Lord in the air, and 'so we will be with the Lord forever.'"
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is NOT listed as a fruit of the Spirit in Galatians 5:22-23?",
+            "options": [
+                "Love and joy",
+                "Patience and kindness",
+                "Wealth and popularity",
+                "Faithfulness and self-control"
+            ],
+            "correct": 2,
+            "explanation": "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Wealth and popularity are not spiritual fruit — they are worldly measures of success."
+        },
+        {
+            "id": 8,
+            "question": "Philippians 4:13 ('I can do all things through him who gives me strength') is about:",
+            "options": [
+                "Winning every competition or achieving personal goals",
+                "Being content in every circumstance — whether in plenty or in need",
+                "Having supernatural physical power",
+                "Being able to avoid all suffering"
+            ],
+            "correct": 1,
+            "explanation": "In context (Philippians 4:11-13), Paul is describing his ability to be content in any situation — abundance or hunger, plenty or want. Christ gives him strength to be at peace regardless of circumstances."
+        }
+    ]
+}

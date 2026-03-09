@@ -1,0 +1,76 @@
+{
+    "id": "modern_faith_lit",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Modern Literature of Faith",
+    "subtitle": "C.S. Lewis, Tolkien, and the Power of Christian Imagination",
+    "scripture": "Romans 1:20",
+    "primary_source": "C.S. Lewis, Mere Christianity (1952)",
+    "key_concepts": ["Modern Christian literature", "The Inklings and Christian imagination", "Fantasy as a vehicle for truth", "Evaluating modern literature with discernment"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 1:20",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made, so that people are without excuse.\"",
+                "commentary": "Great literature, like creation itself, can reveal God's invisible qualities — truth, beauty, justice, and love. Christian authors like Lewis and Tolkien crafted stories that make these invisible realities visible and compelling."
+            },
+            {
+                "reference": "John 1:1-3",
+                "text": "\"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made.\"",
+                "commentary": "God is the original Creator of language and story. When human authors create fictional worlds and characters, they are exercising — in a small way — the creative capacity God gave them as beings made in His image. Tolkien called human creativity 'sub-creation.'"
+            },
+            {
+                "reference": "Revelation 21:5",
+                "text": "\"He who was seated on the throne said, 'I am making everything new!'\"",
+                "commentary": "The ultimate story — the Bible's grand narrative — ends with God making all things new. The longing for renewal, restoration, and a happy ending that we feel when reading great stories is actually a longing planted in our hearts by God, pointing us toward the real 'happy ending' that He promises."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Inklings: A Fellowship of Christian Writers",
+            "paragraphs": [
+                "In the early twentieth century, a group of friends met regularly at Oxford University to read their works aloud and discuss literature, theology, and the big questions of life. This group, known as the Inklings, included C.S. Lewis, J.R.R. Tolkien, and Charles Williams. They believed that stories — especially fantasy stories — could communicate Christian truth in powerful ways that reach the heart as well as the mind.",
+                "C.S. Lewis, originally an atheist, was converted to Christianity partly through the influence of Tolkien and through his love of great literature. Lewis came to believe that the longings awakened by beautiful stories — the ache for a world that is more real, more beautiful, and more just than our own — are actually signposts pointing to God. He called this longing 'joy' and argued that it is evidence that we were made for another world."
+            ]
+        },
+        {
+            "heading": "C.S. Lewis: Making Christianity Imaginable",
+            "paragraphs": [
+                "C.S. Lewis became one of the most influential Christian writers of the twentieth century. His non-fiction works like Mere Christianity present the case for Christian faith with clarity and logic. But it was his fiction — especially The Chronicles of Narnia — that captured the imaginations of millions of readers worldwide.",
+                "In The Lion, the Witch and the Wardrobe, the great lion Aslan sacrifices himself for the traitor Edmund and then rises from death — a clear parallel to Christ's sacrifice and resurrection. Lewis did not simply retell the Gospel story; he created a new world where readers could experience the power, beauty, and wonder of what Christ has done. By encountering Aslan, many readers — especially young readers — developed a deeper love for the real Christ."
+            ]
+        },
+        {
+            "heading": "J.R.R. Tolkien: Sub-Creation and the Great Story",
+            "paragraphs": [
+                "J.R.R. Tolkien, author of The Lord of the Rings and The Hobbit, was a devout Catholic whose faith deeply shaped his writing. Tolkien coined the term 'sub-creation' to describe what human authors do when they create fictional worlds. Because we are made in the image of the Creator, we have a drive to create — not from nothing (as only God can), but by using our imagination to craft new worlds that reflect aspects of God's truth.",
+                "The Lord of the Rings is not a direct allegory (Tolkien disliked obvious allegory), but it is deeply Christian in its themes. The struggle against absolute evil, the corrupting influence of power (the Ring), the importance of mercy and humility (Frodo and Sam), the role of Providence in guiding events, and the longing for a world restored — all of these themes reflect Biblical truth. Tolkien believed that the Gospel was the 'true myth' — the real story that all other great stories dimly reflect."
+            ]
+        },
+        {
+            "heading": "Reading Modern Literature with Discernment",
+            "paragraphs": [
+                "Not all modern literature reflects a Christian worldview. Many contemporary books, movies, and stories promote values that contradict Scripture — relativism, materialism, nihilism, or the idea that there is no ultimate meaning or truth. As Christian readers, we must exercise discernment, evaluating everything we read against the standard of God's Word.",
+                "Discernment does not mean retreating from all secular literature. It means reading thoughtfully, asking questions like: What worldview does this author assume? What does this story say about human nature? Does it recognize the reality of sin and the need for redemption? Does it point toward truth, beauty, and goodness, even imperfectly? By reading with discernment, we can appreciate the good in literature while recognizing and rejecting what contradicts God's truth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "C.S. Lewis argued that the longings awakened by great stories — the ache for beauty, justice, and a better world — are evidence that we were made for heaven. Do you agree? Why or why not?",
+            "guidance": "Consider Lewis's argument: 'If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.' Think about what your own longings for beauty and justice might reveal."
+        },
+        {
+            "id": 2,
+            "question": "Tolkien called human creativity 'sub-creation' — creating secondary worlds that reflect aspects of God's truth. How is this different from creating stories that deny or distort God's reality?",
+            "guidance": "Consider the difference between stories that reflect Biblical themes (sacrifice, redemption, good vs. evil) and stories that promote worldviews opposed to Scripture. What makes sub-creation honoring to God?"
+        },
+        {
+            "id": 3,
+            "question": "What does it look like to read literature with discernment? How can you enjoy a book or story while still evaluating its message against Biblical truth?",
+            "guidance": "Think about the questions suggested in the lesson: What worldview does the author assume? What does the story say about human nature? Does it point toward truth and goodness? Give examples from books you have read."
+        }
+    ]
+}

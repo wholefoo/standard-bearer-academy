@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "reading",
+    "title": "Great Stories of Faith — Reading and Writing",
+    "description": "Explore great stories of faith while building reading comprehension, vocabulary, and writing skills rooted in Biblical values.",
+    "units": [
+        {
+            "id": "stories_of_faith",
+            "title": "Great Stories of Faith",
+            "lessons": ["narrative_elements", "character_study", "figurative_language", "paragraph_writing", "research_skills", "book_presentations"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

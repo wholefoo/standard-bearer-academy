@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "reading",
+    "title": "World Literature — Stories of Faith Across Cultures",
+    "description": "An introduction to great works of world literature examined through a Christian worldview, exploring themes of faith, courage, and moral truth across cultures and centuries.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: World Literature — Stories of Faith Across Cultures",
+            "lessons": ["intro_world_lit", "ancient_literature", "medieval_literature", "allegory_parable", "poetry_world", "modern_faith_lit"]
+        }
+    ],
+    "quiz_id": "world_lit_quiz"
+}

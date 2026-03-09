@@ -1,0 +1,79 @@
+{
+    "id": "rule_of_law",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "The Rule of Law",
+    "subtitle": "No One Is Above the Law — A Biblical and American Principle",
+    "scripture": "Deuteronomy 17:18-20; Romans 13:1-7",
+    "primary_source": "John Adams — 'We are a government of laws, and not of men.'",
+    "key_concepts": ["Rule of law vs. rule of men", "Biblical origins of limited government", "Due process", "Constitutionalism", "The consent of the governed"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Deuteronomy 17:18-20",
+                "text": "\"When he takes the throne of his kingdom, he is to write for himself on a scroll a copy of this law... He is to read it all the days of his life so that he may learn to revere the LORD his God and follow carefully all the words of this law... and not consider himself better than his fellow Israelites.\"",
+                "commentary": "God required Israel's kings to personally copy and study His law, submit to it, and never consider themselves above their fellow citizens. This passage is the earliest expression of the principle that rulers are under the law, not above it — a principle central to American constitutionalism."
+            },
+            {
+                "reference": "Acts 25:10-11",
+                "text": "\"Paul answered: 'I am now standing before Caesar's court, where I ought to be tried... If, however, I am guilty of doing anything deserving death, I do not refuse to die. But if the charges brought against me by these Jews are not true, no one has the right to hand me over to them. I appeal to Caesar!'\"",
+                "commentary": "The Apostle Paul exercised his legal rights as a Roman citizen, appealing to the established legal system for a fair trial. This demonstrates that Christians can and should engage with legal institutions and insist on due process and the rule of law."
+            },
+            {
+                "reference": "Isaiah 10:1-2",
+                "text": "\"Woe to those who make unjust laws, to those who issue oppressive decrees, to deprive the poor of their rights and withhold justice from the oppressed of my people.\"",
+                "commentary": "God pronounces judgment on rulers who use their lawmaking power to oppress rather than protect. This passage establishes that not all laws are just — laws that violate God's moral standards are unjust, regardless of who enacted them."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is the Rule of Law?",
+            "paragraphs": [
+                "The 'rule of law' means that society is governed by established, publicly known laws that apply equally to everyone — including those who make and enforce the laws. It stands in contrast to the 'rule of men,' where leaders govern according to their personal will, whims, or interests.",
+                "John Adams captured this principle in the Massachusetts Constitution of 1780, which he authored: the goal was to establish 'a government of laws, and not of men.' This idea — that law, not personal power, should be supreme — is one of the most important contributions of Western civilization to human freedom, and it has deep Biblical roots."
+            ]
+        },
+        {
+            "heading": "Biblical Origins: Kings Under God's Law",
+            "paragraphs": [
+                "The concept that rulers are under the law, not above it, originates in Scripture. In Deuteronomy 17, God gave specific instructions for any future king of Israel: the king must personally copy the law, read it daily, obey it carefully, and never consider himself better than his fellow citizens. The king was not the source of law — God was. The king's job was to apply and enforce God's law, not to make up his own.",
+                "When King David committed adultery with Bathsheba and murdered her husband Uriah, the prophet Nathan confronted him with his sin. David — the most powerful man in the nation — was held accountable to God's law. This is a revolutionary concept: no human being, however powerful, is above God's moral law.",
+                "This Biblical principle directly influenced the development of English common law, the Magna Carta, and ultimately the American Constitution. The founders understood that because all people are sinful (including rulers), power must be limited by law and divided among different branches to prevent abuse."
+            ]
+        },
+        {
+            "heading": "Due Process: Protection Against Arbitrary Power",
+            "paragraphs": [
+                "The rule of law requires 'due process' — established, fair procedures that must be followed before anyone can be deprived of life, liberty, or property. This principle appears throughout Scripture. In Deuteronomy 19:15, God required that no one could be convicted on the testimony of a single witness — at least two or three witnesses were needed.",
+                "The Fifth Amendment to the U.S. Constitution guarantees that no person shall 'be deprived of life, liberty, or property, without due process of law.' The Fourteenth Amendment extends this protection against state governments as well. These provisions reflect the Biblical principle that justice requires fair, established procedures — not arbitrary decisions by those in power.",
+                "Due process protects the innocent from false accusations, ensures that the accused have a fair hearing, and prevents the government from acting on whim or prejudice. It is one of the most precious protections of individual liberty in the American system."
+            ]
+        },
+        {
+            "heading": "Constitutionalism: Law That Limits Government",
+            "paragraphs": [
+                "A constitution is a fundamental law that establishes the structure of government and limits its powers. The American Constitution does not merely organize government — it restrains it. The Bill of Rights specifically lists things the government may not do: it may not establish a religion, restrict free speech, disarm the people, conduct unreasonable searches, or impose cruel punishments.",
+                "This concept of constitutionalism — government limited by a written law that even the government itself cannot easily change — flows directly from the Biblical understanding that all human authority is delegated and therefore bounded. Just as Israel's kings were under God's law, American officials are under the Constitution.",
+                "When government officials violate the Constitution, they act without legitimate authority. The rule of law demands that even well-intentioned leaders must operate within their constitutional boundaries. As President Abraham Lincoln warned, 'Don't interfere with anything in the Constitution. That must be maintained, for it is the only safeguard of our liberties.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the difference between 'the rule of law' and 'the rule of men.' Why did the American founders consider this distinction so important?",
+            "guidance": "Think about what happens when leaders are not bound by established law. Consider historical examples of leaders who ruled by personal will rather than law."
+        },
+        {
+            "id": 2,
+            "question": "How does Deuteronomy 17:18-20 establish the principle that rulers are under the law? How did this Biblical concept influence the development of American constitutionalism?",
+            "guidance": "Focus on the specific requirements God placed on Israel's kings: copying the law, reading it daily, obeying it, and not elevating themselves above others. Trace how this idea traveled through the Magna Carta to the Constitution."
+        },
+        {
+            "id": 3,
+            "question": "Why is due process essential to justice? What might happen to individual liberty if the government could punish people without established, fair procedures?",
+            "guidance": "Consider specific due process protections (right to a fair trial, presumption of innocence, requirement of witnesses) and why each exists. Think about what life would be like without these protections."
+        }
+    ]
+}

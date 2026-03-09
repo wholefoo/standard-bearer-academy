@@ -1,0 +1,42 @@
+{
+    "id": "seasons_quiz",
+    "title": "Seasons and Weather Quiz",
+    "description": "Let's see what you learned about the four seasons and weather that God created!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What color do leaves turn in the fall?",
+            "options": ["Blue and purple", "Red, orange, and yellow", "Green and pink", "Black and white"],
+            "correct": 1,
+            "explanation": "In fall, God paints the leaves beautiful colors — red, orange, yellow, and brown!"
+        },
+        {
+            "id": 2,
+            "question": "What does God send in the winter?",
+            "options": ["Flowers", "Butterflies", "Snow", "Baby birds"],
+            "correct": 2,
+            "explanation": "God sends snow in winter! The Bible says 'He spreads the snow like wool' (Psalm 147:16)."
+        },
+        {
+            "id": 3,
+            "question": "What happens to flowers in the spring?",
+            "options": ["They fall asleep", "They turn brown", "They bloom and grow", "They fly away"],
+            "correct": 2,
+            "explanation": "In spring, flowers bloom and grow! God sends rain to water them and sunshine to help them grow."
+        },
+        {
+            "id": 4,
+            "question": "What makes summer warm?",
+            "options": ["The moon", "The sun", "The wind", "The clouds"],
+            "correct": 1,
+            "explanation": "God made the sun to give us warmth and light, making summer the warmest season!"
+        },
+        {
+            "id": 5,
+            "question": "What does God put in the sky after it rains?",
+            "options": ["A star", "A moon", "A rainbow", "A snowflake"],
+            "correct": 2,
+            "explanation": "God puts a rainbow in the sky after it rains as His special promise to us!"
+        }
+    ]
+}

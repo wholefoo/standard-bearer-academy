@@ -1,0 +1,76 @@
+{
+    "id": "death_resurrection",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: The Death and Resurrection of Jesus",
+    "subtitle": "The Cross and the Empty Tomb — The Heart of the Gospel",
+    "scripture": "Matthew 26-28; John 19-20; 1 Corinthians 15",
+    "primary_source": "The Apostle Paul's testimony in 1 Corinthians 15:3-8",
+    "key_concepts": ["The crucifixion", "Substitutionary atonement", "The resurrection", "The Gospel message", "Historical evidence for the resurrection"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 53:5",
+                "text": "\"But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.\"",
+                "commentary": "Written over 700 years before Jesus' death, this prophecy describes with stunning accuracy what would happen on the cross. Jesus was pierced and crushed not for His own sins — He had none — but for ours. This is the doctrine of substitutionary atonement: Jesus took our punishment so we could have peace with God."
+            },
+            {
+                "reference": "Romans 5:8",
+                "text": "\"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.\"",
+                "commentary": "God did not wait for us to clean up our lives before sending Jesus. He loved us while we were still rebels against Him. The cross is the ultimate demonstration of God's love — sacrificial, unconditional, and freely offered to all."
+            },
+            {
+                "reference": "1 Corinthians 15:3-4",
+                "text": "\"For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.\"",
+                "commentary": "Paul summarizes the core Gospel message in just two verses: Christ died for our sins, was buried, and rose again. This is the most important message in the history of the world — the good news that changes everything."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Last Supper and the Garden of Gethsemane",
+            "paragraphs": [
+                "On the night before His crucifixion, Jesus shared a final meal with His disciples — the Last Supper. He broke bread and shared wine, telling them that the bread represented His body and the wine represented His blood, which would be 'poured out for many for the forgiveness of sins' (Matthew 26:28). This meal became the basis for the Lord's Supper (Communion), which Christians observe to this day.",
+                "After supper, Jesus went to the Garden of Gethsemane to pray. Knowing the agony that awaited Him, He prayed, 'My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will' (Matthew 26:39). Jesus was not forced to the cross — He chose it out of love for the Father and for us. His prayer shows both His genuine human anguish and His perfect obedience."
+            ]
+        },
+        {
+            "heading": "The Trial and Crucifixion",
+            "paragraphs": [
+                "Jesus was betrayed by Judas, arrested, and subjected to an unjust trial before the Jewish council and the Roman governor Pontius Pilate. Despite finding no guilt in Him, Pilate handed Jesus over to be crucified under pressure from the crowd. Jesus was beaten, mocked, crowned with thorns, and forced to carry His cross to Golgotha.",
+                "On the cross, Jesus endured not only physical agony but spiritual suffering beyond our comprehension. He bore the sins of the entire world upon Himself. At the darkest moment, He cried out, 'My God, my God, why have you forsaken me?' (Matthew 27:46). The holy Son of God experienced separation from the Father so that we would never have to. When Jesus said, 'It is finished' (John 19:30), He declared that the price for sin had been paid in full."
+            ]
+        },
+        {
+            "heading": "The Resurrection: Death Defeated",
+            "paragraphs": [
+                "On the third day after His crucifixion, women who came to anoint Jesus' body found the tomb empty. An angel declared, 'He is not here; he has risen, just as he said!' (Matthew 28:6). Over the next forty days, the risen Jesus appeared to His disciples, to groups of followers, and on one occasion to more than 500 people at once (1 Corinthians 15:6).",
+                "The resurrection is the foundation of the Christian faith. As Paul wrote, 'If Christ has not been raised, your faith is futile' (1 Corinthians 15:17). But Christ has been raised, and His resurrection proves that He is who He claimed to be — the Son of God. It proves that His sacrifice on the cross was accepted by the Father. And it guarantees that all who believe in Him will also be raised to eternal life."
+            ]
+        },
+        {
+            "heading": "Why the Resurrection Matters",
+            "paragraphs": [
+                "The resurrection of Jesus is the most well-attested event in ancient history. The tomb was empty — even Jesus' enemies admitted this. The disciples, who had been terrified and hiding, were suddenly willing to die for their testimony that Jesus had risen. People do not give their lives for something they know to be a lie.",
+                "The resurrection changes everything. It means that sin and death do not have the final word. It means that Jesus' promises are trustworthy. It means that there is hope beyond the grave. And it means that every person must respond to the risen Christ — not as a historical figure from the past, but as the living Lord who reigns today and will return to judge the living and the dead."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does it mean that Jesus died 'for our sins'? Explain substitutionary atonement in your own words. Why couldn't God simply forgive sins without the cross?",
+            "guidance": "Think about what justice requires — sin has consequences, and the penalty must be paid. Consider how Jesus took our place and paid the debt we owed. How does this demonstrate both God's justice and His love?"
+        },
+        {
+            "id": 2,
+            "question": "Why is the resurrection of Jesus so important to the Christian faith? What would it mean if Jesus had not risen from the dead?",
+            "guidance": "Consider Paul's argument in 1 Corinthians 15:14-19. Think about what the resurrection proves about Jesus' identity and His power over death. How does the resurrection give us hope?"
+        },
+        {
+            "id": 3,
+            "question": "What evidence supports the historical reality of Jesus' resurrection? Why is it significant that even Jesus' enemies admitted the tomb was empty?",
+            "guidance": "Consider the empty tomb, the eyewitness appearances, the transformation of the disciples, and the rapid growth of the early church. Think about why these facts are difficult to explain without a real resurrection."
+        }
+    ]
+}

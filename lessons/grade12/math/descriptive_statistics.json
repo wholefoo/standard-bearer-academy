@@ -1,0 +1,90 @@
+{
+    "id": "descriptive_statistics",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Descriptive Statistics",
+    "subtitle": "Summarizing Data to Reveal God's Patterns",
+    "scripture": "1 Corinthians 14:33",
+    "primary_source": "Florence Nightingale's Statistical Graphics — Using Data to Save Lives",
+    "key_concepts": ["Measures of center: mean, median, mode", "Measures of spread: range, variance, standard deviation", "Five-number summary and box plots", "Outliers and their effects", "Choosing appropriate measures"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 14:33",
+                "text": "\"For God is not a God of disorder but of peace.\"",
+                "commentary": "God's nature is orderly, and this order is reflected in creation. Descriptive statistics reveals the patterns, regularities, and structures embedded in data — evidence of the Creator's orderly design."
+            },
+            {
+                "reference": "Isaiah 40:26",
+                "text": "\"Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name. Because of his great power and mighty strength, not one of them is missing.\"",
+                "commentary": "God knows and accounts for every star — the ultimate census. Descriptive statistics helps us organize and understand data in ways that echo God's comprehensive knowledge of His creation."
+            },
+            {
+                "reference": "Ecclesiastes 3:1",
+                "text": "\"There is a time for everything, and a season for every activity under the heavens.\"",
+                "commentary": "The patterns and rhythms described in Ecclesiastes remind us that God's world operates with regularity and order — the very qualities that make statistical analysis possible and meaningful."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Measures of Center",
+            "paragraphs": [
+                "Measures of center describe the 'typical' or 'central' value in a dataset. The three most common measures are the mean, median, and mode.",
+                "The mean (arithmetic average) is calculated by summing all values and dividing by the number of values: x̄ = Σx / n. The mean is the most commonly used measure of center and works well for symmetric distributions without extreme outliers. However, it is sensitive to outliers — a single extremely high or low value can pull the mean significantly in its direction.",
+                "The median is the middle value when data is arranged in order. For an even number of values, the median is the average of the two middle values. The median is resistant to outliers, making it a better measure of center for skewed distributions. For example, median household income is often more representative than mean income because a few extremely wealthy individuals can inflate the mean.",
+                "The mode is the most frequently occurring value. A dataset can have one mode (unimodal), two modes (bimodal), or more (multimodal). The mode is the only measure of center that works for qualitative data."
+            ]
+        },
+        {
+            "heading": "Measures of Spread",
+            "paragraphs": [
+                "Measures of center tell only part of the story. Two datasets can have the same mean but very different distributions. Measures of spread describe how much the data varies.",
+                "The range is the simplest measure of spread: range = maximum − minimum. While easy to calculate, it uses only two values and is heavily influenced by outliers. The interquartile range (IQR) — the range of the middle 50% of data (Q3 − Q1) — is more robust because it ignores the extremes.",
+                "Variance measures the average squared deviation from the mean: s² = Σ(x − x̄)² / (n − 1). Standard deviation (s) is the square root of variance and is expressed in the same units as the original data, making it more interpretable. A small standard deviation indicates data clustered tightly around the mean; a large standard deviation indicates widely spread data.",
+                "The choice between range, IQR, and standard deviation depends on the data distribution and the presence of outliers. For skewed distributions or data with outliers, the IQR is preferred. For approximately symmetric distributions, standard deviation is the standard choice."
+            ]
+        },
+        {
+            "heading": "The Five-Number Summary and Box Plots",
+            "paragraphs": [
+                "The five-number summary consists of: minimum, first quartile (Q1, the 25th percentile), median (Q2, the 50th percentile), third quartile (Q3, the 75th percentile), and maximum. Together, these five values provide a concise picture of the data's center, spread, and shape.",
+                "A box plot (box-and-whisker plot) is a graphical representation of the five-number summary. The box spans from Q1 to Q3 (representing the IQR), with a line at the median. Whiskers extend from the box to the minimum and maximum values (or to the last values within 1.5 × IQR of the quartiles, with outliers plotted individually).",
+                "Box plots are particularly useful for comparing distributions across groups. Side-by-side box plots reveal differences in center, spread, and symmetry that might be difficult to see in raw data or other displays."
+            ]
+        },
+        {
+            "heading": "Outliers: Identification and Treatment",
+            "paragraphs": [
+                "An outlier is a data value that is significantly different from the rest of the data. The most common criterion defines outliers as values more than 1.5 × IQR below Q1 or above Q3. For example, if Q1 = 20 and Q3 = 40, then IQR = 20, and any value below −10 or above 70 would be considered an outlier.",
+                "Outliers can arise from measurement errors, data entry mistakes, or genuinely unusual observations. The appropriate response depends on the cause. If an outlier results from an error, it should be corrected or removed. If it represents a genuine extreme value, it should be reported and its effect on analyses discussed.",
+                "Understanding outliers matters because they can dramatically affect the mean and standard deviation while leaving the median and IQR relatively unchanged. This is why choosing the right summary statistics requires understanding the shape of the data and the presence of outliers."
+            ]
+        },
+        {
+            "heading": "Florence Nightingale: Statistics in Service of Humanity",
+            "paragraphs": [
+                "Florence Nightingale (1820-1910), a devout Christian, pioneered the use of statistical graphics to communicate data and drive social change. During the Crimean War, she collected meticulous data on soldier deaths and discovered that far more soldiers were dying from preventable diseases and poor sanitation than from battle wounds.",
+                "Nightingale created innovative polar area diagrams (sometimes called 'coxcomb charts') that visually demonstrated the devastating impact of unsanitary conditions. Her statistical analysis persuaded British military and government leaders to reform hospital practices, saving countless lives.",
+                "Nightingale's work demonstrates that statistics is not just an academic exercise — it is a powerful tool for serving others. She used her God-given intellect and her commitment to truth to reveal patterns in data that led to real improvements in human welfare. Her example challenges us to use statistical knowledge not for personal gain alone but for the glory of God and the service of our neighbors."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "When would you choose the median over the mean as a measure of center? Give a real-world example where the mean would be misleading and explain why.",
+            "guidance": "Think about datasets with extreme outliers or strong skewness. Consider examples like income, home prices, or company sizes."
+        },
+        {
+            "id": 2,
+            "question": "How did Florence Nightingale use statistics to serve God and her fellow human beings? What does her example teach us about the purpose of knowledge?",
+            "guidance": "Consider how Nightingale combined rigorous data analysis with compassion and purpose. How does this reflect the Biblical call to use our gifts for the benefit of others?"
+        },
+        {
+            "id": 3,
+            "question": "Explain the relationship between variance and standard deviation. Why do we use standard deviation rather than variance in most practical applications?",
+            "guidance": "Think about the units of measurement. Variance is in squared units, while standard deviation is in the original units, making it directly interpretable in context."
+        }
+    ]
+}

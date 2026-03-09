@@ -1,0 +1,82 @@
+{
+    "id": "ecology_stewardship",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Ecology and Biblical Stewardship",
+    "subtitle": "Understanding Ecosystems Through the Lens of Creation Stewardship",
+    "scripture": "Genesis 1:28",
+    "primary_source": "Genesis 2:15 — The Dominion Mandate",
+    "key_concepts": ["Ecosystems and biomes", "Food webs and energy flow", "Dominion mandate", "Biblical stewardship vs. environmentalism"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'\"",
+                "commentary": "God gave humanity dominion over the earth — not as tyrants but as stewards accountable to the Creator. The dominion mandate is a call to responsible management of God's creation, not exploitation or neglect."
+            },
+            {
+                "reference": "Genesis 2:15",
+                "text": "\"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.\"",
+                "commentary": "Before the Fall, Adam was given the task of cultivating and caring for creation. Environmental stewardship is not a modern invention — it is a creation ordinance established by God from the very beginning."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Study of Living Systems",
+            "paragraphs": [
+                "Ecology is the study of how organisms interact with each other and with their physical environment. From the smallest pond to the largest ocean, from a forest floor to a mountaintop meadow, ecosystems display patterns of interdependence, balance, and beauty that reflect the wisdom of their Creator.",
+                "As Christians, we study ecology not merely as a scientific discipline but as an exploration of God's handiwork. Understanding ecosystems helps us fulfill the dominion mandate — the call to responsibly manage the earth God has entrusted to our care."
+            ]
+        },
+        {
+            "heading": "Ecosystem Structure and Function",
+            "paragraphs": [
+                "An ecosystem consists of all the living organisms (biotic factors) and non-living components (abiotic factors) in a particular area, interacting as a system. Biotic factors include producers (plants and algae that make their own food through photosynthesis), consumers (herbivores, carnivores, and omnivores that obtain energy by eating other organisms), and decomposers (bacteria and fungi that break down dead matter and recycle nutrients).",
+                "Energy flows through an ecosystem in one direction: from the sun to producers to consumers to decomposers. At each level, approximately 90% of the energy is lost as heat, which is why ecosystems typically support fewer organisms at higher trophic levels. A food web illustrates these complex feeding relationships, showing how energy and nutrients move through the ecosystem.",
+                "The design of ecosystems — with producers, consumers, and decomposers each filling essential roles — reflects a purposeful arrangement. Decomposers, often overlooked, play a critical role by recycling nutrients back into the soil, enabling new growth. Without them, dead matter would accumulate and nutrients would be locked away permanently. Every component serves a purpose in the Creator's design."
+            ]
+        },
+        {
+            "heading": "Biomes: Earth's Major Ecosystems",
+            "paragraphs": [
+                "Earth's surface is divided into major biomes — large regions characterized by distinct climate patterns, vegetation, and animal communities. These include tropical rainforests, deserts, grasslands, temperate forests, taiga (boreal forests), and tundra, along with aquatic biomes such as freshwater and marine ecosystems.",
+                "Each biome showcases God's creativity in designing organisms perfectly suited to their environment. Desert organisms conserve water with remarkable efficiency. Arctic creatures have thick insulation and specialized circulatory systems. Rainforest species display dazzling diversity. This diversity within biomes reflects the Creator's delight in variety and His provision for life in every corner of the earth.",
+                "The distribution of biomes following the global Flood described in Genesis 6-9 is consistent with the Biblical timeline. As the earth recovered from the Flood and the post-Flood Ice Age, organisms diversified and spread across the globe, filling newly available ecological niches — a process of diversification within created kinds that continues today."
+            ]
+        },
+        {
+            "heading": "The Dominion Mandate: Biblical Stewardship",
+            "paragraphs": [
+                "The Bible establishes humanity's relationship to the natural world through the dominion mandate (Genesis 1:28) and the stewardship commission (Genesis 2:15). Together, these passages teach that humans are to exercise responsible authority over creation — using its resources wisely while caring for and preserving it.",
+                "Biblical stewardship differs from both secular environmentalism and exploitative indifference. Secular environmentalism often elevates nature to the level of worship, treating the earth as sacred in itself and viewing human activity as inherently harmful. The Bible, by contrast, teaches that the earth was created for God's glory and for humanity's benefit, and that humans are the pinnacle of creation — made in God's image and given authority over the natural world.",
+                "At the same time, Biblical stewardship rejects the reckless exploitation of natural resources. Proverbs 12:10 states, 'The righteous care for the needs of their animals.' Leviticus 25 establishes the principle of sabbath rest for the land. God expects us to use creation wisely, not wastefully, and to preserve it for future generations as faithful stewards of His gifts."
+            ]
+        },
+        {
+            "heading": "Current Environmental Issues: A Biblical Perspective",
+            "paragraphs": [
+                "Contemporary environmental debates — including discussions about pollution, habitat loss, endangered species, and climate — must be evaluated through a Biblical lens. As stewards, Christians should be concerned about genuine environmental problems such as water pollution, deforestation, and the loss of biodiversity. These are stewardship failures that we should work to address.",
+                "However, we must also exercise discernment. Not every environmental claim is supported by sound science, and many environmental policies are driven by worldview commitments that conflict with Biblical teaching — including the assumption that human beings are just another species, that population growth is inherently harmful, or that economic development is the enemy of environmental health.",
+                "The Biblical perspective provides balance: care for creation without worshiping it, use of resources without abusing them, and confidence that God remains sovereign over His creation while holding humanity accountable for how we manage the trust He has given us."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the flow of energy through an ecosystem, from producers to decomposers. Why does each trophic level support fewer organisms than the one below it?",
+            "guidance": "Trace energy from sunlight through photosynthesis, through consumers, and finally to decomposers. Explain the 10% rule and why energy is lost at each transfer."
+        },
+        {
+            "id": 2,
+            "question": "Compare and contrast Biblical stewardship with secular environmentalism. How does each view define humanity's relationship to the natural world?",
+            "guidance": "Consider the key differences: Who owns the earth? What is humanity's role? Is nature sacred in itself or created for God's glory? How do these foundational beliefs lead to different practical conclusions?"
+        },
+        {
+            "id": 3,
+            "question": "Read Genesis 1:28 and Genesis 2:15 together. How do dominion and stewardship complement each other? Give a practical example of how a Christian might exercise both.",
+            "guidance": "Think about how 'ruling over' and 'taking care of' work together. Consider examples from agriculture, conservation, resource management, or animal husbandry."
+        }
+    ]
+}

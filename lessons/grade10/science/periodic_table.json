@@ -1,0 +1,81 @@
+{
+    "id": "periodic_table",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: The Periodic Table — Order in Creation",
+    "subtitle": "Understanding How God Organized the Elements",
+    "scripture": "1 Corinthians 14:33",
+    "primary_source": "Dmitri Mendeleev's Periodic Table (1869)",
+    "key_concepts": ["Periodic law", "Groups and periods", "Metals, nonmetals, and metalloids", "Periodic trends", "Electronegativity and atomic radius"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 14:33",
+                "text": "\"For God is not a God of disorder but of peace.\"",
+                "commentary": "The remarkable order of the Periodic Table — where elements arranged by atomic number display repeating patterns of behavior — reflects the character of a God who creates with order and purpose. This pattern was not imposed by scientists; it was discovered in nature."
+            },
+            {
+                "reference": "Isaiah 40:26",
+                "text": "\"Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name.\"",
+                "commentary": "Just as God knows every star by name, He designed every element with specific properties and purposes. Each of the 92 naturally occurring elements serves a role in God's creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Discovering God's Blueprint for Matter",
+            "paragraphs": [
+                "In 1869, Russian chemist Dmitri Mendeleev arranged the known elements by atomic weight and noticed a striking pattern: elements with similar properties appeared at regular intervals. He created a table that not only organized the known elements but predicted the existence and properties of elements yet to be discovered. When these elements were later found with almost exactly the properties Mendeleev predicted, the scientific world recognized that he had uncovered a fundamental truth about how matter is organized.",
+                "The Periodic Table is one of the most powerful tools in all of science. It is not merely a human invention — it reflects the real, underlying order that God built into the elements of creation."
+            ]
+        },
+        {
+            "heading": "Organization of the Periodic Table",
+            "paragraphs": [
+                "The modern Periodic Table arranges elements by increasing atomic number (number of protons). Horizontal rows are called periods (1-7), and vertical columns are called groups (1-18). Elements in the same group share similar chemical properties because they have the same number of valence electrons.",
+                "The table is divided into major categories. Metals (left side and center) are generally shiny, conduct electricity and heat, and are malleable and ductile. Nonmetals (upper right) are generally poor conductors and may be gases, liquids, or brittle solids. Metalloids (along the staircase line) have properties intermediate between metals and nonmetals and are essential for semiconductor technology.",
+                "Key groups include: Group 1 (Alkali metals) — highly reactive metals like sodium and potassium; Group 2 (Alkaline earth metals) — reactive metals like calcium and magnesium; Group 17 (Halogens) — highly reactive nonmetals like chlorine and fluorine; Group 18 (Noble gases) — extremely stable, nearly unreactive gases like helium and neon."
+            ]
+        },
+        {
+            "heading": "Periodic Trends",
+            "paragraphs": [
+                "The Periodic Table reveals predictable trends in element properties. Atomic radius generally decreases across a period (left to right) because increasing nuclear charge pulls electrons closer, and increases down a group as new electron shells are added.",
+                "Ionization energy — the energy required to remove an electron — generally increases across a period and decreases down a group. Elements on the upper right (excluding noble gases) have the highest ionization energies because their electrons are held most tightly.",
+                "Electronegativity — an atom's ability to attract shared electrons in a bond — follows a similar pattern, increasing across a period and decreasing down a group. Fluorine is the most electronegative element. These trends are not random; they follow directly from atomic structure and reveal the mathematical order in God's design of matter."
+            ]
+        },
+        {
+            "heading": "Essential Elements in God's Creation",
+            "paragraphs": [
+                "Of the 92 naturally occurring elements, about 25 are essential for life. Carbon, with its ability to form four bonds, is the backbone of all organic molecules. Oxygen enables the cellular respiration that sustains all animal life. Iron carries oxygen in our blood. Calcium builds our bones. Phosphorus is essential for DNA and energy transfer (ATP).",
+                "The properties of water — determined by the unique characteristics of hydrogen and oxygen — make life possible. Water's high heat capacity regulates climate, its ability to dissolve many substances makes it the 'universal solvent' for biological chemistry, and its unusual property of expanding when frozen means ice floats, insulating aquatic life in winter.",
+                "These are not lucky coincidences. The precise properties of each element — properties determined by its atomic structure — work together in a system of breathtaking complexity to support life on Earth. This is the handiwork of a Creator who designed each element with purpose."
+            ]
+        },
+        {
+            "heading": "Mendeleev's Predictions and the Power of Order",
+            "paragraphs": [
+                "Mendeleev's greatest triumph was his prediction of undiscovered elements. He left gaps in his table and predicted the properties of the missing elements. When gallium was discovered in 1875 and germanium in 1886, their properties matched Mendeleev's predictions almost exactly.",
+                "This predictive power demonstrates that the Periodic Table reflects real order in nature, not merely a convenient filing system invented by humans. Scientists discover order in creation; they do not create it. As Psalm 19:1-2 declares: 'The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the predictable order of the Periodic Table reflect the character of God as described in 1 Corinthians 14:33? Why is the fact that Mendeleev could predict undiscovered elements significant?",
+            "guidance": "Consider what it means that the order was discovered, not invented. Think about how predictable patterns in nature point to an intelligent Designer."
+        },
+        {
+            "id": 2,
+            "question": "Explain two periodic trends (such as atomic radius and electronegativity) and describe how they relate to atomic structure.",
+            "guidance": "Connect the trends to the number of protons, electron shells, and the attraction between the nucleus and valence electrons."
+        },
+        {
+            "id": 3,
+            "question": "Why is carbon so essential for life? How do the unique properties of specific elements point to purposeful design?",
+            "guidance": "Think about carbon's ability to form four bonds and create complex molecules. Consider how the specific properties of elements like oxygen, hydrogen, and iron work together to sustain life."
+        }
+    ]
+}

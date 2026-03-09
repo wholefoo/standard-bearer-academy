@@ -1,0 +1,80 @@
+{
+    "id": "dna_blueprint",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: DNA — The Blueprint of Life",
+    "subtitle": "The Information Code That Points to an Intelligent Author",
+    "scripture": "Psalm 19:1-2",
+    "primary_source": "Watson and Crick's DNA Structure Paper (1953)",
+    "key_concepts": ["DNA structure", "Genetic code", "Protein synthesis", "Information and intelligent design"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1-2",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.\"",
+                "commentary": "Just as the heavens declare God's glory through their visible grandeur, the microscopic world of DNA declares His glory through its invisible information code. The language written in every cell speaks of an Author of infinite intelligence."
+            },
+            {
+                "reference": "Psalm 139:16",
+                "text": "\"Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be.\"",
+                "commentary": "David's poetic language anticipates the modern discovery that our bodies are built according to instructions 'written' in our DNA — a book of life authored by God Himself."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Molecule of Life",
+            "paragraphs": [
+                "In 1953, James Watson and Francis Crick published a brief paper in the journal Nature describing the structure of deoxyribonucleic acid — DNA. Their discovery of the double helix is widely regarded as one of the most important scientific breakthroughs of the twentieth century. What they found was not merely a chemical structure but an information storage system of staggering sophistication.",
+                "DNA is often called the 'blueprint of life,' but it is far more than a blueprint. It is a digital information system that stores, copies, and transmits the instructions needed to build and maintain every living organism. The existence of such a system raises a profound question: where does information come from?"
+            ]
+        },
+        {
+            "heading": "The Structure of DNA",
+            "paragraphs": [
+                "DNA is a long, double-stranded molecule shaped like a twisted ladder — the famous double helix. The sides of the ladder are composed of alternating sugar (deoxyribose) and phosphate groups. The rungs are composed of paired nitrogenous bases: adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G).",
+                "The sequence of these bases along the DNA strand constitutes the genetic code — a four-letter alphabet that spells out the instructions for building proteins. The human genome contains approximately 3.2 billion base pairs, encoding roughly 20,000-25,000 genes. If the DNA from a single human cell were stretched out, it would be about six feet long, yet it is packed into a nucleus only six micrometers in diameter — a feat of information storage that far surpasses any human technology."
+            ]
+        },
+        {
+            "heading": "The Genetic Code and Protein Synthesis",
+            "paragraphs": [
+                "The genetic code operates through a two-step process: transcription and translation. During transcription, a section of DNA is copied into messenger RNA (mRNA) in the nucleus. The mRNA then travels to the ribosomes in the cytoplasm, where translation occurs — the ribosome reads the mRNA three bases at a time (each triplet called a codon) and assembles the corresponding amino acids into a protein chain.",
+                "There are 64 possible codons, coding for 20 different amino acids plus start and stop signals. This code is essentially universal — the same codons specify the same amino acids in virtually all living organisms. This universality is consistent with a common Designer who used the same elegant code throughout His creation.",
+                "The process of protein synthesis requires the coordinated action of over 100 different molecular components working together with precision timing. The information flows in one direction — from DNA to RNA to protein — a principle known as the Central Dogma of molecular biology. This directional flow of information mirrors the way information works in every other known system: it flows from an intelligent source to a functional product."
+            ]
+        },
+        {
+            "heading": "DNA: Information Demands an Author",
+            "paragraphs": [
+                "The most significant feature of DNA is not its chemistry but its information content. DNA is not merely a complex molecule — it is a coded message. And in every other domain of human experience, coded messages come from intelligent minds. We never attribute the information in a book, a computer program, or a blueprint to random chemical processes — we recognize that information requires an author.",
+                "The information in DNA is specified complexity — it is both highly ordered and functionally meaningful. Random sequences of bases would not produce functional proteins, just as random sequences of letters would not produce meaningful sentences. The precise arrangement of billions of base pairs into functional genes, regulatory sequences, and structural elements points powerfully to intelligent design.",
+                "Former atheist Antony Flew, one of the twentieth century's most prominent philosophical atheists, eventually concluded that the information content of DNA demands an intelligent source. He stated that 'the investigation of DNA has shown, by the almost unbelievable complexity of the arrangements which are needed to produce life, that intelligence must have been involved.'"
+            ]
+        },
+        {
+            "heading": "Epigenetics and Beyond the Code",
+            "paragraphs": [
+                "Recent discoveries in epigenetics have revealed additional layers of information beyond the DNA sequence itself. Epigenetic modifications — chemical tags that attach to DNA or its associated proteins — can turn genes on or off without changing the underlying genetic code. These modifications can be influenced by environment and, in some cases, passed to offspring.",
+                "The discovery of epigenetic regulation has added yet another layer of complexity to the cell's information system. Far from being 'junk,' much of the non-coding DNA once dismissed by evolutionists has been found to serve important regulatory functions. The ENCODE project (2012) revealed that at least 80% of the human genome has biochemical function — a finding that surprised many evolutionists but was predicted by the intelligent design framework, which expects that a wise Creator would not fill His creation with meaningless sequences."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the process of protein synthesis, from DNA to functional protein. Why is the directionality of information flow (DNA → RNA → protein) significant for the design argument?",
+            "guidance": "Describe transcription and translation step by step. Consider that in all known systems, functional information originates from an intelligent source — how does this principle apply to the genetic code?"
+        },
+        {
+            "id": 2,
+            "question": "Why is the information content of DNA more significant than its chemical composition when considering its origin? Use an analogy to illustrate your point.",
+            "guidance": "Think about the difference between the ink on a page and the message written with that ink. The chemistry of DNA (the ink) is understood, but the information (the message) requires a different kind of explanation."
+        },
+        {
+            "id": 3,
+            "question": "How did the ENCODE project's findings challenge earlier evolutionary assumptions about 'junk DNA'? What does this tell us about making scientific predictions from different worldviews?",
+            "guidance": "Consider how the evolutionary prediction (much DNA is non-functional leftover from evolution) differed from the design prediction (a wise Creator would design with purpose). Which prediction was confirmed by the evidence?"
+        }
+    ]
+}

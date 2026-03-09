@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "history",
+    "title": "Heroes of the Bible — Stories of Faith and Courage",
+    "description": "Meet brave heroes from the Bible who trusted God! Fun stories for ages 3-5.",
+    "units": [
+        {
+            "id": "bible_heroes",
+            "title": "Heroes of Faith",
+            "lessons": ["noah", "abraham", "moses", "david", "daniel"]
+        }
+    ],
+    "quiz_id": "heroes_quiz"
+}

@@ -1,0 +1,54 @@
+{
+    "id": "medieval_quiz",
+    "title": "The Medieval World — Unit Quiz",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What year is traditionally given for the fall of the Western Roman Empire?",
+            "options": ["300 AD", "476 AD", "800 AD", "1066 AD"],
+            "correct": 1
+        },
+        {
+            "id": 2,
+            "question": "What institution preserved ancient manuscripts and learning after the fall of Rome?",
+            "options": ["The Roman Senate", "Monasteries", "Barbarian tribal councils", "Greek academies"],
+            "correct": 1
+        },
+        {
+            "id": 3,
+            "question": "What was the feudal system based on?",
+            "options": ["Democratic elections", "Mutual obligations between lords and vassals", "Free market trade", "A written constitution"],
+            "correct": 1
+        },
+        {
+            "id": 4,
+            "question": "Who called for the First Crusade in 1095?",
+            "options": ["King Richard", "Charlemagne", "Pope Urban II", "Thomas Aquinas"],
+            "correct": 2
+        },
+        {
+            "id": 5,
+            "question": "Which scholastic philosopher argued that faith and reason are partners, not enemies?",
+            "options": ["Saint Patrick", "Thomas Aquinas", "Martin Luther", "Aristotle"],
+            "correct": 1
+        },
+        {
+            "id": 6,
+            "question": "What were the first European universities created from?",
+            "options": ["Roman government buildings", "Cathedral schools and monastic learning centers", "Greek temples", "Private merchants' guilds"],
+            "correct": 1
+        },
+        {
+            "id": 7,
+            "question": "What does the word 'Renaissance' mean?",
+            "options": ["Revolution", "Reformation", "Rebirth", "Republic"],
+            "correct": 2
+        },
+        {
+            "id": 8,
+            "question": "Who invented the printing press around 1440?",
+            "options": ["Leonardo da Vinci", "Michelangelo", "Johannes Gutenberg", "Erasmus"],
+            "correct": 2
+        }
+    ]
+}

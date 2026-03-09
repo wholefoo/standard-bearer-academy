@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "reading",
+    "title": "Literature and Composition — Writing for God's Glory",
+    "description": "Students develop advanced reading comprehension and writing skills through literature with Biblical values and purposeful composition.",
+    "units": [
+        {
+            "id": "literature_composition",
+            "title": "Literature and Composition",
+            "lessons": ["literary_elements", "character_analysis", "expository_writing", "narrative_writing", "poetry", "research_skills"]
+        }
+    ],
+    "quiz_id": "literature_quiz"
+}

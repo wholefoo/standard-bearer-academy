@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "reading",
+    "title": "God's Word ABCs — Learning to Read with Scripture",
+    "description": "Begin learning letters and sounds with Bible words and stories! Perfect for ages 3-5.",
+    "units": [
+        {
+            "id": "letter_sounds",
+            "title": "Letter Sounds and Bible Words",
+            "lessons": ["letter_a", "letter_b", "letter_c", "letter_m", "letter_s"]
+        }
+    ],
+    "quiz_id": "reading_quiz"
+}

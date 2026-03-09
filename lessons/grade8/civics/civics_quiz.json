@@ -1,0 +1,103 @@
+{
+    "id": "civics_quiz",
+    "title": "Citizenship and Law — Biblical Justice in America Quiz",
+    "description": "Test your understanding of the Biblical foundations of American law, justice, rights, and the duties of citizenship.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the Declaration of Independence, where do human rights come from?",
+            "options": [
+                "From the government and the Constitution",
+                "From the consent of the majority",
+                "From the Creator — they are God-given and unalienable",
+                "From international law and treaties"
+            ],
+            "correct": 2,
+            "explanation": "The Declaration of Independence states that all people 'are endowed by their Creator with certain unalienable Rights.' Rights come from God, not government, which means no government can legitimately take them away."
+        },
+        {
+            "id": 2,
+            "question": "What does 'the rule of law' mean?",
+            "options": [
+                "The ruler's personal decisions are the final authority",
+                "Society is governed by established laws that apply equally to everyone, including rulers",
+                "Laws should be changed whenever the majority wants something different",
+                "Only lawyers and judges need to follow the law"
+            ],
+            "correct": 1,
+            "explanation": "The rule of law means that established, publicly known laws govern society and apply equally to all people — including those who make and enforce the laws. No one is above the law."
+        },
+        {
+            "id": 3,
+            "question": "What Biblical passage required that Israel's kings personally copy God's law, study it daily, and submit to it?",
+            "options": [
+                "Genesis 1:1",
+                "Deuteronomy 17:18-20",
+                "Psalm 23",
+                "Matthew 28:19-20"
+            ],
+            "correct": 1,
+            "explanation": "Deuteronomy 17:18-20 required that Israel's kings copy the law, read it daily, obey it, and never consider themselves above their fellow citizens. This is the Biblical origin of the principle that rulers are under the law."
+        },
+        {
+            "id": 4,
+            "question": "What is the purpose of the Bill of Rights?",
+            "options": [
+                "To grant rights to citizens that they did not previously have",
+                "To give the federal government expanded powers",
+                "To prohibit the government from infringing upon rights that already exist",
+                "To establish a national church and official religion"
+            ],
+            "correct": 2,
+            "explanation": "The Bill of Rights does not grant rights — it prohibits the government from violating rights that already exist as God-given and natural. The amendments list specific things the government may not do."
+        },
+        {
+            "id": 5,
+            "question": "What is the Biblical principle behind the 'presumption of innocence' in American criminal law?",
+            "options": [
+                "Everyone is guilty until they prove otherwise",
+                "God's requirement that guilt be established by the testimony of two or three witnesses (Deuteronomy 19:15)",
+                "The majority's opinion determines guilt",
+                "Only wealthy people deserve a fair trial"
+            ],
+            "correct": 1,
+            "explanation": "Deuteronomy 19:15 required that guilt be established by multiple witnesses, not assumed. This Biblical standard of proof is the foundation of the American principle that the accused is presumed innocent until proven guilty beyond a reasonable doubt."
+        },
+        {
+            "id": 6,
+            "question": "According to Romans 13:4, what is the God-given role of government in relation to criminal justice?",
+            "options": [
+                "Government should forgive all crimes without punishment",
+                "Government is God's servant to punish wrongdoers and commend those who do right",
+                "Government should only concern itself with economic matters",
+                "Government has unlimited authority to do whatever it wants"
+            ],
+            "correct": 1,
+            "explanation": "Romans 13:4 declares that the governing authority is 'God's servant for your good' and 'does not bear the sword for nothing.' Government has a God-given responsibility to punish evil and protect the innocent."
+        },
+        {
+            "id": 7,
+            "question": "What did Martin Luther King Jr. mean when he said 'an unjust law is a human law that is not rooted in eternal law and natural law'?",
+            "options": [
+                "All human laws are unjust and should be disobeyed",
+                "Laws that violate God's moral standards are unjust, regardless of who enacted them",
+                "Only laws written by religious leaders are just",
+                "Natural law and eternal law have no connection to human justice"
+            ],
+            "correct": 1,
+            "explanation": "King argued that human laws must be measured against God's eternal moral law. Laws that align with God's standards and uplift human dignity are just; laws that violate God's moral order and degrade human personality are unjust, even if legally enacted."
+        },
+        {
+            "id": 8,
+            "question": "Why did George Washington say that 'religion and morality are indispensable supports' for political prosperity?",
+            "options": [
+                "Because he wanted to establish a theocracy",
+                "Because he believed only religious people should be allowed to vote",
+                "Because a free republic requires citizens with internal moral discipline — external laws alone cannot maintain order",
+                "Because he wanted to ban all non-religious speech"
+            ],
+            "correct": 2,
+            "explanation": "Washington understood that self-government requires self-discipline rooted in moral and religious conviction. Without virtuous citizens who govern themselves by internal moral principles, no system of external laws can preserve a free society."
+        }
+    ]
+}

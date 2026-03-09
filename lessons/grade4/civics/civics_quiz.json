@@ -1,0 +1,63 @@
+{
+    "id": "civics_quiz",
+    "title": "Rights and Responsibilities — Being a Good Citizen Quiz",
+    "description": "Test your knowledge of rights, responsibilities, and good citizenship!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the Declaration of Independence, where do our rights come from?",
+            "options": ["The President", "The Constitution", "Our Creator (God)", "The Supreme Court"],
+            "correct": 2,
+            "explanation": "The Declaration of Independence states that our rights are given to us by our Creator. This means our rights come from God, not from any government."
+        },
+        {
+            "id": 2,
+            "question": "What does the word 'unalienable' mean when talking about our rights?",
+            "options": ["They can be changed by voting", "They cannot be taken away", "They only apply to adults", "They were written by aliens"],
+            "correct": 1,
+            "explanation": "Unalienable means our rights cannot be taken away. Because God gave them to us, no government has the authority to remove them."
+        },
+        {
+            "id": 3,
+            "question": "What is the Bill of Rights?",
+            "options": ["A list of taxes citizens must pay", "The first ten amendments to the Constitution", "A list of things citizens must do", "The first chapter of the Bible"],
+            "correct": 1,
+            "explanation": "The Bill of Rights is the first ten amendments to the Constitution. It protects our God-given freedoms by limiting what the government can do."
+        },
+        {
+            "id": 4,
+            "question": "Which freedom is protected by the First Amendment?",
+            "options": ["The right to drive a car", "Freedom of religion", "The right to a free education", "Freedom to travel to other countries"],
+            "correct": 1,
+            "explanation": "The First Amendment protects five freedoms: religion, speech, the press, assembly, and petition. Freedom of religion was listed first because the Founders considered it the most important."
+        },
+        {
+            "id": 5,
+            "question": "What is the difference between a civic duty and a civic responsibility?",
+            "options": ["Duties are for adults; responsibilities are for children", "Duties are required by law; responsibilities are voluntary", "Duties are about money; responsibilities are about time", "There is no difference"],
+            "correct": 1,
+            "explanation": "Civic duties are required by law (like obeying laws and paying taxes), while civic responsibilities are voluntary actions good citizens should do (like voting and volunteering)."
+        },
+        {
+            "id": 6,
+            "question": "What Bible verse teaches us to 'love your neighbor as yourself'?",
+            "options": ["Genesis 1:1", "Matthew 22:39", "John 3:16", "Romans 8:28"],
+            "correct": 1,
+            "explanation": "Matthew 22:39 records Jesus teaching the second greatest commandment: 'Love your neighbor as yourself.' Community service is one way we put this commandment into action."
+        },
+        {
+            "id": 7,
+            "question": "Who is the leader of a state government?",
+            "options": ["The President", "The Mayor", "The Governor", "The Senator"],
+            "correct": 2,
+            "explanation": "The governor is the leader of a state government, similar to how the President leads the federal government."
+        },
+        {
+            "id": 8,
+            "question": "Why did the Founders believe citizens need to be informed?",
+            "options": ["So they can pass school tests", "So they can become famous", "So they can protect their freedoms and make wise decisions", "So they can argue with their neighbors"],
+            "correct": 2,
+            "explanation": "The Founders believed that an informed citizenry is essential for a free republic. Citizens need to know what is happening so they can protect their freedoms and hold leaders accountable."
+        }
+    ]
+}

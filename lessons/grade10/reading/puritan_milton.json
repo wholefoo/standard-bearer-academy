@@ -1,0 +1,81 @@
+{
+    "id": "puritan_milton",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Puritan Literature and John Milton",
+    "subtitle": "Paradise Lost and the Defense of God's Ways",
+    "scripture": "Genesis 3:1-7",
+    "primary_source": "Paradise Lost by John Milton (1667)",
+    "key_concepts": ["Puritan literary culture", "Epic poetry", "The Fall of Man in literature", "Free will and divine sovereignty", "Bunyan's Pilgrim's Progress"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 3:6",
+                "text": "\"When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.\"",
+                "commentary": "Milton's Paradise Lost is the greatest literary retelling of the Fall. Milton dramatizes the moment of temptation with psychological depth, showing how Satan appeals to Eve's desires for knowledge, beauty, and autonomy — the same temptations we face today."
+            },
+            {
+                "reference": "Romans 5:12",
+                "text": "\"Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned.\"",
+                "commentary": "Milton's epic explores the cosmic consequences of Adam's sin — how one act of disobedience brought death, suffering, and corruption into God's perfect creation. Yet Milton also points forward to the redemption that comes through Christ."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Puritan Literary Tradition",
+            "paragraphs": [
+                "The Puritans (roughly 1550-1700) are often misrepresented as joyless, anti-intellectual extremists. In reality, the Puritans produced some of the most profound and beautiful literature in the English language. They valued education, eloquence, and the arts — provided these served the glory of God.",
+                "Puritan writers were deeply committed to Biblical truth and applied it to every area of life. Their literature is marked by intense self-examination, passionate devotion to Scripture, and a vivid awareness of the spiritual battle between good and evil. This seriousness of purpose produced works of lasting power and depth."
+            ]
+        },
+        {
+            "heading": "John Milton: Poet and Theologian",
+            "paragraphs": [
+                "John Milton (1608-1674) is widely regarded as the greatest English poet after Shakespeare. A devout Puritan, Milton saw poetry as a sacred calling — a means of glorifying God and instructing humanity. His stated purpose in Paradise Lost was to 'justify the ways of God to men.'",
+                "Milton was also a passionate defender of religious and political liberty. His Areopagitica (1644) is one of the most powerful arguments ever written for freedom of the press. Milton argued that truth is strong enough to defeat error in open debate, and that censorship harms the cause of truth more than falsehood. This conviction — rooted in his Puritan faith — helped shape the First Amendment tradition.",
+                "Despite going completely blind in 1652, Milton dictated his greatest works, including Paradise Lost, to his daughters. His perseverance in the face of disability testifies to his absolute commitment to his God-given calling."
+            ]
+        },
+        {
+            "heading": "Paradise Lost: The Greatest English Epic",
+            "paragraphs": [
+                "Paradise Lost tells the story of the Fall of Man — from Satan's rebellion in heaven, through the temptation and fall of Adam and Eve, to their expulsion from Eden and the promise of future redemption through Christ. Written in blank verse (unrhymed iambic pentameter), it is the most ambitious and theologically rich poem in the English language.",
+                "Milton's portrayal of Satan is one of literature's greatest achievements. Satan is presented as proud, eloquent, and initially heroic-seeming — but Milton gradually reveals that his grandeur is an illusion, his freedom is actually slavery to sin, and his rebellion leads only to misery. Satan's famous declaration, 'Better to reign in Hell than serve in Heaven,' is not meant to be admired but exposed as the ultimate self-deception.",
+                "The poem's treatment of Adam and Eve is equally profound. Milton shows them as intelligent, loving, and free — genuinely able to choose obedience or disobedience. Their fall is not the result of ignorance but of a deliberate choice to trust their own judgment over God's command. This makes the tragedy real and the need for redemption urgent."
+            ]
+        },
+        {
+            "heading": "John Bunyan's Pilgrim's Progress",
+            "paragraphs": [
+                "John Bunyan (1628-1688), a Puritan preacher who spent twelve years in prison for his faith, wrote The Pilgrim's Progress — the most widely read allegory in the English language. The story follows Christian on his journey from the City of Destruction to the Celestial City, encountering dangers like the Slough of Despond, Vanity Fair, and Doubting Castle along the way.",
+                "Bunyan wrote in plain, vivid English that common people could understand. His characters — Faithful, Hopeful, Mr. Worldly Wiseman, Giant Despair — personify spiritual realities that every Christian encounters. The Pilgrim's Progress has been translated into over 200 languages and has never gone out of print since its first publication in 1678.",
+                "Bunyan's work demonstrates that great literature does not require classical education or aristocratic patronage. A self-taught tinker, writing from a prison cell, produced one of the most influential books in the English language — because he wrote from deep personal experience of God's grace."
+            ]
+        },
+        {
+            "heading": "The Puritan Legacy in Literature",
+            "paragraphs": [
+                "The Puritan literary tradition established principles that would shape English and American literature for centuries: the conviction that literature should serve moral and spiritual purposes, the emphasis on individual conscience and personal relationship with God, and the belief that ordinary people — not just aristocrats — have stories worth telling.",
+                "Without the Puritans, there would be no American literary tradition. The Plymouth Pilgrims, the Massachusetts Bay Colony, and the Great Awakening all produced literature that shaped the American character. Understanding Puritan literature is essential for understanding both British and American culture."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Milton intended to 'justify the ways of God to men' in Paradise Lost. How does the poem accomplish this goal? How does Milton show that God is just even in allowing the Fall?",
+            "guidance": "Consider Milton's emphasis on human free will — Adam and Eve freely chose to disobey. God did not cause the Fall but permitted it, and He immediately provided the promise of redemption through Christ."
+        },
+        {
+            "id": 2,
+            "question": "Why is Satan's declaration 'Better to reign in Hell than serve in Heaven' ultimately self-defeating? How does Milton reveal that Satan's apparent freedom is actually the worst kind of slavery?",
+            "guidance": "Think about how Satan's pride prevents him from repenting, trapping him in an endless cycle of misery. Compare this with the Biblical teaching that true freedom comes through submission to God (John 8:36)."
+        },
+        {
+            "id": 3,
+            "question": "Compare Bunyan's Pilgrim's Progress with the Biblical description of the Christian life as a journey (Hebrews 11:13-16). Why is the pilgrimage metaphor so powerful for describing the spiritual life?",
+            "guidance": "Consider how the journey metaphor captures both the difficulties and the hope of the Christian life — there are real dangers and setbacks, but there is also a destination that makes the journey worthwhile."
+        }
+    ]
+}

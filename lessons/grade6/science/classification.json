@@ -1,0 +1,76 @@
+{
+    "id": "classification",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Classifying Living Things",
+    "subtitle": "How Scientists Organize the Diversity of God's Creation",
+    "scripture": "Genesis 1:24-25",
+    "primary_source": "Carl Linnaeus, Systema Naturae (1735)",
+    "key_concepts": ["Taxonomy and classification", "Kingdoms of life", "Created kinds vs. common ancestry", "Linnaeus and the order of creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:24-25",
+                "text": "\"And God said, 'Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.' And it was so.\"",
+                "commentary": "God created living things 'according to their kinds.' This phrase, repeated throughout Genesis 1, indicates that God established distinct categories of organisms from the beginning. While variation occurs within kinds, each kind was separately created."
+            },
+            {
+                "reference": "Genesis 2:19-20",
+                "text": "\"Now the LORD God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name.\"",
+                "commentary": "Adam's naming of the animals was the first act of classification. God gave humans the ability and authority to study, categorize, and understand the natural world — a task that scientists continue today."
+            },
+            {
+                "reference": "1 Corinthians 15:39",
+                "text": "\"Not all flesh is the same: People have one kind of flesh, animals have another, birds another and fish another.\"",
+                "commentary": "Paul recognizes distinct categories among living things, affirming that God created different kinds of organisms with fundamentally different natures."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Do We Classify Living Things?",
+            "paragraphs": [
+                "God's creation contains an astonishing variety of living things — scientists have identified over 8.7 million species, and new ones are discovered regularly. To study and understand this incredible diversity, scientists organize living things into groups based on their characteristics. This science of classification is called taxonomy.",
+                "Classification helps scientists communicate clearly about organisms, understand relationships between different creatures, and appreciate the orderly patterns in God's creation. When Adam named the animals in the Garden of Eden, he was performing the very first act of taxonomy — observing, categorizing, and naming the creatures God had made."
+            ]
+        },
+        {
+            "heading": "Carl Linnaeus: The Father of Taxonomy",
+            "paragraphs": [
+                "The modern system of classification was developed by Carl Linnaeus, a Swedish scientist who lived in the 1700s. Linnaeus was a devout Christian who believed that classifying organisms was a way of thinking God's thoughts after Him — of understanding the order and design the Creator had built into nature.",
+                "Linnaeus created a hierarchical system with seven main levels: Kingdom, Phylum, Class, Order, Family, Genus, and Species. He also developed the system of binomial nomenclature, giving each organism a two-part Latin name (like Homo sapiens for humans). Linnaeus organized thousands of plants and animals, and his system — refined over the centuries — is still the basis of biological classification today."
+            ]
+        },
+        {
+            "heading": "The Six Kingdoms of Life",
+            "paragraphs": [
+                "Scientists currently organize all living things into six major kingdoms. Bacteria (Eubacteria) are single-celled organisms without a nucleus. Archaea are also single-celled but live in extreme environments like hot springs and salt lakes. Protists are mostly single-celled organisms with a nucleus, like amoebas and algae.",
+                "Fungi include mushrooms, molds, and yeasts — organisms that absorb nutrients from their environment. Plants are multicellular organisms that make their own food through photosynthesis. Animals are multicellular organisms that must consume other organisms for food. Each kingdom displays unique characteristics that reflect God's creativity and the incredible diversity He built into His creation."
+            ]
+        },
+        {
+            "heading": "Created Kinds: A Biblical Understanding",
+            "paragraphs": [
+                "The Bible teaches that God created organisms 'according to their kinds.' This concept of created kinds (sometimes called 'baramins' by creation scientists) is different from the evolutionary idea that all life descended from a single common ancestor. According to the Biblical view, God created distinct groups of organisms, and while significant variation can occur within each kind, one kind does not change into a fundamentally different kind.",
+                "For example, all dog breeds — from Great Danes to Chihuahuas — descended from an original dog kind. This shows remarkable variation within a kind, but dogs remain dogs. They do not become cats or birds. The created kinds model explains both the diversity we see in nature (variation within kinds) and the distinct boundaries between major groups of organisms (no new kinds arising from old ones). This is consistent with what we observe in both the fossil record and in living organisms today."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did Carl Linnaeus's Christian faith influence his approach to classifying living things? Why did he see taxonomy as a way of understanding God's creation?",
+            "guidance": "Consider Linnaeus's belief that nature displays divine order. How does organizing creation into categories help us appreciate the Creator's design?"
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between the Biblical concept of 'created kinds' and the evolutionary concept of common ancestry? How does the variation we see within dog breeds illustrate the created kinds model?",
+            "guidance": "Think about what 'according to their kinds' means in Genesis 1. Consider the difference between variation within a kind and one kind becoming another kind entirely."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important for Christians to study and classify God's creation? How does learning about the diversity of life deepen our worship?",
+            "guidance": "Reflect on Adam's role in naming the animals and our responsibility to study and steward creation. Consider how understanding the variety in nature reveals God's creativity."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "math",
+    "title": "Geometry — The Architecture of Creation",
+    "description": "Discovering the mathematical order and beauty God built into the structure of the physical world through geometric reasoning.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Architecture of Creation",
+            "lessons": ["foundations_geometry", "parallel_perpendicular", "triangles", "congruence_similarity", "circles", "area_volume"]
+        }
+    ],
+    "quiz_id": "geometry_quiz"
+}
