@@ -84,7 +84,7 @@
         },
         {
             "id": 8,
-            "question": "What is the approximately percentage of energy transferred from one trophic level to the next in an ecosystem?",
+            "question": "What is the approximate percentage of energy transferred from one trophic level to the next in an ecosystem?",
             "options": ["1%", "10%", "50%", "90%"],
             "correct": 1,
             "explanation": "Approximately 10% of energy is transferred from one trophic level to the next. The remaining 90% is lost primarily as heat."
