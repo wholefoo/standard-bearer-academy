@@ -40,7 +40,7 @@
         </div>
         <div class="grade-grid">
             {% for grade_key, grade in grades.items() %}
-            <a href="/dashboard?role=parent#{{ grade_key }}" class="grade-card" style="text-decoration:none;">
+            <a href="/grade/{{ grade_key }}" class="grade-card" style="text-decoration:none;">
                 <div class="grade-num">{{ grade.short }}</div>
                 <div class="grade-label">{{ grade.name }}</div>
             </a>

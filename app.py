@@ -67,6 +67,18 @@ def dashboard():
                            available_courses=available_courses)
 
 
+@app.route("/grade/<grade>")
+def grade_page(grade):
+    grade_info = GRADE_LEVELS.get(grade)
+    if not grade_info:
+        return redirect(url_for("homepage"))
+    available_courses = get_available_courses()
+    grade_courses = [c for c in available_courses if c["grade"] == grade]
+    return render_template("grade.html", grade=grade, grade_info=grade_info,
+                           grades=GRADE_LEVELS, subjects=SUBJECTS,
+                           grade_courses=grade_courses)
+
+
 @app.route("/course/<grade>/<subject>")
 def course(grade, subject):
     grade_info = GRADE_LEVELS.get(grade)

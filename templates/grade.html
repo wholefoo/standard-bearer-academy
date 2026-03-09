@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ grade_info.name }}{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="/">Home</a> <span>&rsaquo;</span> {{ grade_info.name }}
+        </div>
+        <h2>{{ grade_info.name }}</h2>
+        <p>All courses available for {{ grade_info.name }}</p>
+    </div>
+</div>
+
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="subject-grid">
+            {% for c in grade_courses %}
+            <a href="/course/{{ c.grade }}/{{ c.subject }}" class="subject-card" style="text-decoration:none; color: inherit;">
+                <div class="subject-icon" style="font-size: 28px;">
+                    {% if c.subject == "science" %}🔬{% elif c.subject == "math" %}📐{% elif c.subject == "reading" %}📖{% elif c.subject == "history" %}🏛️{% elif c.subject == "bible" %}✝️{% elif c.subject == "civics" %}⚖️{% else %}📚{% endif %}
+                </div>
+                <h3 style="font-size: 15px;">{{ c.title }}</h3>
+                <p style="font-size: 12px; color: var(--text-light); margin-top: 4px;">
+                    {% for sk, sv in subjects.items() %}{% if sk == c.subject %}{{ sv.name }}{% endif %}{% endfor %}
+                </p>
+            </a>
+            {% endfor %}
+        </div>
+
+        {% if not grade_courses %}
+        <div style="text-align: center; padding: 48px 0; color: var(--text-light);">
+            <p>No courses available yet for {{ grade_info.name }}.</p>
+        </div>
+        {% endif %}
+
+        <div style="margin-top: 48px;">
+            <div class="section-title" style="margin-bottom: 24px;">
+                <h2>Other Grade Levels</h2>
+            </div>
+            <div class="grade-grid">
+                {% for grade_key, gv in grades.items() %}
+                <a href="/grade/{{ grade_key }}" class="grade-card" style="text-decoration:none; {% if grade_key == grade %}border-color: var(--primary); background: #f0f4fa;{% endif %}">
+                    <div class="grade-num">{{ gv.short }}</div>
+                    <div class="grade-label">{{ gv.name }}</div>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
