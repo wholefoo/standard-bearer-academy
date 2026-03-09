@@ -1,0 +1,50 @@
+[2026-03-09 02:42:01 +0000] [16383] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:02 +0000] [16383] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:02 +0000] [16383] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:03 +0000] [16383] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2026-03-09 02:42:03 +0000] [16383] [INFO] Worker exiting (pid: 16383)
+[2026-03-09 02:42:03 +0000] [16331] [ERROR] Worker (pid:16383) exited with code 1.
+[2026-03-09 02:42:03 +0000] [16390] [INFO] Booting worker with pid: 16390
+[2026-03-09 02:42:03 +0000] [16390] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:03 +0000] [16390] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:04 +0000] [16390] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:04 +0000] [16390] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:05 +0000] [16390] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:05 +0000] [16390] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:06 +0000] [16390] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:06 +0000] [16390] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:07 +0000] [16390] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:07 +0000] [16390] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:08 +0000] [16390] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2026-03-09 02:42:08 +0000] [16390] [INFO] Worker exiting (pid: 16390)
+[2026-03-09 02:42:08 +0000] [16331] [ERROR] Worker (pid:16390) exited with code 1.
+[2026-03-09 02:42:08 +0000] [16391] [INFO] Booting worker with pid: 16391
+[2026-03-09 02:42:08 +0000] [16391] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:08 +0000] [16391] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:09 +0000] [16391] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:09 +0000] [16391] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:10 +0000] [16391] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:10 +0000] [16391] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:11 +0000] [16391] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:11 +0000] [16391] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:12 +0000] [16391] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:12 +0000] [16391] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:13 +0000] [16391] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2026-03-09 02:42:13 +0000] [16391] [INFO] Worker exiting (pid: 16391)
+[2026-03-09 02:42:13 +0000] [16331] [ERROR] Worker (pid:16391) exited with code 1.
+[2026-03-09 02:42:13 +0000] [16398] [INFO] Booting worker with pid: 16398
+[2026-03-09 02:42:13 +0000] [16398] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:13 +0000] [16398] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:14 +0000] [16398] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:14 +0000] [16398] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:15 +0000] [16398] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:15 +0000] [16398] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:16 +0000] [16398] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:16 +0000] [16398] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+[2026-03-09 02:42:17 +0000] [16398] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2026-03-09 02:42:17 +0000] [16398] [ERROR] connection to ('0.0.0.0', 5000) failed: [Errno 98] Address already in use
+^C[2026-03-09 02:42:17 +0000] [16331] [INFO] Handling signal: int
+[2026-03-09 02:42:18 +0000] [16398] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2026-03-09 02:42:18 +0000] [16398] [INFO] Worker exiting (pid: 16398)
+[2026-03-09 02:42:18 +0000] [16331] [ERROR] Worker (pid:16398) exited with code 1.
+[2026-03-09 02:42:18 +0000] [16331] [INFO] Shutting down: Master
