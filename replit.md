@@ -1,4 +1,4 @@
-# Covenant Academy — K-12 Homeschool LMS
+# Standard Bearer Academy — K-12 Homeschool LMS
 
 ## Overview
 A comprehensive K-12 Homeschool Resource Platform built with Python/Flask. The platform hosts 84 courses spanning PreK through 12th Grade across 6 core subjects, all from a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview.

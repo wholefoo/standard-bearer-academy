@@ -1,0 +1,48 @@
+Setting up a multi-role authentication system is the "brain" of your LMS. It ensures that a 2nd grader can't accidentally delete their history curriculum and that a parent can see exactly how many Scripture verses were memorized this week.
+
+In **Standard Bearer Academy**, we'll use a **Role-Based Access Control (RBAC)** model.
+
+### The Standard Bearer Academy User Hierarchy
+
+| Role | Primary Permissions | Key View |
+| --- | --- | --- |
+| **Admin (You)** | Create/Edit Curriculum, Manage Subscriptions, Global Settings. | **Master Curriculum Builder** |
+| **Parent / Teacher** | Assign Lessons, Grade Essays, View Student Progress, Set Rewards. | **Family Dashboard** |
+| **Student** | Read Lessons, Take Quizzes, Watch Videos, Track Earned Badges. | **Learning Path** |
+
+---
+
+### Phase 2: Technical Blueprint for Replit
+
+To build this on Replit using **Python and Flask**, you'll need a database to keep track of who is who. Here is the prompt to give to Replit (or its AI agent) to generate the foundational code.
+
+> "I am building **StandardBearerAcademy.com** on Replit. I need to set up a secure User Authentication system with three roles: **Admin**, **Parent**, and **Student**.
+> **Requirements:**
+> 1. **Database (SQLAlchemy):** Create a `User` model that includes `username`, `password_hash`, and `role`.
+> 2. **Security:** Use `werkzeug.security` for password hashing and `flask_login` for session management.
+> 3. **Role Protection:** Create a decorator (e.g., `@roles_accepted('Admin')`) so I can restrict certain pages to specific users.
+> 4. **Registration Flow:**
+> * A Parent registers first.
+> * Once logged in, the Parent can 'Create Student Profile' which generates a simplified login for their child.
+> 
+> 
+> 5. **Initial Admin:** Provide a script to create the first 'Admin' user (Me) so I can start uploading the K-12 curriculum.
+> 
+> 
+> Please provide the code for `models.py` and the main `auth` routes."
+
+---
+
+### Designing the "Worldview" Dashboard
+
+Since this is a Christian, conservative platform, the dashboard shouldn't just be "Tasks." It should feel like a mission.
+
+* **The Daily Proverb:** Every morning, the Student Dashboard pulls a random Proverb into a "Daily Wisdom" box.
+* **The Flag Pole:** A visual widget where students "check-in" to start their school day, perhaps with a digital Pledge of Allegiance or a short prayer.
+* **The Armor Progress Bar:** Instead of a boring percentage, use the **Armor of God** (Ephesians 6) as a progress tracker. Completing a unit might "unlock" the Breastplate of Righteousness or the Shield of Faith.
+
+### Next Step for Standard Bearer Academy
+
+With the user system in place, your database will be ready to hold data.
+
+**Would you like me to write the code for the "Daily Wisdom" widget (the Proverb puller) or should we design the "Parental Control" page where you can toggle specific curriculum modules on/off?**
