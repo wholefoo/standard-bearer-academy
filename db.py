@@ -1,10 +1,62 @@
 import os
+import logging
 import psycopg2
 from psycopg2.extras import RealDictCursor, Json
 
+logger = logging.getLogger(__name__)
+
 
 def get_db():
-    return psycopg2.connect(os.environ["DATABASE_URL"], cursor_factory=RealDictCursor)
+    database_url = os.environ.get("DATABASE_URL")
+    if not database_url:
+        raise ConnectionError("DATABASE_URL environment variable is not set")
+    return psycopg2.connect(database_url, cursor_factory=RealDictCursor)
+
+
+def init_db():
+    try:
+        conn = get_db()
+        with conn.cursor() as cur:
+            cur.execute("""
+                CREATE TABLE IF NOT EXISTS students (
+                    id SERIAL PRIMARY KEY,
+                    username VARCHAR(100) UNIQUE NOT NULL,
+                    display_name VARCHAR(200),
+                    role VARCHAR(50) DEFAULT 'student',
+                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                );
+                CREATE TABLE IF NOT EXISTS completed_lessons (
+                    id SERIAL PRIMARY KEY,
+                    student_id INTEGER REFERENCES students(id),
+                    grade VARCHAR(50) NOT NULL,
+                    subject VARCHAR(50) NOT NULL,
+                    unit VARCHAR(50),
+                    lesson_id VARCHAR(100) NOT NULL,
+                    completed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                    UNIQUE(student_id, grade, subject, lesson_id)
+                );
+                CREATE TABLE IF NOT EXISTS quiz_scores (
+                    id SERIAL PRIMARY KEY,
+                    student_id INTEGER REFERENCES students(id),
+                    grade VARCHAR(50) NOT NULL,
+                    subject VARCHAR(50) NOT NULL,
+                    unit VARCHAR(50),
+                    quiz_id VARCHAR(100) NOT NULL,
+                    score INTEGER NOT NULL,
+                    total INTEGER NOT NULL,
+                    percentage INTEGER NOT NULL,
+                    answers JSONB,
+                    completed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                );
+                INSERT INTO students (id, username, display_name, role)
+                VALUES (1, 'default', 'Default Student', 'student')
+                ON CONFLICT (id) DO NOTHING;
+            """)
+        conn.commit()
+        conn.close()
+        logger.info("Database initialized successfully")
+    except Exception as e:
+        logger.warning(f"Database initialization skipped: {e}")
 
 
 def record_completed_lesson(student_id, grade, subject, lesson_id, unit=None):

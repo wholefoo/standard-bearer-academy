@@ -5,10 +5,12 @@ from content_loader import (
     get_all_lessons_for_course, get_lesson_navigation,
     get_available_courses
 )
-from db import record_quiz_score
+from db import record_quiz_score, init_db
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("SECRET_KEY", "homeschool-lms-dev-key")
+app.secret_key = os.environ.get("SECRET_KEY", os.environ.get("SESSION_SECRET", "homeschool-lms-dev-key"))
+
+init_db()
 
 GRADE_LEVELS = {
     "prek": {"name": "Pre-Kindergarten", "short": "PreK", "order": 0},
