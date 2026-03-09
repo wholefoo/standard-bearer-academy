@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 import os
+import logging
 from content_loader import (
     load_course, load_lesson, load_quiz,
     get_all_lessons_for_course, get_lesson_navigation,
@@ -51,9 +52,18 @@ def get_subject_info(subject):
     return SUBJECTS.get(subject, {"name": subject.title(), "icon": "📚"})
 
 
+@app.route("/health")
+def health():
+    return "ok", 200
+
+
 @app.route("/")
 def homepage():
-    available_courses = get_available_courses()
+    try:
+        available_courses = get_available_courses()
+    except Exception as e:
+        logging.error(f"Error loading courses: {e}")
+        available_courses = []
     return render_template("index.html", roles=USER_ROLES, grades=GRADE_LEVELS,
                            subjects=SUBJECTS, available_courses=available_courses)
 
@@ -63,7 +73,11 @@ def dashboard():
     role = request.args.get("role", "parent")
     if role not in USER_ROLES:
         role = "parent"
-    available_courses = get_available_courses()
+    try:
+        available_courses = get_available_courses()
+    except Exception as e:
+        logging.error(f"Error loading courses: {e}")
+        available_courses = []
     return render_template("dashboard.html", role=role, roles=USER_ROLES,
                            grades=GRADE_LEVELS, subjects=SUBJECTS,
                            available_courses=available_courses)
