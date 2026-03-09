@@ -41,7 +41,7 @@ SUBJECTS = {
 }
 
 USER_ROLES = {
-    "parent": {"name": "Parent / Teacher", "description": "Manage students, view progress, and configure curriculum"},
+    "parent": {"name": "Parent / Teacher", "description": "Assign Lessons, Grade Essays, View Student Progress, Set Rewards."},
     "teacher": {"name": "Teacher", "description": "Create lessons, grade assignments, and track student progress"},
     "student": {"name": "Student", "description": "Access lessons, complete quizzes, and track your learning"},
 }
