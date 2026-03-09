@@ -111,7 +111,7 @@ nav a:hover, nav a.active {
     background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 50%, var(--primary-dark) 100%);
     color: white;
     text-align: center;
-    padding: 80px 24px;
+    padding: 48px 24px;
     position: relative;
     overflow: hidden;
 }
