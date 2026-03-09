@@ -1,0 +1,127 @@
+{
+    "id": "creative_writing_quiz",
+    "title": "Narrative and Imagination — Writing Stories that Matter Quiz",
+    "description": "Test your understanding of narrative elements, world-building, moral complexity, flash fiction, scriptwriting, and the Christian storytelling tradition.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Aristotle's Poetics, what drives a well-crafted plot?",
+            "options": [
+                "Random, surprising events that keep the reader guessing",
+                "Causation — each event causes or leads to the next by necessity or probability",
+                "Long, detailed descriptions of setting and atmosphere",
+                "As many characters as possible to create complexity"
+            ],
+            "correct": 1,
+            "explanation": "Aristotle observed that a good plot has events that follow from one another by necessity or probability — causation, not randomness, is the engine of effective narrative structure."
+        },
+        {
+            "id": 2,
+            "question": "What is J.R.R. Tolkien's concept of 'sub-creation'?",
+            "options": [
+                "Writing stories that are inferior to God's creation",
+                "The idea that human creative world-building reflects God's nature as Creator",
+                "Creating characters who are less than human",
+                "Writing stories without any connection to the real world"
+            ],
+            "correct": 1,
+            "explanation": "Tolkien argued that because humans are made in God's image, our desire to create fictional worlds — 'sub-creation' — reflects the creative nature of God Himself. It is a high and meaningful activity, not mere escapism."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between moral complexity and moral relativism in fiction?",
+            "options": [
+                "There is no difference — they are the same thing",
+                "Moral complexity shows that doing right is hard and people often fail; moral relativism denies that objective right and wrong exist",
+                "Moral complexity is always positive; moral relativism is always negative",
+                "Moral complexity applies only to villains; moral relativism applies only to heroes"
+            ],
+            "correct": 1,
+            "explanation": "Moral complexity acknowledges the genuine difficulty of moral life while maintaining that right and wrong exist. Moral relativism denies objective moral truth. Christian writers should embrace complexity while rejecting relativism."
+        },
+        {
+            "id": 4,
+            "question": "What is the most important principle of flash fiction?",
+            "options": [
+                "Stories should always have surprise endings",
+                "Economy of language — every word must carry weight and earn its place",
+                "Flash fiction should never be longer than six words",
+                "Flash fiction does not need a beginning, middle, or end"
+            ],
+            "correct": 1,
+            "explanation": "Flash fiction demands extreme economy of language. Despite its brevity, it must still be a complete story — but every word must do significant work, with no room for unnecessary language."
+        },
+        {
+            "id": 5,
+            "question": "What is 'subtext' in dramatic dialogue?",
+            "options": [
+                "The stage directions written below the dialogue",
+                "The unspoken meaning beneath the spoken words — what a character means vs. what they say",
+                "The subtitle of a play or screenplay",
+                "Dialogue spoken by minor characters"
+            ],
+            "correct": 1,
+            "explanation": "Subtext is the gap between what characters say and what they actually mean. This gap creates tension, humor, and emotional depth in dramatic writing."
+        },
+        {
+            "id": 6,
+            "question": "According to C.S. Lewis, what is the relationship between imagination and truth?",
+            "options": [
+                "Imagination is the opposite of truth and should be avoided",
+                "Imagination is the organ of meaning, while reason is the organ of truth — both are needed",
+                "Truth can only be communicated through literal, factual statements",
+                "Imagination is more important than truth"
+            ],
+            "correct": 1,
+            "explanation": "Lewis argued that imagination is the organ of meaning and reason is the organ of truth. We need both. Fiction and parables use imagination to communicate truths that bare propositions cannot capture as fully."
+        },
+        {
+            "id": 7,
+            "question": "What does the Greek word 'poiema' in Ephesians 2:10 ('we are God's handiwork') literally mean?",
+            "options": [
+                "Servant",
+                "Poem — a crafted creative work",
+                "Soldier",
+                "Student"
+            ],
+            "correct": 1,
+            "explanation": "The Greek word poiema means 'poem' or 'crafted work' — it is the word from which we get 'poem.' Paul is saying we are God's creative masterpieces, designed for good works He prepared in advance."
+        },
+        {
+            "id": 8,
+            "question": "What does 'in medias res' mean, and why is it useful in flash fiction?",
+            "options": [
+                "It means 'in the middle of things' — starting a story in the midst of action saves space and immediately engages the reader",
+                "It means 'in the media' — stories should reference current events",
+                "It means 'in meditation' — stories should begin with a quiet, reflective scene",
+                "It means 'in the resolution' — stories should begin at the end"
+            ],
+            "correct": 0,
+            "explanation": "In medias res is Latin for 'in the middle of things.' Starting a story mid-action is especially useful in flash fiction because there is no room for lengthy exposition — it plunges the reader directly into the story."
+        },
+        {
+            "id": 9,
+            "question": "Why did Flannery O'Connor argue that Christian fiction must honestly portray sin?",
+            "options": [
+                "Because she believed sin was entertaining",
+                "Because showing the reality of sin is necessary to reveal the reality of grace — you cannot understand redemption without understanding what people are redeemed from",
+                "Because she did not believe in moral standards",
+                "Because secular publishers demanded it"
+            ],
+            "correct": 1,
+            "explanation": "O'Connor argued that to show grace, you must first show the human condition that needs grace. Honest portrayal of sin is not glorification — it is the necessary background against which grace becomes visible and meaningful."
+        },
+        {
+            "id": 10,
+            "question": "Which of the following best describes the internal consistency required in world-building?",
+            "options": [
+                "Every fictional world must exactly mirror the real world",
+                "Whatever rules the author establishes for the fictional world must be followed consistently throughout the story",
+                "The world must include every detail of geography, history, and culture before the story can begin",
+                "Internal consistency only matters in science fiction, not in fantasy"
+            ],
+            "correct": 1,
+            "explanation": "Internal consistency means that the rules, logic, and systems an author establishes for a fictional world must be maintained throughout the story. This creates believability — just as God's real world operates by consistent laws, a well-built fictional world must have reliable rules."
+        }
+    ]
+}

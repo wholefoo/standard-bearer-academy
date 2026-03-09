@@ -1,0 +1,75 @@
+{
+    "id": "editing_and_revision",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Editing and Revision — Polishing Your Work for Excellence",
+    "subtitle": "Learning the Discipline of Revising Your Writing to Honor God with Your Best Effort",
+    "scripture": "Colossians 3:23",
+    "key_concepts": ["The difference between editing and revision", "Reading your work with fresh eyes", "Common areas to improve: clarity, word choice, pacing", "Giving and receiving constructive feedback"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Excellence in writing is an act of worship. When we take the time to revise and polish our work, we are honoring God by offering Him our best effort, not just our first draft."
+            },
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "Receiving feedback from others is a vital part of the writing process. Just as Christians grow through community and accountability, writers grow through honest, constructive critique."
+            },
+            {
+                "reference": "Proverbs 12:15",
+                "text": "\"The way of fools seems right to them, but the wise listen to advice.\"",
+                "commentary": "Wisdom includes being open to feedback and correction. A wise writer welcomes suggestions for improvement rather than assuming their first draft is their best work."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Writing Is Rewriting",
+            "paragraphs": [
+                "Many beginning writers believe that good writing happens in one sitting — that talented writers sit down and produce a perfect piece on the first try. This is a myth. Professional writers know that the real work of writing happens in revision. The first draft is just the beginning.",
+                "Even the greatest authors revise extensively. C.S. Lewis rewrote passages of The Chronicles of Narnia multiple times. The Bible itself was carefully copied and preserved across centuries with extraordinary attention to detail. Excellence requires effort, and revision is where a good piece of writing becomes great."
+            ]
+        },
+        {
+            "heading": "Editing vs. Revision",
+            "paragraphs": [
+                "It is important to understand the difference between editing and revision. Editing focuses on the small details — spelling, grammar, punctuation, and sentence structure. Revision focuses on the big picture — does the story make sense? Are the characters consistent? Is the conflict clear? Does the ending satisfy?",
+                "Always revise before you edit. There is no point in perfecting the grammar of a paragraph that might need to be rewritten or removed entirely. First, look at your writing from a distance and ask the big questions. Then, once you are happy with the structure and content, go through line by line to polish the details."
+            ]
+        },
+        {
+            "heading": "Strategies for Revision",
+            "paragraphs": [
+                "One of the best revision strategies is to let your writing sit for a day or two before rereading it. When you come back with fresh eyes, you will notice problems you missed before. Read your work aloud — your ear will catch awkward sentences, repetition, and pacing issues that your eye might skip over.",
+                "Ask yourself key questions as you revise: Is my opening interesting enough to grab the reader? Does every scene serve the story? Are my descriptions vivid and specific? Does my dialogue sound natural? Is my ending satisfying? Could any section be cut without losing something important? Be willing to cut words, sentences, or even whole paragraphs that do not serve the piece."
+            ]
+        },
+        {
+            "heading": "Giving and Receiving Feedback",
+            "paragraphs": [
+                "One of the most valuable tools for improving your writing is feedback from others. Sharing your work with a trusted friend, family member, or teacher can reveal blind spots you cannot see on your own. Proverbs 27:17 reminds us that 'iron sharpens iron' — we grow sharper through interaction with others.",
+                "When giving feedback, be honest but kind. Point out what works well before suggesting improvements. Be specific — instead of saying 'This part is confusing,' say 'I wasn't sure why the character made this decision. Could you add a sentence explaining her motivation?' When receiving feedback, listen with humility. You do not have to accept every suggestion, but you should consider each one carefully. The goal is not to protect your feelings but to make your writing the best it can be."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Colossians 3:23. How does the principle of working 'with all your heart, as working for the Lord' apply to the revision process? Why is offering God our best effort in writing an act of worship?",
+            "guidance": "Think about the difference between a first draft and a polished piece. Which one more fully honors the gift God has given you?"
+        },
+        {
+            "id": 2,
+            "question": "Take a piece of writing you have done previously (a story, poem, or journal entry). Read it aloud and identify three specific things you could improve. What did you notice when you heard your words spoken that you did not see on the page?",
+            "guidance": "Listen for awkward phrasing, repetitive words, unclear ideas, or places where more description is needed. Reading aloud is one of the most powerful revision tools."
+        },
+        {
+            "id": 3,
+            "question": "Read Proverbs 27:17. Why is it important for writers to share their work and receive feedback from others? How can you give feedback that is both honest and encouraging?",
+            "guidance": "Consider how community and accountability help us grow — not just in writing, but in all areas of life. The same humility we need in our walk with God applies to our craft."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "writing_quiz",
+    "title": "Stories of Virtue — Crafting Fiction with Purpose",
+    "description": "Test your understanding of fiction writing concepts from a Biblical perspective. This quiz covers character development, plot and conflict, dialogue, virtuous heroes, poetry forms, and editing and revision.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to 1 Samuel 16:7, what does God look at when evaluating a person?",
+            "options": [
+                "Their outward appearance and physical strength",
+                "Their wealth and social status",
+                "Their heart — their inner thoughts, beliefs, and desires",
+                "Their writing ability and education"
+            ],
+            "correct": 2,
+            "explanation": "1 Samuel 16:7 teaches that 'the LORD looks at the heart.' Great character development follows the same principle — the most important traits are internal, not external."
+        },
+        {
+            "id": 2,
+            "question": "What are the five parts of plot structure?",
+            "options": [
+                "Character, setting, theme, symbol, and tone",
+                "Exposition, rising action, climax, falling action, and resolution",
+                "Introduction, body paragraph 1, body paragraph 2, body paragraph 3, and conclusion",
+                "Beginning, problem, solution, moral, and ending"
+            ],
+            "correct": 1,
+            "explanation": "The five-part plot structure is exposition (setup), rising action (building tension), climax (turning point), falling action (consequences), and resolution (conclusion)."
+        },
+        {
+            "id": 3,
+            "question": "Which type of conflict describes a character's internal struggle with their own fears, doubts, or desires?",
+            "options": [
+                "Person vs. person",
+                "Person vs. nature",
+                "Person vs. self",
+                "Person vs. society"
+            ],
+            "correct": 2,
+            "explanation": "Person vs. self is an internal conflict where a character struggles with their own thoughts, emotions, fears, or moral decisions — like Jonah wrestling with God's call."
+        },
+        {
+            "id": 4,
+            "question": "What is the primary purpose of dialogue in fiction?",
+            "options": [
+                "To fill up space on the page",
+                "To reveal character, provide information, and advance the plot",
+                "To show off the author's vocabulary",
+                "To replace all description and narration"
+            ],
+            "correct": 1,
+            "explanation": "Good dialogue serves multiple purposes: it reveals who characters are through how they speak, provides necessary information, and moves the story forward."
+        },
+        {
+            "id": 5,
+            "question": "Why are perfect, flawless characters often considered poor character development?",
+            "options": [
+                "Because readers cannot relate to them and they have no room for growth",
+                "Because all real people are evil",
+                "Because the Bible says all characters must be sinful",
+                "Because only villains are interesting"
+            ],
+            "correct": 0,
+            "explanation": "Perfect characters are boring because readers cannot relate to them and they have no room for growth. Real virtue is demonstrated through struggle. Even Biblical heroes like David and Peter had significant flaws."
+        },
+        {
+            "id": 6,
+            "question": "What is a haiku?",
+            "options": [
+                "A fourteen-line poem about love",
+                "A three-line poem with a 5-7-5 syllable pattern, often about nature",
+                "A poem where the first letters of each line spell a word",
+                "A humorous five-line poem with an AABBA rhyme scheme"
+            ],
+            "correct": 1,
+            "explanation": "A haiku is a three-line poem with five syllables in the first line, seven in the second, and five in the third. It traditionally focuses on nature and a single moment of observation."
+        },
+        {
+            "id": 7,
+            "question": "What is the difference between editing and revision?",
+            "options": [
+                "They are the same thing",
+                "Editing focuses on big-picture issues while revision focuses on grammar",
+                "Revision focuses on big-picture issues (structure, story, characters) while editing focuses on details (grammar, spelling, punctuation)",
+                "Editing is for poetry and revision is for fiction"
+            ],
+            "correct": 2,
+            "explanation": "Revision addresses the big picture — does the story work? Are the characters believable? Editing addresses the details — grammar, spelling, punctuation, and sentence-level clarity. You should revise before you edit."
+        },
+        {
+            "id": 8,
+            "question": "According to Philippians 4:8, what kinds of things should we focus on — including in our writing?",
+            "options": [
+                "Whatever is popular and trendy",
+                "Whatever is true, noble, right, pure, lovely, admirable, excellent, and praiseworthy",
+                "Whatever will make us famous",
+                "Whatever is shocking and controversial"
+            ],
+            "correct": 1,
+            "explanation": "Philippians 4:8 calls us to focus on what is true, noble, right, pure, lovely, admirable, excellent, and praiseworthy. This guides Christian writers to create characters and stories that reflect these qualities."
+        }
+    ]
+}

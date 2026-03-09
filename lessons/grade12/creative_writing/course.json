@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "creative_writing",
+    "title": "Senior Portfolio — A Legacy of Words",
+    "description": "Culminating the creative writing journey by refining craft, building a portfolio, and embracing writing as a lifelong calling to glorify God",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Senior Portfolio — A Legacy of Words",
+            "lessons": ["reflection_and_vision", "polishing_best_work", "personal_statement", "creative_nonfiction", "submitting_publication", "lifelong_calling"]
+        }
+    ],
+    "quiz_id": "portfolio_quiz"
+}

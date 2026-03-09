@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "technology",
+    "title": "Digital Foundations — Technology as a Tool for God's Kingdom",
+    "description": "Explore the basics of technology, computer systems, and digital citizenship from a Biblical worldview, learning to use technology wisely as stewards of God's gifts.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Digital Foundations — Technology as a Tool for God's Kingdom",
+            "lessons": ["what_is_technology", "computer_basics", "internet_safety", "digital_citizenship", "tools_for_learning", "stewardship_of_technology"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

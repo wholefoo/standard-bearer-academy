@@ -1,0 +1,77 @@
+{
+    "id": "elements_of_narrative",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Elements of Narrative",
+    "subtitle": "The Architecture of Story — How Great Stories Are Built",
+    "scripture": "Genesis 1:1; John 1:1",
+    "primary_source": "Aristotle — Poetics (c. 335 BC)",
+    "key_concepts": ["Plot structure", "Character development", "Setting and atmosphere", "Point of view", "Theme", "Conflict and resolution", "The grand narrative of Scripture"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:1",
+                "text": "\"In the beginning God created the heavens and the earth.\"",
+                "commentary": "The Bible opens with the greatest story ever told — and it opens with a beginning. All narrative has a beginning, middle, and end because the Author of reality designed existence itself as a story with a beginning (Creation), a central conflict (the Fall), a climax (the Cross), and a resolution (Restoration). Human storytelling reflects this divine pattern."
+            },
+            {
+                "reference": "John 1:1",
+                "text": "\"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
+                "commentary": "Jesus Christ is called 'the Word' — the Logos. God Himself chose to reveal Himself through language, through narrative, through story. The fact that the Creator communicates through words and story tells us that narrative is not merely entertainment; it is a fundamental way truth is communicated."
+            },
+            {
+                "reference": "Hebrews 12:1-2",
+                "text": "\"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"",
+                "commentary": "The Christian life itself is presented as a narrative — a race with obstacles, a story requiring perseverance, with Jesus as both the author and the model. Understanding narrative helps us understand our own lives as stories being written by God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Narrative Matters",
+            "paragraphs": [
+                "Human beings are storytelling creatures. We think in stories, remember in stories, and make sense of our lives through stories. From the earliest cave paintings to the latest blockbuster film, narrative has been the primary way people communicate meaning, preserve wisdom, and explore the deepest questions of existence.",
+                "For Christians, this is not surprising. We worship a God who reveals Himself through narrative — the grand story of Creation, Fall, Redemption, and Restoration that spans the entire Bible. When we write stories, we are participating in an activity that reflects the nature of our Creator."
+            ]
+        },
+        {
+            "heading": "Plot: The Backbone of Story",
+            "paragraphs": [
+                "Plot is the sequence of events that make up a story. But plot is more than just 'what happens next.' A well-crafted plot is driven by causation — each event causes or leads to the next. Aristotle, writing over two thousand years ago in his Poetics, observed that a good plot has a beginning, middle, and end, and that the events should follow from one another by necessity or probability.",
+                "The classic plot structure includes exposition (introducing characters and setting), rising action (complications and conflicts building), climax (the turning point of highest tension), falling action (consequences of the climax), and resolution (the new normal). This structure is not arbitrary — it reflects the way human experience actually works. We live in a world of causes and consequences, of tensions that build and resolve."
+            ]
+        },
+        {
+            "heading": "Character: The Heart of Story",
+            "paragraphs": [
+                "While plot tells us what happens, character tells us who it happens to — and more importantly, why we care. The most memorable stories feature characters who feel real: complex, flawed, capable of change. A well-developed character has desires, fears, strengths, weaknesses, and a distinctive way of seeing the world.",
+                "The Bible gives us some of the richest character portrayals in all of literature. David is brave and faithful yet capable of terrible sin. Peter is passionate and impulsive, denying Christ one moment and preaching boldly the next. These are not cardboard figures — they are complex human beings, and their stories resonate because we recognize our own complexity in them."
+            ]
+        },
+        {
+            "heading": "Setting, Conflict, and Theme",
+            "paragraphs": [
+                "Setting is more than just where and when a story takes place — it creates atmosphere, influences character, and can even function as a symbol. The wilderness in Scripture represents testing; the garden represents paradise; the city represents human ambition. Great writers use setting purposefully, making it an active element in the story rather than mere backdrop.",
+                "Conflict is the engine of narrative. Without conflict — some obstacle, opposition, or tension — there is no story. Conflict can be external (character vs. character, character vs. nature, character vs. society) or internal (character vs. self). The most powerful stories combine both.",
+                "Theme is the deeper meaning beneath the surface events. It is what the story is really about. A story might be about a boy fighting a dragon on the surface, but its theme might be courage, or the nature of evil, or the cost of doing what is right. Theme gives a story its lasting significance."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "The Bible tells one grand story from Genesis to Revelation. Identify the main elements of narrative — exposition, rising action, climax, falling action, and resolution — in the overarching story of Scripture.",
+            "guidance": "Consider Creation as exposition, the Fall and humanity's ongoing rebellion as rising action, the Cross as the climax, the spread of the Gospel as falling action, and the Second Coming and New Creation as resolution."
+        },
+        {
+            "id": 2,
+            "question": "Choose a Biblical character (such as Joseph, Ruth, or Peter) and analyze them as a literary character. What are their desires, fears, and flaws? How do they change over the course of their story? What makes them feel 'real'?",
+            "guidance": "Look at the character's arc — where they begin versus where they end. Identify moments of decision, failure, and growth. Consider how the Biblical author reveals character through action and dialogue rather than just telling us about them."
+        },
+        {
+            "id": 3,
+            "question": "Aristotle wrote that a good plot should have events that follow 'by necessity or probability.' What did he mean by this? Why is a plot driven by cause-and-effect more satisfying than a plot where events happen randomly?",
+            "guidance": "Think about how cause-and-effect in plot mirrors the way God has designed reality — a world of moral and physical laws where actions have consequences. Random events feel meaningless; causally connected events feel purposeful."
+        }
+    ]
+}

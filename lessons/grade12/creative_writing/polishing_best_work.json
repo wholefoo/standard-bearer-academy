@@ -1,0 +1,79 @@
+{
+    "id": "polishing_best_work",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Polishing Your Best Work",
+    "subtitle": "The Art of Revision as a Pursuit of Excellence",
+    "scripture": "Colossians 3:23; Proverbs 27:17",
+    "primary_source": "Ernest Hemingway, A Moveable Feast (1964), on the discipline of rewriting — 'The first draft of anything is garbage'",
+    "key_concepts": ["Revision as essential craft", "Macro-revision vs. micro-revision", "Cutting and tightening prose", "Receiving and applying feedback", "Excellence as worship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Revision is where 'working with all your heart' becomes tangible in the writing process. A first draft captures ideas; revision shapes them into excellence. When we revise diligently, we honor God by refusing to offer Him — or our readers — work that is less than our best."
+            },
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "The revision process is strengthened immeasurably by honest feedback from trusted peers and mentors. Just as Christians grow through fellowship and accountability, writers grow by submitting their work to the constructive criticism of others and humbly applying what they learn."
+            },
+            {
+                "reference": "Proverbs 12:1",
+                "text": "\"Whoever loves discipline loves knowledge, but whoever hates correction is stupid.\"",
+                "commentary": "The willingness to receive correction — whether from a teacher, peer reviewer, or your own critical rereading — is essential to growth as a writer. Revision requires the humility to acknowledge that your first attempt can always be improved."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Revision Matters",
+            "paragraphs": [
+                "Every great writer in history has been, first and foremost, a great reviser. Ernest Hemingway rewrote the ending of A Farewell to Arms thirty-nine times. Flannery O'Connor revised her stories through dozens of drafts. Tolstoy's wife copied the manuscript of War and Peace by hand seven times as he revised it. The myth of the effortless genius who produces perfect prose on the first try is just that — a myth.",
+                "Revision is where good writing becomes great writing. It is the process of seeing your work again (re-vision) with fresh eyes, identifying what works and what does not, and making the changes necessary to bring your words closer to the vision in your mind. For your senior portfolio, this process is essential."
+            ]
+        },
+        {
+            "heading": "Macro-Revision: Structure and Meaning",
+            "paragraphs": [
+                "Effective revision works from large to small. Begin with macro-revision — examining the big-picture elements of your piece. For a story, ask: Does the plot make sense? Are the characters consistent and compelling? Does the conflict build to a satisfying resolution? For an essay, ask: Is the thesis clear and well-supported? Does each paragraph contribute to the argument? Is the structure logical?",
+                "Read your piece aloud. This simple technique reveals problems that silent reading misses — awkward rhythms, repetitive patterns, unclear transitions, and passages that drag. If you stumble while reading aloud, your reader will stumble too.",
+                "Ask yourself the hardest question a writer can ask: What needs to be cut? William Faulkner advised writers to 'kill your darlings' — to remove passages you love if they do not serve the piece as a whole. This requires discipline and humility, but it almost always makes the writing stronger."
+            ]
+        },
+        {
+            "heading": "Micro-Revision: Sentences and Words",
+            "paragraphs": [
+                "After addressing big-picture issues, turn to micro-revision — the craft of individual sentences and word choices. Strong writing is precise. Every word should earn its place on the page. Replace vague words with specific ones. Eliminate unnecessary adverbs and adjectives. Convert passive voice to active voice where possible.",
+                "Pay attention to sentence variety. A series of short, choppy sentences creates a staccato rhythm that can feel monotonous. A string of long, complex sentences can overwhelm the reader. The best prose mixes sentence lengths and structures to create a natural, engaging rhythm.",
+                "Check for common errors: subject-verb agreement, pronoun clarity, comma splices, dangling modifiers, and inconsistent tense. These technical errors undermine even the most powerful content. Proofread carefully — preferably on paper, where errors are easier to spot than on a screen."
+            ]
+        },
+        {
+            "heading": "Giving and Receiving Feedback",
+            "paragraphs": [
+                "One of the most valuable resources in your revision process is feedback from others. A trusted reader can see things in your work that you cannot — logical gaps, unclear passages, unearned emotional moments, or strengths you did not recognize.",
+                "When giving feedback, be specific, honest, and kind. Instead of saying 'this part is confusing,' say 'I lost track of the argument in paragraph three because the transition from the previous point was unclear.' Instead of vague praise like 'this is good,' identify what specifically works: 'the image of the oak tree in the third stanza powerfully conveys the theme of endurance.'",
+                "When receiving feedback, listen with humility. Resist the urge to defend or explain your work immediately. Thank the person for their time, take notes, and then reflect on their suggestions privately. You do not have to accept every piece of feedback, but you should consider each one honestly. The goal is not to protect your ego but to improve your writing — and ultimately, to offer God your very best work."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Select one piece from your portfolio draft and perform a macro-revision. What structural changes would strengthen the piece? What should be cut?",
+            "guidance": "Focus on big-picture elements: thesis clarity, plot structure, character consistency, logical flow, and overall purpose. Be willing to make significant changes, not just surface corrections."
+        },
+        {
+            "id": 2,
+            "question": "How does the Biblical principle of working 'with all your heart, as working for the Lord' (Colossians 3:23) apply to the revision process? Why is revision an act of worship?",
+            "guidance": "Consider how revision demonstrates the commitment to excellence that honors God. Think about how offering unrevised, careless work differs from offering work that has been carefully crafted and refined."
+        },
+        {
+            "id": 3,
+            "question": "Why is receiving feedback with humility essential for growth as a writer? How does Proverbs 27:17 apply to the peer review process?",
+            "guidance": "Think about how pride can prevent growth and how honest feedback from trusted peers strengthens both the writer and the work. Consider how the writing community mirrors the broader Christian community in its call to mutual encouragement and accountability."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "technology",
+    "title": "Introduction to Programming",
+    "description": "Building with Logic and Order",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Introduction to Programming — Building with Logic and Order",
+            "lessons": ["programming_concepts", "variables_logic", "loops_functions", "simple_projects", "problem_solving", "ethics_in_code"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

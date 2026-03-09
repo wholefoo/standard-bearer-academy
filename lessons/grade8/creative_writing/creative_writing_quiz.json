@@ -1,0 +1,103 @@
+{
+    "id": "creative_writing_quiz",
+    "title": "The Writer's Workshop — Finding Your Voice for Truth Quiz",
+    "description": "Test your understanding of voice, memoir, persuasive narrative, poetry, peer review, and publishing from a Biblical perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is a writer's 'voice'?",
+            "options": [
+                "The volume at which you read your work aloud",
+                "A distinctive way of putting words together that reflects the writer's personality and perspective",
+                "The topic you choose to write about",
+                "The number of pages in your finished work"
+            ],
+            "correct": 1,
+            "explanation": "A writer's voice is their unique combination of word choices, sentence rhythms, perspective, and personality — the quality that makes their writing recognizably theirs."
+        },
+        {
+            "id": 2,
+            "question": "How does a memoir differ from an autobiography?",
+            "options": [
+                "A memoir is fiction while an autobiography is nonfiction",
+                "A memoir focuses on a specific experience or theme, while an autobiography covers an entire life",
+                "An autobiography is shorter than a memoir",
+                "There is no difference between the two"
+            ],
+            "correct": 1,
+            "explanation": "A memoir focuses on a particular slice of life — a specific experience, period, or theme — and explores it in depth, while an autobiography attempts to tell the story of a whole life."
+        },
+        {
+            "id": 3,
+            "question": "In 2 Samuel 12, why did the prophet Nathan use a story (parable) to confront King David rather than accusing him directly?",
+            "options": [
+                "Nathan was afraid of David and wanted to soften the blow",
+                "Nathan did not know what David had done",
+                "A story engaged David's emotions and sense of justice, causing him to convict himself before realizing the story was about him",
+                "Nathan was not a good public speaker"
+            ],
+            "correct": 2,
+            "explanation": "Nathan's parable bypassed David's defenses and engaged his sense of justice. By the time David condemned the rich man in the story, he had unwittingly condemned himself. This demonstrates the unique persuasive power of narrative."
+        },
+        {
+            "id": 4,
+            "question": "What is imagery in poetry?",
+            "options": [
+                "Illustrations drawn in the margins of a poem",
+                "Language that creates pictures in the reader's mind by appealing to the five senses",
+                "The title and subtitle of a poem",
+                "A type of poem that does not rhyme"
+            ],
+            "correct": 1,
+            "explanation": "Imagery is language that appeals to sight, sound, smell, touch, or taste, creating vivid sensory experiences in the reader's mind. It is the most essential tool in a poet's toolbox."
+        },
+        {
+            "id": 5,
+            "question": "According to Proverbs 27:17, 'As iron sharpens iron, so one person sharpens another.' How does this apply to peer review in writing?",
+            "options": [
+                "Writers should compete against each other to determine who is best",
+                "Writers grow and improve by giving and receiving honest, constructive feedback from fellow writers",
+                "Only professional editors should review student writing",
+                "Peer review is unnecessary for talented writers"
+            ],
+            "correct": 1,
+            "explanation": "Just as iron must rub against iron to become sharp, writers improve through the community process of peer review — offering honest feedback and humbly receiving it."
+        },
+        {
+            "id": 6,
+            "question": "What does 'show, don't tell' mean in writing?",
+            "options": [
+                "Use pictures instead of words",
+                "Create scenes and details that let readers experience and discover the point for themselves, rather than stating it directly",
+                "Always write in present tense",
+                "Never include dialogue in your stories"
+            ],
+            "correct": 1,
+            "explanation": "'Show, don't tell' means using vivid scenes, sensory details, and specific actions to communicate ideas and emotions, rather than simply stating them as facts. It allows readers to experience the writing rather than just understand it."
+        },
+        {
+            "id": 7,
+            "question": "What is the Biblical basis for sharing your writing with others rather than keeping it private?",
+            "options": [
+                "The Bible requires all Christians to be professional writers",
+                "Jesus taught that we should let our light shine before others, using our gifts to serve and glorify God",
+                "Writing that is not published has no value",
+                "The Bible does not address the topic of sharing gifts with others"
+            ],
+            "correct": 1,
+            "explanation": "Jesus said, 'You are the light of the world... let your light shine before others' (Matthew 5:14-16). If God has given the gift of writing, that gift is meant to be shared for His glory and the benefit of others."
+        },
+        {
+            "id": 8,
+            "question": "When giving peer review feedback, what approach does the lesson recommend?",
+            "options": [
+                "Only point out mistakes — the writer already knows what is good",
+                "Only say positive things to avoid hurting feelings",
+                "Be specific, honest, and kind — start with genuine praise, then offer specific suggestions using 'I' statements",
+                "Let the teacher handle all feedback — students should not critique each other"
+            ],
+            "correct": 2,
+            "explanation": "Good peer review follows Ephesians 4:15 — 'speaking the truth in love.' This means being specific about what works and what could improve, starting with genuine praise, using 'I' statements, and maintaining both honesty and kindness."
+        }
+    ]
+}

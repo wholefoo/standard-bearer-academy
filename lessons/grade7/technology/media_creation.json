@@ -1,0 +1,75 @@
+{
+    "id": "media_creation",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Media Creation — Using Technology to Create and Communicate",
+    "subtitle": "Creating Digital Content That Glorifies God",
+    "scripture": "Colossians 3:23",
+    "key_concepts": ["Types of digital media", "Basic design principles", "Copyright and giving credit", "Creating content for God's glory"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "When we create digital content — whether a video, a presentation, or a website — we should put our best effort into it, as if creating it for God Himself. Excellence in our work honors the Creator who gave us our abilities."
+            },
+            {
+                "reference": "Exodus 31:3-5",
+                "text": "\"And I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs for work in gold, silver and bronze, to cut and set stones, to work in wood, and to engage in all kinds of crafts.\"",
+                "commentary": "God gifts people with creative abilities. Digital media creation is a modern expression of the artistic skills God gives His people. We can use these gifts to create beautiful and meaningful content."
+            },
+            {
+                "reference": "Psalm 96:1",
+                "text": "\"Sing to the LORD a new song; sing to the LORD, all the earth.\"",
+                "commentary": "God invites us to create new expressions of worship and truth. Digital media gives us powerful new tools to tell stories, share truth, and bring beauty into the world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Everyone Is a Creator",
+            "paragraphs": [
+                "Technology has made it possible for anyone to create and share content with the world. You can write a blog, record a podcast, edit a video, design a graphic, or build a website — all with tools that are freely or inexpensively available. This is an incredible opportunity and a significant responsibility.",
+                "As a Christian, your creative work should reflect your faith and values. Whether you are creating a school presentation or a personal project, the content you produce should be truthful, excellent, and honoring to God."
+            ]
+        },
+        {
+            "heading": "Types of Digital Media",
+            "paragraphs": [
+                "Digital media comes in many forms. Text-based media includes blogs, articles, and social media posts. Visual media includes photographs, infographics, and digital art. Audio media includes podcasts, music, and sound recordings. Video media combines visual and audio elements to tell stories and share information.",
+                "Each type of media has its own strengths. Text is great for detailed explanations. Images capture attention quickly. Audio creates intimate connections. Video combines multiple elements for powerful storytelling. Learning to use different types of media helps you communicate more effectively."
+            ]
+        },
+        {
+            "heading": "Basic Design Principles",
+            "paragraphs": [
+                "Good design makes your content easier to understand and more enjoyable to experience. Some basic principles include: keep things simple and uncluttered; use consistent fonts and colors; make sure text is easy to read; use high-quality images; and organize information in a logical order.",
+                "These principles reflect the orderliness of God's creation. Just as God designed the natural world with beauty and purpose, we should strive to create digital content that is well-organized, visually appealing, and clearly communicates its message."
+            ]
+        },
+        {
+            "heading": "Copyright and Giving Credit",
+            "paragraphs": [
+                "When you create content, you should respect the work of others by following copyright laws. Copyright protects the creative work of authors, artists, musicians, and other creators. Using someone else's work without permission — even in a school project — is a form of stealing, which God forbids (Exodus 20:15).",
+                "Always give credit when you use someone else's ideas, images, or words. Use Creative Commons or public domain resources when you need free content. And be proud of your own original work — God has given you unique ideas and abilities that the world needs to see."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Colossians 3:23 apply to creating digital content? What does it look like to create a school project or digital media 'as working for the Lord'?",
+            "guidance": "Think about the quality, truthfulness, and purpose of your work. Consider how your attitude toward creation reflects your attitude toward God."
+        },
+        {
+            "id": 2,
+            "question": "Why is respecting copyright important from a Biblical perspective? How does using someone else's work without credit relate to the commandment against stealing?",
+            "guidance": "Consider what copyright protects and why creators deserve credit. Think about how honesty and integrity apply to digital content creation."
+        },
+        {
+            "id": 3,
+            "question": "What type of digital media are you most interested in creating? How could you use that medium to glorify God and serve others?",
+            "guidance": "Think about your personal interests and skills. Consider how different media types could be used for ministry, education, or encouragement."
+        }
+    ]
+}

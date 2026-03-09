@@ -1,0 +1,75 @@
+{
+    "id": "digital_footprint",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Digital Footprint — Your Online Legacy",
+    "subtitle": "Understanding the Permanent Record of Your Digital Life",
+    "scripture": "Proverbs 22:1",
+    "key_concepts": ["What a digital footprint is", "Active vs. passive footprints", "Reputation and the permanent internet", "Building a positive digital legacy"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 22:1",
+                "text": "\"A good name is more desirable than great riches; to be esteemed is better than silver or gold.\"",
+                "commentary": "Your digital footprint is part of your reputation. In a world where future employers, college admissions officers, and others can search your name online, protecting your 'good name' includes managing what you put on the internet."
+            },
+            {
+                "reference": "Luke 12:2-3",
+                "text": "\"There is nothing concealed that will not be disclosed, or hidden that will not be made known. What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs.\"",
+                "commentary": "Jesus warns that everything hidden will eventually be revealed. This is literally true on the internet, where 'deleted' content can often be recovered and private messages can be shared publicly."
+            },
+            {
+                "reference": "Galatians 6:7",
+                "text": "\"Do not be deceived: God cannot be mocked. A man reaps what he sows.\"",
+                "commentary": "What you plant in the digital world, you will eventually harvest. Unkind words, inappropriate content, and dishonest behavior online can have consequences that last for years."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Every Click Leaves a Mark",
+            "paragraphs": [
+                "Every time you go online, you leave behind a trail of information called your digital footprint. This includes every website you visit, every search you make, every comment you post, every photo you upload, and every message you send. Unlike footprints in the sand, digital footprints do not wash away — they can last forever.",
+                "Your digital footprint creates an online record of who you are and how you behave in digital spaces. This record can be seen by others, sometimes even years after you created it. Understanding your digital footprint is essential for protecting your reputation and honoring God."
+            ]
+        },
+        {
+            "heading": "Active and Passive Footprints",
+            "paragraphs": [
+                "There are two types of digital footprints. Your active footprint consists of information you deliberately share — posts, comments, photos, profile information, and messages. You have direct control over your active footprint and should think carefully about everything you share.",
+                "Your passive footprint consists of information collected about you without your direct action — your browsing history, location data, cookies that track your activity across websites, and data collected by apps. While you have less control over your passive footprint, you can take steps to minimize it by adjusting privacy settings, using private browsing modes, and being selective about which apps you use."
+            ]
+        },
+        {
+            "heading": "The Internet Never Forgets",
+            "paragraphs": [
+                "One of the most important things to understand about the internet is that content can be almost impossible to fully delete. Even if you remove a post, someone may have taken a screenshot. Websites archive old pages. Emails and messages are stored on servers. The internet has a very long memory.",
+                "This reality should make us thoughtful about everything we share online. Before posting anything, use the 'grandma test' — would you be comfortable if your grandmother saw this? Or better yet, use the 'Jesus test' — would you post this if Jesus were looking over your shoulder? Because in truth, He is."
+            ]
+        },
+        {
+            "heading": "Building a Positive Digital Legacy",
+            "paragraphs": [
+                "The good news is that your digital footprint can work for you, not just against you. By intentionally sharing positive, uplifting, and thoughtful content, you can build a digital legacy that reflects your character and values. Future employers, colleges, and communities will see a record of someone who uses technology wisely and treats others with respect.",
+                "Start building your positive digital legacy now. Share content that is true, helpful, and encouraging. Treat every online interaction as an opportunity to reflect the character of Christ. Your digital footprint is part of the story of your life — make sure it is a story you are proud to tell."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is a digital footprint, and why should Christians care about theirs? How does Proverbs 22:1 connect to your online reputation?",
+            "guidance": "Consider how your online activity creates a permanent record. Think about how your digital footprint reflects your character and values."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between an active and a passive digital footprint? What steps can you take to manage each one?",
+            "guidance": "Think about the information you choose to share versus the information collected about you automatically. Consider practical privacy measures."
+        },
+        {
+            "id": 3,
+            "question": "How can you start building a positive digital legacy today? What specific actions will you take this week to ensure your digital footprint honors God?",
+            "guidance": "Think about concrete steps — reviewing what you have already posted, being more thoughtful about future posts, adjusting privacy settings."
+        }
+    ]
+}

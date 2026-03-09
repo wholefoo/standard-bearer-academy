@@ -1,0 +1,103 @@
+{
+    "id": "technology_quiz",
+    "title": "Digital Foundations — Technology as a Tool for God's Kingdom",
+    "description": "Test your understanding of technology basics, internet safety, digital citizenship, and Biblical stewardship of technology.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Exodus 35:31-32, where does the ability to create and build come from?",
+            "options": [
+                "From years of human evolution",
+                "From the Spirit of God, who gives wisdom and skill",
+                "From trial and error over millions of years",
+                "From copying what animals do in nature"
+            ],
+            "correct": 1,
+            "explanation": "Exodus 35:31-32 says God filled Bezalel with His Spirit, giving him wisdom, understanding, and skill. Our ability to create — including technology — is a gift from God."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between hardware and software?",
+            "options": [
+                "Hardware is old technology and software is new technology",
+                "Hardware is the physical parts of a computer; software is the programs and instructions",
+                "Hardware is for gaming and software is for work",
+                "There is no real difference between them"
+            ],
+            "correct": 1,
+            "explanation": "Hardware refers to the physical components you can touch (screen, keyboard, CPU), while software refers to the programs and instructions that tell the hardware what to do."
+        },
+        {
+            "id": 3,
+            "question": "What does Proverbs 4:23 teach us about using the internet?",
+            "options": [
+                "The internet is always safe to use without caution",
+                "We should guard our hearts by being careful about what we view and interact with online",
+                "We should spend as much time as possible online",
+                "The internet did not exist in Bible times so the Bible has nothing to say about it"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 4:23 tells us to guard our hearts above all else. This applies to our internet use — we must be careful about the content we consume and the interactions we have online."
+        },
+        {
+            "id": 4,
+            "question": "What is phishing?",
+            "options": [
+                "A type of online game about fishing",
+                "A scam that tries to trick people into giving away personal information through fake emails or websites",
+                "A method for making computers run faster",
+                "A way to organize your digital files"
+            ],
+            "correct": 1,
+            "explanation": "Phishing is a scam where criminals create fake emails or websites that look legitimate in order to trick people into revealing personal information like passwords or credit card numbers."
+        },
+        {
+            "id": 5,
+            "question": "According to Colossians 3:17, how should Christians behave online?",
+            "options": [
+                "However they want, since online actions do not matter",
+                "Only posting about church activities",
+                "Doing everything — including online activity — in the name of the Lord Jesus",
+                "Avoiding the internet entirely"
+            ],
+            "correct": 2,
+            "explanation": "Colossians 3:17 says whatever we do in word or deed should be done in the name of the Lord Jesus. This includes our online behavior — every post, comment, and interaction."
+        },
+        {
+            "id": 6,
+            "question": "Why is it important to check multiple sources when researching online?",
+            "options": [
+                "Because teachers require it for a grade",
+                "Because not all information online is accurate, and comparing sources helps verify the truth",
+                "Because it makes your paper longer",
+                "Because one source always has all the answers"
+            ],
+            "correct": 1,
+            "explanation": "Not everything on the internet is true. Checking multiple reliable sources helps you verify information and avoid spreading falsehoods, which is consistent with the Biblical call to pursue truth."
+        },
+        {
+            "id": 7,
+            "question": "What does Biblical stewardship of technology look like?",
+            "options": [
+                "Using technology as much as possible",
+                "Never using technology because it is sinful",
+                "Managing screen time, caring for devices, and prioritizing real relationships",
+                "Only using technology for Bible reading"
+            ],
+            "correct": 2,
+            "explanation": "Biblical stewardship means responsibly managing what God has given us. For technology, this includes balancing screen time, caring for our devices, and making sure technology does not replace real relationships."
+        },
+        {
+            "id": 8,
+            "question": "What should you do if you witness cyberbullying?",
+            "options": [
+                "Join in so you are not the next target",
+                "Ignore it because it is not your problem",
+                "Report it to a trusted adult and stand up for the person being bullied",
+                "Share it on social media for others to see"
+            ],
+            "correct": 2,
+            "explanation": "Christians are called to defend the vulnerable and stand up for what is right. If you see cyberbullying, report it to a trusted adult and show kindness to the person being targeted."
+        }
+    ]
+}

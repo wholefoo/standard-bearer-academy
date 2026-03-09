@@ -1,0 +1,75 @@
+{
+    "id": "poetry_workshop",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Poetry Workshop",
+    "subtitle": "Crafting Words with Rhythm, Image, and Truth",
+    "scripture": "Psalm 19:1-4",
+    "key_concepts": ["Imagery and metaphor", "Rhythm and sound", "Free verse and structured forms", "Poetry as worship", "Revision and craft"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1-2",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.\"",
+                "commentary": "Creation itself is a kind of poetry — it speaks, declares, and proclaims without using literal words. The psalmist uses beautiful poetic language to describe how nature testifies to God's glory. Poetry is the human art form closest to this divine communication."
+            },
+            {
+                "reference": "Ecclesiastes 12:10",
+                "text": "\"The Teacher searched to find just the right words, and what he wrote was upright and true.\"",
+                "commentary": "Good poetry requires searching for exactly the right words — not approximate words, not almost-right words, but the precise words that capture truth. This careful craftsmanship is itself an act of stewardship."
+            },
+            {
+                "reference": "Colossians 3:16",
+                "text": "\"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.\"",
+                "commentary": "Poetry, hymns, and songs are means by which God's truth dwells in us and among us. Writing poetry can be a form of worship, teaching, and spiritual encouragement."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Makes Poetry Different?",
+            "paragraphs": [
+                "Poetry is the most concentrated form of writing. Every word matters. Where prose might use a paragraph to develop an idea, a poem captures that same idea in a few carefully chosen lines. Poetry uses the sound, rhythm, and arrangement of words — not just their meanings — to create an experience for the reader.",
+                "You encounter poetry more than you might realize. Song lyrics are poetry set to music. The Psalms, which make up the longest book in the Bible, are poems. Many of the most quoted lines in history — 'I have a dream,' 'To be or not to be,' 'Amazing grace, how sweet the sound' — derive their power from poetic techniques."
+            ]
+        },
+        {
+            "heading": "Imagery and Metaphor",
+            "paragraphs": [
+                "The most essential tool in a poet's toolbox is imagery — language that creates pictures in the reader's mind by appealing to the five senses. Instead of writing 'I was sad,' a poet might write 'November rain streaked the windows like tears.' The image communicates the feeling without ever naming it directly.",
+                "Metaphor goes further, comparing two unlike things to reveal a deeper truth. When the psalmist writes 'The LORD is my shepherd,' he is not giving literal information — he is using metaphor to communicate volumes about God's character: His provision, protection, guidance, and tender care. Learning to think in metaphor is one of the most important skills a poet can develop."
+            ]
+        },
+        {
+            "heading": "Sound and Rhythm",
+            "paragraphs": [
+                "Poetry is meant to be heard, not just read. The sound of words matters as much as their meaning. Alliteration (repeating initial consonant sounds), assonance (repeating vowel sounds), and rhyme create music in language. Read your poems aloud — if they do not sound good to your ear, they need revision.",
+                "Rhythm is the pattern of stressed and unstressed syllables. Even free verse — poetry without a fixed meter — has rhythm. Learning to hear the natural rhythms of language helps you write lines that flow naturally and emphasize the right words."
+            ]
+        },
+        {
+            "heading": "Writing and Revising Poems",
+            "paragraphs": [
+                "Start by writing freely, without worrying about perfection. Get your images, feelings, and ideas onto the page. Then revise ruthlessly. Cut every word that does not earn its place. Replace vague words with specific ones. Read each line aloud and listen for rhythm and sound.",
+                "Remember Ecclesiastes 12:10 — the writer searched for 'just the right words.' Poetry is not about dumping your feelings onto a page. It is about crafting language until every word is exactly right. This process of careful revision is where good poetry becomes great poetry."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose something in nature — a tree, a storm, the ocean, a sunset — and write four lines of poetry that describe it using at least two sensory details (sight, sound, smell, touch, taste). Do not use the words 'beautiful' or 'pretty.'",
+            "guidance": "Force yourself to find specific, concrete images rather than falling back on generic adjectives. The goal is to make the reader see and feel what you are describing."
+        },
+        {
+            "id": 2,
+            "question": "Read Psalm 23 as a poem. Identify at least three metaphors David uses. What does each metaphor communicate about God that a literal statement could not?",
+            "guidance": "Consider 'shepherd,' 'green pastures,' 'still waters,' 'valley of the shadow of death,' 'table,' 'cup.' How does each image convey something about God's character that goes beyond dictionary definitions?"
+        },
+        {
+            "id": 3,
+            "question": "Write a short poem (6-10 lines) about a moment when you felt close to God. Focus on imagery and specific details rather than abstract statements about your feelings.",
+            "guidance": "Instead of writing 'I felt God's presence,' describe the scene: Where were you? What did you see, hear, and feel? Let the images carry the emotion."
+        }
+    ]
+}

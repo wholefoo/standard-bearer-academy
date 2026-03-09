@@ -1,0 +1,76 @@
+{
+    "id": "world_building",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "World-Building",
+    "subtitle": "Creating Believable Worlds That Reflect the Creator's Design",
+    "scripture": "Genesis 1-2; Revelation 21:1-5",
+    "primary_source": "J.R.R. Tolkien — 'On Fairy-Stories' (1947)",
+    "key_concepts": ["Sub-creation", "Internal consistency", "Culture and history in fictional worlds", "Moral framework in imagined settings", "Tolkien's concept of sub-creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:31",
+                "text": "\"God saw all that he had made, and it was very good.\"",
+                "commentary": "God is the original world-builder. He created a world with physical laws, ecosystems, beauty, and moral order. When writers build fictional worlds, they are engaging in what Tolkien called 'sub-creation' — reflecting, on a human scale, the creative activity of God Himself."
+            },
+            {
+                "reference": "Revelation 21:1-2",
+                "text": "\"Then I saw 'a new heaven and a new earth,' for the first heaven and the first earth had passed away, and there was no longer any sea. I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband.\"",
+                "commentary": "God Himself envisions and describes a new world — a renewed creation. The vivid imagery of Revelation shows that imagining new worlds is not escapism but a reflection of the ultimate hope: God's promise to make all things new."
+            },
+            {
+                "reference": "Colossians 1:16-17",
+                "text": "\"For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together.\"",
+                "commentary": "The real world holds together because Christ sustains it. Similarly, a well-built fictional world must have internal consistency — rules, logic, and order that hold it together. A world without consistent rules feels chaotic and unconvincing."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is World-Building?",
+            "paragraphs": [
+                "World-building is the process of creating an imaginary setting — with its own geography, history, cultures, rules, and atmosphere — in which a story takes place. While world-building is most commonly associated with fantasy and science fiction, every story involves some degree of world-building. Even a realistic novel set in modern-day America requires the author to construct a specific, vivid version of that world for the reader.",
+                "Great world-building creates a setting so detailed and consistent that readers feel they could walk around in it. Think of Narnia, Middle-earth, or the world of the Psalms — each is a fully realized world with its own logic, beauty, and moral landscape."
+            ]
+        },
+        {
+            "heading": "Tolkien and Sub-Creation",
+            "paragraphs": [
+                "J.R.R. Tolkien, the author of The Lord of the Rings and a devoted Christian, developed the concept of 'sub-creation.' He argued that because humans are made in the image of a Creator God, we naturally desire to create. When we build fictional worlds, we are not competing with God — we are reflecting His nature as Creator.",
+                "Tolkien wrote in his essay 'On Fairy-Stories' that the storyteller creates a 'Secondary World' that the reader's mind can enter. Inside that world, what the author relates is 'true' — it accords with the laws of that world. When the world is well-built, the reader experiences what Tolkien called 'Secondary Belief' — a genuine engagement with the reality of the story."
+            ]
+        },
+        {
+            "heading": "The Elements of World-Building",
+            "paragraphs": [
+                "Effective world-building includes several key elements. Geography and environment: What does the land look like? What is the climate? How does the physical environment shape the people who live there? History: What has happened in this world before the story begins? What wars, discoveries, or events have shaped the current situation?",
+                "Culture and society: How do people live? What do they value? What are their customs, beliefs, and social structures? Rules and systems: What are the laws — both physical and moral — that govern this world? If magic exists, what are its limits? If technology is advanced, what are its costs? The most important principle is internal consistency: whatever rules you establish, you must follow them."
+            ]
+        },
+        {
+            "heading": "Moral Framework in Fictional Worlds",
+            "paragraphs": [
+                "Every fictional world has a moral framework, whether the author intends it or not. In Tolkien's Middle-earth, there is a clear moral order — good is good, evil is evil, and choices have real consequences. In C.S. Lewis's Narnia, Aslan represents an absolute moral authority. These worlds work because their moral foundations are solid.",
+                "As a Christian writer, you have the freedom to create worlds that reflect the moral structure of God's actual creation — worlds where courage matters, where sacrifice has meaning, where evil is real but does not have the last word, and where redemption is possible. This does not mean your fictional world must be a Sunday school lesson. It means that truth, beauty, and goodness are woven into the fabric of the world itself."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Tolkien argued that human creativity — including world-building — reflects the image of God in us. Do you agree? How does being made in the image of the Creator relate to our desire to create imaginary worlds?",
+            "guidance": "Consider Genesis 1:27 and the connection between God's creative nature and ours. Think about whether world-building is merely entertainment or something deeper — an expression of our God-given nature."
+        },
+        {
+            "id": 2,
+            "question": "Choose a fictional world you know well (from a book, film, or game). Analyze its world-building: What makes it feel real and consistent? What is its moral framework? Does it have internal rules that are followed consistently?",
+            "guidance": "Look at how the creator of that world established geography, culture, history, and rules. Consider whether the world has a moral structure or whether morality seems arbitrary within it."
+        },
+        {
+            "id": 3,
+            "question": "Begin building your own fictional world. Write a one-page description that includes the physical setting, one key historical event, the culture's core values, and at least one rule (physical or magical) that governs the world. How does this world reflect your own values and beliefs?",
+            "guidance": "Start small — you do not need to create an entire universe. Focus on making a few elements vivid and consistent. Think about how the world's moral framework reflects or challenges your own understanding of truth."
+        }
+    ]
+}

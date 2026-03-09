@@ -1,0 +1,78 @@
+{
+    "id": "writing_a_chapbook",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Writing a Chapbook",
+    "subtitle": "Shaping a Collection of Poems",
+    "scripture": "Ecclesiastes 12:10",
+    "primary_source": "Emily Dickinson, Fascicles (c. 1858-1864)",
+    "key_concepts": ["Chapbook as a form", "Sequencing and arrangement", "Thematic unity", "Revision and editing", "Presenting finished work"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 12:10",
+                "text": "\"The Teacher searched to find just the right words, and what he wrote was upright and true.\"",
+                "commentary": "The Preacher of Ecclesiastes labored to find not just any words but 'just the right words.' Creating a chapbook is the culmination of this search — selecting, arranging, and polishing a collection of poems until each word serves the whole."
+            },
+            {
+                "reference": "1 Corinthians 12:12",
+                "text": "\"Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.\"",
+                "commentary": "Paul's metaphor of the body applies beautifully to a poetry collection. Each poem is a distinct part, but together they form a unified whole — a body of work that is greater than the sum of its individual pieces."
+            },
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "The labor of assembling, revising, and polishing a chapbook is work done for the Lord. Excellence in craft is a form of worship, and presenting our best work honors the God who gave us the gift of language."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Chapbook?",
+            "paragraphs": [
+                "A chapbook is a small collection of poetry, typically between 15 and 30 pages, unified by a theme, style, or narrative arc. The word comes from 'chapmen' — traveling booksellers in early modern England who sold small, inexpensive books. Today, chapbooks are a vibrant form in the poetry world, offering poets a way to present a focused body of work.",
+                "Emily Dickinson, one of America's greatest poets, assembled her poems into small booklets she called 'fascicles' — hand-sewn gatherings of poems arranged in deliberate sequences. Though she published very few poems in her lifetime, these fascicles show that she thought carefully about how poems relate to each other and how their arrangement creates meaning beyond what any single poem achieves."
+            ]
+        },
+        {
+            "heading": "Choosing a Theme",
+            "paragraphs": [
+                "Every strong chapbook has a unifying element — a theme, a journey, a question, or a sustained meditation. For a Christian poet, this might be a series of poems exploring the seasons of the church year, a meditation on a particular book of the Bible, a journey through grief and hope, or a celebration of God's creation in a specific place.",
+                "Your theme should be specific enough to give the collection focus but broad enough to allow variety. 'Poems about God' is too broad. 'Poems about encountering God in the garden behind my grandmother's house' is specific and rich. The more particular your subject, the more universal your poems will feel — this is one of the great paradoxes of art."
+            ]
+        },
+        {
+            "heading": "Selecting and Sequencing Poems",
+            "paragraphs": [
+                "Not every poem you have written belongs in your chapbook. Selection requires honest assessment: Which poems are truly finished? Which ones serve the theme? Which ones are strong enough to stand alongside your best work? It is better to include ten excellent poems than twenty mediocre ones.",
+                "Sequencing — the order of poems in the collection — is an art in itself. The first poem sets the tone and invites the reader in. The last poem provides a sense of arrival or resolution. Between them, the poems should create a journey — building, shifting, deepening. Think of your chapbook as a musical composition with movements, crescendos, and quiet interludes.",
+                "Read your poems in different orders. Try grouping them by subject, then by tone, then by form. See which arrangement creates the most powerful experience when read from beginning to end. Often the best sequence is not the order in which the poems were written but the order that creates the strongest emotional and thematic arc."
+            ]
+        },
+        {
+            "heading": "Revision and Presentation",
+            "paragraphs": [
+                "Before finalizing your chapbook, revise each poem one more time with the collection in mind. A poem that works well on its own may need adjustment to serve its role in the larger sequence. Perhaps a poem that repeats an image from an earlier poem should lean into that repetition, creating an echo that strengthens the collection's unity.",
+                "Give your chapbook a title that captures its essence. Write a brief introduction if appropriate, though many chapbooks let the poems speak for themselves. Design a simple cover. Consider dedicating the collection — to God, to a loved one, to someone whose faith has inspired you.",
+                "The act of completing a chapbook — of saying 'these poems are finished, and I offer them' — is an act of faith. No collection is perfect. But presenting your honest, carefully crafted work is an offering, like the widow's mite — small perhaps, but given wholeheartedly to the glory of God."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is the arrangement of poems in a chapbook important? How does reading poems in a deliberate sequence differ from reading them individually?",
+            "guidance": "Consider how a well-ordered collection creates a journey or narrative that emerges from the relationship between poems, adding layers of meaning."
+        },
+        {
+            "id": 2,
+            "question": "Choose a theme for a potential chapbook. What specific aspect of faith, life, or creation would you want to explore? List five to seven poem ideas that could fit this theme.",
+            "guidance": "Be as specific as possible with your theme. The more focused and personal, the more resonant the collection will be."
+        },
+        {
+            "id": 3,
+            "question": "How is the process of revising and curating a chapbook similar to the spiritual discipline of self-examination? How does editing our work teach us about growth and humility?",
+            "guidance": "Consider how letting go of poems that do not serve the whole mirrors the spiritual practice of releasing attachments that do not serve God's purposes in our lives."
+        }
+    ]
+}

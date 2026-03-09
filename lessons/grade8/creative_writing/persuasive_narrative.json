@@ -1,0 +1,75 @@
+{
+    "id": "persuasive_narrative",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Persuasive Narrative",
+    "subtitle": "Using Stories to Communicate Truth",
+    "scripture": "2 Samuel 12:1-7",
+    "key_concepts": ["Narrative persuasion", "Showing vs. telling", "Parables and allegory", "Emotional appeal through story", "Ethical persuasion"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "2 Samuel 12:1-4",
+                "text": "\"The LORD sent Nathan to David. When he came to him, he said, 'There were two men in a certain town, one rich and the other poor. The rich man had a very large number of sheep and cattle, but the poor man had nothing except one little ewe lamb he had bought.'\"",
+                "commentary": "The prophet Nathan used a story to convict King David of his sin. Rather than simply accusing David, Nathan told a parable that engaged David's emotions and sense of justice. When David condemned the rich man in the story, he unwittingly condemned himself. This is the power of persuasive narrative."
+            },
+            {
+                "reference": "Matthew 13:34",
+                "text": "\"Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.\"",
+                "commentary": "Jesus Himself was the master of persuasive narrative. He used stories — parables — to teach truths that would have been rejected if stated as bare propositions. Stories bypass our defenses and speak directly to the heart."
+            },
+            {
+                "reference": "Proverbs 25:11",
+                "text": "\"Like apples of gold in settings of silver is a ruling rightly given.\"",
+                "commentary": "The right word at the right time, delivered in the right way, has extraordinary power. Persuasive narrative is about finding the right story to carry the truth you want to communicate."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Power of Story to Persuade",
+            "paragraphs": [
+                "Arguments convince the mind, but stories move the heart. Throughout history, the most effective communicators have understood that narrative — storytelling — is one of the most powerful tools of persuasion. When people hear a compelling story, they do not just understand an idea intellectually; they feel it emotionally.",
+                "Think about how much more powerfully a story about one hungry child affects you than a statistic about millions of hungry children. This is not a flaw in human thinking — it is how God designed us. We are made for story because we live in a story: God's grand narrative of creation, fall, redemption, and restoration."
+            ]
+        },
+        {
+            "heading": "Nathan's Parable: A Case Study",
+            "paragraphs": [
+                "One of the most brilliant examples of persuasive narrative in all of literature is found in 2 Samuel 12. King David had committed adultery with Bathsheba and arranged the murder of her husband Uriah. The prophet Nathan needed to confront the most powerful man in the nation with his sin.",
+                "Instead of a direct accusation, Nathan told a story about a rich man who stole a poor man's only lamb. David, hearing the story, was outraged at the injustice and declared the rich man deserved to die. Then Nathan delivered his devastating conclusion: 'You are the man!' The story had done its work — David's own conscience had convicted him before he even realized the story was about him."
+            ]
+        },
+        {
+            "heading": "Techniques of Persuasive Narrative",
+            "paragraphs": [
+                "Show, don't tell. Instead of stating your point directly, create a scenario that leads readers to discover the point for themselves. When readers arrive at a conclusion on their own, they are far more convinced than when they are simply told what to believe.",
+                "Create empathy. Put your reader in another person's shoes. Make them feel what your character feels. Once a reader cares about a character, they naturally begin to see the world from that character's perspective. Use specific, concrete details. Vivid sensory details make stories feel real. The more real a story feels, the more persuasive it becomes."
+            ]
+        },
+        {
+            "heading": "Ethical Persuasion",
+            "paragraphs": [
+                "As Christian writers, we must use the power of narrative responsibly. Persuasive writing can be used to manipulate — to play on emotions in dishonest ways, to distort truth, or to lead people toward evil. We are called to use this gift differently.",
+                "Ethical persuasion means telling true stories (or honest fiction that illuminates truth), respecting your reader's intelligence and freedom, and ultimately serving truth rather than your own agenda. Jesus used parables to reveal truth, not to deceive. Our persuasive writing should follow His example."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why do you think Nathan chose to tell David a story rather than directly accusing him? What made the story more effective than a straightforward confrontation would have been?",
+            "guidance": "Consider how stories engage emotions and bypass defensiveness. Think about how David's response to the story revealed his own moral standards, which he had violated."
+        },
+        {
+            "id": 2,
+            "question": "Write a short parable (5-8 sentences) that illustrates a moral truth without directly stating it. Can your classmates identify the lesson from the story alone?",
+            "guidance": "Choose a simple moral principle (kindness, honesty, generosity) and create a brief scenario that shows why it matters. The story should make the point without needing an explanation."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between ethical persuasion and manipulation? How can a writer use story to persuade without being dishonest or manipulative?",
+            "guidance": "Think about the writer's intention, respect for the reader, and commitment to truth. Ethical persuasion illuminates reality; manipulation distorts it."
+        }
+    ]
+}

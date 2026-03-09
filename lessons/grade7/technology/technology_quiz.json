@@ -1,0 +1,103 @@
+{
+    "id": "technology_quiz",
+    "title": "Web and Media Literacy — Navigating the Digital World Wisely",
+    "description": "Test your understanding of how the web works, evaluating online sources, social media wisdom, digital footprints, media creation, and responsible digital living.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the role of a server in the client-server model of the web?",
+            "options": [
+                "It is the device you use to browse the internet",
+                "It stores websites and sends files to clients when requested",
+                "It blocks harmful websites automatically",
+                "It creates new websites from scratch"
+            ],
+            "correct": 1,
+            "explanation": "A server is a powerful computer that stores website files and sends them to client devices (your computer, phone, or tablet) when they request a web page."
+        },
+        {
+            "id": 2,
+            "question": "According to 1 Thessalonians 5:21, what should Christians do with information they encounter online?",
+            "options": [
+                "Accept everything without question",
+                "Only read Christian websites",
+                "Test everything and hold on to what is good",
+                "Avoid the internet entirely"
+            ],
+            "correct": 2,
+            "explanation": "1 Thessalonians 5:21 tells us to 'test everything; hold on to what is good.' This means critically evaluating online information rather than blindly accepting it."
+        },
+        {
+            "id": 3,
+            "question": "What is an algorithm on social media?",
+            "options": [
+                "A type of social media account",
+                "A mathematical formula that decides what content appears in your feed",
+                "A privacy setting that protects your information",
+                "A tool for creating digital art"
+            ],
+            "correct": 1,
+            "explanation": "Social media algorithms are mathematical formulas that determine which content you see based on your past behavior, designed to keep you engaged on the platform as long as possible."
+        },
+        {
+            "id": 4,
+            "question": "What is a digital footprint?",
+            "options": [
+                "A physical mark your finger leaves on a touchscreen",
+                "The trail of information you leave behind whenever you use the internet",
+                "A type of computer virus",
+                "A measurement of how fast your internet connection is"
+            ],
+            "correct": 1,
+            "explanation": "A digital footprint is the trail of data and information you leave behind through your online activities — including websites visited, posts made, and messages sent. It can be nearly permanent."
+        },
+        {
+            "id": 5,
+            "question": "Why is it important to respect copyright when creating digital content?",
+            "options": [
+                "Because you might get a lower grade",
+                "Because using someone else's work without permission is a form of stealing, which God forbids",
+                "Because copyrighted material is always low quality",
+                "Copyright only applies to professional creators, not students"
+            ],
+            "correct": 1,
+            "explanation": "Respecting copyright is a matter of honesty and integrity. Using someone else's creative work without permission violates the Biblical commandment against stealing (Exodus 20:15)."
+        },
+        {
+            "id": 6,
+            "question": "What does the CRAAP test help you evaluate?",
+            "options": [
+                "The speed of your internet connection",
+                "The reliability and quality of online sources",
+                "The safety of your computer hardware",
+                "The popularity of a social media post"
+            ],
+            "correct": 1,
+            "explanation": "The CRAAP test evaluates sources based on Currency, Relevance, Authority, Accuracy, and Purpose — helping you determine whether an online source is reliable and trustworthy."
+        },
+        {
+            "id": 7,
+            "question": "According to Romans 12:2, how should Christians approach technology use compared to the world?",
+            "options": [
+                "Follow whatever trends are popular",
+                "Use technology exactly like everyone else does",
+                "Do not conform to the world's pattern but be transformed by the renewing of your mind",
+                "Avoid all technology because it is worldly"
+            ],
+            "correct": 2,
+            "explanation": "Romans 12:2 calls us not to conform to the world's patterns but to be transformed by God's renewal of our minds. This means using technology intentionally and according to God's will, not just following cultural trends."
+        },
+        {
+            "id": 8,
+            "question": "What is a 'digital Sabbath' and why is it valuable?",
+            "options": [
+                "A day when only religious websites are allowed",
+                "Regular intentional time away from screens to rest and focus on God and relationships",
+                "A weekly update your computer performs automatically",
+                "A social media holiday where you post about your faith"
+            ],
+            "correct": 1,
+            "explanation": "A digital Sabbath is regular, intentional time away from all screens and devices. It provides rest for your brain, strengthens real relationships, and helps you remember that your identity is found in God, not in technology."
+        }
+    ]
+}

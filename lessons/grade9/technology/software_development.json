@@ -1,0 +1,73 @@
+{
+    "id": "software_development",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Software Development",
+    "subtitle": "Building Software with Purpose and Integrity",
+    "scripture": "Proverbs 24:27",
+    "primary_source": "Frederick Brooks, The Mythical Man-Month (1975)",
+    "key_concepts": ["Software development lifecycle", "Planning and requirements", "Testing and quality assurance", "Teamwork and collaboration"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 24:27",
+                "text": "\"Put your outdoor work in order and get your fields ready; after that, build your house.\"",
+                "commentary": "Solomon teaches the wisdom of doing things in the right order — preparing the foundation before building the structure. Software development follows this same principle: requirements must be gathered, designs must be created, and plans must be laid before writing code."
+            },
+            {
+                "reference": "Nehemiah 4:6",
+                "text": "\"So we rebuilt the wall till all of it reached half its height, for the people worked with all their heart.\"",
+                "commentary": "Nehemiah's wall-building project is a model of effective project management — clear goals, organized teams, and wholehearted effort. Software development requires the same combination of planning, teamwork, and dedicated work."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Software Development Lifecycle",
+            "paragraphs": [
+                "Building software is more than just writing code. Professional software development follows a structured process called the Software Development Lifecycle (SDLC). This process typically includes several phases: planning, requirements analysis, design, implementation (coding), testing, deployment, and maintenance.",
+                "Each phase serves an important purpose. Skipping phases — especially planning and testing — almost always leads to problems later. As the saying goes in software engineering: 'Hours of coding can save minutes of planning.' Taking the time to plan properly, as Proverbs teaches, leads to better results and less wasted effort."
+            ]
+        },
+        {
+            "heading": "Requirements and Design",
+            "paragraphs": [
+                "The first step in any software project is understanding what the software needs to do. This is called requirements gathering. Developers talk to the people who will use the software to understand their needs, goals, and constraints. Clear requirements prevent the common problem of building something that technically works but does not actually solve the user's problem.",
+                "After requirements are understood, developers create a design — a blueprint for how the software will be structured. This includes deciding which technologies to use, how data will be organized, what the user interface will look like, and how different components will work together. Good design, like a good architectural blueprint, saves time and prevents costly mistakes."
+            ]
+        },
+        {
+            "heading": "Testing and Quality",
+            "paragraphs": [
+                "Testing is the process of verifying that software works correctly and reliably. Good software developers write tests alongside their code, checking that each component works as expected. Types of testing include unit tests (testing individual functions), integration tests (testing how components work together), and user acceptance tests (testing with real users).",
+                "Frederick Brooks, in his influential book The Mythical Man-Month, observed that testing and debugging typically take more time than the initial coding. He warned against the common mistake of adding more people to a late project, which actually makes it later due to communication overhead. Brooks' insights, published in 1975, remain highly relevant today.",
+                "Quality in software, as in all work, reflects character. Proverbs 22:29 says, 'Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.' Developing a commitment to quality — writing clean, tested, reliable code — is a form of professional excellence that honors God."
+            ]
+        },
+        {
+            "heading": "Teamwork and Collaboration",
+            "paragraphs": [
+                "Most real-world software is built by teams, not individuals. Effective teamwork requires clear communication, shared standards, and mutual respect. Tools like version control systems (such as Git) allow multiple programmers to work on the same project without overwriting each other's work.",
+                "The Bible has much to say about teamwork. Ecclesiastes 4:9-10 teaches that 'two are better than one, because they have a good return for their labor. If either of them falls down, one can help the other up.' In software development, code reviews — where team members check each other's work — catch bugs, improve quality, and help everyone learn.",
+                "Collaboration in software development also requires humility. Receiving feedback on your code can be uncomfortable, but the programmer who welcomes constructive criticism produces better software and grows faster professionally. As Proverbs 27:17 says, 'As iron sharpens iron, so one person sharpens another.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is planning and gathering requirements important before writing code? How does Proverbs 24:27 apply to software development and to other areas of life?",
+            "guidance": "Think about projects that failed because of inadequate planning. Consider how taking time to understand a problem fully before attempting a solution demonstrates wisdom and saves time in the long run."
+        },
+        {
+            "id": 2,
+            "question": "Frederick Brooks observed that adding more people to a late project makes it later. What does this teach us about the nature of teamwork and the limits of simply 'working harder'?",
+            "guidance": "Consider how communication complexity grows with team size and how quality often matters more than quantity. Think about Biblical examples where a small, committed group accomplished more than a large, disorganized one."
+        },
+        {
+            "id": 3,
+            "question": "How does receiving code reviews and feedback relate to the Biblical principle of iron sharpening iron (Proverbs 27:17)? Why is humility essential for growth both as a programmer and as a Christian?",
+            "guidance": "Reflect on how defensiveness blocks learning while humility opens the door to improvement. Consider how community — in church and in work — helps us see blind spots we cannot see alone."
+        }
+    ]
+}

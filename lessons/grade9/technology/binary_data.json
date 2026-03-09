@@ -1,0 +1,72 @@
+{
+    "id": "binary_data",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Binary and Data",
+    "subtitle": "The Language of Ones and Zeros",
+    "scripture": "Isaiah 40:26",
+    "primary_source": "Claude Shannon, A Mathematical Theory of Communication (1948)",
+    "key_concepts": ["Binary number system", "Bits and bytes", "Data representation", "How computers store information"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Isaiah 40:26",
+                "text": "\"Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name. Because of his great power and mighty strength, not one of them is missing.\"",
+                "commentary": "God keeps track of every star by name — an incomprehensible amount of data. The binary system that allows computers to process vast quantities of information is a small reflection of God's infinite capacity to know and organize all things in His creation."
+            },
+            {
+                "reference": "Matthew 10:30",
+                "text": "\"And even the very hairs of your head are all numbered.\"",
+                "commentary": "God's detailed knowledge of each person illustrates perfect data management on a scale no computer could match. While we use binary to represent information digitally, God knows every detail of His creation with perfect completeness."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Binary?",
+            "paragraphs": [
+                "Computers use the binary number system — a system with only two digits: 0 and 1. This might seem strange compared to the decimal system (0-9) we use every day, but binary is perfectly suited for electronic devices. Every electronic component can easily represent two states: on or off, high voltage or low voltage, magnetized or not magnetized. These two states correspond to the two binary digits.",
+                "Everything a computer does — every calculation, every image displayed, every song played, every word processed — is ultimately represented as patterns of ones and zeros. The simplicity of binary is what makes the incredible complexity of modern computing possible."
+            ]
+        },
+        {
+            "heading": "Bits, Bytes, and Beyond",
+            "paragraphs": [
+                "A single binary digit (0 or 1) is called a bit — the smallest unit of data in computing. A group of 8 bits is called a byte. A single byte can represent 256 different values (2 raised to the 8th power), which is enough to represent any letter of the alphabet, a number, or a special character.",
+                "Larger units of data are measured in kilobytes (about 1,000 bytes), megabytes (about 1 million bytes), gigabytes (about 1 billion bytes), and terabytes (about 1 trillion bytes). A typical smartphone might have 128 gigabytes of storage — enough to hold approximately 128 billion individual bits of information."
+            ]
+        },
+        {
+            "heading": "How Computers Represent Text, Numbers, and Images",
+            "paragraphs": [
+                "Text is represented using encoding standards like ASCII and Unicode. In ASCII, each character is assigned a number: the letter 'A' is 65, 'B' is 66, and so on. The computer stores these numbers in binary. For example, the letter 'A' (65 in decimal) is stored as 01000001 in binary.",
+                "Images are represented as grids of tiny dots called pixels. Each pixel has a color value, typically expressed as a combination of red, green, and blue (RGB) values. A single pixel in a full-color image requires 24 bits (3 bytes) of data — 8 bits each for red, green, and blue.",
+                "Sound is represented by sampling audio waves thousands of times per second and converting each sample into a binary number. CD-quality audio samples sound 44,100 times per second, with each sample using 16 bits. The faithful reproduction of sound, images, and text through binary demonstrates how simple building blocks can create extraordinary complexity — a principle visible throughout God's creation."
+            ]
+        },
+        {
+            "heading": "Claude Shannon and Information Theory",
+            "paragraphs": [
+                "Claude Shannon, an American mathematician working at Bell Labs, published 'A Mathematical Theory of Communication' in 1948. This groundbreaking paper established information theory — the mathematical study of how information is measured, stored, and transmitted. Shannon showed that all information, regardless of its form, could be reduced to binary digits.",
+                "Shannon's work made modern digital communication possible. Every text message, email, video call, and internet search relies on principles he established. His insight that information has a mathematical structure reflects the deeper truth that God created a universe governed by mathematical order — an order that human minds can discover and harness for practical purposes."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the fact that all digital information can be reduced to simple ones and zeros illustrate the principle that complex things can be built from simple building blocks? Where do you see this principle in God's creation?",
+            "guidance": "Consider how DNA uses just four bases to encode all the information needed for life, how atoms combine to form all matter, and how binary digits combine to represent all digital information. Reflect on the elegance of God's design."
+        },
+        {
+            "id": 2,
+            "question": "Isaiah 40:26 describes God knowing every star by name. How does this compare to a computer's ability to manage data? What does this tell us about the difference between God's knowledge and human technology?",
+            "guidance": "Think about the limitations of even the most powerful computers compared to God's infinite knowledge. Consider what this means about the proper place of technology in our lives."
+        },
+        {
+            "id": 3,
+            "question": "Claude Shannon showed that information has mathematical structure. How does the existence of mathematical order in information point to an intelligent Creator?",
+            "guidance": "Consider whether mathematical order is something humans invented or discovered. Reflect on how the reliability of mathematical principles throughout the universe supports the belief in a rational, orderly Creator."
+        }
+    ]
+}

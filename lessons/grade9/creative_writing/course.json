@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "creative_writing",
+    "title": "Narrative and Imagination — Writing Stories that Matter",
+    "description": "Explore the art of storytelling through narrative craft, world-building, moral complexity, and diverse forms — learning to write fiction, scripts, and flash fiction that glorify God and illuminate truth.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Narrative and Imagination",
+            "lessons": ["elements_of_narrative", "world_building", "writing_moral_complexity", "flash_fiction", "scriptwriting", "the_christian_storyteller"]
+        }
+    ],
+    "quiz_id": "creative_writing_quiz"
+}

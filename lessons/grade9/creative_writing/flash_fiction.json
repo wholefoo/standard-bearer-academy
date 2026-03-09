@@ -1,0 +1,77 @@
+{
+    "id": "flash_fiction",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Flash Fiction",
+    "subtitle": "The Art of Telling a Complete Story in Miniature",
+    "scripture": "Proverbs 25:11; Ecclesiastes 6:11",
+    "primary_source": "Ernest Hemingway — 'Hills Like White Elephants' (1927)",
+    "key_concepts": ["Economy of language", "Implication and subtext", "In medias res", "The twist or revelation", "Every word counts"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:11",
+                "text": "\"Like apples of gold in settings of silver is a ruling rightly given.\"",
+                "commentary": "This proverb celebrates the power of precisely chosen words. Flash fiction demands this same precision — every word must be exactly right, each sentence carrying maximum meaning. Like a jeweler setting a precious stone, the flash fiction writer crafts a small work of exquisite care."
+            },
+            {
+                "reference": "Ecclesiastes 6:11",
+                "text": "\"The more the words, the less the meaning, and how does that profit anyone?\"",
+                "commentary": "The Teacher warns against multiplying words without multiplying meaning. Flash fiction embraces this wisdom — it proves that a story's power comes not from its length but from the precision and depth of its language."
+            },
+            {
+                "reference": "Matthew 13:31-32",
+                "text": "\"He told them another parable: 'The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants.'\"",
+                "commentary": "Jesus used the mustard seed to illustrate how something very small can contain enormous potential. Flash fiction works the same way — a tiny story, sometimes only a few hundred words, can contain a world of meaning that expands in the reader's imagination long after they finish reading."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Flash Fiction?",
+            "paragraphs": [
+                "Flash fiction is a complete story told in a very small space — typically under 1,000 words, and sometimes as short as 100 words or fewer. Despite its brevity, flash fiction is not a fragment or a sketch. It is a fully realized narrative with a beginning, middle, and end — compressed into the smallest possible form.",
+                "The challenge and the art of flash fiction lie in saying the most with the least. Every word must carry weight. There is no room for throat-clearing, padding, or unnecessary description. Flash fiction is the literary equivalent of a diamond: small, brilliant, and incredibly compressed."
+            ]
+        },
+        {
+            "heading": "Techniques of Flash Fiction",
+            "paragraphs": [
+                "Start in the middle. Flash fiction has no room for lengthy exposition. Begin in medias res — in the middle of the action — and trust your reader to catch up. The reader does not need to know everything about your character's background. They need to know what is happening right now.",
+                "Use implication. What you leave out is as important as what you include. If a character's hands are trembling, you do not need to write 'He was afraid.' If a woman is staring at a closed door, you do not need to explain that someone has left. Trust your reader to read between the lines.",
+                "End with a turn. The best flash fiction often ends with a shift — a revelation, a surprise, a moment of realization that recontextualizes everything that came before. This does not have to be a shocking twist. It can be a quiet moment of understanding that gives the story its meaning."
+            ]
+        },
+        {
+            "heading": "Economy of Language",
+            "paragraphs": [
+                "Ernest Hemingway is often credited with writing the shortest story ever: 'For sale: baby shoes, never worn.' Whether or not Hemingway actually wrote these six words, they demonstrate the principle of economy perfectly. In six words, a world of emotion is implied — loss, grief, shattered expectations — without any of those feelings being named directly.",
+                "To write economically, examine every word in your story and ask: Is this word doing work? Does it advance the story, reveal character, or create atmosphere? If not, cut it. Replace weak verbs with strong ones. Replace generic nouns with specific ones. Choose words that do double duty — conveying both information and emotion simultaneously."
+            ]
+        },
+        {
+            "heading": "Flash Fiction and the Christian Writer",
+            "paragraphs": [
+                "Flash fiction is an excellent form for Christian writers because it demands the same discipline as prayer — saying what matters most with honesty and precision. A flash fiction story can illuminate a moral truth, capture a moment of grace, or reveal the beauty and brokenness of human experience — all in a single page.",
+                "The brevity of flash fiction also makes it accessible. You can draft a flash fiction piece in a single sitting, revise it carefully, and share it with others. It is the perfect form for developing your craft because it teaches you to value every word — a skill that will improve all your writing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write a complete story in exactly 100 words. It must have a character, a conflict, and a resolution. After writing, identify which words you could cut and which are essential.",
+            "guidance": "This exercise is meant to be difficult. Start by writing the story at any length, then cut ruthlessly until you reach exactly 100 words. Notice which elements survive the cutting — these are the essentials of your story."
+        },
+        {
+            "id": 2,
+            "question": "Hemingway's famous six-word story works because of what it implies rather than what it states. Write three six-word stories of your own. Then explain what each implies beyond its literal meaning.",
+            "guidance": "Focus on choosing words that carry emotional weight and suggest a larger story. Think about what the reader will imagine beyond the words on the page."
+        },
+        {
+            "id": 3,
+            "question": "Ecclesiastes 6:11 warns that 'the more the words, the less the meaning.' How does this Biblical wisdom apply to the craft of writing? Is it always true that fewer words mean more power? When might more words be necessary?",
+            "guidance": "Consider the difference between conciseness and oversimplification. Flash fiction is not better than a novel — it is different. Think about what kinds of stories require brevity and what kinds require length."
+        }
+    ]
+}

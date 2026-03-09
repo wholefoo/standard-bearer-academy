@@ -1,0 +1,79 @@
+{
+    "id": "point_of_view",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Point of View",
+    "subtitle": "Whose Eyes Tell the Story?",
+    "scripture": "1 Corinthians 13:12",
+    "primary_source": "C.S. Lewis, \"The Screwtape Letters\" (1942)",
+    "key_concepts": ["First person narration", "Third person limited and omniscient", "Unreliable narrators", "Multiple perspectives", "God's omniscience vs. human limitation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 13:12",
+                "text": "\"For now we see only a reflection as in a mirror, then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.\"",
+                "commentary": "Paul acknowledges that human perspective is inherently limited — we see 'in part.' Point of view in fiction explores this same truth. No character sees the whole picture. Only God has the omniscient perspective, and our characters' partial knowledge creates the tension and drama of story."
+            },
+            {
+                "reference": "Proverbs 18:17",
+                "text": "\"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.\"",
+                "commentary": "This proverb teaches that every perspective is partial. In fiction, exploring multiple points of view can reveal how the same events look different from different vantage points — a powerful tool for developing empathy and nuance."
+            },
+            {
+                "reference": "Psalm 139:1-4",
+                "text": "\"You have searched me, LORD, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar. You discern my going out and my lying down; you are familiar with all my ways. Before a word is on my tongue you, LORD, know it completely.\"",
+                "commentary": "Only God possesses true omniscience — complete knowledge of every heart, thought, and motive. The omniscient narrator in fiction is a literary convention that echoes this divine perspective, revealing truths about characters that they may not know about themselves."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Power of Perspective",
+            "paragraphs": [
+                "Point of view is one of the most important decisions a novelist makes. It determines what the reader can see, know, and feel. It shapes the entire experience of the story. The same events told from different perspectives can produce radically different novels — a murder mystery told by the detective is a very different book than the same story told by the murderer.",
+                "C.S. Lewis demonstrated the power of point of view brilliantly in 'The Screwtape Letters,' which tells the story of a man's spiritual life from the perspective of a senior demon writing advice to a junior tempter. By inverting the expected perspective, Lewis revealed spiritual truths in startlingly fresh ways — good becomes 'the Enemy's' work, and temptation becomes professional strategy."
+            ]
+        },
+        {
+            "heading": "First Person: Intimacy and Limitation",
+            "paragraphs": [
+                "In first person narration, the story is told by a character using 'I.' This creates immediate intimacy — the reader experiences the story through the narrator's thoughts, feelings, and perceptions. But it also creates limitation: the reader knows only what the narrator knows and sees only what the narrator sees.",
+                "First person is powerful for stories of personal transformation, confession, or discovery. The narrator's voice — their vocabulary, rhythm, attitudes, and blind spots — becomes a central element of the novel's art. Robinson Crusoe, Jane Eyre, and Marilynne Robinson's 'Gilead' all use first person to create deeply personal, voice-driven narratives.",
+                "The first person narrator can also be unreliable — a character whose version of events the reader learns to question. This is a sophisticated technique that requires the author to write on two levels simultaneously: what the narrator believes and what the reader gradually comes to understand."
+            ]
+        },
+        {
+            "heading": "Third Person: Distance and Range",
+            "paragraphs": [
+                "Third person narration uses 'he,' 'she,' or 'they' to tell the story. It comes in two main varieties. Third person limited follows one character closely, revealing their thoughts and feelings while keeping other characters' inner lives hidden. Third person omniscient moves freely between characters, revealing the thoughts and motivations of multiple people.",
+                "Third person limited combines the intimacy of first person with greater flexibility. The narrator can describe the viewpoint character from the outside when needed and can shift to a different viewpoint character in the next chapter. Tolkien's 'The Lord of the Rings' uses third person limited, shifting between Frodo, Aragorn, and other characters to show different facets of the story.",
+                "Third person omniscient, used by novelists like Leo Tolstoy and George Eliot, provides the widest lens — the narrator can see into every heart. This perspective echoes God's omniscience and is particularly effective for novels that explore social worlds or moral questions from multiple angles."
+            ]
+        },
+        {
+            "heading": "Choosing the Right Point of View",
+            "paragraphs": [
+                "The right point of view for your novel depends on your story's needs. Ask yourself: Whose experience is at the center of the story? How much does the reader need to know? Is the narrator's limited understanding part of the story's meaning?",
+                "For a story about personal faith — a character's journey through doubt to belief — first person may be ideal, allowing the reader to share the character's inner struggle. For a story about a community — a church, a family, a town — third person with multiple viewpoints may serve better, showing how different people experience the same events.",
+                "Whatever point of view you choose, maintain consistency within each scene. Shifting perspectives mid-scene confuses readers and breaks immersion. Each scene should have a clear viewpoint character, and shifts should occur at chapter or section breaks. This discipline mirrors the Christian virtue of faithfulness — committing to a perspective and following it through."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Lewis's choice to tell 'The Screwtape Letters' from a demon's perspective change the way the reader understands temptation and spiritual warfare? What truths does this unusual point of view reveal?",
+            "guidance": "Consider how the inverted perspective defamiliarizes spiritual realities, making the reader see common experiences — prayer, friendship, suffering — in a startlingly new light."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of human limitation in 1 Corinthians 13:12 relate to the choices novelists make about point of view? Why might limited perspective be more truthful than omniscience in certain stories?",
+            "guidance": "Think about how acknowledging the partiality of any human perspective is itself a form of honesty, and how stories that embrace limitation can be deeply authentic."
+        },
+        {
+            "id": 3,
+            "question": "Take a scene from a novel you know well and imagine it rewritten from a different character's point of view. How would the scene change? What new information would be revealed, and what would be hidden?",
+            "guidance": "Choose a scene with at least two important characters and consider how each would interpret the same events differently based on their knowledge, desires, and assumptions."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "creative_writing",
+    "title": "The Writer's Workshop — Finding Your Voice for Truth",
+    "description": "Develop your unique writing voice and learn to craft compelling stories, memoirs, poetry, and persuasive narratives — all grounded in Biblical truth and a love for God's gift of language.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Writer's Workshop",
+            "lessons": ["voice_and_style", "memoir_writing", "persuasive_narrative", "poetry_workshop", "peer_review", "publishing_your_work"]
+        }
+    ],
+    "quiz_id": "creative_writing_quiz"
+}

@@ -1,0 +1,70 @@
+{
+    "id": "loops_functions",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Loops and Functions",
+    "subtitle": "Repeating Tasks and Organizing Code",
+    "scripture": "Ecclesiastes 1:5-7",
+    "key_concepts": ["For loops and while loops", "Iteration and repetition", "Functions and reusability", "Breaking problems into smaller parts"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 1:5-6",
+                "text": "\"The sun rises and the sun sets, and hurries back to where it rises. The wind blows to the south and turns to the north; round and round it goes, ever returning on its course.\"",
+                "commentary": "God designed cycles and patterns throughout creation — the water cycle, the seasons, day and night. Loops in programming mirror these God-designed patterns of repetition and regularity that sustain the natural world."
+            },
+            {
+                "reference": "1 Corinthians 12:12",
+                "text": "\"Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.\"",
+                "commentary": "Functions in programming work like parts of a body — each has a specific role, and together they form a complete, working program. This reflects God's design principle of many specialized parts working together for a unified purpose."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Are Loops?",
+            "paragraphs": [
+                "A loop is a programming structure that repeats a set of instructions multiple times. Instead of writing the same code over and over, you can use a loop to tell the computer: 'Do this action a certain number of times' or 'Keep doing this until a condition changes.'",
+                "There are two main types of loops. A 'for loop' repeats a set number of times — for example, 'Print this message 10 times.' A 'while loop' repeats as long as a condition remains true — for example, 'Keep asking for input until the user types quit.'"
+            ]
+        },
+        {
+            "heading": "The Power of Repetition",
+            "paragraphs": [
+                "Loops are one of the most powerful tools in programming because computers excel at repetitive tasks. A loop that runs a million times takes only a fraction of a second for a modern computer. Tasks that would take a human hours or days — like searching through millions of records or performing complex calculations — can be completed almost instantly.",
+                "However, loops must be carefully designed. A loop that never reaches its ending condition will run forever, creating what is called an infinite loop. This crashes the program and wastes computing resources. Careful planning and testing are essential when writing loops."
+            ]
+        },
+        {
+            "heading": "What Are Functions?",
+            "paragraphs": [
+                "A function is a named block of code that performs a specific task. Instead of writing the same code in multiple places, you can write it once as a function and then 'call' (use) that function whenever you need it. This is like having a recipe that you can refer to any time you want to make a particular dish.",
+                "Functions make code more organized, easier to read, and easier to fix. If you need to change how something works, you only need to change it in one place — the function definition — rather than everywhere the code appears."
+            ]
+        },
+        {
+            "heading": "Breaking Problems into Smaller Parts",
+            "paragraphs": [
+                "One of the most important skills in programming is decomposition — breaking a large, complex problem into smaller, manageable pieces. Each piece can be solved with a function, and the functions work together to solve the whole problem.",
+                "This approach reflects a Biblical principle of stewardship and wisdom. Just as Jethro advised Moses to delegate responsibilities by appointing leaders over groups of thousands, hundreds, fifties, and tens (Exodus 18:21), good programmers divide their work into organized, manageable pieces. This makes complex projects achievable and maintainable."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What patterns of repetition (loops) do you see in God's creation? How do these natural cycles reflect God's character and design?",
+            "guidance": "Consider the water cycle, seasons, planetary orbits, and biological rhythms like heartbeats. Think about how the regularity of these patterns reveals God's faithfulness and consistency."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of decomposition (breaking big problems into smaller parts) apply to challenges you face in school, at home, or in your faith life?",
+            "guidance": "Think about how large goals become manageable when broken into steps. Consider Proverbs 13:16, 'All who are prudent act with knowledge,' and how planning reflects godly wisdom."
+        },
+        {
+            "id": 3,
+            "question": "Why is it dangerous to create an infinite loop in programming? Can you think of a spiritual parallel to getting 'stuck in a loop' in life?",
+            "guidance": "Consider habits, sins, or patterns of thinking that can trap us in repetitive cycles. Think about how God offers a way to break free from destructive patterns through repentance and renewal (Romans 12:2)."
+        }
+    ]
+}

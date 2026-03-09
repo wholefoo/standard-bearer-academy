@@ -1,0 +1,83 @@
+{
+    "id": "collecting_cleaning_data",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Collecting and Cleaning Data",
+    "subtitle": "Building on a Foundation of Accuracy",
+    "scripture": "Proverbs 11:1",
+    "primary_source": "W. Edwards Deming, 'Out of the Crisis' (1986) — on the importance of data quality",
+    "key_concepts": ["Data collection methods", "Data quality dimensions", "Data cleaning techniques", "Bias in data", "Integrity and accuracy as Christian values"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"The LORD detests dishonest scales, but accurate weights find favor with him.\"",
+                "commentary": "God values accuracy and honesty in measurement. In data science, this principle demands that we collect data honestly, clean it carefully, and never manipulate it to support predetermined conclusions."
+            },
+            {
+                "reference": "Proverbs 12:17",
+                "text": "\"An honest witness tells the truth, but a false witness tells lies.\"",
+                "commentary": "Data serves as a witness to reality. When data is collected carelessly or manipulated dishonestly, it becomes a false witness. Christians must ensure that data tells the truth."
+            },
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much.\"",
+                "commentary": "Faithfulness in the seemingly tedious work of data collection and cleaning demonstrates the character that qualifies us for greater responsibilities. Excellence in small things is the foundation of trustworthiness."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Data Quality Matters",
+            "paragraphs": [
+                "In data science, the principle 'garbage in, garbage out' is an inescapable reality. No amount of sophisticated analysis can compensate for poor-quality data. If the data collected is inaccurate, incomplete, or biased, the conclusions drawn from it will be unreliable at best and dangerously misleading at worst.",
+                "Data collection and cleaning — often called data wrangling or data preparation — typically consume 60 to 80 percent of a data scientist's time. While this work may seem unglamorous compared to building models or creating visualizations, it is the foundation upon which all reliable analysis rests."
+            ]
+        },
+        {
+            "heading": "Methods of Data Collection",
+            "paragraphs": [
+                "Data can be collected through many methods, each with its own strengths and limitations. Surveys and questionnaires gather information directly from people but are subject to response bias. Observational studies record naturally occurring phenomena but may miss important contextual factors. Experiments allow researchers to control variables but may not reflect real-world conditions.",
+                "In the digital age, much data is collected automatically through web analytics, sensor networks, transaction records, and social media platforms. This 'big data' offers unprecedented scale but also presents challenges: it may reflect the biases of the systems that generated it, and the sheer volume can make it difficult to identify quality issues."
+            ]
+        },
+        {
+            "heading": "Dimensions of Data Quality",
+            "paragraphs": [
+                "Data quality is evaluated along several dimensions. Accuracy measures whether data values correctly represent reality. Completeness measures whether all necessary data has been collected. Consistency ensures that data does not contradict itself across different records or systems. Timeliness ensures that data is current enough to be relevant. Validity ensures that data conforms to defined formats and rules.",
+                "W. Edwards Deming, the renowned quality management expert, emphasized that improving processes requires high-quality data. His insight that 'in God we trust, all others must bring data' captures the importance of empirical evidence — but that evidence must be trustworthy. Poor data quality has led to costly business failures, flawed public policies, and even medical errors."
+            ]
+        },
+        {
+            "heading": "Data Cleaning Techniques",
+            "paragraphs": [
+                "Data cleaning is the process of identifying and correcting errors, inconsistencies, and gaps in a dataset. Common tasks include removing duplicate records, correcting misspellings and formatting errors, handling missing values (through deletion, imputation, or flagging), standardizing data formats, and identifying outliers that may represent errors or genuinely unusual observations.",
+                "Modern data cleaning often uses programming languages like Python or R, along with specialized libraries and tools. However, automated cleaning must always be guided by human judgment. A computer can identify a missing value, but only a knowledgeable human can determine the best way to handle it. The data scientist must understand both the technical tools and the subject matter."
+            ]
+        },
+        {
+            "heading": "Bias in Data Collection",
+            "paragraphs": [
+                "One of the most important — and most overlooked — aspects of data quality is bias. Data can be biased in many ways: the sample may not represent the population, certain groups may be underrepresented or overrepresented, the questions asked may influence responses, or the measurement methods may systematically favor certain outcomes.",
+                "Christians have a special obligation to be aware of and address bias in data. Every person is made in the image of God, and biased data that leads to unjust outcomes — discriminatory algorithms, unfair lending practices, biased criminal sentencing — violates the dignity of the people affected. Honest, careful data collection and cleaning is an act of justice."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the principle of 'honest scales' (Proverbs 11:1) apply to data collection and analysis? What does it mean to be honest with data?",
+            "guidance": "Consider how data manipulation, cherry-picking, and biased collection methods are modern equivalents of dishonest scales."
+        },
+        {
+            "id": 2,
+            "question": "Why is bias in data a justice issue? How can biased data lead to outcomes that violate the dignity of people made in God's image?",
+            "guidance": "Think about real-world examples where biased algorithms or data have led to discrimination or injustice."
+        },
+        {
+            "id": 3,
+            "question": "How does faithfulness in the 'small things' of data cleaning relate to Luke 16:10? Why is meticulous attention to data quality important?",
+            "guidance": "Consider how careless data preparation can undermine even the most sophisticated analysis, and how faithfulness in mundane tasks reflects character."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "free_verse",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Free Verse",
+    "subtitle": "Freedom and Intention in Unmetered Poetry",
+    "scripture": "Psalm 42:1-2",
+    "primary_source": "Walt Whitman, \"Song of Myself\" (1855); Luci Shaw, \"Negligible\" (1991)",
+    "key_concepts": ["Free verse technique", "Line breaks and white space", "Rhythm without meter", "Breath and pacing", "Intentional form"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 42:1-2",
+                "text": "\"As the deer pants for streams of water, so my soul pants for you, my God. My soul thirsts for God, for the living God. When can I go and meet with God?\"",
+                "commentary": "This psalm uses no formal meter or rhyme in its original Hebrew, yet its imagery and emotional rhythm are deeply powerful. The longing of the soul creates its own cadence — gasping, reaching, thirsting. Free verse at its best captures this kind of organic, emotional rhythm."
+            },
+            {
+                "reference": "John 3:8",
+                "text": "\"The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.\"",
+                "commentary": "The Holy Spirit moves freely, not bound by human structures. Free verse, at its best, follows the movement of the Spirit — responsive, surprising, alive — while still serving truth and beauty."
+            },
+            {
+                "reference": "2 Corinthians 3:17",
+                "text": "\"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.\"",
+                "commentary": "Freedom in poetry, as in the Christian life, is not the absence of all structure but the liberty to respond to the Spirit's leading. Free verse is free from imposed meter, but it is not formless — it finds its own shape in service of meaning."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Free Verse?",
+            "paragraphs": [
+                "Free verse is poetry that does not follow a regular meter or rhyme scheme. It is the dominant form of poetry written today, and when done well, it is as disciplined and intentional as any sonnet. The common misconception is that free verse is simply prose broken into lines. In truth, great free verse requires tremendous attention to rhythm, line breaks, imagery, and sound.",
+                "The poet T.S. Eliot, a devout Christian, wrote that 'no verse is free for the man who wants to do a good job.' By this he meant that free verse demands its own kind of rigor. Every line break, every pause, every word must be chosen with care. The freedom is not freedom from craft but freedom to find the form that best serves each particular poem."
+            ]
+        },
+        {
+            "heading": "The Line Break: Free Verse's Most Powerful Tool",
+            "paragraphs": [
+                "In metered poetry, the line break is determined by the meter — each line has a set number of feet. In free verse, the poet must decide where each line ends, and this decision is one of the most important choices in the poem. A line break creates a pause, a breath, a moment of suspense.",
+                "Consider the difference between 'I trust God in the darkness' written as one line versus broken into two: 'I trust God / in the darkness.' The break after 'God' creates a tiny pause that emphasizes both the act of trust and the reality of darkness. The line break becomes a tool for meaning.",
+                "White space — the empty areas on the page — is equally important. A short line surrounded by white space draws attention to itself. A stanza break creates a longer pause, a shift in thought or feeling. The page itself becomes part of the poem's design."
+            ]
+        },
+        {
+            "heading": "Rhythm Without Meter",
+            "paragraphs": [
+                "Free verse has rhythm even without regular meter. This rhythm comes from the natural stresses of English speech, from the length of phrases, from repetition and variation, and from the poet's sense of breath and pacing.",
+                "The Hebrew poetry of the Bible — including most of the Psalms — uses a form of free verse based on parallelism rather than meter. Lines echo, contrast, or build upon each other: 'The LORD is my shepherd, I lack nothing. / He makes me lie down in green pastures, / he leads me beside quiet waters, / he refreshes my soul.' The rhythm here is the rhythm of ideas, not of counted syllables.",
+                "Contemporary Christian poets like Luci Shaw and Scott Cairns write in free verse that is deeply attentive to rhythm and sound. Shaw's poem 'Negligible' uses short, carefully paced lines to meditate on the paradox of God's attention to the small and seemingly insignificant. The poem's form mirrors its content — small lines for small things that matter infinitely to God."
+            ]
+        },
+        {
+            "heading": "Writing Effective Free Verse",
+            "paragraphs": [
+                "To write effective free verse, begin by reading your poem aloud. Listen for the natural rhythm of your sentences. Where do you pause for breath? Where does emphasis fall? Let these natural rhythms guide your line breaks.",
+                "Use concrete images rather than abstract statements. Instead of writing 'God is always present,' try 'God sits at the kitchen table / before I come downstairs.' Specific, sensory details make free verse come alive in a way that generalizations cannot.",
+                "Revise ruthlessly. Free verse that is not carefully revised often becomes flabby prose arranged in lines. Every word must earn its place. If a word can be cut without losing meaning or music, cut it. The discipline of free verse is the discipline of economy — saying much with little, trusting silence as much as speech."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is the freedom of free verse similar to the freedom Paul describes in 2 Corinthians 3:17? How can both kinds of freedom be misused?",
+            "guidance": "Consider how Christian freedom is not lawlessness but liberty within the context of love and truth. Similarly, free verse is not the absence of all craft but the freedom to find organic form."
+        },
+        {
+            "id": 2,
+            "question": "Take a passage from the Psalms and rewrite it as a free verse poem, paying careful attention to line breaks. How do your line break choices affect the meaning and emphasis of the words?",
+            "guidance": "Experiment with different line breaks for the same text and notice how each version creates a different reading experience."
+        },
+        {
+            "id": 3,
+            "question": "Write a free verse poem (10-15 lines) about a moment when you experienced God's presence in an ordinary setting. Use at least three concrete, sensory details.",
+            "guidance": "Focus on showing rather than telling. Instead of saying 'I felt God's peace,' describe what you saw, heard, touched, or smelled in that moment."
+        }
+    ]
+}

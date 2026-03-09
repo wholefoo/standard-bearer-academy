@@ -1,0 +1,127 @@
+{
+    "id": "technology_quiz",
+    "title": "Data Science and Society — Understanding God's World Through Data",
+    "description": "Test your understanding of data science concepts, statistical reasoning, and the ethical responsibilities of working with data.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is data science?",
+            "options": [
+                "The study of computer hardware",
+                "An interdisciplinary field that uses scientific methods and algorithms to extract knowledge from data",
+                "A branch of philosophy that studies the meaning of numbers",
+                "The practice of building websites and applications"
+            ],
+            "correct": 1,
+            "explanation": "Data science is an interdisciplinary field that combines mathematics, statistics, computer science, and domain expertise to extract knowledge and insights from structured and unstructured data."
+        },
+        {
+            "id": 2,
+            "question": "What does the data science principle 'garbage in, garbage out' mean?",
+            "options": [
+                "Data scientists should recycle their computers",
+                "Sophisticated analysis cannot compensate for poor-quality data",
+                "All data is unreliable and should not be trusted",
+                "Only new data is useful; old data should be discarded"
+            ],
+            "correct": 1,
+            "explanation": "The principle 'garbage in, garbage out' means that if the input data is inaccurate, incomplete, or biased, the results of any analysis will be unreliable regardless of how sophisticated the methods used."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between correlation and causation?",
+            "options": [
+                "They mean exactly the same thing",
+                "Correlation means two variables move together; causation means one directly causes the other",
+                "Causation is weaker than correlation",
+                "Correlation can only exist between three or more variables"
+            ],
+            "correct": 1,
+            "explanation": "Correlation means two variables tend to move together, but this does not necessarily mean one causes the other. Causation requires evidence that one variable directly produces a change in another."
+        },
+        {
+            "id": 4,
+            "question": "What is the purpose of data visualization?",
+            "options": [
+                "To make reports look more attractive",
+                "To hide data that contradicts your conclusions",
+                "To make complex data accessible and reveal patterns that inform understanding",
+                "To replace written reports entirely"
+            ],
+            "correct": 2,
+            "explanation": "Data visualization transforms abstract information into visual forms that reveal patterns, trends, and relationships, making complex data accessible and understandable to inform wise decision-making."
+        },
+        {
+            "id": 5,
+            "question": "What is supervised learning in machine learning?",
+            "options": [
+                "Learning that requires a human teacher in the room",
+                "Training an algorithm on labeled data where the correct answers are known",
+                "An algorithm that supervises other computers on a network",
+                "A type of learning that only works with text data"
+            ],
+            "correct": 1,
+            "explanation": "In supervised learning, the algorithm is trained on labeled data — data where the correct answer is already known — enabling it to learn patterns and make predictions on new, unseen data."
+        },
+        {
+            "id": 6,
+            "question": "Why is biased training data a problem in machine learning?",
+            "options": [
+                "It makes the algorithm run more slowly",
+                "It causes the model to learn and perpetuate existing biases, leading to unfair outcomes",
+                "Biased data is actually more useful because it represents real-world conditions",
+                "It only affects image recognition, not other applications"
+            ],
+            "correct": 1,
+            "explanation": "When training data contains biases — overrepresenting certain groups, reflecting historical prejudices, or collected using flawed methods — the model learns and perpetuates those biases, potentially causing discrimination and injustice."
+        },
+        {
+            "id": 7,
+            "question": "What does the GDPR (General Data Protection Regulation) primarily protect?",
+            "options": [
+                "Government databases from hackers",
+                "Corporations' intellectual property",
+                "Individuals' personal data and privacy rights",
+                "Military communications"
+            ],
+            "correct": 2,
+            "explanation": "The EU's General Data Protection Regulation (GDPR) protects individuals' personal data by requiring informed consent for data collection, giving individuals rights over their data, and imposing strict requirements on organizations that process personal information."
+        },
+        {
+            "id": 8,
+            "question": "According to Proverbs 11:1, what does God think about 'dishonest scales'? How does this apply to data science?",
+            "options": [
+                "God does not care about measurement accuracy",
+                "God detests dishonest measurement; data must be collected and reported honestly",
+                "Dishonest scales are acceptable if the purpose is good",
+                "This verse only applies to physical weights and measures, not data"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 11:1 says 'The LORD detests dishonest scales, but accurate weights find favor with him.' This principle applies directly to data science: manipulating data, cherry-picking results, or creating misleading visualizations are modern equivalents of dishonest scales."
+        },
+        {
+            "id": 9,
+            "question": "What fundamental limitation distinguishes machine learning from human wisdom?",
+            "options": [
+                "Machines cannot process data as quickly as humans",
+                "Machines can identify patterns but cannot understand meaning, make moral judgments, or possess wisdom",
+                "Machine learning is always more accurate than human judgment",
+                "There are no fundamental limitations; machines will soon surpass human wisdom"
+            ],
+            "correct": 1,
+            "explanation": "Machine learning excels at pattern recognition but cannot understand meaning, comprehend motivation, make moral judgments, or possess the wisdom that comes from God. Human beings, made in God's image, have capacities that machines fundamentally lack."
+        },
+        {
+            "id": 10,
+            "question": "How does the Golden Rule (Matthew 7:12) apply to data ethics?",
+            "options": [
+                "It does not apply to technology",
+                "It means we should share all data freely with everyone",
+                "It means we should treat others' data with the same care and respect we would want for our own",
+                "It means data scientists should always agree with their employers"
+            ],
+            "correct": 2,
+            "explanation": "The Golden Rule — 'do to others what you would have them do to you' — means collecting, storing, and using others' personal data with the same care, transparency, and respect we would want applied to our own data."
+        }
+    ]
+}

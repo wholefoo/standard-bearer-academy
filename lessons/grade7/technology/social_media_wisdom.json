@@ -1,0 +1,75 @@
+{
+    "id": "social_media_wisdom",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Social Media Wisdom — Using Platforms with Discernment",
+    "subtitle": "Navigating Social Media as a Follower of Christ",
+    "scripture": "Philippians 4:8",
+    "key_concepts": ["How social media platforms work", "Algorithms and content curation", "Comparison and self-worth", "Using social media for good"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "Social media constantly feeds content to our minds. God's standard for what we think about is clear: it should be true, noble, right, pure, lovely, and admirable. We must actively choose to fill our feeds with content that meets this standard."
+            },
+            {
+                "reference": "Galatians 1:10",
+                "text": "\"Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.\"",
+                "commentary": "Social media can trap us in a cycle of seeking human approval through likes and followers. Paul reminds us that our identity and worth come from God, not from the opinions of others."
+            },
+            {
+                "reference": "Proverbs 29:11",
+                "text": "\"Fools give full vent to their rage, but the wise bring calm in the end.\"",
+                "commentary": "Social media makes it easy to react impulsively. Wisdom means pausing before posting, especially when we are angry or upset."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Social Media Landscape",
+            "paragraphs": [
+                "Social media platforms — such as YouTube, Instagram, TikTok, and others — have become some of the most influential forces in modern culture. They shape how people communicate, what they believe, and even how they feel about themselves. As a young person growing up in this environment, it is essential that you understand how these platforms work and how to use them wisely.",
+                "Social media is not inherently evil, but it presents unique temptations and challenges that require Biblical wisdom to navigate. Understanding the technology behind these platforms gives you the power to use them intentionally rather than being used by them."
+            ]
+        },
+        {
+            "heading": "How Algorithms Shape What You See",
+            "paragraphs": [
+                "Social media platforms use algorithms — mathematical formulas — to decide what content appears in your feed. These algorithms are designed to keep you on the platform as long as possible, because the more time you spend, the more advertisements you see, and the more money the company makes.",
+                "Algorithms learn what kind of content you engage with — what you like, comment on, or watch for a long time — and show you more of the same. This can create an 'echo chamber' where you only see viewpoints you already agree with, or it can pull you toward increasingly extreme or sensational content. Understanding this helps you recognize when you are being manipulated."
+            ]
+        },
+        {
+            "heading": "The Comparison Trap",
+            "paragraphs": [
+                "One of the greatest dangers of social media is the temptation to compare yourself to others. People typically post only the best moments of their lives — the highlight reel — while hiding their struggles, failures, and ordinary moments. This creates a false picture that can make you feel inadequate, envious, or discontent.",
+                "The Bible is clear that our identity and worth come from God, not from how we compare to others. You are 'fearfully and wonderfully made' (Psalm 139:14). No number of likes, followers, or comments can change your value in God's eyes. When you find yourself comparing your life to what you see on social media, remember that you are seeing a carefully edited version of someone else's reality."
+            ]
+        },
+        {
+            "heading": "Using Social Media for Good",
+            "paragraphs": [
+                "Despite its challenges, social media can be used for positive purposes. You can share encouraging Bible verses, support friends who are going through hard times, promote worthy causes, and even share your faith with others. Many ministries and missionaries use social media to spread the Gospel around the world.",
+                "The key is intentionality. Before opening a social media app, ask yourself: What is my purpose right now? Am I using this platform to connect, encourage, and learn — or am I mindlessly scrolling? Set time limits, curate your feed to include uplifting content, and do not be afraid to unfollow accounts that lead you toward sin, discontentment, or wasted time."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How do social media algorithms work, and why is it important to understand them? How can this knowledge help you be more intentional about what you consume online?",
+            "guidance": "Think about how algorithms are designed to keep you engaged. Consider how knowing this can change the way you interact with social media."
+        },
+        {
+            "id": 2,
+            "question": "Why is comparing yourself to others on social media dangerous? How does Psalm 139:14 speak to your identity and worth?",
+            "guidance": "Consider how social media shows a curated version of reality. Reflect on where your true identity comes from according to Scripture."
+        },
+        {
+            "id": 3,
+            "question": "How can you use social media in a way that honors Philippians 4:8? What practical steps can you take to make your social media experience more positive and Christ-centered?",
+            "guidance": "Think about the content you follow and share. Consider specific actions like unfollowing negative accounts or setting time limits."
+        }
+    ]
+}

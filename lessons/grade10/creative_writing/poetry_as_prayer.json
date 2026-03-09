@@ -1,0 +1,77 @@
+{
+    "id": "poetry_as_prayer",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Poetry as Prayer",
+    "subtitle": "Writing Verse as Conversation with God",
+    "scripture": "Psalm 19:14",
+    "primary_source": "George Herbert, \"The Altar\" (1633)",
+    "key_concepts": ["Poetry as worship", "Devotional verse", "Honest expression before God", "The tradition of prayer-poems", "Writing from the heart"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:14",
+                "text": "\"May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my Redeemer.\"",
+                "commentary": "The Psalmist offers his words and inner thoughts to God as a form of worship. Poetry, at its finest, is exactly this — carefully chosen words that express the deepest meditations of the heart, offered to the One who hears all."
+            },
+            {
+                "reference": "Colossians 3:16",
+                "text": "\"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.\"",
+                "commentary": "The early church used poetic forms — psalms, hymns, and spiritual songs — as central expressions of faith. Poetry and worship have been intertwined since the earliest days of God's people."
+            },
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "Poetry trains the mind to dwell on what is true, noble, and praiseworthy. When we write poetry as prayer, we discipline our thoughts toward the beautiful and the holy."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Poetry and Prayer Belong Together",
+            "paragraphs": [
+                "Poetry is one of the oldest forms of human expression, and from the very beginning, it has been linked to prayer and worship. The Bible itself is filled with poetry — the Psalms, the Song of Solomon, the poetic sections of the prophets, and even the hymns embedded in the New Testament letters. When we write poetry, we participate in a tradition as old as faith itself.",
+                "George Herbert, a 17th-century Anglican priest, understood this connection deeply. His poem 'The Altar' is shaped on the page like an altar, with every word offered as a sacrifice to God. Herbert wrote, 'A verse may find him, who a sermon flies,' suggesting that poetry can reach hearts that prose cannot. In this lesson, we will explore how writing poetry can become a form of prayer — an honest, beautiful conversation with our Creator."
+            ]
+        },
+        {
+            "heading": "The Tradition of Devotional Poetry",
+            "paragraphs": [
+                "Throughout Christian history, believers have turned to poetry to express their deepest experiences of God. The metaphysical poets — George Herbert, John Donne, and Henry Vaughan — wrote verse that wrestled with doubt, celebrated grace, and explored the mysteries of faith. Their honesty before God is striking; they did not hide their struggles but brought them into the light of verse.",
+                "John Donne's Holy Sonnets are a powerful example. In 'Batter My Heart, Three-Person'd God,' Donne begs God to overwhelm his resistance and transform him completely. This is prayer at its most raw and urgent — and it is also great poetry. The lesson for us is that devotional poetry need not be safe or sentimental. It can be fierce, questioning, and deeply real."
+            ]
+        },
+        {
+            "heading": "Writing Your First Prayer-Poem",
+            "paragraphs": [
+                "To write a prayer-poem, begin with honesty. What are you truly feeling before God right now? Gratitude? Confusion? Longing? Fear? Joy? Start by writing a simple, honest statement to God — not what you think you should feel, but what you actually feel. The Psalms give us permission for this kind of radical honesty.",
+                "Next, look for an image or metaphor that captures your feeling. David compared God to a shepherd, a rock, a fortress, a shield. What image captures your experience of God today? Perhaps God is a lamp in darkness, an anchor in a storm, or a gardener tending your soul. Let the image grow and develop through your poem.",
+                "Finally, pay attention to the sound of your words. Read them aloud. Poetry lives in the ear as much as on the page. Let the rhythm of your lines reflect the rhythm of your prayer — whether that is the steady cadence of trust or the broken stammer of grief."
+            ]
+        },
+        {
+            "heading": "From Personal Prayer to Shared Worship",
+            "paragraphs": [
+                "Many of the greatest hymns began as personal prayer-poems. Charles Wesley wrote over 6,000 hymns, many of which started as his own devotional reflections. 'And Can It Be That I Should Gain' emerged from Wesley's overwhelming experience of God's grace at his conversion. What began as personal wonder became a hymn that has lifted countless congregations in worship.",
+                "When you write a prayer-poem, you may be writing only for yourself and God — and that is enough. But you may also be crafting words that could one day encourage another believer, comfort someone in grief, or express what an entire congregation feels but cannot put into words. Poetry written in genuine communion with God has a power that manufactured sentiment can never match."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does writing poetry as prayer differ from simply talking to God in prose? What does the discipline of choosing precise words and images add to the experience of prayer?",
+            "guidance": "Consider how the constraints of poetic form can deepen attention and intentionality in prayer, forcing us to slow down and choose our words with care."
+        },
+        {
+            "id": 2,
+            "question": "Read George Herbert's 'The Altar' or John Donne's 'Batter My Heart.' How do these poets express both devotion and struggle? Why is honesty important in devotional poetry?",
+            "guidance": "Think about how the Psalms model honesty before God — including lament, anger, and doubt — alongside praise and thanksgiving."
+        },
+        {
+            "id": 3,
+            "question": "Write a short prayer-poem (6-10 lines) expressing something you genuinely feel before God today. Use at least one vivid image or metaphor.",
+            "guidance": "Focus on authenticity rather than perfection. A simple, honest poem is more powerful than an elaborate but insincere one."
+        }
+    ]
+}

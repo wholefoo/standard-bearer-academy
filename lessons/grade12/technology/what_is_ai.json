@@ -1,0 +1,79 @@
+{
+    "id": "what_is_ai",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: What is Artificial Intelligence?",
+    "subtitle": "Understanding Machines that Mimic Human Thought",
+    "scripture": "Psalm 139:14; Proverbs 2:6",
+    "primary_source": "Alan Turing, 'Computing Machinery and Intelligence' (1950), on whether machines can think",
+    "key_concepts": ["Artificial intelligence defined", "Narrow AI vs. general AI", "History of AI research", "Human intelligence vs. machine processing", "The image of God and human uniqueness"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 139:14",
+                "text": "\"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "The human mind is God's creation — fearfully and wonderfully made. While machines can process data at incredible speeds, they lack the soul, consciousness, and moral reasoning that God uniquely bestowed upon humanity. AI imitates certain functions of the mind but cannot replicate what it means to be made in God's image."
+            },
+            {
+                "reference": "Proverbs 2:6",
+                "text": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\"",
+                "commentary": "True wisdom comes from God, not from algorithms. While AI can analyze patterns and generate outputs, it cannot possess wisdom — the moral and spiritual discernment that guides humans toward what is good, true, and right."
+            },
+            {
+                "reference": "Genesis 1:27",
+                "text": "\"So God created mankind in his own image, in the image of God he created them; male and female he created them.\"",
+                "commentary": "Human beings are image-bearers of God, possessing creativity, moral agency, and spiritual awareness. No machine, however sophisticated, shares in this divine image. This distinction is foundational to any Christian evaluation of artificial intelligence."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Rise of Thinking Machines",
+            "paragraphs": [
+                "Artificial intelligence — the field of computer science dedicated to creating systems that can perform tasks typically requiring human intelligence — has become one of the defining technologies of the twenty-first century. From voice assistants to self-driving cars, AI is reshaping how we live, work, and interact with the world.",
+                "But what exactly is AI? At its most basic, artificial intelligence refers to computer programs designed to recognize patterns, make decisions, and learn from data. These systems can translate languages, diagnose diseases, compose music, and even generate human-like text. Yet despite these impressive capabilities, AI remains fundamentally different from human intelligence in ways that matter deeply from a Biblical perspective."
+            ]
+        },
+        {
+            "heading": "A Brief History of AI",
+            "paragraphs": [
+                "The concept of artificial intelligence emerged formally in the 1950s when mathematician Alan Turing posed his famous question: 'Can machines think?' Turing proposed a test — now called the Turing Test — in which a machine would be considered intelligent if a human could not distinguish its responses from those of another human.",
+                "Early AI research focused on logic and problem-solving. In 1956, researchers at a conference at Dartmouth College coined the term 'artificial intelligence' and predicted that machines would match human intelligence within a generation. That prediction proved wildly optimistic. Progress was slow for decades, with periods of excitement followed by 'AI winters' when funding and interest dried up.",
+                "The modern AI revolution began in the 2010s, fueled by three factors: massive amounts of digital data, powerful computing hardware, and breakthroughs in machine learning algorithms. Today's AI systems can accomplish remarkable feats, but they operate in fundamentally different ways from the human mind."
+            ]
+        },
+        {
+            "heading": "Narrow AI vs. General AI",
+            "paragraphs": [
+                "It is important to distinguish between two types of AI. Narrow AI (also called weak AI) is designed to perform specific tasks — playing chess, recommending products, recognizing faces, or generating text. Every AI system in use today is narrow AI. It excels within its defined domain but cannot transfer its abilities to other domains.",
+                "General AI (also called strong AI or artificial general intelligence) would be a system capable of any intellectual task a human can perform — reasoning across domains, understanding context, experiencing consciousness, and exercising judgment. General AI does not exist and may never exist. The gap between processing data according to mathematical functions and truly understanding meaning remains vast.",
+                "Christians should be cautious about claims that machines will eventually achieve consciousness or become 'persons.' Consciousness, moral agency, and spiritual awareness are gifts from God to beings made in His image. They are not properties that emerge from sufficiently complex circuits."
+            ]
+        },
+        {
+            "heading": "Human Intelligence and the Image of God",
+            "paragraphs": [
+                "From a Biblical worldview, the most important thing about human intelligence is not its processing speed or memory capacity — areas where computers have long surpassed us — but its nature as a reflection of God's own mind. Humans can reason morally, appreciate beauty, love sacrificially, create art, worship their Creator, and make free choices. These capacities are rooted in our identity as image-bearers of God.",
+                "AI systems, no matter how sophisticated, are tools created by human beings. They do not have souls, they do not have moral responsibilities, and they do not have relationships with God. Treating AI as if it were a person — or fearing it as if it were a rival to God — reflects a misunderstanding of both technology and theology.",
+                "The proper Christian response to AI is neither uncritical enthusiasm nor irrational fear, but wise stewardship. We should use these powerful tools to serve God and neighbor while maintaining a clear understanding of what makes human beings unique in God's creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is the fundamental difference between human intelligence and artificial intelligence from a Biblical perspective? Why does this distinction matter?",
+            "guidance": "Consider the concept of the imago Dei — being made in God's image. Think about qualities like moral reasoning, consciousness, creativity, love, and spiritual awareness that characterize human intelligence but are absent from AI systems."
+        },
+        {
+            "id": 2,
+            "question": "Alan Turing asked, 'Can machines think?' How would you answer this question, and what definition of 'thinking' does your answer depend on?",
+            "guidance": "Consider whether processing data and producing outputs constitutes 'thinking' or whether true thought requires understanding, consciousness, and intentionality. How does the Biblical understanding of the mind and soul inform your answer?"
+        },
+        {
+            "id": 3,
+            "question": "Why should Christians avoid both uncritical enthusiasm and irrational fear when it comes to artificial intelligence?",
+            "guidance": "Think about how idolizing technology and fearing technology are both errors. Consider how the Biblical concept of stewardship provides a balanced framework for engaging with powerful new tools."
+        }
+    ]
+}

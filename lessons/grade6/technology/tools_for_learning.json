@@ -1,0 +1,75 @@
+{
+    "id": "tools_for_learning",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Using Tools for Learning — Technology in the Classroom",
+    "subtitle": "How Digital Tools Can Help You Grow in Knowledge and Wisdom",
+    "scripture": "Proverbs 18:15",
+    "key_concepts": ["Educational technology tools", "Research skills", "Word processing and presentations", "Discerning reliable sources"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 18:15",
+                "text": "\"The heart of the discerning acquires knowledge, and the ear of the wise seeks it out.\"",
+                "commentary": "God values the pursuit of knowledge. Technology gives us powerful tools to seek out knowledge and grow in understanding. But we must be discerning in how we use these tools and in what sources we trust."
+            },
+            {
+                "reference": "Proverbs 2:6",
+                "text": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\"",
+                "commentary": "While technology can help us access information, true wisdom comes from God. We must always filter what we learn through the truth of Scripture and seek God's guidance as we study."
+            },
+            {
+                "reference": "2 Timothy 2:15",
+                "text": "\"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.\"",
+                "commentary": "God calls us to be diligent workers and careful students. Using technology well for learning is part of being a faithful worker for God's kingdom."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Learning in the Digital Age",
+            "paragraphs": [
+                "You live in an age when more information is available at your fingertips than at any other time in history. With a computer or tablet, you can access encyclopedias, watch educational videos, read books, and explore the world — all from your desk. These are incredible tools for learning.",
+                "But having access to information is not the same as having wisdom. As Christians, we must learn to use technology as a tool for genuine learning, not just entertainment. We must develop the skills to find reliable information and the discernment to evaluate what we find."
+            ]
+        },
+        {
+            "heading": "Digital Research Skills",
+            "paragraphs": [
+                "When you research a topic online, start by using reliable sources. Educational websites (.edu), established reference works, and trusted Christian organizations are generally more reliable than random blogs or social media posts. Always check who wrote the information and whether their claims are supported by evidence.",
+                "Learn to use search engines effectively. Use specific search terms rather than vague questions. Put phrases in quotation marks to search for exact wording. Compare information from multiple sources to make sure it is accurate. And always remember: just because something is on the internet does not mean it is true."
+            ]
+        },
+        {
+            "heading": "Productivity Tools",
+            "paragraphs": [
+                "Word processors, spreadsheets, and presentation software are important tools for schoolwork. A word processor helps you write and edit essays and reports. Spreadsheets help you organize data and do calculations. Presentation software helps you create slideshows to share what you have learned with others.",
+                "Learning to use these tools well is a practical skill that will serve you throughout your education and career. Take the time to learn keyboard shortcuts, formatting options, and organizational features. These skills make your work more efficient and professional."
+            ]
+        },
+        {
+            "heading": "Technology as a Servant, Not a Master",
+            "paragraphs": [
+                "One of the greatest temptations with technology is to let it become a distraction. It is easy to start researching a topic and end up watching unrelated videos for an hour. It is easy to get so caught up in formatting a presentation that you forget to actually learn the material.",
+                "Set boundaries for how you use technology for learning. Use timers to stay on task. Close tabs and apps that are not related to your work. Ask God to help you be disciplined and focused. Technology should serve your learning — you should not serve your technology."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How can you tell whether an online source is reliable? What steps should you take before trusting information you find on the internet?",
+            "guidance": "Think about the author, the website, the evidence provided, and whether other sources agree. Consider how Proverbs 14:15 applies."
+        },
+        {
+            "id": 2,
+            "question": "What does it mean to use technology as a servant rather than a master? Have you ever experienced technology becoming a distraction? What can you do about it?",
+            "guidance": "Reflect on personal experiences with distraction. Think about specific strategies like setting timers or removing distractions."
+        },
+        {
+            "id": 3,
+            "question": "How does 2 Timothy 2:15 apply to using technology for schoolwork? What does it look like to be 'a worker who does not need to be ashamed' when using digital tools?",
+            "guidance": "Consider the quality and integrity of your work. Think about doing your best versus cutting corners."
+        }
+    ]
+}

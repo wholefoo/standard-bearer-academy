@@ -1,0 +1,75 @@
+{
+    "id": "voice_and_style",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Voice and Style",
+    "subtitle": "Discovering Who You Are as a Writer",
+    "scripture": "Psalm 45:1",
+    "key_concepts": ["Writer's voice", "Tone and style", "Authenticity in writing", "Writing as a reflection of the soul"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 45:1",
+                "text": "\"My heart is stirred by a noble theme as I recite my verses for the king; my tongue is the pen of a skillful writer.\"",
+                "commentary": "The psalmist shows that writing begins in the heart. A writer's voice is not merely technique — it flows from inner conviction, passion, and purpose. When our hearts are stirred by truth, our writing becomes authentic and powerful."
+            },
+            {
+                "reference": "Proverbs 16:23",
+                "text": "\"The hearts of the wise make their mouths prudent, and their lips promote instruction.\"",
+                "commentary": "Wisdom shapes how we communicate. Developing your writing voice means learning to express truth with clarity, grace, and intention — letting wisdom guide your words."
+            },
+            {
+                "reference": "1 Peter 4:10-11",
+                "text": "\"Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms. If anyone speaks, they should do so as one who speaks the very words of God.\"",
+                "commentary": "Our writing ability is a gift from God. Developing a unique voice is not about self-expression for its own sake, but about stewarding that gift to serve others and honor God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Writer's Voice?",
+            "paragraphs": [
+                "Every writer has a unique voice — a distinctive way of putting words together that is as personal as a fingerprint. Your voice is the combination of your word choices, sentence rhythms, perspective, and personality that makes your writing sound like you and no one else.",
+                "Think about the difference between reading a letter from your best friend and reading a textbook. Even if both discuss the same topic, they sound completely different. That difference is voice. Your favorite authors have voices you can recognize even without seeing their names on the page."
+            ]
+        },
+        {
+            "heading": "Voice vs. Style vs. Tone",
+            "paragraphs": [
+                "While these terms are related, they mean different things. Voice is your overall writing personality — it stays relatively consistent across everything you write. Style refers to the specific techniques you use: short sentences or long ones, simple words or complex ones, formal or casual language. Tone is the attitude or emotion in a particular piece — the same writer can be humorous in one essay and serious in another.",
+                "A Christian writer's voice is shaped by their worldview. When you see the world as God's creation, when you believe in truth, beauty, and redemption, these convictions naturally color everything you write — even when you are not writing about explicitly religious topics."
+            ]
+        },
+        {
+            "heading": "Finding Your Voice",
+            "paragraphs": [
+                "Finding your voice is not something that happens overnight. It develops through practice, reading, and honest self-expression. Here are some ways to cultivate your unique voice: Read widely and notice which authors resonate with you. Write regularly, even when you do not feel inspired. Be honest — do not try to sound like someone else. Pay attention to what moves you, what makes you angry, what fills you with wonder.",
+                "Journaling is one of the best ways to develop your voice because journals have no audience pressure. When you write just for yourself (and for God), you are free to be completely authentic. Over time, patterns emerge — recurring themes, favorite phrases, natural rhythms — and these patterns are the seeds of your voice."
+            ]
+        },
+        {
+            "heading": "Writing with Authenticity and Purpose",
+            "paragraphs": [
+                "The world is full of writing that sounds impressive but says nothing. As Christian writers, we are called to something better: authentic communication that serves truth. This does not mean every piece must be a sermon — far from it. It means writing honestly, avoiding pretension, and caring about what is true and good.",
+                "Psalm 45:1 describes a writer whose heart is 'stirred by a noble theme.' The best writing always comes from genuine engagement with something that matters. When you write about things you truly care about — justice, beauty, friendship, faith, struggle, hope — your voice naturally becomes stronger and more compelling."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read three short passages from different authors. How would you describe each author's 'voice'? What specific word choices or sentence patterns help create that voice?",
+            "guidance": "Look for differences in formality, sentence length, use of imagery, humor, and emotional tone. Notice how each author's personality comes through in their writing."
+        },
+        {
+            "id": 2,
+            "question": "Write a paragraph about your favorite place in two different styles: first in a formal, descriptive style, and then in a casual, conversational style. Which felt more natural to you? What does that tell you about your developing voice?",
+            "guidance": "Pay attention to which style felt easier or more enjoyable. Neither is better — the goal is self-awareness about your natural tendencies as a writer."
+        },
+        {
+            "id": 3,
+            "question": "How does your faith shape the way you see the world? How might that perspective naturally influence your writing voice, even when you are writing about everyday topics?",
+            "guidance": "Consider how believing in a Creator, in redemption, and in the value of every person might affect what you notice, what you emphasize, and how you treat your subjects."
+        }
+    ]
+}

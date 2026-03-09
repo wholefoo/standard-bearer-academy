@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "creative_writing",
+    "title": "The Gift of Words — Writing to Glorify God",
+    "description": "Discover the power of language as a gift from God. Students will explore descriptive writing, short stories, poetry, journaling, and learn to use their words as instruments of worship and truth.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: The Gift of Words — Writing to Glorify God",
+            "lessons": ["power_of_words", "descriptive_writing", "short_story_basics", "poetry_introduction", "journal_writing", "writing_as_worship"]
+        }
+    ],
+    "quiz_id": "writing_quiz"
+}

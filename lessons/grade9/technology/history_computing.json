@@ -1,0 +1,72 @@
+{
+    "id": "history_computing",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "History of Computing",
+    "subtitle": "From the Abacus to the Modern Computer",
+    "scripture": "Psalm 90:12",
+    "primary_source": "Charles Babbage, Passages from the Life of a Philosopher (1864)",
+    "key_concepts": ["Early computing devices", "The development of modern computers", "Key figures in computing history", "The exponential growth of technology"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 90:12",
+                "text": "\"Teach us to number our days, that we may gain a heart of wisdom.\"",
+                "commentary": "The very concept of numbering and counting is at the heart of computing. From the earliest counting tools to modern supercomputers, humanity has sought to organize, calculate, and understand the world God created. The pursuit of wisdom through knowledge — including technological knowledge — honors God when directed by His principles."
+            },
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has hidden mysteries in His creation for humanity to discover. The history of computing is a story of human beings uncovering the mathematical and logical principles God embedded in the universe — and building tools to harness those principles for practical purposes."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Early Computing: Tools for Calculation",
+            "paragraphs": [
+                "The history of computing begins long before electricity. The abacus, developed independently in ancient Mesopotamia, China, and Rome, was one of the first tools designed to assist with mathematical calculations. For thousands of years, humans have sought ways to extend their God-given mental abilities through mechanical aids.",
+                "In the 17th century, Blaise Pascal — a devout Christian mathematician — invented the Pascaline, one of the first mechanical calculators. Pascal saw no conflict between his faith and his scientific work; he believed that understanding the mathematical order of creation brought glory to God. His contemporary, Gottfried Wilhelm Leibniz, developed a more advanced calculator and laid the groundwork for binary arithmetic — the foundation of all modern computing."
+            ]
+        },
+        {
+            "heading": "Charles Babbage and the Dawn of Programmable Machines",
+            "paragraphs": [
+                "Charles Babbage, a 19th-century English mathematician, is often called the 'father of the computer.' His Difference Engine (1822) was designed to automatically calculate mathematical tables, and his more ambitious Analytical Engine (1837) was the first design for a general-purpose programmable computer.",
+                "Babbage's Analytical Engine included concepts that are fundamental to modern computers: an input mechanism, a processing unit (which he called the 'mill'), memory (the 'store'), and an output mechanism. Although the machine was never fully built during his lifetime, its design anticipated the architecture of computers that would not be constructed for another century.",
+                "Ada Lovelace, working with Babbage, wrote what is considered the first computer program — a set of instructions for the Analytical Engine to compute Bernoulli numbers. Lovelace recognized that the machine had potential beyond mere calculation; she envisioned it processing music, text, and graphics — a prophetic insight that would take over a century to be realized."
+            ]
+        },
+        {
+            "heading": "The Electronic Revolution",
+            "paragraphs": [
+                "The mid-20th century brought the electronic computer. During World War II, machines like Colossus (Britain) and ENIAC (United States) used electronic components instead of mechanical gears, dramatically increasing computing speed. ENIAC could perform 5,000 additions per second — a revolutionary achievement at the time.",
+                "The invention of the transistor in 1947 at Bell Labs transformed computing by replacing large, unreliable vacuum tubes with small, efficient semiconductor devices. This breakthrough led to smaller, faster, and more reliable computers. The subsequent invention of the integrated circuit (microchip) in 1958 placed thousands and eventually billions of transistors on a single chip, enabling the powerful personal computers and smartphones we use today."
+            ]
+        },
+        {
+            "heading": "The Personal Computer and the Digital Age",
+            "paragraphs": [
+                "In the 1970s and 1980s, computers moved from laboratories and large corporations into homes and schools. Companies like Apple, IBM, and Microsoft made computing accessible to ordinary people. The development of the World Wide Web by Tim Berners-Lee in 1989 connected computers globally, transforming communication, commerce, education, and culture.",
+                "Moore's Law — the observation that computing power roughly doubles every two years — has driven exponential growth in technology. The smartphone in your pocket today has more computing power than the machines that guided astronauts to the moon in 1969. This remarkable progress raises important questions about how Christians should steward these powerful tools in a way that honors God and serves humanity."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the Christian faith of pioneers like Blaise Pascal influence their approach to mathematics and computing? Why did they see no conflict between faith and scientific discovery?",
+            "guidance": "Consider Pascal's view that the mathematical order of creation reflects God's nature. Think about how the belief that God created an orderly universe motivates scientific investigation."
+        },
+        {
+            "id": 2,
+            "question": "The growth of computing power has been exponential. What responsibilities come with having such powerful technology? How should Christians think about the stewardship of these tools?",
+            "guidance": "Reflect on Luke 12:48 — 'From everyone who has been given much, much will be demanded.' Consider both the opportunities and the dangers that powerful technology presents."
+        },
+        {
+            "id": 3,
+            "question": "Ada Lovelace envisioned computers doing more than just calculations — she imagined them processing music and art. How does the creative use of computers reflect humanity being made in the image of a creative God?",
+            "guidance": "Think about Genesis 1 and God as Creator. Consider how human creativity with technology mirrors our creation in God's image, and how this creativity should be directed toward godly purposes."
+        }
+    ]
+}

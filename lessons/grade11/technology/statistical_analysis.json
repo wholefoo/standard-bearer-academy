@@ -1,0 +1,83 @@
+{
+    "id": "statistical_analysis",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Statistical Analysis",
+    "subtitle": "Finding Meaning in Numbers",
+    "scripture": "Daniel 1:20",
+    "primary_source": "Ronald Fisher, 'The Design of Experiments' (1935)",
+    "key_concepts": ["Descriptive statistics", "Inferential statistics", "Hypothesis testing", "Correlation vs. causation", "Wisdom in interpreting results"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Daniel 1:20",
+                "text": "\"In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his whole kingdom.\"",
+                "commentary": "Daniel and his companions excelled in wisdom and understanding because God gave them insight. Statistical analysis is one form of the disciplined reasoning that enables us to understand the world God has made."
+            },
+            {
+                "reference": "Proverbs 18:17",
+                "text": "\"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.\"",
+                "commentary": "First impressions from data can be misleading. Statistical analysis provides the tools for rigorous examination — testing hypotheses, checking assumptions, and looking beyond surface-level observations."
+            },
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"But test everything; hold fast what is good.\"",
+                "commentary": "Paul's exhortation to test everything aligns with the scientific method and statistical testing. We should not accept claims at face value but examine the evidence carefully."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Statistics Matters",
+            "paragraphs": [
+                "Statistics is the science of collecting, organizing, analyzing, and interpreting data. It provides the mathematical framework that allows data scientists to move beyond anecdotes and impressions to rigorous, evidence-based conclusions. Without statistical reasoning, data is just numbers; with it, data becomes knowledge.",
+                "Statistical literacy is essential in the modern world. Every day we encounter claims supported by 'data' and 'studies.' The ability to evaluate these claims — to distinguish sound analysis from manipulation — is a critical life skill and an expression of the Biblical call to test everything and hold fast to what is good."
+            ]
+        },
+        {
+            "heading": "Descriptive Statistics",
+            "paragraphs": [
+                "Descriptive statistics summarize and describe the main features of a dataset. Key measures include measures of central tendency (mean, median, and mode), which describe where the center of the data lies, and measures of spread (range, variance, and standard deviation), which describe how much the data varies.",
+                "These simple measures can reveal a great deal about a dataset. The mean tells you the average, but the median may be more appropriate when outliers skew the data. The standard deviation tells you how tightly clustered the data is around the mean. Understanding these basics is the foundation for all more advanced analysis."
+            ]
+        },
+        {
+            "heading": "Inferential Statistics",
+            "paragraphs": [
+                "While descriptive statistics summarize what we observe, inferential statistics allow us to draw conclusions about a larger population based on a sample. This is essential because we rarely have access to data from an entire population. Instead, we collect data from a representative sample and use statistical methods to infer what is likely true of the whole.",
+                "Key concepts in inferential statistics include confidence intervals (ranges that likely contain the true population value), p-values (measures of the probability that observed results occurred by chance), and statistical significance (the threshold below which we consider results unlikely to be due to chance alone)."
+            ]
+        },
+        {
+            "heading": "Hypothesis Testing",
+            "paragraphs": [
+                "Hypothesis testing is a formal procedure for determining whether data provides sufficient evidence to support a specific claim. The process begins with a null hypothesis (the assumption that there is no effect or no difference) and an alternative hypothesis (the claim being tested). Data is collected and analyzed to determine whether the evidence is strong enough to reject the null hypothesis.",
+                "Ronald Fisher, one of the founders of modern statistical methods, developed many of the techniques used in hypothesis testing today. His work on experimental design emphasized the importance of randomization, replication, and control — principles that ensure results are reliable and not artifacts of bias or chance."
+            ]
+        },
+        {
+            "heading": "Correlation vs. Causation",
+            "paragraphs": [
+                "One of the most common errors in data interpretation is confusing correlation with causation. Two variables may be correlated — they tend to move together — without one causing the other. Ice cream sales and drowning deaths are positively correlated, but ice cream does not cause drowning; both are driven by hot weather.",
+                "Establishing causation requires carefully designed experiments or sophisticated statistical techniques that account for confounding variables. Christians should be especially careful about this distinction because false causal claims can lead to unjust policies, harmful treatments, and misguided decisions. Intellectual honesty requires acknowledging what the data does and does not prove."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the distinction between correlation and causation relate to the Christian commitment to truthfulness? Why is it important not to overstate what data proves?",
+            "guidance": "Consider how false causal claims can lead to harm and how intellectual honesty is an expression of Christian integrity."
+        },
+        {
+            "id": 2,
+            "question": "How does 1 Thessalonians 5:21 ('test everything') apply to evaluating statistical claims in media and public discourse?",
+            "guidance": "Think about how statistical illiteracy can make people vulnerable to manipulation and how testing claims is both a practical skill and a spiritual discipline."
+        },
+        {
+            "id": 3,
+            "question": "In what ways did Daniel demonstrate the kind of wisdom and understanding that statistical analysis requires? How can Christians pursue analytical excellence?",
+            "guidance": "Consider how Daniel's excellence came from both diligent study and God-given insight, and how Christians can cultivate both."
+        }
+    ]
+}

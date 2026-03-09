@@ -1,0 +1,80 @@
+{
+    "id": "wisdom_age_of_ai",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Wisdom in the Age of AI",
+    "subtitle": "Living Faithfully as Christians in a World Transformed by Technology",
+    "scripture": "James 1:5; Proverbs 3:5-6",
+    "primary_source": "John Lennox, 2084: Artificial Intelligence and the Future of Humanity (2020), on maintaining faith in an age of intelligent machines",
+    "key_concepts": ["Biblical wisdom for technological decisions", "Digital discipleship", "Vocation in technology fields", "Stewarding AI for God's glory", "Hope and confidence in God's sovereignty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "James 1:5",
+                "text": "\"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.\"",
+                "commentary": "In a world of rapidly advancing technology and complex ethical questions, the promise that God gives wisdom generously to those who ask is profoundly encouraging. Christians navigating the age of AI do not need to rely on their own understanding alone — they can seek divine wisdom for every decision."
+            },
+            {
+                "reference": "Proverbs 3:5-6",
+                "text": "\"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.\"",
+                "commentary": "In an age that celebrates human technological achievement, the call to trust God rather than our own understanding is countercultural. True wisdom means recognizing that God's perspective is higher than ours and that His Word provides the framework for evaluating every new technology."
+            },
+            {
+                "reference": "Psalm 33:13-15",
+                "text": "\"From heaven the LORD looks down and sees all mankind; from his dwelling place he watches all who live on earth — he who forms the hearts of all, who considers everything they do.\"",
+                "commentary": "God is sovereign over all human affairs, including technological development. No advance in AI surprises Him or threatens His plans. This truth provides confidence and peace for Christians living in times of rapid change."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Navigating Uncharted Waters",
+            "paragraphs": [
+                "You are graduating into a world that looks fundamentally different from the one your parents entered as young adults. Artificial intelligence is transforming every industry, reshaping the job market, and raising ethical questions that previous generations never faced. How should a Christian navigate this new landscape?",
+                "The good news is that while the specific technologies are new, the principles for navigating them are ancient. The Bible provides a comprehensive worldview that equips believers to evaluate any innovation, embrace what is good, reject what is harmful, and maintain their identity and purpose in the midst of change. Wisdom — the skill of living well according to God's design — is the essential resource for the age of AI."
+            ]
+        },
+        {
+            "heading": "Principles for Wise Technology Use",
+            "paragraphs": [
+                "Several Biblical principles should guide Christians' engagement with AI and technology. First, the principle of stewardship: technology is a tool entrusted to us by God, to be used for His glory and the good of others. We should ask of every technology: Does this help me serve God and neighbor, or does it distract, deceive, or diminish?",
+                "Second, the principle of truth: Christians are people of truth (John 14:6; Ephesians 4:15). In an age of deepfakes, misinformation, and algorithmic manipulation, we must be committed to honesty and discernment. We should verify information before sharing it, refuse to participate in deception, and advocate for transparency in AI systems.",
+                "Third, the principle of human dignity: every person is made in God's image and deserves to be treated with respect. AI should serve human flourishing, not replace human connection, exploit vulnerable people, or reduce individuals to data points. Fourth, the principle of moderation: technology should be our servant, not our master. We should practice disciplined use of technology, ensuring that screens and algorithms do not dominate our time, attention, or relationships."
+            ]
+        },
+        {
+            "heading": "Vocation in the Age of AI",
+            "paragraphs": [
+                "As you consider your career path, know that Christians are needed in every field touched by AI — which is to say, every field. The technology industry especially needs believers who bring ethical conviction, a commitment to truth, and a Biblical understanding of human dignity to their work.",
+                "Whether you become a software engineer, data scientist, healthcare professional, educator, business leader, or work in any other field, your Christian worldview will shape how you engage with AI. You can advocate for fair algorithms, transparent systems, privacy protections, and responsible use of technology. You can bring wisdom where others bring only technical expertise.",
+                "Remember that your ultimate vocation is not defined by your job title but by your calling as a follower of Christ. Whatever you do — in technology or any other field — you do it for an audience of One. Colossians 3:23 applies as much to writing code as to any other work: 'Whatever you do, work at it with all your heart, as working for the Lord.'"
+            ]
+        },
+        {
+            "heading": "Hope and Confidence in God's Sovereignty",
+            "paragraphs": [
+                "It is easy to feel anxious about the future when headlines warn of AI replacing jobs, deepfakes undermining truth, and autonomous systems making life-and-death decisions. But Christians have a source of confidence that transcends technological trends: the sovereignty of God.",
+                "God is not surprised by artificial intelligence. He is not threatened by machine learning. The same God who guided His people through the agricultural revolution, the printing press, the industrial revolution, and the digital age is sovereign over the age of AI. His plans cannot be thwarted by any human invention (Isaiah 46:10).",
+                "As mathematician and apologist John Lennox writes in 2084, the question is not whether AI will surpass human intelligence but whether we will maintain our identity as beings made in the image of God. The answer, for Christians, is clear: our identity rests not in our cognitive abilities — which machines may one day simulate — but in our relationship with our Creator. That relationship is unassailable, and the future it promises is more glorious than any technology could ever produce.",
+                "Go into the world with wisdom, courage, and confidence. Use the tools God has allowed humanity to create. Speak truth in an age of deception. Defend human dignity in an age of algorithms. And above all, trust the God who holds the future in His hands."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What are the four Biblical principles for wise technology use discussed in this lesson? How would you apply each one to a specific AI technology you use regularly?",
+            "guidance": "Consider stewardship, truth, human dignity, and moderation. Think about how each principle applies to technologies like social media algorithms, AI chatbots, voice assistants, or recommendation systems."
+        },
+        {
+            "id": 2,
+            "question": "How does God's sovereignty provide confidence for Christians facing rapid technological change? Why should believers not be anxious about the rise of AI?",
+            "guidance": "Consider passages like Isaiah 46:10 and Psalm 33:13-15. Think about how God's control over history means that no technology can derail His plans. Reflect on how this truth should shape our attitude — neither fearful nor complacent, but faithful."
+        },
+        {
+            "id": 3,
+            "question": "How might God be calling you to engage with technology in your future career? What unique contribution can Christians make in technology fields?",
+            "guidance": "Think about the need for ethical leadership, commitment to truth, advocacy for human dignity, and the perspective that comes from Biblical wisdom. Consider how your faith might shape your approach to AI-related challenges in whatever career you pursue."
+        }
+    ]
+}

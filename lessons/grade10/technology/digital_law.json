@@ -1,0 +1,83 @@
+{
+    "id": "digital_law",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Digital Law",
+    "subtitle": "Legal Frameworks for the Digital Age",
+    "scripture": "Romans 13:1-2",
+    "primary_source": "Computer Fraud and Abuse Act (CFAA, 1986)",
+    "key_concepts": ["Computer crime legislation", "Intellectual property in digital spaces", "Data protection regulations", "International cyber law", "Biblical principles of justice in the digital realm"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 13:1-2",
+                "text": "\"Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God. Consequently, whoever rebels against the authority is rebelling against what God has instituted.\"",
+                "commentary": "Christians are called to respect legitimate legal authority. Digital laws, when they protect property, privacy, and justice, reflect God's concern for order and righteousness in society."
+            },
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "Justice in the digital realm requires laws that protect the innocent, punish wrongdoing, and maintain order. Digital law should reflect the same principles of justice that God requires in all areas of life."
+            },
+            {
+                "reference": "Exodus 20:15",
+                "text": "\"You shall not steal.\"",
+                "commentary": "The commandment against theft applies to digital property just as it does to physical property. Pirating software, stealing data, and hacking into systems without authorization are all violations of this commandment."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Law in the Digital Frontier",
+            "paragraphs": [
+                "The rapid development of digital technology has created new categories of crime, new forms of property, and new challenges for legal systems that were designed for the physical world. Governments around the world have responded with legislation aimed at addressing computer crime, protecting intellectual property, safeguarding personal data, and establishing rules for digital commerce.",
+                "Understanding digital law is essential for anyone working in technology or cybersecurity. It defines what is legal and illegal in the digital realm, establishes penalties for violations, and provides frameworks for resolving disputes. For Christians, digital law should be evaluated through the lens of Biblical justice — supporting laws that protect the innocent and promote righteousness, while questioning laws that enable injustice."
+            ]
+        },
+        {
+            "heading": "The Computer Fraud and Abuse Act",
+            "paragraphs": [
+                "The Computer Fraud and Abuse Act (CFAA), enacted in 1986, is the primary federal law in the United States addressing computer crime. It criminalizes unauthorized access to computer systems, trafficking in passwords, and causing damage to protected computers. The law has been amended multiple times to address evolving threats.",
+                "The CFAA has been both praised for providing essential legal tools against cybercrime and criticized for its broad language, which some argue can criminalize relatively minor or unintentional actions. This tension illustrates the challenge of writing laws for a rapidly changing technological landscape — laws must be specific enough to provide clear guidance while flexible enough to address new forms of crime."
+            ]
+        },
+        {
+            "heading": "Intellectual Property in the Digital Age",
+            "paragraphs": [
+                "Intellectual property (IP) law protects creations of the mind — inventions, literary and artistic works, designs, and symbols. In the digital age, IP protection faces unique challenges because digital content can be copied perfectly and distributed instantly at virtually no cost. Copyright, patents, trademarks, and trade secrets all have digital dimensions.",
+                "The Biblical principle 'You shall not steal' applies to intellectual property. Using software without a license, downloading pirated movies or music, and plagiarizing others' work are all forms of theft. Christians should model integrity in their use of digital content, paying for software, respecting copyright, and giving credit where it is due."
+            ]
+        },
+        {
+            "heading": "Data Protection and Privacy Regulations",
+            "paragraphs": [
+                "As organizations collect ever-larger quantities of personal data, governments have enacted regulations to protect citizens' privacy. The European Union's General Data Protection Regulation (GDPR), enacted in 2018, is one of the most comprehensive data protection laws in the world. It gives individuals significant control over their personal data and imposes strict requirements on organizations that collect and process it.",
+                "In the United States, data protection is addressed through a patchwork of federal and state laws, including the Health Insurance Portability and Accountability Act (HIPAA) for health data and the Children's Online Privacy Protection Act (COPPA) for children's data. Understanding these regulations is essential for anyone handling personal information."
+            ]
+        },
+        {
+            "heading": "Justice and Mercy in Digital Law",
+            "paragraphs": [
+                "Digital law, like all human law, must balance justice with mercy. Penalties for cybercrime should be proportionate to the harm caused. A teenager who accesses a system without authorization out of curiosity is different from a criminal syndicate that steals millions of records for profit. The legal system must distinguish between these cases while maintaining deterrence.",
+                "Christians should advocate for digital laws that are just, proportionate, and protective of individual rights. We should support law enforcement's ability to investigate and prosecute cybercrime while guarding against overreach. The prophet Micah's call to 'act justly, love mercy, and walk humbly' applies to the digital realm as much as any other area of life."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the commandment 'You shall not steal' apply to digital property and intellectual property? Give specific examples of digital theft.",
+            "guidance": "Consider software piracy, plagiarism, unauthorized data access, and other forms of digital theft. How do these violate both human law and God's law?"
+        },
+        {
+            "id": 2,
+            "question": "How should Christians think about the balance between law enforcement access to digital data and individual privacy rights?",
+            "guidance": "Consider Romans 13 (respect for authority) alongside the potential for government abuse of surveillance powers. What principles should guide this balance?"
+        },
+        {
+            "id": 3,
+            "question": "Why is it important for digital laws to be both just and proportionate? How does Micah 6:8 inform our approach to cybercrime penalties?",
+            "guidance": "Think about cases where cybercrime penalties may be disproportionate and how justice and mercy should be balanced in the legal system."
+        }
+    ]
+}

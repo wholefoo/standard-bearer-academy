@@ -1,0 +1,71 @@
+{
+    "id": "problem_solving",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Problem Solving",
+    "subtitle": "Thinking Like a Programmer",
+    "scripture": "Proverbs 3:5-6",
+    "key_concepts": ["Computational thinking", "Algorithms", "Pattern recognition", "Abstraction and decomposition"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 3:5-6",
+                "text": "\"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.\"",
+                "commentary": "Problem solving requires both human reason and divine wisdom. While programming teaches us to think logically and systematically, we must remember that true wisdom comes from God. Our ability to reason and solve problems is itself a gift from our Creator."
+            },
+            {
+                "reference": "Daniel 1:17",
+                "text": "\"To these four young men God gave knowledge and understanding of all kinds of literature and learning.\"",
+                "commentary": "God gave Daniel and his friends exceptional ability in learning and wisdom. When we develop our problem-solving skills in programming, we are stewarding the intellectual abilities God has given us — using our minds to His glory."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Computational Thinking?",
+            "paragraphs": [
+                "Computational thinking is a way of approaching problems that makes them solvable by a computer. It involves four key skills: decomposition (breaking a problem into smaller parts), pattern recognition (finding similarities between problems), abstraction (focusing on what is important and ignoring unnecessary details), and algorithm design (creating step-by-step solutions).",
+                "These skills are not just useful for programming — they help with problem solving in every area of life. Whether you are planning a school project, organizing an event, or tackling a difficult math problem, computational thinking provides a structured approach to finding solutions."
+            ]
+        },
+        {
+            "heading": "Algorithms: Step-by-Step Solutions",
+            "paragraphs": [
+                "An algorithm is a precise, step-by-step procedure for solving a problem or completing a task. You follow algorithms every day without realizing it: a recipe is an algorithm for cooking, driving directions are an algorithm for navigation, and a morning routine is an algorithm for getting ready for school.",
+                "In programming, algorithms must be precise enough for a computer to follow. This means every step must be clearly defined, every decision point must have clear criteria, and the algorithm must eventually reach a conclusion (it cannot go on forever without producing a result)."
+            ]
+        },
+        {
+            "heading": "Pattern Recognition",
+            "paragraphs": [
+                "Pattern recognition is the ability to notice similarities between different problems. If you have solved one problem, and a new problem shares similar characteristics, you can often adapt your previous solution rather than starting from scratch.",
+                "God has built patterns into the fabric of creation — mathematical patterns in nature like the Fibonacci sequence in sunflowers, fractal patterns in snowflakes, and symmetry in living creatures. The human ability to recognize and use patterns is part of being made in the image of a God who created an orderly, pattern-filled universe."
+            ]
+        },
+        {
+            "heading": "Abstraction: Focusing on What Matters",
+            "paragraphs": [
+                "Abstraction means simplifying a problem by focusing on the essential details and ignoring the irrelevant ones. When you use a map, for example, you do not need to see every tree and building — you need to see roads and landmarks. The map is an abstraction of the real world.",
+                "In programming, abstraction allows us to manage complexity. A function is an abstraction — it hides the complex details of how something works and lets you use it with a simple name. This allows programmers to build increasingly complex systems without being overwhelmed by details.",
+                "Abstraction is also a key skill in Bible study and theology. When we identify the main theme of a passage, we are practicing abstraction — finding the essential truth amid many details. This ability to discern what is most important is a form of wisdom that God cultivates in those who seek Him."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Describe a complex problem you have faced and explain how you could use decomposition (breaking it into smaller parts) to solve it. How does this approach reflect godly wisdom?",
+            "guidance": "Think of a real challenge — a large school project, a personal goal, or a family situation. Consider how Nehemiah decomposed the massive task of rebuilding Jerusalem's walls by assigning sections to different families (Nehemiah 3)."
+        },
+        {
+            "id": 2,
+            "question": "What patterns do you see in God's creation? How does the ability to recognize patterns help both scientists and programmers understand the world God has made?",
+            "guidance": "Consider patterns in nature like seasons, the water cycle, animal migration, and mathematical patterns. Think about how recognizing these patterns helps us appreciate God's design and create useful technology."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to combine human reasoning with trust in God when solving problems? How does Proverbs 3:5-6 apply to how we approach challenges?",
+            "guidance": "Think about the balance between using the mind God gave us and relying on His guidance. Consider how both overconfidence in our own wisdom and failure to use our minds can lead us astray."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "technology",
+    "title": "Artificial Intelligence and Ethics — Wisdom for the Age of Machines",
+    "description": "Exploring artificial intelligence, machine learning, and the ethical questions they raise through the lens of Biblical wisdom",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Artificial Intelligence and Ethics — Wisdom for the Age of Machines",
+            "lessons": ["what_is_ai", "machine_learning", "ai_ethics_bias", "ai_in_society", "limits_of_technology", "wisdom_age_of_ai"]
+        }
+    ],
+    "quiz_id": "ai_ethics_quiz"
+}

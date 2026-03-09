@@ -1,0 +1,79 @@
+{
+    "id": "meter_and_rhyme",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Meter and Rhyme",
+    "subtitle": "The Music of Ordered Language",
+    "scripture": "Psalm 150:1-6",
+    "primary_source": "John Milton, \"Paradise Lost\" (1667) — Opening Lines",
+    "key_concepts": ["Iambic pentameter", "Stressed and unstressed syllables", "Rhyme schemes", "Sonnet forms", "Order in language reflecting divine order"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 150:3-5",
+                "text": "\"Praise him with the sounding of the trumpet, praise him with the harp and lyre, praise him with timbrel and dancing, praise him with the strings and pipe, praise him with the clash of cymbals, praise him with resounding cymbals.\"",
+                "commentary": "This psalm celebrates the musicality of worship — the rhythms, sounds, and patterns that make praise beautiful. Meter and rhyme in poetry serve a similar purpose, giving language a musical quality that elevates it beyond ordinary speech."
+            },
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "God is a God of order, and poetic meter reflects this divine ordering principle. When we craft metered verse, we impose beautiful order on language, mirroring the order God has woven into creation itself."
+            },
+            {
+                "reference": "Ecclesiastes 3:1",
+                "text": "\"There is a time for everything, and a season for every activity under the heavens.\"",
+                "commentary": "The rhythm of life — times and seasons, beginnings and endings — is reflected in the rhythm of metered poetry. Each stressed and unstressed syllable marks the heartbeat of the poem, just as God's timing marks the heartbeat of creation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Meter Matters",
+            "paragraphs": [
+                "Meter is the rhythmic pattern of stressed and unstressed syllables in a line of poetry. It is the heartbeat of a poem — the underlying pulse that gives it musicality and shape. For thousands of years, poets have used meter to create verse that is memorable, beautiful, and powerful.",
+                "The most common meter in English poetry is iambic pentameter — five pairs of syllables, each pair consisting of an unstressed syllable followed by a stressed one (da-DUM da-DUM da-DUM da-DUM da-DUM). Shakespeare, Milton, and countless others wrote in this meter because it closely mirrors the natural rhythm of English speech while giving it a heightened, musical quality."
+            ]
+        },
+        {
+            "heading": "Understanding Metrical Feet",
+            "paragraphs": [
+                "A metrical foot is the basic unit of rhythm in poetry. The most common feet are the iamb (unstressed-stressed: da-DUM, as in 'a-LIVE'), the trochee (stressed-unstressed: DUM-da, as in 'GAR-den'), the anapest (unstressed-unstressed-stressed: da-da-DUM, as in 'un-der-STAND'), and the dactyl (stressed-unstressed-unstressed: DUM-da-da, as in 'BEAU-ti-ful').",
+                "Different meters create different effects. Iambic meter feels natural and conversational. Trochaic meter feels forceful and commanding — it is no accident that many hymns use trochees ('HO-ly, HO-ly, HO-ly'). Anapestic meter creates a galloping, energetic feel, while dactylic meter can feel grand and sweeping.",
+                "John Milton chose blank verse — unrhymed iambic pentameter — for 'Paradise Lost,' his great epic retelling of the Fall of Man. The steady, majestic rhythm of his lines conveys the grandeur of his subject: 'Of MAN'S first DIS-o-BE-dience AND the FRUIT / Of THAT for-BID-den TREE whose MOR-tal TASTE / Brought DEATH in-TO the WORLD and ALL our WOE.'"
+            ]
+        },
+        {
+            "heading": "The Art of Rhyme",
+            "paragraphs": [
+                "Rhyme creates connections between words and ideas, linking sounds in patterns that please the ear and aid memory. This is why so many Scripture passages and hymns use rhyme or near-rhyme — the sound patterns help the words lodge in our hearts and minds.",
+                "Common rhyme schemes include couplets (AA BB), alternate rhyme (ABAB), and enclosed rhyme (ABBA). The sonnet — one of the most important poetic forms in English — uses specific rhyme schemes: the Shakespearean sonnet uses ABAB CDCD EFEF GG, while the Petrarchan sonnet uses ABBAABBA followed by a sestet with varying rhyme patterns.",
+                "Rhyme should feel natural, not forced. When a rhyme feels strained — when the poet has clearly twisted syntax or chosen an odd word just to make the rhyme work — it draws attention to itself and away from the poem's meaning. The best rhymes feel inevitable, as though the words were always meant to be together."
+            ]
+        },
+        {
+            "heading": "Writing in Form: The Sonnet",
+            "paragraphs": [
+                "The sonnet is an ideal form for practicing meter and rhyme together. In fourteen lines of iambic pentameter, the poet must develop an idea, explore it, and arrive at a conclusion or turn (called the volta). The constraints of the form are demanding, but they also force precision and creativity.",
+                "Many great devotional poems are sonnets. John Donne wrote his Holy Sonnets as intense conversations with God. Gerard Manley Hopkins used the sonnet to celebrate God's glory in nature ('The world is charged with the grandeur of God'). The form's discipline mirrors the discipline of the spiritual life — working within God-given boundaries to create something beautiful.",
+                "Try writing a sonnet of your own. Begin with a single idea or image related to your faith. Use iambic pentameter and a rhyme scheme (ABAB CDCD EFEF GG is the most approachable). Do not worry about perfection — the goal is to experience how form and meaning interact."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the concept of meter in poetry reflect the order and rhythm that God has built into creation? Can you think of natural rhythms (heartbeat, seasons, tides) that parallel poetic meter?",
+            "guidance": "Consider how the regularity of meter mirrors the regularity of God's created order, and how variations in meter can reflect the surprises and disruptions of human experience."
+        },
+        {
+            "id": 2,
+            "question": "Read aloud a passage from Milton's 'Paradise Lost' or a Shakespeare sonnet. How does the meter affect your experience of the words? What is lost when you paraphrase the same ideas in prose?",
+            "guidance": "Pay attention to how the rhythm carries you through the lines and how certain words are emphasized by the metrical stress."
+        },
+        {
+            "id": 3,
+            "question": "Attempt to write four lines of iambic pentameter on any subject. What challenges did you face? How did the constraints of meter force you to think differently about word choice?",
+            "guidance": "The discipline of meter often reveals words and phrasings you would never have discovered in free writing. Embrace the constraint as a creative tool."
+        }
+    ]
+}

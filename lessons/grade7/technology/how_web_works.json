@@ -1,0 +1,75 @@
+{
+    "id": "how_web_works",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: How the Web Works — Understanding the Digital Infrastructure",
+    "subtitle": "Exploring the Architecture Behind the World Wide Web",
+    "scripture": "Proverbs 25:2",
+    "key_concepts": ["Servers and clients", "URLs and domain names", "HTML and web browsers", "How data travels across the internet"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has designed a world full of things to discover and understand. Learning how the web works is part of exploring the orderly systems that humans have built using the intelligence God gave us."
+            },
+            {
+                "reference": "Psalm 111:2",
+                "text": "\"Great are the works of the LORD; they are pondered by all who delight in them.\"",
+                "commentary": "While the internet is a human invention, the logical principles it runs on — order, structure, communication — reflect the orderly nature of God's creation. Understanding these systems is a worthy pursuit."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The laws of physics and logic that make the internet possible are sustained by God. Every signal that travels through a cable or wireless connection operates according to principles God established."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Behind the Screen",
+            "paragraphs": [
+                "When you open a web browser and type in a website address, a page appears almost instantly. It seems simple, but behind that moment is an incredible system of computers, cables, and code working together. Understanding how this system works gives you a deeper appreciation for the technology you use every day.",
+                "The World Wide Web was invented in 1989 by Tim Berners-Lee, who wanted to make it easier for scientists to share information. Since then, it has grown into a global platform used by billions of people. But the basic principles behind it are surprisingly straightforward."
+            ]
+        },
+        {
+            "heading": "Clients and Servers",
+            "paragraphs": [
+                "The web is built on a simple relationship between clients and servers. A client is any device that requests information — your computer, phone, or tablet. A server is a powerful computer that stores websites and sends them to clients when requested.",
+                "When you type a web address (URL) into your browser, your client sends a request to the server that hosts that website. The server processes the request and sends back the files that make up the web page — text, images, videos, and code. Your browser then assembles these files and displays the page on your screen."
+            ]
+        },
+        {
+            "heading": "URLs, Domain Names, and IP Addresses",
+            "paragraphs": [
+                "Every website has a unique address called a URL (Uniform Resource Locator). A URL includes the protocol (usually https://), the domain name (like www.example.com), and sometimes a specific page path. Domain names are human-readable addresses that map to numerical IP addresses — the actual addresses computers use to find each other.",
+                "The Domain Name System (DNS) acts like a phone book for the internet. When you type a domain name, the DNS translates it into the correct IP address so your request reaches the right server. This entire process happens in milliseconds, allowing you to access websites almost instantly."
+            ]
+        },
+        {
+            "heading": "HTML and Web Browsers",
+            "paragraphs": [
+                "Web pages are built using a coding language called HTML (HyperText Markup Language). HTML uses tags to structure content — headings, paragraphs, images, and links. CSS (Cascading Style Sheets) adds visual design, and JavaScript adds interactive features.",
+                "Your web browser — Chrome, Firefox, Safari, or Edge — is the software that reads these code files and displays them as the colorful, interactive pages you see. Every browser interprets the same code, which is why websites generally look the same no matter which browser you use. The orderly structure of web languages reflects the logical principles that make communication possible."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the client-server relationship in your own words. Why is understanding this concept useful for navigating the web wisely?",
+            "guidance": "Think about what happens behind the scenes when you load a webpage. Consider how knowing this helps you understand where your data goes."
+        },
+        {
+            "id": 2,
+            "question": "How does the orderly structure of the internet — with its protocols, addresses, and coding languages — reflect the orderly nature of God's creation?",
+            "guidance": "Consider how the internet depends on consistent rules and logical systems. Think about what would happen if there were no standards or order."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to understand how the web works, rather than just using it? How does this knowledge help you be a better digital citizen?",
+            "guidance": "Think about how understanding a tool helps you use it more wisely and safely. Consider how ignorance can lead to mistakes or vulnerability."
+        }
+    ]
+}

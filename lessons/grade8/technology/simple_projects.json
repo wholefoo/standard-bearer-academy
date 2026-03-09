@@ -1,0 +1,71 @@
+{
+    "id": "simple_projects",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Simple Projects",
+    "subtitle": "Putting Your Skills to Work",
+    "scripture": "Colossians 3:23",
+    "key_concepts": ["Planning a project", "Combining variables, logic, and loops", "User input and output", "Testing and debugging"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Whether building a simple calculator or a complex application, we are called to work with excellence. Programming projects give us an opportunity to practice diligence and craftsmanship as an act of worship."
+            },
+            {
+                "reference": "Proverbs 21:5",
+                "text": "\"The plans of the diligent lead to profit as surely as haste leads to poverty.\"",
+                "commentary": "Good programming requires planning before coding. Rushing into writing code without a plan leads to confusion and errors. Diligent planning, as Scripture teaches, leads to successful outcomes."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Planning Before Coding",
+            "paragraphs": [
+                "Before writing a single line of code, good programmers plan their projects. This means thinking about what the program should do, what inputs it needs, what outputs it should produce, and what steps are required to get from input to output.",
+                "A simple planning technique is writing pseudocode — a plain-language description of the program's logic. Pseudocode looks like a numbered list of steps: '1. Ask the user for their name. 2. Display a greeting using their name. 3. Ask for their age. 4. Calculate the year they were born.' Planning saves time by helping you think through problems before you start coding."
+            ]
+        },
+        {
+            "heading": "Building a Simple Calculator",
+            "paragraphs": [
+                "One classic beginner project is building a simple calculator. This project combines many of the concepts we have learned: variables to store numbers, user input to get the numbers and operation, conditional statements to determine which calculation to perform, and output to display the result.",
+                "A calculator project teaches you how different programming concepts work together. Each concept on its own is simple, but combining them creates something useful and functional. This is the essence of programming — combining simple building blocks to create powerful tools."
+            ]
+        },
+        {
+            "heading": "Getting User Input",
+            "paragraphs": [
+                "Interactive programs need input from the user. Input can come from typing on a keyboard, clicking a mouse, tapping a screen, or many other sources. For beginning programmers, keyboard input is the most common way to interact with a program.",
+                "When getting input from users, a good programmer always considers what might go wrong. What if the user types a letter when the program expects a number? What if they leave the field blank? Handling unexpected input gracefully — called input validation — is an important part of writing robust, reliable programs."
+            ]
+        },
+        {
+            "heading": "Testing and Debugging",
+            "paragraphs": [
+                "Testing means running your program with different inputs to make sure it works correctly in all situations. Good testers try normal inputs, extreme inputs, and even intentionally wrong inputs to see how the program responds.",
+                "Debugging is the process of finding and fixing errors in your code. When a program does not work as expected, you must carefully trace through the logic step by step to find where the error occurs. This requires patience, attention to detail, and systematic thinking — skills that serve you well in programming and in life.",
+                "Remember that bugs are not failures — they are learning opportunities. Every bug you find and fix deepens your understanding of how code works. As Proverbs 24:16 says, 'For though the righteous fall seven times, they rise again.' Persistence in debugging builds both programming skill and godly character."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is planning important before starting a programming project? How does this relate to the Biblical principle in Proverbs 21:5 about diligent planning?",
+            "guidance": "Think about times when rushing into a task without planning led to problems. Consider how planning honors God by being a good steward of the time and talents He has given you."
+        },
+        {
+            "id": 2,
+            "question": "Colossians 3:23 tells us to work heartily 'as for the Lord.' How can you apply this attitude to writing code, even on simple practice projects?",
+            "guidance": "Consider how excellence in small things prepares us for bigger responsibilities. Think about how treating every assignment as work done for God changes our motivation and quality."
+        },
+        {
+            "id": 3,
+            "question": "How does the process of testing and debugging teach patience and humility? Why are these important virtues for both programmers and Christians?",
+            "guidance": "Reflect on how debugging requires admitting that your code has errors and patiently working to fix them. Consider how this mirrors the Christian life of recognizing our shortcomings and relying on God's grace."
+        }
+    ]
+}

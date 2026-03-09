@@ -1,0 +1,83 @@
+{
+    "id": "cybersecurity_basics",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Cybersecurity Basics",
+    "subtitle": "Understanding the Digital Battlefield",
+    "scripture": "Nehemiah 4:9",
+    "primary_source": "NIST Cybersecurity Framework (2014)",
+    "key_concepts": ["Cybersecurity defined", "CIA triad (Confidentiality, Integrity, Availability)", "Threat landscape", "Defense in depth", "Biblical stewardship of information"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Nehemiah 4:9",
+                "text": "\"But we prayed to our God and posted a guard day and night to meet this threat.\"",
+                "commentary": "Nehemiah combined prayer with practical defense measures when rebuilding Jerusalem's walls. Cybersecurity requires the same combination — trusting God while taking wise, practical steps to protect the systems and information entrusted to our care."
+            },
+            {
+                "reference": "Proverbs 4:23",
+                "text": "\"Above all else, guard your heart, for everything you do flows from it.\"",
+                "commentary": "Just as we are called to guard our hearts, we are called to guard the digital systems that store sensitive information about people. Protecting data is an act of loving our neighbor."
+            },
+            {
+                "reference": "Proverbs 27:12",
+                "text": "\"The prudent see danger and take refuge, but the simple keep going and pay the penalty.\"",
+                "commentary": "Wisdom in cybersecurity means anticipating threats before they materialize. The prudent person prepares defenses; the foolish person ignores warnings until it is too late."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Cybersecurity Matters",
+            "paragraphs": [
+                "We live in a world where nearly every aspect of modern life — communication, commerce, healthcare, education, and government — depends on digital systems. These systems store vast quantities of sensitive information: personal identities, financial records, medical histories, and national secrets. Protecting this information is not merely a technical challenge; it is a moral obligation.",
+                "Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, or disruption. As Christians, we understand that the information entrusted to our care belongs ultimately to God. We are stewards of the digital tools and data we manage, and stewardship demands diligence."
+            ]
+        },
+        {
+            "heading": "The CIA Triad",
+            "paragraphs": [
+                "The foundation of cybersecurity rests on three principles known as the CIA triad: Confidentiality, Integrity, and Availability. Confidentiality means that information is accessible only to those authorized to view it. Integrity means that information is accurate, complete, and has not been tampered with. Availability means that information and systems are accessible when needed by authorized users.",
+                "Every cybersecurity measure aims to protect one or more of these three properties. A data breach violates confidentiality. A hacker who alters financial records violates integrity. A denial-of-service attack that takes down a hospital's computer system violates availability. Understanding these principles helps us categorize threats and design appropriate defenses."
+            ]
+        },
+        {
+            "heading": "The Modern Threat Landscape",
+            "paragraphs": [
+                "The threats facing digital systems today are diverse and constantly evolving. They include hackers seeking financial gain, nation-states conducting cyber espionage, insiders who abuse their access, and activists who attack systems to make political statements. Malware, phishing, ransomware, and social engineering are among the most common attack methods.",
+                "The scale of these threats is staggering. Billions of dollars are lost each year to cybercrime. Critical infrastructure — power grids, water systems, transportation networks — is increasingly vulnerable. Understanding this landscape is the first step toward building effective defenses."
+            ]
+        },
+        {
+            "heading": "Defense in Depth",
+            "paragraphs": [
+                "No single security measure can protect against all threats. Cybersecurity professionals use a strategy called 'defense in depth,' which layers multiple security controls so that if one fails, others continue to provide protection. This is similar to the way a castle has walls, a moat, towers, and guards — each layer adds to the overall defense.",
+                "Defense in depth includes technical controls (firewalls, encryption, antivirus software), administrative controls (security policies, training, access management), and physical controls (locked server rooms, security cameras). A holistic approach recognizes that people, processes, and technology must all work together."
+            ]
+        },
+        {
+            "heading": "Cybersecurity as Stewardship",
+            "paragraphs": [
+                "From a Biblical perspective, cybersecurity is an expression of the stewardship mandate. God has given humanity dominion over the earth (Genesis 1:28), and in our modern context, this includes the digital domain. We are responsible for protecting the systems and data that affect people's lives, livelihoods, and privacy.",
+                "When a hospital's records are breached, real people are harmed. When a family's identity is stolen, real suffering results. Cybersecurity professionals who do their work with excellence and integrity are serving their neighbors and honoring God. This calling requires both technical skill and moral character."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the concept of stewardship apply to cybersecurity? What does it mean to be a faithful steward of digital information?",
+            "guidance": "Consider the parable of the talents (Matthew 25:14-30) and how it applies to our responsibility for the digital resources and information entrusted to us."
+        },
+        {
+            "id": 2,
+            "question": "Why is cybersecurity both a technical and a moral challenge? How does the CIA triad relate to our obligations to love our neighbor?",
+            "guidance": "Think about how breaches of confidentiality, integrity, or availability affect real people and communities."
+        },
+        {
+            "id": 3,
+            "question": "How does Nehemiah's approach to defending Jerusalem illustrate principles that apply to modern cybersecurity?",
+            "guidance": "Nehemiah combined prayer with practical measures, organized his people, and maintained constant vigilance. Consider how these principles translate to digital defense."
+        }
+    ]
+}

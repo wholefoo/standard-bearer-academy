@@ -1,0 +1,70 @@
+{
+    "id": "programming_concepts",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Programming Concepts",
+    "subtitle": "Understanding the Language of Computers",
+    "scripture": "Genesis 1:1-3",
+    "key_concepts": ["What is programming", "How computers follow instructions", "Sequence and order", "The purpose of code"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 1:3",
+                "text": "\"And God said, 'Let there be light,' and there was light.\"",
+                "commentary": "God spoke creation into existence with precise commands. In a similar way, programmers write instructions that computers follow exactly. Programming reflects the orderly, logical nature of a God who created a universe governed by consistent laws."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "Just as God sustains the order of the universe, programming relies on logical structure and order. Every program depends on instructions being arranged in the correct sequence — reflecting the consistency of God's created order."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Programming?",
+            "paragraphs": [
+                "Programming is the process of writing instructions that a computer can follow to perform specific tasks. These instructions, called code, must be precise and logical because computers cannot guess what you mean — they do exactly what you tell them, nothing more and nothing less.",
+                "Think of programming like writing a very detailed recipe. If you skip a step or give unclear directions, the result will not turn out as expected. Computers need every step spelled out in the correct order."
+            ]
+        },
+        {
+            "heading": "How Computers Follow Instructions",
+            "paragraphs": [
+                "Computers process instructions sequentially — one step at a time, from top to bottom. This is called sequential execution. Each line of code is an instruction that the computer reads, interprets, and carries out before moving to the next line.",
+                "Unlike humans, computers do not get bored, tired, or distracted. They will follow instructions exactly as written, millions of times without error. This reliability is what makes computers so powerful — but it also means that any mistake in the code (called a bug) will be faithfully repeated every time the program runs."
+            ]
+        },
+        {
+            "heading": "Why Order Matters",
+            "paragraphs": [
+                "The order of instructions in a program is critically important. Consider the difference between 'put on your socks, then put on your shoes' versus 'put on your shoes, then put on your socks.' The same instructions in a different order produce very different results.",
+                "This principle of sequence reflects something deep about how God designed the world. Mathematics, science, and logic all depend on order. When we write code, we participate in the orderly thinking that reflects God's own nature as the great Designer and Organizer of all things."
+            ]
+        },
+        {
+            "heading": "Your First Steps in Programming",
+            "paragraphs": [
+                "Every programmer starts by learning to write simple commands. Most programming languages have ways to display text on the screen, perform calculations, and respond to user input. These basic building blocks combine to create everything from simple calculators to complex video games.",
+                "As you begin learning to program, remember that making mistakes is part of the process. Even experienced programmers spend much of their time finding and fixing bugs. Patience, persistence, and careful thinking are essential virtues for any programmer — virtues that honor God in all areas of life."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the precision required in programming reflect the orderly nature of God's creation? Give an example of how order matters in both programming and everyday life.",
+            "guidance": "Think about how God created the universe with precise laws of physics and mathematics. Consider how a program that has instructions out of order will fail, just as a recipe with steps out of order will produce a poor result."
+        },
+        {
+            "id": 2,
+            "question": "Why is it important for a programmer to be patient and persistent when dealing with bugs in their code? How do these qualities relate to Biblical character?",
+            "guidance": "Consider Galatians 5:22-23, which lists patience as a fruit of the Spirit. Think about how the process of debugging can teach us perseverance and humility."
+        },
+        {
+            "id": 3,
+            "question": "If computers follow instructions exactly as written, what responsibility does a programmer have to ensure their code is used for good purposes?",
+            "guidance": "Reflect on the idea that tools are morally neutral but the intentions behind their use are not. Consider how a programmer can honor God through the code they write."
+        }
+    ]
+}

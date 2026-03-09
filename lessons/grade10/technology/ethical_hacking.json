@@ -1,0 +1,83 @@
+{
+    "id": "ethical_hacking",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Ethical Hacking Concepts",
+    "subtitle": "Testing Defenses to Strengthen Them",
+    "scripture": "Proverbs 27:17",
+    "primary_source": "EC-Council Certified Ethical Hacker (CEH) Code of Ethics",
+    "key_concepts": ["Ethical hacking defined", "Penetration testing", "Vulnerability assessment", "Responsible disclosure", "Moral boundaries in security testing"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "Ethical hacking is the practice of testing systems by attempting to breach them — not to cause harm, but to identify weaknesses before malicious actors exploit them. Like iron sharpening iron, ethical hackers strengthen defenses through rigorous testing."
+            },
+            {
+                "reference": "Galatians 6:1",
+                "text": "\"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently.\"",
+                "commentary": "Just as believers are called to gently correct one another, ethical hackers identify vulnerabilities and report them constructively, helping organizations fix weaknesses rather than exploiting them."
+            },
+            {
+                "reference": "Romans 12:21",
+                "text": "\"Do not be overcome by evil, but overcome evil with good.\"",
+                "commentary": "Ethical hacking uses the same techniques as malicious hacking, but for good purposes. It demonstrates the Christian principle of using knowledge and skill to serve others and protect the vulnerable."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Ethical Hacking?",
+            "paragraphs": [
+                "Ethical hacking — also known as penetration testing or 'white hat' hacking — is the practice of deliberately testing computer systems, networks, and applications for security vulnerabilities using the same techniques that malicious hackers would use. The crucial difference is authorization and intent: ethical hackers have explicit permission to test systems, and their goal is to identify and report weaknesses so they can be fixed.",
+                "The concept may seem paradoxical: using hacking skills for good. But it reflects a broader principle found throughout Scripture — that tools and skills are morally neutral; what matters is the purpose for which they are used. A sword can defend the innocent or oppress them. Technical knowledge can protect or exploit. Ethical hackers choose to use their abilities to serve and protect."
+            ]
+        },
+        {
+            "heading": "Penetration Testing",
+            "paragraphs": [
+                "Penetration testing (pen testing) is a structured process in which ethical hackers simulate real-world attacks against a system to evaluate its security. A typical pen test follows several phases: reconnaissance (gathering information about the target), scanning (identifying potential entry points), exploitation (attempting to breach defenses), and reporting (documenting findings and recommending fixes).",
+                "Organizations hire pen testers to find vulnerabilities before criminals do. A thorough pen test can reveal weaknesses in software, network configurations, physical security, and even employee behavior (through social engineering tests). The results help organizations prioritize their security investments and fix the most critical vulnerabilities first."
+            ]
+        },
+        {
+            "heading": "Vulnerability Assessment",
+            "paragraphs": [
+                "While penetration testing involves actively attempting to exploit vulnerabilities, a vulnerability assessment is a broader scan that identifies potential weaknesses without necessarily exploiting them. Automated tools can scan networks and applications for known vulnerabilities, outdated software, misconfigurations, and other security gaps.",
+                "Regular vulnerability assessments are a cornerstone of good cybersecurity hygiene. They provide a snapshot of an organization's security posture and help prioritize remediation efforts. Combined with penetration testing, they offer a comprehensive view of an organization's strengths and weaknesses."
+            ]
+        },
+        {
+            "heading": "Responsible Disclosure",
+            "paragraphs": [
+                "When security researchers discover vulnerabilities in software or systems, they face an ethical decision: how to disclose their findings. Responsible disclosure involves privately notifying the affected organization and giving them reasonable time to fix the vulnerability before making it public. This approach balances transparency with the need to protect users.",
+                "Irresponsible disclosure — publishing vulnerability details before a fix is available — can endanger millions of users by giving malicious actors a roadmap for exploitation. The EC-Council Code of Ethics for certified ethical hackers emphasizes the importance of responsible behavior, confidentiality, and putting the welfare of others first."
+            ]
+        },
+        {
+            "heading": "Moral Boundaries in Security Testing",
+            "paragraphs": [
+                "The line between ethical and unethical hacking is defined by authorization, intent, and conduct. Ethical hackers always obtain written permission before testing. They never access, modify, or destroy data beyond what is necessary for the test. They report all findings to the client and do not use discovered information for personal gain.",
+                "For Christians in cybersecurity, these professional ethics align with Biblical principles. We act with integrity because we serve God, not just our employers. We protect the vulnerable because we love our neighbors. We use our skills for good because we are stewards of the gifts God has given us. The ethical hacker's code is, at its best, an expression of Christian virtue applied to the digital realm."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the principle of 'iron sharpening iron' apply to ethical hacking? Why is it important to test defenses through simulated attacks?",
+            "guidance": "Consider how untested defenses may give a false sense of security, and how rigorous testing strengthens the whole system."
+        },
+        {
+            "id": 2,
+            "question": "What moral principles distinguish ethical hacking from malicious hacking? Why is authorization so important?",
+            "guidance": "Think about how the same actions can be righteous or sinful depending on authority, intent, and consent — a principle that applies broadly in Christian ethics."
+        },
+        {
+            "id": 3,
+            "question": "Why is responsible disclosure important? How does it reflect the Christian call to put others' welfare before our own interests?",
+            "guidance": "Consider the potential consequences of irresponsible disclosure and how the Golden Rule (Matthew 7:12) applies to security research."
+        }
+    ]
+}

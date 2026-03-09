@@ -1,0 +1,127 @@
+{
+    "id": "creative_writing_quiz",
+    "title": "Advanced Fiction — The Art of the Christian Novel",
+    "description": "Test your understanding of novel structure, point of view, theme, allegory, and the legacy of Christian fiction writers.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What did J.R.R. Tolkien call the sudden turn from apparent defeat to unexpected victory in a story?",
+            "options": [
+                "Deus ex machina",
+                "Eucatastrophe",
+                "Denouement",
+                "Peripeteia"
+            ],
+            "correct": 1,
+            "explanation": "Tolkien coined the term 'eucatastrophe' to describe the sudden, joyous turn from defeat to victory — a pattern he saw as reflecting the ultimate eucatastrophe of Christ's Resurrection."
+        },
+        {
+            "id": 2,
+            "question": "In 'The Screwtape Letters,' C.S. Lewis tells the story from whose perspective?",
+            "options": [
+                "An angel",
+                "A human convert",
+                "A senior demon writing to a junior tempter",
+                "God observing humanity"
+            ],
+            "correct": 2,
+            "explanation": "Lewis wrote 'The Screwtape Letters' from the perspective of Screwtape, a senior demon advising his nephew Wormwood on how to tempt a human — inverting the usual perspective to reveal spiritual truths in fresh ways."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between theme and moral in a novel?",
+            "options": [
+                "There is no difference",
+                "A theme is longer than a moral",
+                "A moral tells you what to do; a theme explores what is true about human experience",
+                "A moral is for children; a theme is for adults"
+            ],
+            "correct": 2,
+            "explanation": "A moral is didactic instruction ('this is what you should do'), while a theme is an exploration of a truth about human experience — redemption, pride, courage — that the novel examines from multiple angles."
+        },
+        {
+            "id": 4,
+            "question": "Which Christian author wrote 'The Pilgrim's Progress,' the most famous allegory in English literature?",
+            "options": [
+                "John Milton",
+                "John Bunyan",
+                "George Herbert",
+                "William Blake"
+            ],
+            "correct": 1,
+            "explanation": "John Bunyan wrote 'The Pilgrim's Progress' (1678), an allegory of the Christian journey from the City of Destruction to the Celestial City, featuring characters like Christian, Faithful, and Hopeful."
+        },
+        {
+            "id": 5,
+            "question": "What warning did Flannery O'Connor give about much Christian fiction?",
+            "options": [
+                "It should contain more explicit theology",
+                "It tends toward sentimentality — sanitizing sin and cheapening grace",
+                "It should avoid all depictions of suffering",
+                "It should only be written by clergy"
+            ],
+            "correct": 1,
+            "explanation": "O'Connor warned against sentimentality in Christian fiction — the tendency to avoid honest depictions of sin and suffering, which ultimately cheapens grace by making it unnecessary."
+        },
+        {
+            "id": 6,
+            "question": "What is third person omniscient narration?",
+            "options": [
+                "A narrator who uses 'I' and knows everything",
+                "A narrator who follows only one character's thoughts",
+                "A narrator who can move freely between all characters' thoughts and motivations",
+                "A narrator who knows nothing about the characters"
+            ],
+            "correct": 2,
+            "explanation": "Third person omniscient narration uses 'he/she/they' and can reveal the inner thoughts and motivations of any character in the story, providing the widest possible lens on the narrative."
+        },
+        {
+            "id": 7,
+            "question": "What was Dostoevsky's approach to addressing objections to Christianity in his novels?",
+            "options": [
+                "He ignored all objections completely",
+                "He stated the strongest arguments against faith and answered them through characters and story rather than argument",
+                "He had characters deliver theological lectures",
+                "He avoided all mention of doubt or unbelief"
+            ],
+            "correct": 1,
+            "explanation": "Dostoevsky included powerful arguments against faith — such as Ivan's 'Grand Inquisitor' — and answered them not with counter-arguments but with characters who embodied faith, like Father Zosima and Alyosha."
+        },
+        {
+            "id": 8,
+            "question": "What is the three-act structure in novel writing?",
+            "options": [
+                "Three chapters of equal length",
+                "Three different narrators telling the same story",
+                "Setup, Confrontation, and Resolution",
+                "Introduction, Body, and Conclusion"
+            ],
+            "correct": 2,
+            "explanation": "The three-act structure divides a story into Setup (world and characters established, inciting incident), Confrontation (escalating obstacles and character transformation), and Resolution (crisis reaches its peak and is resolved)."
+        },
+        {
+            "id": 9,
+            "question": "What group of Christian writers met regularly at an Oxford pub to read and critique each other's work?",
+            "options": [
+                "The Bloomsbury Group",
+                "The Inklings",
+                "The Metaphysical Poets",
+                "The Lake Poets"
+            ],
+            "correct": 1,
+            "explanation": "The Inklings — including C.S. Lewis, J.R.R. Tolkien, and Charles Williams — met regularly at The Eagle and Child pub in Oxford to read and critique each other's work in progress."
+        },
+        {
+            "id": 10,
+            "question": "According to the principle 'show, don't tell,' how should a Christian novelist communicate a theme like forgiveness?",
+            "options": [
+                "Have a character deliver a sermon about forgiveness",
+                "Include a Bible verse about forgiveness at the beginning of each chapter",
+                "Create a situation where forgiveness is needed and show characters choosing to forgive at great personal cost",
+                "Write an essay about forgiveness in the novel's preface"
+            ],
+            "correct": 2,
+            "explanation": "The 'show, don't tell' principle means communicating theme through characters' actions and choices within the story, not through direct statements or sermons. Showing forgiveness in action is more powerful than explaining it."
+        }
+    ]
+}

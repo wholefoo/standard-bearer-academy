@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "technology",
+    "title": "Cybersecurity and Ethics — Guarding Truth in a Digital Age",
+    "description": "An exploration of cybersecurity principles and digital ethics from a Biblical worldview, equipping students to protect truth and act with integrity in an increasingly connected world.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Cybersecurity and Ethics — Guarding Truth in a Digital Age",
+            "lessons": ["cybersecurity_basics", "encryption_privacy", "online_threats", "ethical_hacking", "digital_law", "guarding_truth"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

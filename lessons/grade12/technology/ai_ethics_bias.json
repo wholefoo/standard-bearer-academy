@@ -1,0 +1,79 @@
+{
+    "id": "ai_ethics_bias",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: AI Ethics and Bias",
+    "subtitle": "Confronting Injustice in Algorithms Through Biblical Principles",
+    "scripture": "Proverbs 11:1; Micah 6:8",
+    "primary_source": "Joy Buolamwini, 'Gender Shades' study (2018), exposing racial and gender bias in facial recognition systems",
+    "key_concepts": ["Algorithmic bias", "Training data bias", "Fairness in AI systems", "Biblical justice and impartiality", "Accountability for AI decisions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"A false balance is an abomination to the LORD, but a just weight is his delight.\"",
+                "commentary": "God demands fairness and accuracy in measurement. When AI systems produce biased results — treating people unequally based on race, gender, or socioeconomic status — they function as 'false balances' that violate God's standard of justice. Those who build and deploy AI have a moral obligation to ensure their systems are fair."
+            },
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "The call to 'act justly' extends to every area of life, including the design and deployment of technology. When AI systems are used to make decisions about hiring, lending, criminal sentencing, or healthcare, Christians must advocate for justice and mercy in how these systems are built and used."
+            },
+            {
+                "reference": "James 2:1",
+                "text": "\"My brothers and sisters, believers in our glorious Lord Jesus Christ must not show favoritism.\"",
+                "commentary": "Partiality — treating people differently based on external characteristics — is condemned throughout Scripture. AI systems that discriminate based on race, ethnicity, or other irrelevant factors violate this principle, even when the discrimination is unintentional."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: When Algorithms Discriminate",
+            "paragraphs": [
+                "Artificial intelligence is often presented as objective and impartial — free from the prejudices that affect human decision-making. In reality, AI systems can be deeply biased, reflecting and even amplifying the biases present in their training data and the assumptions of their designers.",
+                "In 2018, researcher Joy Buolamwini published the 'Gender Shades' study, which demonstrated that commercial facial recognition systems had error rates of up to 34% for dark-skinned women while achieving nearly perfect accuracy for light-skinned men. The systems had been trained primarily on images of lighter-skinned individuals, causing them to perform poorly on underrepresented groups. This was not intentional discrimination, but the result was unjust nonetheless."
+            ]
+        },
+        {
+            "heading": "Sources of Bias in AI",
+            "paragraphs": [
+                "Bias can enter AI systems at multiple points. Training data bias occurs when the data used to train a model does not accurately represent the population it will serve. If a hiring algorithm is trained on data from a company that historically favored male candidates, it will learn to replicate that preference.",
+                "Selection bias occurs when certain groups are overrepresented or underrepresented in datasets. Measurement bias happens when the way data is collected systematically favors certain outcomes. And confirmation bias can affect the designers themselves, who may not test their systems adequately across diverse populations.",
+                "The consequences of biased AI can be severe. AI systems are increasingly used to screen job applicants, determine credit scores, set insurance rates, assist in criminal sentencing, and allocate healthcare resources. When these systems are biased, real people suffer real harm — denied jobs, charged higher rates, or subjected to harsher treatment based on factors they cannot control."
+            ]
+        },
+        {
+            "heading": "Biblical Principles for Fair AI",
+            "paragraphs": [
+                "The Bible provides clear principles for evaluating the fairness of AI systems. God commands the use of 'just weights and measures' (Leviticus 19:35-36) — a principle that extends to any system used to evaluate or categorize people. An AI system that produces systematically unfair results is a 'false balance' that fails to meet God's standard.",
+                "Scripture also teaches that every human being is made in God's image and therefore possesses inherent dignity and worth (Genesis 1:27). AI systems that reduce people to data points, strip away their individuality, or treat them as mere inputs in an algorithm can violate this principle if not designed and deployed with care.",
+                "The Biblical command to love our neighbors as ourselves (Matthew 22:39) means that AI developers have a responsibility to consider how their systems affect the most vulnerable members of society. Building fair AI is not just a technical challenge — it is a moral imperative."
+            ]
+        },
+        {
+            "heading": "Accountability and Transparency",
+            "paragraphs": [
+                "One of the most troubling aspects of modern AI is the 'black box' problem. Many machine learning models — especially deep neural networks — are so complex that even their creators cannot fully explain how they arrive at specific decisions. This lack of transparency creates serious accountability problems.",
+                "When an AI system denies someone a loan or flags them as a security risk, who is responsible? The developer? The company that deployed the system? The algorithm itself? From a Biblical perspective, moral responsibility always rests with human beings, never with machines. People who build, deploy, and profit from AI systems bear responsibility for the outcomes those systems produce.",
+                "Christians in technology fields should advocate for explainable AI — systems whose decision-making processes can be understood and audited. They should push for rigorous testing across diverse populations, transparent reporting of error rates, and meaningful human oversight of automated decisions that affect people's lives."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Biblical principle of 'just weights and measures' apply to artificial intelligence? Give a specific example of an AI system that could function as a 'false balance.'",
+            "guidance": "Consider AI systems used in hiring, lending, criminal justice, or healthcare. Think about how biased training data can cause these systems to treat people unfairly, violating God's standard of justice."
+        },
+        {
+            "id": 2,
+            "question": "Who bears moral responsibility when an AI system produces biased or harmful results? Why can we never attribute moral responsibility to the machine itself?",
+            "guidance": "Consider the Biblical teaching that moral agency belongs to beings made in God's image. Think about developers, companies, and users who choose to build, deploy, and rely on AI systems. How does the chain of responsibility work?"
+        },
+        {
+            "id": 3,
+            "question": "How should the truth that every person is made in God's image shape the way AI systems are designed and used?",
+            "guidance": "Think about human dignity, individuality, and the dangers of reducing people to data points. Consider how the imago Dei demands that technology serve human flourishing rather than treating people as mere inputs to be processed."
+        }
+    ]
+}

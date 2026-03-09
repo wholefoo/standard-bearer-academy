@@ -1,0 +1,103 @@
+{
+    "id": "writing_quiz",
+    "title": "The Gift of Words — Writing to Glorify God",
+    "description": "Test your understanding of creative writing concepts from a Biblical perspective. This quiz covers the power of words, descriptive writing, short story basics, poetry, journaling, and writing as worship.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Proverbs 18:21, what power do words carry?",
+            "options": [
+                "Words have no real impact on others",
+                "Words have the power of life and death",
+                "Words are only powerful when spoken aloud",
+                "Words only matter in formal writing"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 18:21 teaches that 'the tongue has the power of life and death.' Our words — spoken and written — can build up or tear down, encourage or discourage."
+        },
+        {
+            "id": 2,
+            "question": "What does the writing principle 'show, don't tell' mean?",
+            "options": [
+                "Always include illustrations with your writing",
+                "Use vivid sensory details to let the reader experience the scene rather than just stating facts",
+                "Tell the reader exactly how to feel about the story",
+                "Show your writing to as many people as possible"
+            ],
+            "correct": 1,
+            "explanation": "'Show, don't tell' means using specific, sensory details to create a vivid experience for the reader, rather than simply stating emotions or facts."
+        },
+        {
+            "id": 3,
+            "question": "What are the three basic building blocks of a short story?",
+            "options": [
+                "Introduction, body, conclusion",
+                "Character, setting, and plot",
+                "Title, author, and publisher",
+                "Nouns, verbs, and adjectives"
+            ],
+            "correct": 1,
+            "explanation": "Every short story is built on three essential elements: character (who the story is about), setting (where and when it takes place), and plot (what happens)."
+        },
+        {
+            "id": 4,
+            "question": "Why is conflict important in a story?",
+            "options": [
+                "It makes the story violent and exciting",
+                "It is not important — good stories should be peaceful",
+                "It gives the character a problem to face and drives the story forward",
+                "It is only needed in long novels, not short stories"
+            ],
+            "correct": 2,
+            "explanation": "Conflict — a problem or challenge the character must face — is the engine of a story. Without conflict, there is no reason for the reader to keep reading. The character's response to conflict reveals their growth."
+        },
+        {
+            "id": 5,
+            "question": "What is parallelism in Hebrew poetry, as found in the Psalms?",
+            "options": [
+                "Two lines that rhyme perfectly",
+                "Two lines that express a similar idea in different words",
+                "Writing in two columns on the page",
+                "Repeating the same word at the beginning of every line"
+            ],
+            "correct": 1,
+            "explanation": "Parallelism is a key feature of Hebrew poetry where two lines express a similar idea using different words. For example, Psalm 19:1: 'The heavens declare the glory of God; the skies proclaim the work of his hands.'"
+        },
+        {
+            "id": 6,
+            "question": "What is one of the main benefits of keeping a journal as a Christian?",
+            "options": [
+                "It helps you get better grades in school",
+                "It records your spiritual journey and helps you remember God's faithfulness",
+                "It is required by most churches",
+                "It replaces the need to read the Bible"
+            ],
+            "correct": 1,
+            "explanation": "Journaling helps you record and reflect on your spiritual journey — your prayers, God's answers, lessons learned from Scripture, and how God is working in your life. It helps you remember His faithfulness over time."
+        },
+        {
+            "id": 7,
+            "question": "According to Colossians 3:17, how should Christians approach their creative writing?",
+            "options": [
+                "Writing should only be done on Sundays",
+                "Christians should avoid creative writing entirely",
+                "Whatever we do, including writing, should be done in the name of the Lord Jesus",
+                "Writing is acceptable only if it directly quotes the Bible"
+            ],
+            "correct": 2,
+            "explanation": "Colossians 3:17 teaches that whatever we do — in word or deed — should be done in the name of the Lord Jesus. This means our creative writing can be an act of worship when done with gratitude and a desire to honor God."
+        },
+        {
+            "id": 8,
+            "question": "What is a simile?",
+            "options": [
+                "A statement that one thing IS another thing",
+                "A comparison of two unlike things using 'like' or 'as'",
+                "A type of poem with exactly fourteen lines",
+                "A word that sounds like what it describes"
+            ],
+            "correct": 1,
+            "explanation": "A simile compares two unlike things using the words 'like' or 'as.' For example, 'The lake was smooth as glass.' Similes help readers see familiar things in new and vivid ways."
+        }
+    ]
+}

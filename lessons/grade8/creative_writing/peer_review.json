@@ -1,0 +1,75 @@
+{
+    "id": "peer_review",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Peer Review",
+    "subtitle": "Giving and Receiving Feedback with Grace",
+    "scripture": "Proverbs 27:17",
+    "key_concepts": ["Constructive criticism", "The revision process", "Humility in writing", "Encouraging fellow writers", "Iron sharpening iron"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "God designed us to grow through community. Just as iron must rub against iron to become sharp, writers improve by engaging with other writers — offering honest feedback and humbly receiving it. Peer review is 'iron sharpening iron' applied to the craft of writing."
+            },
+            {
+                "reference": "Proverbs 12:15",
+                "text": "\"The way of fools seems right to them, but the wise listen to advice.\"",
+                "commentary": "It is foolish to assume our first draft is perfect. Wise writers actively seek feedback because they know that others can see weaknesses they cannot. Listening to constructive criticism is a mark of wisdom, not weakness."
+            },
+            {
+                "reference": "Ephesians 4:15",
+                "text": "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"",
+                "commentary": "The model for peer review is truth spoken in love. Honest feedback without kindness is harsh and discouraging. Kindness without honesty is flattery and does not help. Christian writers practice both truth and love."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Peer Review Matters",
+            "paragraphs": [
+                "Every professional writer uses editors and trusted readers. No one — no matter how talented — can see all the strengths and weaknesses in their own work. When you have been staring at a piece of writing for hours, you lose perspective. Fresh eyes catch things you miss: confusing sentences, gaps in logic, passages that drag, and — just as important — moments that shine.",
+                "Peer review is how writers develop the ability to see their own work clearly. By learning to evaluate others' writing thoughtfully, you develop the analytical skills to evaluate your own. And by receiving feedback with humility, you accelerate your growth as a writer."
+            ]
+        },
+        {
+            "heading": "How to Give Good Feedback",
+            "paragraphs": [
+                "Good feedback is specific, honest, and kind. Instead of saying 'This is good' or 'I liked it,' point to specific lines or passages and explain what works and why. Instead of saying 'This is bad,' identify specific issues and suggest possible solutions. Always start with genuine praise before discussing areas for improvement.",
+                "Use 'I' statements: 'I was confused by this sentence' rather than 'This sentence is confusing.' The first approach shares your experience as a reader; the second sounds like a judgment. Both communicate the same information, but the first invites conversation while the second may provoke defensiveness."
+            ]
+        },
+        {
+            "heading": "How to Receive Feedback",
+            "paragraphs": [
+                "Receiving criticism gracefully is one of the hardest skills any writer must develop. Your writing feels personal — it came from your mind and heart, and criticism can feel like a personal attack. It is not. When someone points out a weakness in your writing, they are helping you grow.",
+                "When receiving feedback, listen fully before responding. Do not defend or explain — just listen. Take notes. Thank the person for their time and honesty. Then step away and consider their comments with a cool head. You do not have to accept every suggestion, but you should consider each one seriously. If multiple readers identify the same problem, it is almost certainly a real problem."
+            ]
+        },
+        {
+            "heading": "The Revision Process",
+            "paragraphs": [
+                "Peer review is part of a larger revision process. Professional writers often revise their work many times before it reaches its final form. Revision is not a sign of failure — it is a sign of craftsmanship. A carpenter sands and finishes wood not because the first cut was wrong, but because excellence requires attention to detail.",
+                "After receiving peer feedback, set your work aside for at least a day before revising. Distance gives you perspective. Then read through the feedback again, make the changes that improve your work, and read the revised version aloud. Does it flow better? Is it clearer? Does every word earn its place? Revision is where good writing becomes great writing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to begin peer review with genuine praise before discussing areas for improvement? How does this reflect the Biblical principle of speaking 'the truth in love' (Ephesians 4:15)?",
+            "guidance": "Consider how starting with praise creates a safe environment for honest feedback. Think about how encouragement and correction work together in the Christian community."
+        },
+        {
+            "id": 2,
+            "question": "Exchange a piece of writing with a partner. Write three specific things that work well and two specific suggestions for improvement. Practice using 'I' statements in your feedback.",
+            "guidance": "Be specific — point to particular sentences, images, or passages. Avoid vague praise or criticism. Your goal is to help your partner see their work through a reader's eyes."
+        },
+        {
+            "id": 3,
+            "question": "Proverbs 27:17 says 'As iron sharpens iron, so one person sharpens another.' How does this proverb apply to the writing workshop experience? Why is it valuable to have other people critique your work?",
+            "guidance": "Think about how the 'sharpening' process can be uncomfortable but produces better results. Consider how writing in isolation limits your growth compared to writing in community."
+        }
+    ]
+}

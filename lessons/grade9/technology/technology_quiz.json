@@ -1,0 +1,127 @@
+{
+    "id": "technology_quiz",
+    "title": "Computer Science Foundations — Order in God's Digital Creation: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who is often called the 'father of the computer' for designing the Analytical Engine?",
+            "options": [
+                "Blaise Pascal",
+                "Charles Babbage",
+                "Alan Turing",
+                "Claude Shannon"
+            ],
+            "correct": 1,
+            "explanation": "Charles Babbage designed the Analytical Engine in 1837, which contained the fundamental concepts of modern computing: input, processing, memory, and output."
+        },
+        {
+            "id": 2,
+            "question": "Why do computers use the binary (base-2) number system?",
+            "options": [
+                "Because binary is easier for humans to understand",
+                "Because electronic components naturally represent two states: on and off",
+                "Because binary was invented before the decimal system",
+                "Because binary uses less electricity than other number systems"
+            ],
+            "correct": 1,
+            "explanation": "Electronic components can easily represent two states — on/off, high/low voltage — which correspond to the binary digits 1 and 0. This makes binary the natural language of electronic computers."
+        },
+        {
+            "id": 3,
+            "question": "How many different values can a single byte (8 bits) represent?",
+            "options": [
+                "8",
+                "16",
+                "128",
+                "256"
+            ],
+            "correct": 3,
+            "explanation": "A byte contains 8 bits, and each bit can be 0 or 1. The total number of combinations is 2^8 = 256 different values."
+        },
+        {
+            "id": 4,
+            "question": "What advantage does a binary search have over a linear search?",
+            "options": [
+                "It works on unsorted data",
+                "It is dramatically faster for large, sorted datasets",
+                "It uses less memory",
+                "It can search multiple items at once"
+            ],
+            "correct": 1,
+            "explanation": "A binary search repeatedly divides the search area in half, making it dramatically faster than a linear search for large sorted datasets. It can find an item among a million sorted items in at most 20 steps."
+        },
+        {
+            "id": 5,
+            "question": "What is the purpose of a compiler?",
+            "options": [
+                "To find and fix bugs in a program",
+                "To translate high-level programming language into machine code",
+                "To connect a computer to the internet",
+                "To store data in the computer's memory"
+            ],
+            "correct": 1,
+            "explanation": "A compiler translates an entire program written in a high-level programming language into machine code (binary) that the computer can execute directly."
+        },
+        {
+            "id": 6,
+            "question": "Who developed the first compiler, making programming more accessible to non-specialists?",
+            "options": [
+                "Ada Lovelace",
+                "Alan Turing",
+                "Grace Hopper",
+                "Tim Berners-Lee"
+            ],
+            "correct": 2,
+            "explanation": "Grace Hopper, a pioneering computer scientist and devout Christian, led the development of the first compiler (A-0) in 1952. She believed computers should be accessible to as many people as possible."
+        },
+        {
+            "id": 7,
+            "question": "What is the first phase of the Software Development Lifecycle?",
+            "options": [
+                "Writing code",
+                "Testing the software",
+                "Planning and requirements analysis",
+                "Deploying the software"
+            ],
+            "correct": 2,
+            "explanation": "The SDLC begins with planning and requirements analysis — understanding what the software needs to do before any code is written. Skipping this phase leads to building software that does not solve the right problem."
+        },
+        {
+            "id": 8,
+            "question": "According to Frederick Brooks in The Mythical Man-Month, what happens when you add more people to a late software project?",
+            "options": [
+                "The project finishes faster",
+                "The project becomes later due to increased communication overhead",
+                "The project cost decreases",
+                "The quality of the software improves"
+            ],
+            "correct": 1,
+            "explanation": "Brooks observed that adding people to a late project makes it even later because new team members need time to get up to speed and the increased number of communication channels adds complexity."
+        },
+        {
+            "id": 9,
+            "question": "What does Claude Shannon's information theory establish?",
+            "options": [
+                "That computers will eventually become conscious",
+                "That all information can be measured and represented using binary digits",
+                "That the internet should be free for everyone",
+                "That programming languages should use English words"
+            ],
+            "correct": 1,
+            "explanation": "Shannon's information theory established that all information, regardless of its form, can be measured mathematically and represented using binary digits (bits). This foundational insight made modern digital communication possible."
+        },
+        {
+            "id": 10,
+            "question": "C.S. Lewis warned in The Abolition of Man that technology without moral truth becomes dangerous because:",
+            "options": [
+                "Technology always breaks down eventually",
+                "Only scientists understand technology well enough to use it",
+                "It becomes a tool for those in power to reshape the world without moral limits",
+                "Technology is inherently evil and should be avoided"
+            ],
+            "correct": 2,
+            "explanation": "Lewis argued that without objective moral truth grounded in God's created order, technological power has no moral boundaries and becomes a tool for whoever holds it to impose their will on others without accountability to a higher standard."
+        }
+    ]
+}

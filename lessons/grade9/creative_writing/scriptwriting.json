@@ -1,0 +1,76 @@
+{
+    "id": "scriptwriting",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Scriptwriting",
+    "subtitle": "Writing for Stage and Screen — Drama as a Vehicle for Truth",
+    "scripture": "Ezekiel 37:1-14",
+    "primary_source": "Dorothy L. Sayers — 'The Man Born to Be King' (1941-1942)",
+    "key_concepts": ["Screenplay and stage play format", "Dialogue-driven storytelling", "Visual storytelling", "Conflict in drama", "Stage directions", "Christian drama tradition"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ezekiel 37:4-5",
+                "text": "\"Then he said to me, 'Prophesy to these bones and say to them, \"Dry bones, hear the word of the LORD! This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life.\"'\"",
+                "commentary": "God gave Ezekiel a dramatic vision — a scene to witness and enact, not merely words to hear. Much of prophetic Scripture is inherently dramatic, involving action, dialogue, and visual spectacle. Drama has been a vehicle for divine truth since the prophets."
+            },
+            {
+                "reference": "Luke 15:11-12",
+                "text": "\"Jesus continued: 'There was a man who had two sons. The younger one said to his father, \"Father, give me my share of the estate.\" So he divided his property between them.'\"",
+                "commentary": "The Parable of the Prodigal Son is essentially a dramatic script — characters, dialogue, action, and a powerful emotional arc. Jesus was a master dramatist. His parables unfold as scenes, with characters speaking and acting, drawing the audience into the story."
+            },
+            {
+                "reference": "1 Corinthians 4:9",
+                "text": "\"For it seems to me that God has put us apostles on display at the end of the procession, like those condemned to die in the arena. We have been made a spectacle to the whole universe, to angels as well as to human beings.\"",
+                "commentary": "Paul uses the language of theater — 'spectacle,' 'display,' 'arena' — to describe the Christian life. The idea that our lives are witnessed by an audience (both human and heavenly) connects deeply to the art of drama, where stories are performed before witnesses."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Scriptwriting?",
+            "paragraphs": [
+                "Scriptwriting (also called screenwriting or playwriting) is the art of writing stories meant to be performed — on stage, on screen, or on radio. Unlike prose fiction, where the author can describe characters' thoughts, settings, and emotions directly, a script must communicate everything through dialogue, action, and visual cues. The audience sees and hears the story unfold in real time.",
+                "This constraint makes scriptwriting uniquely challenging and powerful. Every line of dialogue must do double duty — revealing character while advancing the plot. Every stage direction must be purposeful. There is no room for the narrative voice to step in and explain things."
+            ]
+        },
+        {
+            "heading": "The Script Format",
+            "paragraphs": [
+                "Scripts follow specific formatting conventions that may seem rigid but serve practical purposes. A screenplay uses sluglines (INT. CHURCH - DAY) to indicate location and time, character names centered above their dialogue, and parenthetical notes for essential tone or action cues. Stage plays use similar conventions with different formatting details.",
+                "These conventions exist because scripts are working documents — blueprints for actors, directors, and designers to use in creating a performance. Clear formatting ensures that everyone involved in a production can quickly understand what happens in each scene."
+            ]
+        },
+        {
+            "heading": "Dialogue: The Engine of Drama",
+            "paragraphs": [
+                "In a script, dialogue carries almost the entire story. Great dramatic dialogue has several characteristics: it sounds natural (people speak differently than they write), it reveals character (each character should have a distinctive way of speaking), it advances the plot (every conversation should change something), and it often works on two levels (what the character says vs. what they mean).",
+                "The concept of subtext is essential to dramatic dialogue. Subtext is the unspoken meaning beneath the spoken words. When a character says 'I'm fine,' the audience often understands that the character is anything but fine. The gap between what is said and what is meant creates tension, humor, and emotional depth."
+            ]
+        },
+        {
+            "heading": "The Christian Tradition of Drama",
+            "paragraphs": [
+                "Christians have a long and rich tradition of drama. Medieval mystery plays dramatized Bible stories for audiences who could not read. Dorothy L. Sayers, a brilliant Christian writer, wrote 'The Man Born to Be King,' a cycle of radio plays about the life of Christ that brought Scripture to life for millions of listeners during World War II.",
+                "Drama has a unique power to create empathy — when you watch a character struggle, fail, and find redemption on stage, you experience their journey alongside them. For the Christian writer, this empathetic power is a tremendous tool. A well-written play or screenplay can help audiences see familiar truths in entirely new ways, feel the weight of moral choices, and encounter the reality of grace."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose a scene from the Gospels — such as Jesus calming the storm, the woman at the well, or Peter's denial — and rewrite it as a short dramatic script with dialogue, stage directions, and character notes. What challenges did you face in adapting narrative prose into script format?",
+            "guidance": "Think about what information is lost when you cannot describe characters' inner thoughts. How do you convey emotion and meaning through dialogue and action alone? What does the dramatic format add to the scene?"
+        },
+        {
+            "id": 2,
+            "question": "What is subtext in dialogue? Write a short exchange (5-8 lines) between two characters where the surface conversation is about something ordinary (the weather, homework, dinner) but the real conversation is about something deeper (fear, forgiveness, loneliness).",
+            "guidance": "Pay attention to the gap between what characters say and what they mean. Notice how this gap creates tension and emotional depth. Consider how real human conversations often work on multiple levels simultaneously."
+        },
+        {
+            "id": 3,
+            "question": "Dorothy L. Sayers said that her goal in 'The Man Born to Be King' was to present the people of the Gospels as real human beings rather than stained-glass figures. Why is it important for dramatists to portray Biblical characters as real people? How does this actually serve the Gospel rather than diminish it?",
+            "guidance": "Think about how presenting Biblical characters as real, complex people helps modern audiences connect with them. Consider how realism and reverence can coexist in dramatic interpretation."
+        }
+    ]
+}

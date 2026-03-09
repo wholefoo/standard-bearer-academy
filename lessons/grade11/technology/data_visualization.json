@@ -1,0 +1,83 @@
+{
+    "id": "data_visualization",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Data Visualization",
+    "subtitle": "Making Data Speak Clearly",
+    "scripture": "Habakkuk 2:2",
+    "primary_source": "Edward Tufte, 'The Visual Display of Quantitative Information' (1983)",
+    "key_concepts": ["Principles of effective visualization", "Chart types and their uses", "Visual honesty and deception", "Storytelling with data", "Communicating truth clearly"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Habakkuk 2:2",
+                "text": "\"Then the LORD replied: 'Write down the revelation and make it plain on tablets so that a herald may run with it.'\"",
+                "commentary": "God instructed Habakkuk to communicate His message clearly and plainly. Data visualization serves a similar purpose — making complex information accessible and understandable so that it can inform action."
+            },
+            {
+                "reference": "Proverbs 15:23",
+                "text": "\"A person finds joy in giving an apt reply — and how good is a timely word!\"",
+                "commentary": "Effective communication brings joy and clarity. A well-designed visualization is an 'apt reply' to the question hidden in the data — it reveals the answer clearly and memorably."
+            },
+            {
+                "reference": "Ephesians 4:15",
+                "text": "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"",
+                "commentary": "Data visualization should speak the truth. Misleading charts and deceptive graphics violate the Christian commitment to honesty and can cause real harm when they inform decisions."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Visualization Matters",
+            "paragraphs": [
+                "Humans are visual creatures. We process images far faster than text or numbers. A well-designed visualization can communicate patterns, trends, and relationships in data that might be invisible in a spreadsheet of raw numbers. Data visualization transforms abstract information into visual forms that our brains can quickly comprehend.",
+                "Edward Tufte, one of the most influential figures in data visualization, wrote that 'the purpose of visualization is insight, not pictures.' The goal is not to create attractive graphics for their own sake, but to reveal truth — to make the patterns in data visible so that they can inform wise decisions."
+            ]
+        },
+        {
+            "heading": "Types of Visualizations",
+            "paragraphs": [
+                "Different types of data call for different types of visualizations. Bar charts compare quantities across categories. Line charts show trends over time. Scatter plots reveal relationships between two variables. Pie charts show proportions of a whole (though they are often overused and can be misleading). Histograms show the distribution of a single variable. Heat maps use color to represent values across two dimensions.",
+                "Choosing the right visualization type is critical. A poorly chosen chart can obscure the very patterns it should reveal. The data scientist must understand both the data and the audience to select the visualization that most clearly communicates the relevant insight."
+            ]
+        },
+        {
+            "heading": "Principles of Effective Visualization",
+            "paragraphs": [
+                "Tufte identified several principles of effective data visualization. The 'data-ink ratio' measures the proportion of a graphic's ink devoted to displaying data versus non-data elements (decoration, grids, frames). Effective visualizations maximize this ratio, removing unnecessary elements that distract from the data.",
+                "Other principles include clarity (the viewer should quickly understand what the visualization shows), accuracy (the visual representation should faithfully reflect the underlying data), and context (the visualization should provide enough context for the viewer to correctly interpret the data). Every design choice should serve the goal of communicating truth clearly."
+            ]
+        },
+        {
+            "heading": "Visual Honesty and Deception",
+            "paragraphs": [
+                "Data visualizations can be powerful tools of deception. Common tricks include truncating the y-axis to exaggerate differences, using misleading scales, cherry-picking time ranges, using 3D effects that distort proportions, and choosing colors that create false impressions. These techniques can make small differences look enormous or make significant trends disappear.",
+                "Christians must commit to visual honesty. A misleading chart is a form of lying — it causes the viewer to draw false conclusions. Just as Proverbs condemns 'dishonest scales,' we should condemn dishonest visualizations. The Christian data scientist should create graphics that reveal truth, not manipulate perceptions."
+            ]
+        },
+        {
+            "heading": "Storytelling with Data",
+            "paragraphs": [
+                "The most effective data visualizations tell a story. They guide the viewer through the data in a logical sequence, highlighting key findings, providing context, and leading to clear conclusions. A good data story has a beginning (the question or problem), a middle (the evidence and analysis), and an end (the insight or recommendation).",
+                "Storytelling with data is a skill that combines analytical rigor with communication ability. The data scientist must understand the data deeply enough to identify the most important story it tells, and then craft a visual narrative that communicates that story to an audience that may not have technical expertise. This is stewardship of knowledge — using understanding to serve others."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Habakkuk 2:2 inform our approach to data visualization? What does it mean to 'make it plain' when communicating complex data?",
+            "guidance": "Consider how God values clear communication and how data visualization should serve understanding, not confusion or impressiveness."
+        },
+        {
+            "id": 2,
+            "question": "Why is visual honesty a moral imperative for Christians? Give examples of how data visualizations can be deceptive and explain why this violates Christian ethics.",
+            "guidance": "Think about specific techniques (truncated axes, misleading scales) and how they are analogous to dishonest scales condemned in Proverbs."
+        },
+        {
+            "id": 3,
+            "question": "How can storytelling with data be an act of stewardship? What responsibility does a data scientist have when presenting findings to non-technical audiences?",
+            "guidance": "Consider how knowledge creates responsibility and how clear communication empowers others to make wise decisions."
+        }
+    ]
+}

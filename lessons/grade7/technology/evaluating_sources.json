@@ -1,0 +1,75 @@
+{
+    "id": "evaluating_sources",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Evaluating Online Sources — Discerning Truth from Falsehood",
+    "subtitle": "How to Identify Reliable Information in a World of Digital Deception",
+    "scripture": "1 Thessalonians 5:21",
+    "key_concepts": ["Identifying reliable vs. unreliable sources", "Bias and perspective in media", "Fact-checking strategies", "Biblical discernment in the information age"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"Test everything; hold on to what is good.\"",
+                "commentary": "God does not want us to blindly accept everything we hear or read. He calls us to test claims against the truth. In the digital age, this means carefully evaluating the sources we encounter online."
+            },
+            {
+                "reference": "Proverbs 18:17",
+                "text": "\"In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.\"",
+                "commentary": "The first article or post you read on a topic may seem convincing, but wisdom requires hearing multiple perspectives and checking the facts before forming an opinion."
+            },
+            {
+                "reference": "John 8:32",
+                "text": "\"Then you will know the truth, and the truth will set you free.\"",
+                "commentary": "Jesus values truth above all else. As His followers, we must be committed to finding and sharing the truth, even when lies are easier to believe or more popular."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Problem of Misinformation",
+            "paragraphs": [
+                "The internet gives us access to more information than any generation in history. But not all of that information is true. Misinformation (false information shared by mistake) and disinformation (false information shared on purpose) are everywhere online. Learning to tell the difference between reliable and unreliable sources is one of the most important skills you can develop.",
+                "As Christians, we have a special responsibility to pursue truth. God is a God of truth, and He hates falsehood (Proverbs 12:22). When we share false information — even accidentally — we dishonor Him and can cause real harm to others."
+            ]
+        },
+        {
+            "heading": "The CRAAP Test for Evaluating Sources",
+            "paragraphs": [
+                "One helpful tool for evaluating sources is the CRAAP test, which stands for Currency, Relevance, Authority, Accuracy, and Purpose. Currency asks: Is this information up to date? Relevance asks: Does this source address my specific question? Authority asks: Who wrote this, and are they qualified?",
+                "Accuracy asks: Is this information supported by evidence, and do other sources confirm it? Purpose asks: Why was this information published? Is the author trying to inform, persuade, sell, or entertain? Understanding the purpose behind a source helps you identify potential bias."
+            ]
+        },
+        {
+            "heading": "Recognizing Bias",
+            "paragraphs": [
+                "Every source has a perspective, and many have biases — tendencies to favor one viewpoint over another. Bias is not always bad; having a perspective is normal. But it becomes a problem when bias leads to distortion, omission of important facts, or outright falsehood.",
+                "Look for signs of bias: Does the source present only one side of an issue? Does it use emotionally charged language to manipulate your feelings? Does it attack people instead of addressing their arguments? Does it claim to have all the answers without acknowledging complexity? A trustworthy source presents evidence fairly, even when discussing controversial topics."
+            ]
+        },
+        {
+            "heading": "Fact-Checking Strategies",
+            "paragraphs": [
+                "When you encounter a claim online that seems surprising or important, take these steps before sharing it: First, check the source — is it a reputable organization or an unknown website? Second, look for the same information from at least two other independent sources. Third, check the date — old information may no longer be accurate.",
+                "Be especially careful with images and videos, which can be manipulated or taken out of context. Reverse image searches can help you find the original source of an image. Remember: if something seems too good (or too outrageous) to be true, it probably is. Slow down, verify, and then decide whether to believe or share it."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does 1 Thessalonians 5:21 apply to your use of the internet? What does it look like to 'test everything' when you encounter information online?",
+            "guidance": "Think about specific steps you can take before accepting or sharing information. Consider how this Biblical principle protects you and others from falsehood."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between misinformation and disinformation? Why is sharing false information — even accidentally — harmful and dishonoring to God?",
+            "guidance": "Consider the impact of false information on individuals and communities. Think about the Christian responsibility to be truthful."
+        },
+        {
+            "id": 3,
+            "question": "Using the CRAAP test, evaluate a website or article you have recently read. Is it a reliable source? Why or why not?",
+            "guidance": "Apply each criterion — Currency, Relevance, Authority, Accuracy, Purpose — to a specific source. Practice this skill with a real example."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "guarding_truth",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Guarding Truth Online",
+    "subtitle": "Defending Truth in a World of Digital Deception",
+    "scripture": "John 8:32",
+    "primary_source": "Pope Leo XIII, Rerum Novarum (1891) — on the application of moral principles to new social challenges",
+    "key_concepts": ["Disinformation and misinformation", "Deepfakes and synthetic media", "Media literacy", "Information warfare", "The Christian commitment to truth"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "John 8:32",
+                "text": "\"Then you will know the truth, and the truth will set you free.\"",
+                "commentary": "Jesus declares that truth is liberating. In a digital age where lies spread faster than truth, Christians have a special responsibility to seek, discern, and defend what is true."
+            },
+            {
+                "reference": "Ephesians 4:25",
+                "text": "\"Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body.\"",
+                "commentary": "Paul commands truthfulness as essential to community. In the digital realm, this means refusing to spread misinformation, verifying claims before sharing them, and correcting falsehoods when we encounter them."
+            },
+            {
+                "reference": "Proverbs 12:22",
+                "text": "\"The LORD detests lying lips, but he delights in people who are trustworthy.\"",
+                "commentary": "God hates deception in all its forms. The creation and distribution of disinformation — whether for political, financial, or ideological purposes — is a form of lying that God condemns."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Truth Under Siege",
+            "paragraphs": [
+                "We live in an era when information is more abundant and accessible than ever before, yet truth seems more elusive. The same digital technologies that enable instant communication and global knowledge-sharing also enable the rapid spread of lies, propaganda, and manipulation. Disinformation — deliberately false information spread to deceive — has become a weapon used by governments, organizations, and individuals to influence public opinion, undermine trust, and destabilize societies.",
+                "For Christians, the defense of truth is not optional. Jesus Christ identified Himself as 'the way, the truth, and the life' (John 14:6). Our commitment to truth is rooted in our commitment to Christ. In the digital age, this commitment requires new skills and new forms of vigilance."
+            ]
+        },
+        {
+            "heading": "Disinformation vs. Misinformation",
+            "paragraphs": [
+                "It is important to distinguish between disinformation and misinformation. Disinformation is false information deliberately created and spread to deceive. Misinformation is false information spread without intent to deceive — often by well-meaning people who believe it to be true. Both are harmful, but disinformation is particularly dangerous because it is designed to exploit human biases and emotions.",
+                "Nation-states, political operatives, and ideological groups use disinformation campaigns to manipulate public opinion, polarize communities, and erode trust in institutions. Social media platforms amplify these campaigns by rewarding sensational content with engagement and visibility, regardless of its truthfulness."
+            ]
+        },
+        {
+            "heading": "Deepfakes and Synthetic Media",
+            "paragraphs": [
+                "Advances in artificial intelligence have made it possible to create highly realistic fake videos, audio recordings, and images — known as deepfakes. These synthetic media can make it appear that real people said or did things they never actually said or did. The potential for abuse is enormous: fabricated evidence, character assassination, fraud, and the systematic erosion of trust in visual evidence.",
+                "Detecting deepfakes requires both technical tools and critical thinking. As the technology improves, the line between real and fabricated content becomes harder to discern. Christians must be especially cautious consumers of media, verifying sources and questioning content that seems designed to provoke strong emotional reactions."
+            ]
+        },
+        {
+            "heading": "Media Literacy for Christians",
+            "paragraphs": [
+                "Media literacy is the ability to critically evaluate information sources, identify bias, verify claims, and make informed judgments about the reliability of content. In the digital age, media literacy is not just an academic skill — it is a moral necessity.",
+                "Christians should develop the habit of checking multiple sources before accepting claims as true, examining the motives behind information, looking for primary sources rather than relying on secondhand reports, and being willing to correct their own mistaken beliefs. The Bereans in Acts 17:11 provide a model: they 'received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.' We should bring this same spirit of careful examination to all information we encounter."
+            ]
+        },
+        {
+            "heading": "Being Truth-Tellers in a Digital World",
+            "paragraphs": [
+                "Christians are called not only to discern truth but to speak and share it. In the digital realm, this means refusing to share unverified claims, correcting misinformation when we encounter it (graciously but firmly), and modeling integrity in our own online communications. It also means supporting institutions and technologies that promote truth and transparency.",
+                "The battle for truth in the digital age is ultimately a spiritual battle. Satan is described as 'the father of lies' (John 8:44), and the spread of deception in our world reflects his influence. Christians who commit themselves to truth — in all its forms, including digital truth — are engaging in spiritual warfare as well as civic responsibility."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Christian commitment to Christ as 'the Truth' shape our responsibility to combat digital deception? Why is truth-telling a spiritual discipline?",
+            "guidance": "Consider how our relationship with Christ — who is Truth incarnate — makes us inherently opposed to all forms of deception."
+        },
+        {
+            "id": 2,
+            "question": "What practical steps can you take to become a better discerner of truth online? How does the example of the Bereans (Acts 17:11) apply to digital media consumption?",
+            "guidance": "Think about specific habits like checking sources, reading beyond headlines, verifying claims, and being willing to change your mind when evidence warrants it."
+        },
+        {
+            "id": 3,
+            "question": "How should Christians respond when they realize they have shared misinformation? What does integrity require in that situation?",
+            "guidance": "Consider the importance of humility, public correction, and the willingness to prioritize truth over personal embarrassment."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "creative_writing_quiz",
+    "title": "Poetry and the Soul — Expressing Faith Through Verse",
+    "description": "Test your understanding of poetic craft, literary techniques, and the Christian tradition of devotional poetry.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which 17th-century poet wrote 'The Altar,' a poem shaped on the page like an altar offered to God?",
+            "options": [
+                "John Milton",
+                "William Shakespeare",
+                "George Herbert",
+                "John Donne"
+            ],
+            "correct": 2,
+            "explanation": "George Herbert, an Anglican priest and metaphysical poet, wrote 'The Altar' as a concrete poem shaped like an altar, with every word offered as a sacrifice to God."
+        },
+        {
+            "id": 2,
+            "question": "What is iambic pentameter?",
+            "options": [
+                "Five pairs of syllables, each with an unstressed syllable followed by a stressed syllable",
+                "Ten pairs of syllables with alternating rhyme",
+                "Five rhyming couplets",
+                "A type of free verse with five stanzas"
+            ],
+            "correct": 0,
+            "explanation": "Iambic pentameter consists of five iambs — five pairs of syllables where each pair has an unstressed syllable followed by a stressed one (da-DUM), creating a natural, speech-like rhythm."
+        },
+        {
+            "id": 3,
+            "question": "What is the 'volta' in a sonnet?",
+            "options": [
+                "The first line of the poem",
+                "The rhyme scheme",
+                "The turn or shift in thought, usually occurring near the end",
+                "The title of the poem"
+            ],
+            "correct": 2,
+            "explanation": "The volta is the 'turn' in a sonnet — the moment where the poem shifts direction, introduces a new perspective, or resolves the tension established in the earlier lines."
+        },
+        {
+            "id": 4,
+            "question": "According to T.S. Eliot, why is 'no verse free for the man who wants to do a good job'?",
+            "options": [
+                "Because all poems must rhyme",
+                "Because free verse demands its own kind of rigor in line breaks, rhythm, and word choice",
+                "Because poets must pay fees to publish",
+                "Because metered verse is always superior"
+            ],
+            "correct": 1,
+            "explanation": "Eliot meant that free verse is not an escape from craft but requires tremendous attention to line breaks, rhythm, imagery, and sound — its own demanding form of discipline."
+        },
+        {
+            "id": 5,
+            "question": "What did Gerard Manley Hopkins mean by the term 'inscape'?",
+            "options": [
+                "A type of landscape painting",
+                "The unique, God-given essence of every created thing",
+                "A method of escaping writer's block",
+                "The inner structure of a sonnet"
+            ],
+            "correct": 1,
+            "explanation": "Hopkins coined 'inscape' to describe the distinctive, individual beauty and design that God has placed in every created thing — the divine fingerprint visible in all of nature."
+        },
+        {
+            "id": 6,
+            "question": "What is the primary structural device of Hebrew poetry, including the Psalms?",
+            "options": [
+                "Rhyming couplets",
+                "Iambic pentameter",
+                "Parallelism — the relationship between successive lines",
+                "Stanzas of equal length"
+            ],
+            "correct": 2,
+            "explanation": "Hebrew poetry is built on parallelism — synonymous, antithetical, or synthetic relationships between successive lines — rather than on meter or rhyme."
+        },
+        {
+            "id": 7,
+            "question": "In poetry, what is the difference between a symbol and a simple image?",
+            "options": [
+                "A symbol is always longer than an image",
+                "A symbol carries meaning beyond its literal sense, pointing to deeper truths",
+                "An image is visual while a symbol is auditory",
+                "There is no difference"
+            ],
+            "correct": 1,
+            "explanation": "While an image is a vivid sensory description, a symbol is an image that carries additional layers of meaning beyond the literal — water symbolizing both chaos and cleansing, light symbolizing truth and God's presence."
+        },
+        {
+            "id": 8,
+            "question": "What is a chapbook?",
+            "options": [
+                "A full-length novel in verse",
+                "A small collection of poetry, typically 15-30 pages, unified by a theme",
+                "A textbook about poetry",
+                "A chapter of a longer poem"
+            ],
+            "correct": 1,
+            "explanation": "A chapbook is a small, focused collection of poetry unified by a theme, style, or narrative arc, typically between 15 and 30 pages."
+        },
+        {
+            "id": 9,
+            "question": "Which type of psalm expresses sorrow and cries out to God in times of suffering?",
+            "options": [
+                "Psalm of praise",
+                "Royal psalm",
+                "Wisdom psalm",
+                "Psalm of lament"
+            ],
+            "correct": 3,
+            "explanation": "Psalms of lament, such as Psalm 13 and Psalm 22, cry out to God in times of suffering, expressing pain, anger, and confusion — modeling radical honesty in prayer."
+        },
+        {
+            "id": 10,
+            "question": "What is the most important tool unique to free verse poetry?",
+            "options": [
+                "Rhyme",
+                "Meter",
+                "The line break",
+                "The stanza form"
+            ],
+            "correct": 2,
+            "explanation": "In free verse, the line break is the poet's most powerful tool. Where each line ends creates pause, emphasis, and meaning — shaping how the reader experiences the poem."
+        }
+    ]
+}

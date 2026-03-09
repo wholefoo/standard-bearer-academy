@@ -1,0 +1,79 @@
+{
+    "id": "faith_technology",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Faith and Technology",
+    "subtitle": "A Biblical Framework for the Digital Age",
+    "scripture": "Romans 12:2",
+    "primary_source": "C.S. Lewis, The Abolition of Man (1943)",
+    "key_concepts": ["Biblical stewardship of technology", "Technology's proper place", "Digital discipleship", "Wisdom in the information age"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 12:2",
+                "text": "\"Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is — his good, pleasing and perfect will.\"",
+                "commentary": "In the digital age, the 'pattern of this world' includes mindless consumption of technology, addiction to social media, and the assumption that newer is always better. Christians are called to think critically and use technology intentionally, with minds renewed by God's truth."
+            },
+            {
+                "reference": "Ecclesiastes 7:29",
+                "text": "\"This only have I found: God created mankind upright, but they have gone in search of many schemes.\"",
+                "commentary": "Technology itself is not sinful — it is a product of the creative minds God gave us. But humanity's fallen nature means that every tool can be misused. Wisdom requires discerning how to use technology in ways that align with God's purposes rather than our own 'schemes.'"
+            },
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "The same God whose creation inspires awe also gave human beings the ability to create technology. When technology helps us understand, appreciate, and steward God's creation, it fulfills its highest purpose."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "A Biblical View of Technology",
+            "paragraphs": [
+                "The Bible does not condemn technology. From the earliest chapters of Genesis, we see humans developing tools and technologies: Cain built a city (Genesis 4:17), Tubal-Cain forged tools of bronze and iron (Genesis 4:22), and Noah built an ark using advanced construction techniques (Genesis 6:14-16). Technology is part of the cultural mandate — God's command to humanity to fill the earth, subdue it, and exercise dominion over creation (Genesis 1:28).",
+                "However, the Bible also provides examples of technology misused. The Tower of Babel (Genesis 11:1-9) represents humanity using technological ability to glorify themselves rather than God. The lesson is not that building is wrong, but that building without acknowledging God leads to pride and confusion. Technology is a good servant but a poor master."
+            ]
+        },
+        {
+            "heading": "The Idol of Progress",
+            "paragraphs": [
+                "Modern culture often treats technological progress as an unquestioned good. The assumption that newer, faster, and more powerful technology will solve humanity's problems is a form of idolatry — placing our faith in human achievement rather than in God.",
+                "C.S. Lewis warned about this in The Abolition of Man (1943). He argued that as humanity gains more power over nature through technology, the question becomes: who controls that power, and by what moral framework? Without objective moral truth — which Lewis grounded in God's created order — technology becomes a tool for whoever holds power to reshape the world according to their own desires.",
+                "Christians must resist the idol of progress while still embracing the genuine good that technology can accomplish. The key is discernment: asking not just 'Can we do this?' but 'Should we do this?' and 'Does this honor God and serve our neighbor?'"
+            ]
+        },
+        {
+            "heading": "Digital Discipleship",
+            "paragraphs": [
+                "Digital discipleship means living as a follower of Christ in the digital world. This includes how we use social media, what content we consume online, how we communicate in digital spaces, and how we manage our time with devices.",
+                "Jesus said, 'You are the light of the world' (Matthew 5:14). This calling does not stop when we go online. Christians should be known for their kindness, honesty, and wisdom in digital spaces — just as in face-to-face interactions. Posting, commenting, and sharing should reflect the character of Christ.",
+                "Digital discipleship also means being intentional about technology use rather than allowing technology to control us. Setting boundaries on screen time, being selective about which platforms and content we engage with, and regularly evaluating whether our technology habits support or hinder our walk with God are essential practices for the modern Christian."
+            ]
+        },
+        {
+            "heading": "Using Technology for God's Kingdom",
+            "paragraphs": [
+                "Technology offers unprecedented opportunities to serve God's kingdom. The Bible can be accessed in hundreds of languages on any smartphone. Churches can stream services to people who cannot attend in person. Missionaries can communicate instantly across the globe. Educational resources can reach students in remote areas who previously had no access.",
+                "At the same time, Christians must be wise about the limitations and dangers of technology. Digital communication, while convenient, cannot fully replace the embodied community of the local church (Hebrews 10:25). Information overload can make it harder, not easier, to focus on what matters. The ease of online communication can create an illusion of connection without genuine relationship.",
+                "The Christian approach to technology is neither blind enthusiasm nor fearful rejection. It is wise stewardship — gratefully using the tools God has allowed us to develop while keeping our ultimate trust in Him alone. As we grow in computer science knowledge and skill, may we always ask: 'How can I use this ability to glorify God and love my neighbor?'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "C.S. Lewis warned that technology without moral truth becomes dangerous. What are some examples from history or current events where technology was used in harmful ways because of a lack of moral guidance?",
+            "guidance": "Consider examples like propaganda through media technology, surveillance states, or weaponized technology. Think about how a Biblical moral framework would have changed those outcomes."
+        },
+        {
+            "id": 2,
+            "question": "What does 'digital discipleship' look like in your daily life? How can you be a 'light of the world' (Matthew 5:14) in online spaces?",
+            "guidance": "Think practically about your social media use, how you respond to others online, what content you consume, and how you manage your screen time. Consider specific changes you could make to better reflect Christ online."
+        },
+        {
+            "id": 3,
+            "question": "How can Christians avoid both the extreme of idolizing technology and the extreme of fearing it? What does wise stewardship of technology look like?",
+            "guidance": "Consider the balance between gratefully using the tools God has provided and remembering that our ultimate hope is in God, not technology. Think about practical guidelines for evaluating whether a particular technology serves God's purposes."
+        }
+    ]
+}

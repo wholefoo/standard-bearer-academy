@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "creative_writing",
+    "title": "Poetry and the Soul — Expressing Faith Through Verse",
+    "description": "An exploration of poetic craft as a means of expressing faith, examining meter, rhyme, free verse, imagery, and symbolism through the lens of Biblical poetry and the Christian literary tradition.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Poetry and the Soul — Expressing Faith Through Verse",
+            "lessons": ["poetry_as_prayer", "meter_and_rhyme", "free_verse", "imagery_and_symbolism", "writing_a_chapbook", "the_psalms_as_poetry"]
+        }
+    ],
+    "quiz_id": "creative_writing_quiz"
+}

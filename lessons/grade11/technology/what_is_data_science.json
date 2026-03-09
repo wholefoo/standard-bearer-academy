@@ -1,0 +1,83 @@
+{
+    "id": "what_is_data_science",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: What Is Data Science?",
+    "subtitle": "Discovering Patterns in God's World",
+    "scripture": "Proverbs 25:2",
+    "primary_source": "John Tukey, 'The Future of Data Analysis' (1962)",
+    "key_concepts": ["Data science defined", "Data types and sources", "The data science process", "Interdisciplinary nature of data science", "Biblical foundations for inquiry"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has embedded patterns and truths within His creation, and it is a noble pursuit to discover them. Data science is one way we search out the hidden patterns in the world God has made — bringing order to information and uncovering insights that can serve humanity."
+            },
+            {
+                "reference": "Psalm 19:1-2",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge.\"",
+                "commentary": "Creation continuously reveals knowledge to those with eyes to see. Data science provides tools to observe, measure, and understand the patterns that God has woven into the fabric of reality."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The coherence and order we find in data — the patterns, correlations, and structures — reflect the fact that Christ holds all things together. Data science works because the universe is orderly, and it is orderly because God sustains it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Data Science?",
+            "paragraphs": [
+                "Data science is the interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines elements of mathematics, statistics, computer science, and domain expertise to analyze data and solve problems.",
+                "In our modern world, vast quantities of data are generated every second — from social media posts and online transactions to scientific measurements and sensor readings. Data science provides the tools and techniques to make sense of this flood of information, transforming raw data into actionable knowledge."
+            ]
+        },
+        {
+            "heading": "Types and Sources of Data",
+            "paragraphs": [
+                "Data comes in many forms. Structured data is organized in defined formats, like spreadsheets and databases, with clear rows and columns. Unstructured data — which makes up the majority of the world's data — includes text documents, images, videos, social media posts, and audio recordings. Semi-structured data, like JSON files and XML documents, falls between these categories.",
+                "Data sources are equally diverse: government databases, scientific instruments, business transactions, social media platforms, IoT (Internet of Things) sensors, and many more. A data scientist must understand what types of data are available, how to access them, and what limitations or biases they may contain."
+            ]
+        },
+        {
+            "heading": "The Data Science Process",
+            "paragraphs": [
+                "The data science process typically follows several stages. First, a question or problem is defined. Then relevant data is collected and prepared — a process that often takes the majority of a data scientist's time. Next, the data is explored and analyzed using statistical methods and visualization techniques. Models may be built to identify patterns, make predictions, or classify information. Finally, the results are communicated to stakeholders in a clear, actionable format.",
+                "Each stage requires both technical skill and critical thinking. A poorly defined question leads to meaningless analysis. Biased data leads to biased conclusions. Poorly communicated results lead to poor decisions. Excellence in data science requires rigor at every step."
+            ]
+        },
+        {
+            "heading": "Data Science Across Disciplines",
+            "paragraphs": [
+                "Data science is applied in virtually every field. In medicine, it helps identify disease patterns and develop treatments. In business, it drives marketing strategies and operational efficiency. In environmental science, it models climate patterns and tracks conservation efforts. In social science, it reveals demographic trends and informs public policy.",
+                "The versatility of data science makes it a powerful tool for understanding and serving God's world. Whether analyzing crop yields to fight hunger, tracking disease outbreaks to save lives, or studying economic patterns to promote flourishing, data science can be used as an instrument of stewardship and service."
+            ]
+        },
+        {
+            "heading": "A Biblical Foundation for Data Science",
+            "paragraphs": [
+                "The pursuit of knowledge through data analysis is consistent with the Biblical mandate to steward God's creation wisely. God created a universe of order and pattern — the regularities of nature, the laws of mathematics, the structures of biology. Data science is one tool for discerning these patterns and applying them for the good of humanity.",
+                "However, data science must be practiced with humility. Our data is always incomplete, our models are always imperfect, and our interpretations are always influenced by our assumptions and biases. The Christian data scientist approaches the work with confidence that truth exists — because God created an orderly universe — while remaining humble about the limits of human understanding."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Proverbs 25:2 encourage the pursuit of knowledge through data science? What does it mean that 'it is the glory of kings to search out a matter'?",
+            "guidance": "Consider how God has embedded discoverable truths in creation and how the pursuit of knowledge through data analysis honors Him."
+        },
+        {
+            "id": 2,
+            "question": "Why is humility important in data science? What are the dangers of treating data analysis as if it provides absolute, infallible truth?",
+            "guidance": "Think about how incomplete data, biased sampling, and flawed models can lead to wrong conclusions, and how Christian humility serves as a corrective."
+        },
+        {
+            "id": 3,
+            "question": "In what ways can data science be used as an instrument of Christian stewardship and service? Give specific examples.",
+            "guidance": "Consider applications in medicine, poverty alleviation, environmental stewardship, education, and other areas where data-driven insights can serve human flourishing."
+        }
+    ]
+}

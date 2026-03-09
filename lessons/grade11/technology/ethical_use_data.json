@@ -1,0 +1,83 @@
+{
+    "id": "ethical_use_data",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Ethical Use of Data",
+    "subtitle": "Stewardship, Privacy, and Justice in the Data Age",
+    "scripture": "Leviticus 19:15",
+    "primary_source": "European Union General Data Protection Regulation (GDPR, 2018)",
+    "key_concepts": ["Data ethics frameworks", "Privacy and consent", "Algorithmic fairness", "Surveillance and freedom", "Christian responsibility in data use"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Leviticus 19:15",
+                "text": "\"Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.\"",
+                "commentary": "God demands impartial justice. In the data age, this means ensuring that data-driven systems do not discriminate against any group. Algorithms that perpetuate bias violate God's command to judge fairly."
+            },
+            {
+                "reference": "Matthew 7:12",
+                "text": "\"So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.\"",
+                "commentary": "The Golden Rule applies directly to data ethics. Would you want your personal data collected without your knowledge? Would you want an algorithm to make life-changing decisions about you without transparency? Treating others' data as we would want our own treated is a Christian imperative."
+            },
+            {
+                "reference": "Jeremiah 22:3",
+                "text": "\"This is what the LORD says: Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed.\"",
+                "commentary": "When data-driven systems oppress or harm people — through surveillance, discrimination, or exploitation — Christians have a responsibility to speak out and work for justice."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Moral Dimension of Data",
+            "paragraphs": [
+                "Data is not morally neutral. Every dataset represents real people, real decisions, and real consequences. The way data is collected, stored, analyzed, and used has profound implications for human dignity, privacy, justice, and freedom. As data-driven systems become more pervasive — influencing hiring decisions, loan approvals, criminal sentencing, medical treatment, and countless other aspects of life — the ethical stakes grow ever higher.",
+                "Christians bring a unique perspective to data ethics. We believe that every person is made in God's image and possesses inherent dignity. We believe that justice is not a human invention but a divine requirement. We believe that the powerful have a special obligation to protect the vulnerable. These convictions should shape how we collect, analyze, and use data."
+            ]
+        },
+        {
+            "heading": "Privacy and Informed Consent",
+            "paragraphs": [
+                "Privacy is a fundamental aspect of human dignity. The right to control who knows what about you — your thoughts, your communications, your movements, your purchases — is essential to personal freedom and autonomy. In the digital age, this right is under constant threat from organizations that collect vast quantities of personal data, often without meaningful consent.",
+                "The European Union's General Data Protection Regulation (GDPR) establishes the principle that individuals must give informed, specific consent before their data is collected and used. It also gives individuals the right to access their data, correct errors, and in some cases, have their data deleted. While no regulation is perfect, GDPR represents an important effort to protect individual privacy in the data age."
+            ]
+        },
+        {
+            "heading": "Algorithmic Fairness",
+            "paragraphs": [
+                "Algorithms trained on historical data can perpetuate and even amplify existing biases. A hiring algorithm trained on decades of hiring decisions may learn to discriminate against women if the historical data reflects a time when women were systematically excluded. A criminal sentencing algorithm may produce harsher recommendations for minority defendants if the underlying data reflects racially biased policing.",
+                "Ensuring algorithmic fairness requires deliberate effort: auditing algorithms for bias, using diverse and representative training data, providing transparency about how decisions are made, and maintaining human oversight of automated systems. The Christian commitment to impartial justice (Leviticus 19:15) demands that we hold data-driven systems to the same standards of fairness we would apply to human decision-makers."
+            ]
+        },
+        {
+            "heading": "Surveillance and Freedom",
+            "paragraphs": [
+                "The same data collection technologies that enable personalized services and scientific insights also enable mass surveillance. Governments and corporations now have the ability to monitor individuals' communications, movements, purchases, and associations on a scale that was unimaginable a generation ago. This surveillance capacity raises profound questions about freedom, privacy, and the proper limits of power.",
+                "History teaches that surveillance powers, once established, tend to expand and are difficult to reverse. Totalitarian regimes have always used surveillance to control their populations. Christians should be wary of trading privacy for convenience or security, remembering that liberty is a gift from God that must be vigilantly protected."
+            ]
+        },
+        {
+            "heading": "Christian Responsibility in the Data Age",
+            "paragraphs": [
+                "Christians working in data science and technology have a special responsibility to advocate for ethical practices. This means collecting only the data that is truly needed, protecting it diligently, using it fairly, being transparent about how it is used, and speaking up when data practices cause harm.",
+                "It also means asking deeper questions: Just because we can collect certain data, should we? Just because an algorithm can make a decision, should it? Just because a system is efficient, is it just? The Christian data scientist brings not only technical skill but moral wisdom to these questions — wisdom rooted in Scripture, shaped by the Holy Spirit, and committed to loving God and neighbor above all else."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Golden Rule (Matthew 7:12) apply to data collection and use? What specific practices would change if organizations consistently applied this principle?",
+            "guidance": "Consider how you would feel about the data practices that are commonly applied to you — tracking, profiling, selling personal information — and what the Golden Rule demands."
+        },
+        {
+            "id": 2,
+            "question": "Why is algorithmic fairness a justice issue? How does Leviticus 19:15 inform our expectations for data-driven decision-making systems?",
+            "guidance": "Think about how biased algorithms can function as modern forms of the partiality that God condemns, and what fairness requires in automated systems."
+        },
+        {
+            "id": 3,
+            "question": "What is the relationship between mass surveillance and human freedom? Why should Christians be concerned about the expansion of surveillance capabilities?",
+            "guidance": "Consider historical examples of surveillance states and how the loss of privacy affects conscience, religious freedom, and human dignity."
+        }
+    ]
+}

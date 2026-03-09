@@ -1,0 +1,79 @@
+{
+    "id": "limits_of_technology",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: The Limits of Technology",
+    "subtitle": "Why Machines Cannot Answer Life's Deepest Questions",
+    "scripture": "Ecclesiastes 1:18; Job 28:12-28",
+    "primary_source": "C.S. Lewis, The Abolition of Man (1943), on the dangers of reducing all values to technical problems",
+    "key_concepts": ["Technology's inherent limitations", "The distinction between information and wisdom", "Scientism and its errors", "Human meaning and purpose beyond technology", "The sufficiency of Scripture for life's ultimate questions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Job 28:12-13",
+                "text": "\"But where can wisdom be found? Where does understanding dwell? No mortal comprehends its worth; it cannot be found in the land of the living.\"",
+                "commentary": "Job reminds us that wisdom — true understanding of life's deepest realities — cannot be mined from the earth or purchased with gold. Similarly, it cannot be computed by algorithms or extracted from datasets. Wisdom is a gift from God, found through reverence for Him, not through technological advancement."
+            },
+            {
+                "reference": "Ecclesiastes 1:18",
+                "text": "\"For with much wisdom comes much sorrow; the more knowledge, the more grief.\"",
+                "commentary": "Solomon observed that the accumulation of knowledge does not automatically lead to happiness or fulfillment. In the age of AI, we have access to more information than any previous generation, yet rates of anxiety, depression, and despair continue to rise. Information without wisdom — and wisdom without God — leaves the human heart unsatisfied."
+            },
+            {
+                "reference": "Job 28:28",
+                "text": "\"And he said to the human race, 'The fear of the Lord — that is wisdom, and to shun evil is understanding.'\"",
+                "commentary": "After cataloging all the places where wisdom cannot be found, Job concludes that true wisdom begins with the fear of the Lord. No technology — no matter how advanced — can replace this foundational truth. The fear of God is the beginning of wisdom, and no algorithm can substitute for it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Myth of Technological Salvation",
+            "paragraphs": [
+                "Modern culture places enormous faith in technology. We are told that AI will cure diseases, solve climate change, eliminate poverty, and perhaps even conquer death itself. Technology companies promise to 'make the world a better place' with every new product launch. This narrative — that technology is humanity's savior — has become a dominant cultural belief.",
+                "But this faith in technology is misplaced. While technology can solve many practical problems, it cannot address the deepest questions of human existence: Why are we here? What is the meaning of life? How should we live? What happens when we die? These are questions that require wisdom, not data — and wisdom comes from God alone."
+            ]
+        },
+        {
+            "heading": "Information is Not Wisdom",
+            "paragraphs": [
+                "We live in the most information-rich era in human history. The entire knowledge of ancient civilizations can be accessed in seconds from a smartphone. AI systems can process billions of data points and generate comprehensive reports on virtually any topic. Yet there is a vast difference between having information and possessing wisdom.",
+                "Information tells you what is; wisdom tells you what ought to be. Information tells you how to build a nuclear weapon; wisdom tells you whether you should. Information can describe the chemical composition of a rose; wisdom enables you to appreciate its beauty. AI can process information at superhuman speeds, but it cannot exercise wisdom because wisdom requires moral judgment, which requires a soul.",
+                "C.S. Lewis warned in The Abolition of Man that the modern tendency to reduce all questions to technical problems would ultimately dehumanize us. When we treat moral questions as if they were engineering problems to be optimized by algorithms, we lose something essential about what it means to be human."
+            ]
+        },
+        {
+            "heading": "What Technology Cannot Do",
+            "paragraphs": [
+                "Technology cannot forgive sins. It cannot heal broken relationships. It cannot give life purpose or meaning. It cannot comfort the dying or answer the cry of the human heart for something beyond this material world. These are the deepest human needs, and they can only be met by God.",
+                "Technology cannot determine moral truth. It can model the consequences of various actions, but it cannot tell us which actions are right and which are wrong. It can predict human behavior, but it cannot judge whether that behavior is virtuous or sinful. Moral truth comes from God's character and His revealed Word, not from data analysis.",
+                "Technology cannot replace human relationships. Despite the rise of AI companions and virtual communities, human beings are designed for embodied, personal relationships. We are created for fellowship with God and with one another — face to face, heart to heart. No algorithm can substitute for the presence of a friend, the embrace of a parent, or the communion of worship."
+            ]
+        },
+        {
+            "heading": "Rightly Ordering Technology in Our Lives",
+            "paragraphs": [
+                "The Christian approach to technology's limits is not to reject technology but to put it in its proper place. Technology is a good servant but a terrible master. When we use AI to cure diseases, improve agriculture, or translate Scripture, technology serves its proper function as a tool for human flourishing and God's glory.",
+                "But when technology becomes an object of worship — when we look to it for salvation, meaning, or ultimate truth — it becomes an idol. The transhumanist movement, which seeks to merge humans with machines and achieve immortality through technology, represents the most extreme form of this idolatry. It is a modern Tower of Babel — an attempt to reach heaven through human ingenuity rather than through God's grace.",
+                "As you prepare to live and work in a world increasingly shaped by AI, remember that the most important things in life — faith, love, wisdom, purpose, salvation — are found not in technology but in a relationship with the living God who created you, loves you, and calls you to Himself."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is the difference between information and wisdom? Why can AI provide information but not wisdom?",
+            "guidance": "Consider that wisdom involves moral judgment, spiritual discernment, and understanding of ultimate purposes — qualities that require a soul and relationship with God. Think about specific examples where having more data does not lead to better moral decisions."
+        },
+        {
+            "id": 2,
+            "question": "How does the transhumanist vision of achieving immortality through technology compare to the Biblical promise of eternal life? Why is one idolatrous and the other true hope?",
+            "guidance": "Consider how transhumanism places faith in human ingenuity while the Gospel places faith in God's grace. Think about the Tower of Babel as a parallel to efforts to transcend human limitations through technology alone."
+        },
+        {
+            "id": 3,
+            "question": "C.S. Lewis warned against reducing all questions to technical problems. Give an example of a moral or spiritual question that cannot be answered by technology, and explain why.",
+            "guidance": "Think about questions of meaning, purpose, justice, beauty, love, and salvation. Consider why these questions require wisdom from God's Word rather than processing power from machines."
+        }
+    ]
+}

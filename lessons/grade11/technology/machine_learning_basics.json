@@ -1,0 +1,83 @@
+{
+    "id": "machine_learning_basics",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Machine Learning Basics",
+    "subtitle": "Teaching Machines to Find Patterns",
+    "scripture": "Job 38:36",
+    "primary_source": "Alan Turing, 'Computing Machinery and Intelligence' (1950)",
+    "key_concepts": ["Machine learning defined", "Supervised and unsupervised learning", "Training data and models", "Limitations of machine learning", "Human wisdom vs. artificial intelligence"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Job 38:36",
+                "text": "\"Who gives the ibis wisdom or gives the rooster understanding?\"",
+                "commentary": "God is the source of all wisdom and understanding. While machines can process data and identify patterns at incredible speed, they do not possess wisdom — the ability to make moral judgments, understand meaning, or comprehend purpose. True wisdom belongs to God and is given to humans."
+            },
+            {
+                "reference": "Psalm 139:14",
+                "text": "\"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "The human brain — with its capacity for creativity, moral reasoning, emotional understanding, and spiritual awareness — remains far more remarkable than any artificial intelligence. Machine learning is a powerful tool, but it cannot replicate the image of God in humanity."
+            },
+            {
+                "reference": "Proverbs 3:5-6",
+                "text": "\"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.\"",
+                "commentary": "Machine learning models can assist human decision-making, but they should never replace moral judgment or spiritual discernment. We must trust God's wisdom above all technological tools."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Machine Learning?",
+            "paragraphs": [
+                "Machine learning is a branch of artificial intelligence in which computer systems learn from data rather than being explicitly programmed for every task. Instead of a programmer writing specific rules for every situation, a machine learning system is given large amounts of data and algorithms that allow it to identify patterns, make predictions, and improve its performance over time.",
+                "In 1950, Alan Turing posed the question 'Can machines think?' in his famous paper 'Computing Machinery and Intelligence.' While the philosophical question remains debated, the practical reality is that machines can now perform remarkable tasks: recognizing faces, translating languages, diagnosing diseases, and driving vehicles. Understanding how these systems work is essential for anyone living in the 21st century."
+            ]
+        },
+        {
+            "heading": "Supervised Learning",
+            "paragraphs": [
+                "In supervised learning, the algorithm is trained on labeled data — data where the correct answer is already known. For example, a model might be trained on thousands of email messages that have been labeled as 'spam' or 'not spam.' The algorithm learns patterns that distinguish spam from legitimate email and can then classify new, unseen messages.",
+                "Common supervised learning tasks include classification (sorting data into categories) and regression (predicting a continuous value, such as a house price). The model's accuracy depends heavily on the quality and quantity of the training data — reinforcing the importance of careful data collection and preparation."
+            ]
+        },
+        {
+            "heading": "Unsupervised Learning",
+            "paragraphs": [
+                "In unsupervised learning, the algorithm works with unlabeled data — it must find patterns and structures without being told what to look for. Clustering algorithms, for example, group similar data points together. Customer segmentation, anomaly detection, and topic modeling are common applications of unsupervised learning.",
+                "Unsupervised learning is particularly useful for exploration — discovering hidden structures in data that humans might not notice. However, the patterns it finds are not always meaningful. Determining whether an algorithmic pattern represents a genuine insight or a statistical artifact requires human judgment and domain expertise."
+            ]
+        },
+        {
+            "heading": "Training Data and Models",
+            "paragraphs": [
+                "A machine learning model is only as good as the data it is trained on. If the training data contains biases — if it overrepresents certain groups, reflects historical prejudices, or was collected using flawed methods — the model will learn and perpetuate those biases. This has led to real-world problems, including facial recognition systems that perform poorly on certain ethnicities and hiring algorithms that discriminate against women.",
+                "Building fair and accurate models requires diverse, representative training data, careful testing for bias, and ongoing monitoring after deployment. The technical process must be guided by moral principles: every person is made in God's image and deserves to be treated fairly by the systems that affect their lives."
+            ]
+        },
+        {
+            "heading": "The Limits of Machine Learning",
+            "paragraphs": [
+                "Despite its impressive capabilities, machine learning has fundamental limitations. It excels at pattern recognition but cannot understand meaning. It can predict behavior but cannot comprehend motivation. It can optimize for defined objectives but cannot evaluate whether those objectives are good. Machine learning lacks wisdom, conscience, creativity in the deepest sense, and any relationship with God.",
+                "These limitations are not merely technical — they are reflections of the fundamental difference between human beings, who are made in God's image, and machines, which are tools made by human hands. Christians should embrace machine learning as a powerful tool while never confusing it with the wisdom that comes from God alone. 'The fear of the LORD is the beginning of wisdom' (Proverbs 9:10) — and no algorithm can fear the Lord."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is the fundamental difference between machine learning and human wisdom? Why can't algorithms replace moral judgment?",
+            "guidance": "Consider Job 38:36 and the nature of wisdom as something that comes from God. Think about what machines can and cannot do compared to humans made in God's image."
+        },
+        {
+            "id": 2,
+            "question": "Why is biased training data a justice issue? How can Christians work to ensure that machine learning systems treat all people fairly?",
+            "guidance": "Think about how biased data can perpetuate discrimination and how the image of God in every person demands fair treatment by automated systems."
+        },
+        {
+            "id": 3,
+            "question": "How should Christians think about the increasing role of AI in decision-making? What decisions should never be delegated entirely to machines?",
+            "guidance": "Consider decisions involving moral judgment, human dignity, spiritual matters, and situations where compassion and understanding are essential."
+        }
+    ]
+}

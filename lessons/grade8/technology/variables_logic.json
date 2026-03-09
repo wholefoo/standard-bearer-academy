@@ -1,0 +1,71 @@
+{
+    "id": "variables_logic",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Variables and Logic",
+    "subtitle": "Storing Information and Making Decisions",
+    "scripture": "Proverbs 2:6",
+    "key_concepts": ["Variables and data types", "Storing information", "Boolean logic", "Conditional statements (if/else)"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 2:6",
+                "text": "\"For the LORD gives wisdom; from his mouth come knowledge and understanding.\"",
+                "commentary": "God is the source of all knowledge and logic. When we use logical thinking in programming — making decisions based on true and false conditions — we are using the capacity for reason that God built into the human mind."
+            },
+            {
+                "reference": "Proverbs 4:7",
+                "text": "\"The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.\"",
+                "commentary": "Understanding how variables and logic work requires careful study and practice. The pursuit of understanding in programming, as in all things, is a pursuit that honors God when done with the right heart."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Are Variables?",
+            "paragraphs": [
+                "A variable is a named container that stores a piece of information in a computer's memory. Think of a variable like a labeled box — the label is the variable's name, and the contents of the box are its value. You can put information into the box, look at what is inside, or change the contents.",
+                "Variables can hold different types of data. Numbers (like 42 or 3.14), text (called strings, like 'Hello'), and true/false values (called Booleans) are the most common data types. Choosing the right data type for each variable is an important part of writing clear, effective code."
+            ]
+        },
+        {
+            "heading": "Naming Variables Well",
+            "paragraphs": [
+                "Good programmers choose variable names that clearly describe what the variable contains. A variable called 'studentAge' is much easier to understand than one called 'x.' Clear naming makes code easier to read, understand, and maintain — both for yourself and for others who may work with your code later.",
+                "This practice of clear communication reflects the Biblical value of honesty and clarity. Just as we are called to let our 'yes be yes and our no be no' (Matthew 5:37), good code communicates its purpose clearly and honestly."
+            ]
+        },
+        {
+            "heading": "Boolean Logic: True and False",
+            "paragraphs": [
+                "Boolean logic is a system of reasoning based on two values: true and false. Named after mathematician George Boole, this form of logic is the foundation of all computer decision-making. Every decision a computer makes ultimately comes down to evaluating whether something is true or false.",
+                "Boolean operators like AND, OR, and NOT allow us to combine conditions. For example: 'If the temperature is below 32 AND it is raining, then it will snow.' Both conditions must be true for the conclusion to follow. This kind of precise logical thinking is a gift from God, who is Himself the source of all truth."
+            ]
+        },
+        {
+            "heading": "Conditional Statements: Making Decisions in Code",
+            "paragraphs": [
+                "Conditional statements (often called if/else statements) allow a program to make decisions. The program checks a condition: if the condition is true, it does one thing; if the condition is false, it does something else.",
+                "For example, a simple program might check: 'If the user's score is 70 or above, display Passing; otherwise, display Try Again.' This ability to branch — to take different paths based on conditions — is what makes programs intelligent and useful.",
+                "Conditional logic mirrors the choices we face in life. The Bible frequently presents us with if/then patterns: 'If you seek me with all your heart, you will find me' (Jeremiah 29:13). God's moral law operates on clear conditions and consequences, just as a well-written program does."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to name variables clearly? How does this practice reflect Biblical values of honesty and clear communication?",
+            "guidance": "Think about how unclear variable names can confuse other programmers, just as unclear communication can cause misunderstanding between people. Consider Ephesians 4:25 about speaking truthfully."
+        },
+        {
+            "id": 2,
+            "question": "How does Boolean logic (true/false) relate to the concept of absolute truth found in Scripture? Can you think of Biblical examples of if/then statements?",
+            "guidance": "Consider Deuteronomy 28, which presents blessings for obedience and consequences for disobedience. Think about how God's moral law operates on clear, consistent principles — just as Boolean logic does."
+        },
+        {
+            "id": 3,
+            "question": "Describe a real-life situation that could be modeled using an if/else statement. How does breaking complex decisions into simple true/false conditions help us think more clearly?",
+            "guidance": "Consider everyday decisions and how they can be broken down into logical conditions. Think about how this kind of clear thinking can help us in moral decision-making as well."
+        }
+    ]
+}

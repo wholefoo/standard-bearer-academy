@@ -1,0 +1,75 @@
+{
+    "id": "descriptive_writing",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Descriptive Writing — Painting Pictures with Words",
+    "subtitle": "Using Sensory Details to Bring God's World to Life on the Page",
+    "scripture": "Psalm 19:1",
+    "key_concepts": ["The five senses in writing", "Using specific details instead of vague language", "Simile and metaphor as descriptive tools", "Describing God's creation with wonder and accuracy"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "Creation itself is a form of communication — it 'declares' and 'proclaims' God's glory. When we describe the world in our writing, we are joining creation in pointing others toward the Creator."
+            },
+            {
+                "reference": "Song of Solomon 2:11-12",
+                "text": "\"See! The winter is past; the rains are over and gone. Flowers appear on the earth; the season of singing has come, the cooing of doves is heard in our land.\"",
+                "commentary": "The Bible itself uses vivid sensory language — sights, sounds, and the feeling of seasons changing. God values beautiful, descriptive writing, and He inspired it throughout Scripture."
+            },
+            {
+                "reference": "Psalm 104:24",
+                "text": "\"How many are your works, LORD! In wisdom you made them all; the earth is full of your creatures.\"",
+                "commentary": "The psalmist looks at creation and responds with awe. Good descriptive writing begins with careful observation — really seeing, hearing, and feeling the world God has made."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Show, Don't Tell",
+            "paragraphs": [
+                "One of the most important skills in creative writing is learning to 'show' rather than 'tell.' Instead of writing 'The sunset was pretty,' a descriptive writer might say, 'The sky blazed with streaks of orange and gold as the sun dipped below the horizon, casting long purple shadows across the field.' The second version helps the reader see, feel, and experience the sunset.",
+                "Descriptive writing uses sensory details — sight, sound, smell, taste, and touch — to bring a scene to life. When we write descriptively, we invite the reader into the world we're creating. This is a powerful skill that makes all types of writing better, from stories to essays to letters."
+            ]
+        },
+        {
+            "heading": "Using the Five Senses",
+            "paragraphs": [
+                "God gave us five senses to experience His world, and great writers use all of them. Sight is the most common sense used in writing, but the best descriptions go further. What does the scene sound like? What smells fill the air? What textures can be felt? Is there a taste associated with the moment?",
+                "For example, describing a bakery: 'The warm aroma of cinnamon and freshly baked bread wrapped around me as I pushed open the door. The display case gleamed with rows of golden pastries dusted in powdered sugar. In the background, I could hear the gentle hum of the oven and the soft thud of dough being kneaded on a flour-dusted counter.' Notice how this description uses smell, sight, and sound to create a vivid experience."
+            ]
+        },
+        {
+            "heading": "Specific Details vs. Vague Language",
+            "paragraphs": [
+                "Vague writing uses general words that don't create a clear picture. Specific writing uses precise details that make the reader feel like they are there. Compare these two sentences: 'The bird sat in the tree' versus 'A red cardinal perched on the lowest branch of the old oak, tilting its crested head as if listening to a secret.' The second sentence is more interesting because it is specific.",
+                "When you write, challenge yourself to replace vague words with specific ones. Instead of 'flower,' name the flower — a sunflower, a daisy, a rose. Instead of 'walked,' try 'shuffled,' 'strode,' or 'tiptoed.' Specific language shows that you have really observed the world, the way the psalmist observed creation with wonder and gratitude."
+            ]
+        },
+        {
+            "heading": "Simile and Metaphor",
+            "paragraphs": [
+                "Two powerful tools in descriptive writing are simile and metaphor. A simile compares two things using 'like' or 'as': 'The lake was smooth as glass.' A metaphor says one thing is another: 'The lake was a mirror reflecting the mountains.' Both tools help readers see familiar things in new and surprising ways.",
+                "The Bible uses similes and metaphors constantly. Jesus said, 'You are the light of the world' (Matthew 5:14) — a metaphor that compares believers to light. The Psalms describe God as a 'shield,' a 'rock,' and a 'fortress.' These comparisons help us understand deep truths in vivid, memorable ways. As you practice descriptive writing, try using similes and metaphors to make your descriptions come alive."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose a place you know well (your backyard, a park, your kitchen). Write a short paragraph describing it using at least three different senses. What details did you notice that you might normally overlook?",
+            "guidance": "Go beyond sight — include sounds, smells, textures, or even tastes. Try to help the reader feel like they are standing in that place."
+        },
+        {
+            "id": 2,
+            "question": "Read Psalm 104:24. How does careful observation of God's creation make us better writers? Why is paying attention to details an act of gratitude?",
+            "guidance": "Think about how noticing the beauty and complexity of the world is a way of honoring the One who made it."
+        },
+        {
+            "id": 3,
+            "question": "Find a simile or metaphor in the Bible (the Psalms are a great place to look). Write it down and explain what comparison is being made. Then try writing your own simile or metaphor about something in nature.",
+            "guidance": "Examples to look for: Psalm 1:3, Psalm 23:1, Psalm 42:1. Your own simile or metaphor should compare two unlike things in a surprising way."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "technology",
+    "title": "Web and Media Literacy — Navigating the Digital World Wisely",
+    "description": "Learn how the web works, how to evaluate online sources, and how to navigate social media and digital life with wisdom and Biblical discernment.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Web and Media Literacy — Navigating the Digital World Wisely",
+            "lessons": ["how_web_works", "evaluating_sources", "social_media_wisdom", "digital_footprint", "media_creation", "responsible_digital_life"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

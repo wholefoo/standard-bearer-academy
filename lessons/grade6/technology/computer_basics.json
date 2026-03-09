@@ -1,0 +1,70 @@
+{
+    "id": "computer_basics",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Computer Basics — Understanding the Machines We Use",
+    "subtitle": "How Computers Work and Why They Reflect Orderly Design",
+    "scripture": "1 Corinthians 14:40",
+    "key_concepts": ["Hardware vs. software", "Input, processing, output", "Operating systems", "Files and folders"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "Computers operate on principles of order and logic. This reflects the character of God, who is a God of order, not confusion. When we organize our digital files and understand how computers work, we practice the orderliness God values."
+            },
+            {
+                "reference": "Proverbs 24:3-4",
+                "text": "\"By wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures.\"",
+                "commentary": "Just as a house needs a solid structure, a computer needs well-designed hardware and software to function properly. Understanding these systems helps us use them wisely."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is a Computer?",
+            "paragraphs": [
+                "A computer is an electronic device that processes information. It takes in data (input), works with that data (processing), and produces a result (output). Every computer — from a tiny smartphone to a massive server — follows this basic pattern.",
+                "Computers are remarkable machines, but they are not intelligent in the way humans are. They follow instructions written by people. They cannot think, feel, or make moral decisions. Only beings made in the image of God have those abilities."
+            ]
+        },
+        {
+            "heading": "Hardware and Software",
+            "paragraphs": [
+                "Every computer has two main parts: hardware and software. Hardware refers to the physical components you can touch — the screen, keyboard, mouse, and the electronic circuits inside. Software refers to the programs and instructions that tell the hardware what to do. Without software, hardware is just a collection of parts. Without hardware, software has nothing to run on.",
+                "Important hardware components include the CPU (Central Processing Unit), which is like the computer's brain; RAM (Random Access Memory), which stores information temporarily while the computer is working; and the hard drive or SSD, which stores information permanently even when the computer is turned off."
+            ]
+        },
+        {
+            "heading": "Operating Systems and Programs",
+            "paragraphs": [
+                "An operating system (OS) is the main software that manages everything on a computer. Windows, macOS, and ChromeOS are common operating systems. The OS organizes files, runs programs, and lets you interact with your computer through a graphical interface with icons, windows, and menus.",
+                "On top of the operating system, you can run applications (apps) — word processors, web browsers, games, and more. Each application is a set of detailed instructions written by programmers who use their God-given skills to create useful tools."
+            ]
+        },
+        {
+            "heading": "Organizing Your Digital World",
+            "paragraphs": [
+                "Just as you organize your physical belongings — keeping your room tidy, putting books on shelves — you should organize your digital files. Computers use a system of folders and files to keep things in order. Learning to name your files clearly and put them in logical folders is an important skill.",
+                "Good digital organization saves time, reduces frustration, and reflects the Biblical principle that God values order and stewardship. When you take care of your digital tools and files, you are being a faithful steward of the resources God has given you."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Explain the difference between hardware and software. Why does a computer need both to function?",
+            "guidance": "Think of an analogy — like a body (hardware) needing a mind (software) to direct it. Consider what each part contributes."
+        },
+        {
+            "id": 2,
+            "question": "How does the orderly design of computers reflect the character of God as described in 1 Corinthians 14:40?",
+            "guidance": "Consider how computers depend on precise logic and order to work. Think about what would happen if there were no rules or structure."
+        },
+        {
+            "id": 3,
+            "question": "Why is organizing your digital files an act of stewardship? What practical steps can you take to keep your computer organized?",
+            "guidance": "Think about how disorganization wastes time and creates frustration. Consider specific strategies like naming conventions and folder structures."
+        }
+    ]
+}

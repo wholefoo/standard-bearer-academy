@@ -1,0 +1,83 @@
+{
+    "id": "online_threats",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Online Threats",
+    "subtitle": "Understanding the Adversary",
+    "scripture": "1 Peter 5:8",
+    "primary_source": "Verizon Data Breach Investigations Report (2023)",
+    "key_concepts": ["Malware types", "Phishing and social engineering", "Ransomware", "Insider threats", "Spiritual parallels to digital threats"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Peter 5:8",
+                "text": "\"Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.\"",
+                "commentary": "Just as Scripture warns us to be vigilant against spiritual threats, cybersecurity demands constant vigilance against digital threats. The adversary — whether spiritual or digital — seeks to exploit our carelessness and complacency."
+            },
+            {
+                "reference": "2 Corinthians 11:14",
+                "text": "\"And no wonder, for Satan himself masquerades as an angel of light.\"",
+                "commentary": "Deception is the primary tool of both spiritual and digital adversaries. Phishing emails masquerade as legitimate communications; malicious websites masquerade as trustworthy sources. The ability to discern truth from deception is essential in both the spiritual and digital realms."
+            },
+            {
+                "reference": "Ephesians 6:11",
+                "text": "\"Put on the full armor of God, so that you can take your stand against the devil's schemes.\"",
+                "commentary": "Paul calls believers to be prepared with the full armor of God. Similarly, cybersecurity requires comprehensive preparation — not just one tool or technique, but a complete defense strategy."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Know Your Enemy",
+            "paragraphs": [
+                "Effective defense begins with understanding the threats you face. In cybersecurity, the threat landscape is vast and constantly changing. Attackers range from lone hackers seeking financial gain to organized criminal syndicates, nation-state actors conducting espionage, and ideologically motivated hacktivists. Each type of attacker has different motivations, capabilities, and methods.",
+                "Understanding these threats is not about living in fear. Just as a soldier studies the enemy's tactics to defend his country, cybersecurity professionals study attack methods to build better defenses. Knowledge and preparedness are the antidotes to vulnerability."
+            ]
+        },
+        {
+            "heading": "Malware: Malicious Software",
+            "paragraphs": [
+                "Malware is a broad category that includes any software designed to harm, exploit, or otherwise compromise a computer system. Common types include viruses (which attach to legitimate programs and spread), worms (which spread independently across networks), trojans (which disguise themselves as legitimate software), and spyware (which secretly monitors user activity).",
+                "Ransomware has become one of the most devastating forms of malware in recent years. It encrypts a victim's files and demands payment (usually in cryptocurrency) for the decryption key. Hospitals, schools, city governments, and businesses have all been targeted, sometimes with life-threatening consequences when critical systems are locked down."
+            ]
+        },
+        {
+            "heading": "Phishing and Social Engineering",
+            "paragraphs": [
+                "Social engineering is the art of manipulating people into revealing confidential information or performing actions that compromise security. Phishing — sending fraudulent emails or messages that appear to come from trusted sources — is the most common form. These messages often create a sense of urgency, fear, or curiosity to trick recipients into clicking malicious links or providing credentials.",
+                "The most sophisticated phishing attacks (spear phishing) target specific individuals using personal information gathered from social media and other sources. According to the Verizon Data Breach Investigations Report, the human element is involved in the vast majority of security breaches. Technical defenses are important, but training people to recognize and resist social engineering is equally critical."
+            ]
+        },
+        {
+            "heading": "Insider Threats",
+            "paragraphs": [
+                "Not all threats come from outside an organization. Insider threats — employees, contractors, or other trusted individuals who misuse their access — are among the most difficult to detect and prevent. Insiders may act maliciously (stealing data for profit or revenge) or negligently (accidentally exposing sensitive information through carelessness).",
+                "Addressing insider threats requires a combination of technical controls (access restrictions, monitoring, data loss prevention) and organizational culture (fostering trust while maintaining accountability). The Biblical principle of accountability — that we will all give an account of our actions (Romans 14:12) — applies directly to how we handle the access and information entrusted to us."
+            ]
+        },
+        {
+            "heading": "Staying Vigilant",
+            "paragraphs": [
+                "The threat landscape will continue to evolve as technology advances. New attack methods will emerge, and existing ones will become more sophisticated. The key to effective defense is not to know every possible attack, but to develop the habits of vigilance, skepticism, and continuous learning.",
+                "As Christians, we recognize that the call to vigilance extends beyond the digital realm. The same qualities that make a good cybersecurity professional — alertness, discernment, integrity, and discipline — are the qualities that Scripture calls us to cultivate in our spiritual lives. Our digital vigilance should be an extension of our spiritual vigilance."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is the deceptive nature of phishing attacks similar to the spiritual deception described in 2 Corinthians 11:14? What principles of discernment apply to both?",
+            "guidance": "Consider how both spiritual and digital deception exploit trust, create false urgency, and masquerade as something legitimate."
+        },
+        {
+            "id": 2,
+            "question": "Why are insider threats so dangerous? How does the Biblical concept of accountability relate to the responsible use of access and information?",
+            "guidance": "Think about how trust and access create responsibility, and how the Christian understanding of stewardship applies to digital privileges."
+        },
+        {
+            "id": 3,
+            "question": "How can Christians develop the habit of digital vigilance without becoming fearful or paranoid? What is the difference between wise caution and unhealthy anxiety?",
+            "guidance": "Consider how trust in God's sovereignty (Psalm 46:1) frees us to be vigilant without being anxious, and how this applies to cybersecurity."
+        }
+    ]
+}

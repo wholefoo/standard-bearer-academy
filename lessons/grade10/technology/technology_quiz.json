@@ -1,0 +1,127 @@
+{
+    "id": "technology_quiz",
+    "title": "Cybersecurity and Ethics — Guarding Truth in a Digital Age",
+    "description": "Test your understanding of cybersecurity principles, digital ethics, and the Biblical foundations for guarding truth in the digital world.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What are the three components of the CIA triad in cybersecurity?",
+            "options": [
+                "Computers, Internet, Applications",
+                "Confidentiality, Integrity, Availability",
+                "Classification, Investigation, Authorization",
+                "Communication, Integration, Authentication"
+            ],
+            "correct": 1,
+            "explanation": "The CIA triad — Confidentiality, Integrity, and Availability — forms the foundation of cybersecurity. Every security measure aims to protect one or more of these properties."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between symmetric and asymmetric encryption?",
+            "options": [
+                "Symmetric encryption is stronger than asymmetric encryption",
+                "Symmetric uses the same key for encryption and decryption; asymmetric uses a pair of keys",
+                "Asymmetric encryption can only be used for email",
+                "Symmetric encryption requires no keys at all"
+            ],
+            "correct": 1,
+            "explanation": "Symmetric encryption uses one shared key for both encrypting and decrypting data, while asymmetric encryption uses a public key for encryption and a private key for decryption."
+        },
+        {
+            "id": 3,
+            "question": "Which type of cyber attack involves tricking people into revealing sensitive information through deceptive emails or messages?",
+            "options": [
+                "Brute force attack",
+                "Denial-of-service attack",
+                "Phishing",
+                "SQL injection"
+            ],
+            "correct": 2,
+            "explanation": "Phishing is a social engineering attack that uses deceptive emails, messages, or websites to trick people into revealing passwords, financial information, or other sensitive data."
+        },
+        {
+            "id": 4,
+            "question": "What distinguishes ethical hacking from malicious hacking?",
+            "options": [
+                "Ethical hackers use different tools",
+                "Ethical hackers have authorization and aim to improve security",
+                "Ethical hackers only work on weekends",
+                "There is no real difference between them"
+            ],
+            "correct": 1,
+            "explanation": "Ethical hackers have explicit permission to test systems and work to identify vulnerabilities so they can be fixed, while malicious hackers act without authorization and seek to exploit vulnerabilities for personal gain."
+        },
+        {
+            "id": 5,
+            "question": "What is responsible disclosure in cybersecurity?",
+            "options": [
+                "Publishing all security vulnerabilities immediately on social media",
+                "Never reporting vulnerabilities to anyone",
+                "Privately notifying the affected organization and allowing time for a fix before public disclosure",
+                "Selling vulnerability information to the highest bidder"
+            ],
+            "correct": 2,
+            "explanation": "Responsible disclosure involves privately notifying the affected organization about a vulnerability and giving them reasonable time to fix it before making the information public, protecting users from exploitation."
+        },
+        {
+            "id": 6,
+            "question": "What is the Computer Fraud and Abuse Act (CFAA)?",
+            "options": [
+                "A law requiring all computers to have antivirus software",
+                "The primary U.S. federal law addressing computer crime and unauthorized access",
+                "A regulation governing social media companies",
+                "An international treaty on cybersecurity"
+            ],
+            "correct": 1,
+            "explanation": "The Computer Fraud and Abuse Act (1986) is the primary federal law in the United States addressing computer crime, criminalizing unauthorized access to computer systems and related offenses."
+        },
+        {
+            "id": 7,
+            "question": "What is the difference between disinformation and misinformation?",
+            "options": [
+                "They mean exactly the same thing",
+                "Disinformation is deliberately false; misinformation is unintentionally false",
+                "Misinformation is more harmful than disinformation",
+                "Disinformation only exists in print media"
+            ],
+            "correct": 1,
+            "explanation": "Disinformation is false information deliberately created and spread to deceive, while misinformation is false information spread without intent to deceive — often by well-meaning people who believe it to be true."
+        },
+        {
+            "id": 8,
+            "question": "What are deepfakes?",
+            "options": [
+                "Extremely secure encryption methods",
+                "AI-generated realistic fake videos, audio, or images",
+                "Deep web websites that sell illegal goods",
+                "A type of computer virus that hides deep in system files"
+            ],
+            "correct": 1,
+            "explanation": "Deepfakes are AI-generated synthetic media — highly realistic fake videos, audio recordings, or images that can make it appear that real people said or did things they never actually said or did."
+        },
+        {
+            "id": 9,
+            "question": "How does the Biblical commandment 'You shall not steal' apply to the digital world?",
+            "options": [
+                "It only applies to physical property, not digital content",
+                "It applies to software piracy, data theft, unauthorized access, and plagiarism",
+                "It only applies if you make money from the stolen content",
+                "It does not apply in the digital age"
+            ],
+            "correct": 1,
+            "explanation": "The commandment against theft applies to all forms of property, including digital. Software piracy, unauthorized data access, identity theft, and plagiarism are all forms of stealing that violate both God's law and human law."
+        },
+        {
+            "id": 10,
+            "question": "According to the lesson on guarding truth online, what model do the Bereans in Acts 17:11 provide for digital media consumption?",
+            "options": [
+                "They accepted everything they were told without question",
+                "They refused to engage with any new information",
+                "They eagerly received messages but carefully examined them to verify their truth",
+                "They only read religious texts and avoided all secular sources"
+            ],
+            "correct": 2,
+            "explanation": "The Bereans 'received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.' This models the combination of openness and careful verification that Christians should bring to digital information."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "ai_ethics_quiz",
+    "title": "Unit 1: Artificial Intelligence and Ethics — Wisdom for the Age of Machines",
+    "description": "Test your understanding of artificial intelligence, machine learning, ethical challenges, and the Biblical framework for engaging with AI.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the key distinction between narrow AI and general AI?",
+            "options": [
+                "Narrow AI is faster than general AI",
+                "Narrow AI performs specific tasks while general AI would match human intelligence across all domains",
+                "General AI already exists but is restricted by governments",
+                "Narrow AI uses neural networks while general AI uses traditional programming"
+            ],
+            "correct": 1,
+            "explanation": "Narrow AI (weak AI) is designed for specific tasks like image recognition or language translation. General AI (strong AI) would be capable of any intellectual task a human can perform, including reasoning across domains and exercising judgment. General AI does not currently exist."
+        },
+        {
+            "id": 2,
+            "question": "Why does machine learning work, from a Christian perspective?",
+            "options": [
+                "Because machines are smarter than humans",
+                "Because the universe is random and algorithms exploit randomness",
+                "Because God created an orderly universe with discoverable patterns",
+                "Because neural networks are identical to human brains"
+            ],
+            "correct": 2,
+            "explanation": "Machine learning discovers patterns in data. These patterns exist because God created and sustains an orderly, rational universe (Colossians 1:17). If the universe were truly random, there would be no consistent patterns for algorithms to learn from."
+        },
+        {
+            "id": 3,
+            "question": "What did Joy Buolamwini's 'Gender Shades' study reveal about facial recognition AI?",
+            "options": [
+                "That facial recognition works equally well for all demographics",
+                "That AI systems had significantly higher error rates for dark-skinned women compared to light-skinned men",
+                "That facial recognition technology should be banned entirely",
+                "That AI is always more accurate than human judgment"
+            ],
+            "correct": 1,
+            "explanation": "Buolamwini's 2018 study showed that commercial facial recognition systems had error rates of up to 34% for dark-skinned women while achieving near-perfect accuracy for light-skinned men. This demonstrated how biased training data produces biased AI outcomes — a form of the 'false balance' condemned in Proverbs 11:1."
+        },
+        {
+            "id": 4,
+            "question": "According to Proverbs 11:1, what Biblical principle is violated when AI systems produce biased results?",
+            "options": [
+                "The principle of Sabbath rest",
+                "The principle of just weights and measures",
+                "The principle of tithing",
+                "The principle of honoring parents"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 11:1 states, 'A false balance is an abomination to the LORD, but a just weight is his delight.' When AI systems produce systematically biased results — treating people unequally based on race, gender, or other factors — they function as 'false balances' that violate God's standard of justice."
+        },
+        {
+            "id": 5,
+            "question": "What is the 'black box' problem in AI?",
+            "options": [
+                "AI systems are always stored in black boxes for security",
+                "Complex AI models make decisions that even their creators cannot fully explain",
+                "AI systems only work in dark environments",
+                "All AI code must be kept secret by law"
+            ],
+            "correct": 1,
+            "explanation": "The 'black box' problem refers to the fact that many machine learning models — especially deep neural networks — are so complex that even their creators cannot fully explain how they arrive at specific decisions. This creates serious accountability problems when AI systems make consequential decisions affecting people's lives."
+        },
+        {
+            "id": 6,
+            "question": "What does C.S. Lewis warn about in The Abolition of Man that applies to AI?",
+            "options": [
+                "That technology will destroy the earth within a century",
+                "That reducing all questions to technical problems would ultimately dehumanize us",
+                "That Christians should never use computers",
+                "That artificial intelligence will achieve consciousness"
+            ],
+            "correct": 1,
+            "explanation": "Lewis warned that the modern tendency to reduce all questions — including moral and spiritual ones — to technical problems solvable by experts and methods would strip away essential elements of human nature. This applies directly to AI: treating moral questions as optimization problems for algorithms misses the dimension of wisdom that only God can provide."
+        },
+        {
+            "id": 7,
+            "question": "Why can AI process information but not possess wisdom?",
+            "options": [
+                "Because AI is too slow to achieve wisdom",
+                "Because wisdom requires moral judgment and a relationship with God, which machines cannot have",
+                "Because wisdom is less important than information",
+                "Because AI will eventually achieve wisdom with enough data"
+            ],
+            "correct": 1,
+            "explanation": "Wisdom involves moral judgment, spiritual discernment, and understanding of ultimate purposes — qualities that require a soul and a relationship with God (Job 28:28: 'The fear of the Lord — that is wisdom'). AI can process vast amounts of information, but it cannot exercise the moral and spiritual judgment that constitutes true wisdom."
+        },
+        {
+            "id": 8,
+            "question": "What two extreme responses to AI should Christians avoid?",
+            "options": [
+                "Optimism and pessimism",
+                "Techno-utopianism (technology will save us) and technophobia (all technology is evil)",
+                "Using technology at work and using it at home",
+                "Reading about AI and ignoring AI"
+            ],
+            "correct": 1,
+            "explanation": "Christians should reject both techno-utopianism, which idolizes technology as humanity's savior, and technophobia, which rejects technology out of fear. The Biblical path is wise engagement — testing everything, holding on to what is good (1 Thessalonians 5:21), and using technology as faithful stewards."
+        },
+        {
+            "id": 9,
+            "question": "How does the concept of the imago Dei (image of God) distinguish human intelligence from artificial intelligence?",
+            "options": [
+                "It doesn't — AI is essentially the same as human intelligence",
+                "Human intelligence reflects God's image and includes moral agency, creativity, and spiritual awareness that AI lacks",
+                "The image of God only applies to physical appearance, not intelligence",
+                "AI actually has a stronger claim to reflecting God's image because it is more rational"
+            ],
+            "correct": 1,
+            "explanation": "Human beings are made in God's image (Genesis 1:27), possessing moral agency, consciousness, creativity, love, and spiritual awareness. These qualities reflect God's own nature and distinguish human intelligence from any machine process. AI can mimic certain cognitive functions but cannot share in the divine image."
+        },
+        {
+            "id": 10,
+            "question": "According to this course, what is the ultimate source of confidence for Christians navigating the age of AI?",
+            "options": [
+                "The certainty that AI will never surpass human intelligence",
+                "Government regulations that will control AI development",
+                "The sovereignty of God, whose plans cannot be thwarted by any human invention",
+                "The guarantee that technology will always be used for good"
+            ],
+            "correct": 2,
+            "explanation": "Christians' confidence rests not in predictions about technology's trajectory but in God's sovereignty over all human affairs (Isaiah 46:10; Psalm 33:13-15). God is not surprised by AI, and His plans cannot be thwarted by any human invention. Our identity as His image-bearers is secure regardless of technological change."
+        }
+    ]
+}

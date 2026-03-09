@@ -18,11 +18,11 @@
             {% for c in grade_courses %}
             <a href="/course/{{ c.grade }}/{{ c.subject }}" class="subject-card" style="text-decoration:none; color: inherit;">
                 <div class="subject-icon" style="font-size: 28px;">
-                    {% if c.subject == "science" %}🔬{% elif c.subject == "math" %}📐{% elif c.subject == "reading" %}📖{% elif c.subject == "history" %}🏛️{% elif c.subject == "bible" %}✝️{% elif c.subject == "civics" %}⚖️{% else %}📚{% endif %}
+                    {% if c.subject in subjects %}{{ subjects[c.subject].icon }}{% else %}📚{% endif %}
                 </div>
                 <h3 style="font-size: 15px;">{{ c.title }}</h3>
                 <p style="font-size: 12px; color: var(--text-light); margin-top: 4px;">
-                    {% for sk, sv in subjects.items() %}{% if sk == c.subject %}{{ sv.name }}{% endif %}{% endfor %}
+                    {{ subjects[c.subject].name if c.subject in subjects else c.subject }}
                 </p>
             </a>
             {% endfor %}

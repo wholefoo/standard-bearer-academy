@@ -36,6 +36,8 @@ SUBJECTS = {
     "history": {"name": "History & Social Studies", "icon": "🏛️"},
     "bible": {"name": "Bible & Scripture", "icon": "✝️"},
     "civics": {"name": "Civics & Government", "icon": "⚖️"},
+    "technology": {"name": "Technology", "icon": "💻"},
+    "creative_writing": {"name": "Creative Writing", "icon": "✍️"},
 }
 
 USER_ROLES = {

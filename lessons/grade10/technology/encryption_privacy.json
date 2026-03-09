@@ -1,0 +1,83 @@
+{
+    "id": "encryption_privacy",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Encryption and Privacy",
+    "subtitle": "Protecting Secrets in a Transparent World",
+    "scripture": "Proverbs 11:13",
+    "primary_source": "The Fourth Amendment to the United States Constitution (1791)",
+    "key_concepts": ["Encryption fundamentals", "Symmetric and asymmetric encryption", "Public key infrastructure", "Digital privacy", "Biblical view of privacy and discretion"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 11:13",
+                "text": "\"A gossip betrays a confidence, but a trustworthy person keeps a secret.\"",
+                "commentary": "Scripture values the keeping of confidences. Encryption is the digital equivalent of keeping a secret — it ensures that private information remains private, accessible only to those who should see it."
+            },
+            {
+                "reference": "Matthew 6:6",
+                "text": "\"But when you pray, go into your room, close the door and pray to your Father, who is unseen.\"",
+                "commentary": "Jesus affirmed the value of privacy. Not everything must be public. In a digital age, encryption protects the private sphere that God designed for human flourishing."
+            },
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God Himself conceals certain things. The art of encryption reflects this principle — some information is meant to be hidden from unauthorized eyes, and the work of discovering hidden truths requires wisdom and authority."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Need for Encryption",
+            "paragraphs": [
+                "Every time you send a message, make an online purchase, or log into an account, your information travels across networks where it could potentially be intercepted. Without protection, this data — passwords, credit card numbers, personal communications — would be visible to anyone with the technical ability to capture network traffic.",
+                "Encryption is the process of converting readable data (plaintext) into an unreadable format (ciphertext) that can only be decoded by someone who possesses the correct key. It is one of the most fundamental and important tools in cybersecurity, and its history stretches back thousands of years."
+            ]
+        },
+        {
+            "heading": "How Encryption Works",
+            "paragraphs": [
+                "At its core, encryption uses mathematical algorithms to scramble data. There are two main types: symmetric encryption, where the same key is used to encrypt and decrypt data, and asymmetric encryption, where a pair of keys — one public and one private — are used.",
+                "Symmetric encryption is fast and efficient, making it ideal for encrypting large amounts of data. However, it requires that both parties securely share the same key. Asymmetric encryption solves this problem: you can share your public key openly, and anyone can use it to encrypt a message that only your private key can decrypt. Modern systems often combine both approaches for maximum security and efficiency."
+            ]
+        },
+        {
+            "heading": "Public Key Infrastructure",
+            "paragraphs": [
+                "Public Key Infrastructure (PKI) is the system of digital certificates, certificate authorities, and other components that make secure communication possible on the internet. When you see the padlock icon in your browser, it means the website has a valid digital certificate verified by a trusted certificate authority.",
+                "PKI enables secure web browsing (HTTPS), encrypted email, digital signatures, and many other security functions. Understanding PKI is essential for anyone working in cybersecurity, as it forms the backbone of trust on the internet."
+            ]
+        },
+        {
+            "heading": "Privacy in a Digital Age",
+            "paragraphs": [
+                "The Fourth Amendment to the U.S. Constitution protects citizens against unreasonable searches and seizures. This protection was originally written for physical spaces — homes, papers, and effects — but in the digital age, its principles must be applied to electronic communications, stored data, and online activity.",
+                "Privacy is not about having something to hide. It is about maintaining the boundaries that God designed for human flourishing. Just as a home has walls and doors, individuals have a right to control who accesses their personal information. Encryption is the digital equivalent of locking your front door."
+            ]
+        },
+        {
+            "heading": "The Tension Between Security and Privacy",
+            "paragraphs": [
+                "Governments and law enforcement sometimes argue that encryption makes it too difficult to investigate crimes and prevent terrorism. They have proposed requiring 'backdoors' — deliberate weaknesses that would allow authorized access to encrypted data. However, cybersecurity experts consistently warn that any backdoor can be exploited by malicious actors.",
+                "Christians must think carefully about this tension. We support legitimate law enforcement (Romans 13:1-7) while also recognizing that governments can abuse their power. History shows that surveillance powers, once granted, tend to expand. The Biblical balance is to support justice while guarding against tyranny — and strong encryption serves both purposes by protecting the innocent while not preventing lawful investigation through other means."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the Biblical value of keeping confidences relate to the practice of encryption? Why is protecting private information a moral responsibility?",
+            "guidance": "Consider how betraying a confidence (Proverbs 11:13) is analogous to failing to protect sensitive data."
+        },
+        {
+            "id": 2,
+            "question": "Should governments have the ability to bypass encryption? How do you balance the legitimate need for law enforcement with the risk of government overreach?",
+            "guidance": "Consider Romans 13 alongside historical examples of governments abusing surveillance powers. Think about what Biblical principles apply."
+        },
+        {
+            "id": 3,
+            "question": "Why is privacy important for human flourishing? How does the digital erosion of privacy affect individuals and communities?",
+            "guidance": "Think about how Jesus affirmed private prayer, and how the loss of privacy can lead to conformity, fear, and the suppression of conscience."
+        }
+    ]
+}

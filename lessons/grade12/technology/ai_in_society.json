@@ -1,0 +1,79 @@
+{
+    "id": "ai_in_society",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: AI in Society",
+    "subtitle": "How Artificial Intelligence is Reshaping Work, Culture, and Daily Life",
+    "scripture": "Ecclesiastes 7:29; 1 Thessalonians 5:21",
+    "primary_source": "Pope Francis, 'Rome Call for AI Ethics' (2020), on the need for ethical governance of artificial intelligence",
+    "key_concepts": ["AI in healthcare and education", "Automation and employment", "Deepfakes and misinformation", "Surveillance and privacy", "Christian engagement with technological change"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 7:29",
+                "text": "\"This only have I found: God created mankind upright, but they have gone in search of many schemes.\"",
+                "commentary": "Technology is not morally neutral in practice. While God created human beings with the capacity for innovation, the Fall means that every human invention — including AI — can be turned toward sinful purposes. Deepfakes, mass surveillance, and autonomous weapons illustrate how 'schemes' can corrupt good tools."
+            },
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"Test everything; hold on to what is good.\"",
+                "commentary": "Paul's instruction to test everything applies powerfully to new technologies. Christians should not reject AI wholesale or embrace it uncritically. Instead, they should evaluate each application against Biblical principles, holding on to uses that serve truth, justice, and human flourishing while rejecting those that harm or deceive."
+            },
+            {
+                "reference": "Proverbs 14:12",
+                "text": "\"There is a way that appears to be right, but in the end it leads to death.\"",
+                "commentary": "Not every technological advancement is genuine progress. Some applications of AI — such as those designed to manipulate, deceive, or control — may appear beneficial but ultimately lead to harm. Wisdom requires discerning the difference between true progress and mere technical capability."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: AI Everywhere",
+            "paragraphs": [
+                "Artificial intelligence is no longer a futuristic concept confined to science fiction. It is embedded in the devices you use every day — your phone's voice assistant, your social media feeds, your search engine results, and the recommendations you receive from streaming services. AI influences what you see, what you buy, and increasingly, what you believe.",
+                "Beyond consumer technology, AI is transforming medicine, education, transportation, agriculture, finance, law enforcement, and national defense. These transformations bring genuine benefits but also raise profound questions about employment, privacy, truth, and human autonomy. Christians must engage thoughtfully with these changes."
+            ]
+        },
+        {
+            "heading": "Beneficial Applications of AI",
+            "paragraphs": [
+                "AI has produced remarkable benefits across many fields. In healthcare, AI systems can detect cancers in medical images with accuracy matching or exceeding expert radiologists. AI-powered drug discovery has accelerated the development of new treatments. In agriculture, precision farming systems use AI to optimize irrigation, fertilization, and pest control, helping feed a growing world population.",
+                "In education, adaptive learning platforms use AI to personalize instruction, identifying each student's strengths and weaknesses and adjusting content accordingly. In disaster response, AI helps predict natural disasters, coordinate relief efforts, and locate survivors. These applications align with the dominion mandate and the call to love our neighbors.",
+                "Language translation powered by AI has opened new possibilities for global communication and even for missionary work, breaking down language barriers that once limited the spread of the Gospel. When used wisely, AI can be a powerful tool for Kingdom purposes."
+            ]
+        },
+        {
+            "heading": "Threats and Dangers of AI",
+            "paragraphs": [
+                "The same technology that powers beneficial applications also enables serious harms. Deepfakes — AI-generated videos, images, and audio that convincingly depict events that never happened — threaten to undermine trust in evidence and truth itself. In a world already struggling with misinformation, the ability to fabricate realistic but false content poses grave dangers to public discourse.",
+                "Mass surveillance powered by AI facial recognition and data analytics enables governments to monitor citizens at an unprecedented scale. Authoritarian regimes have already deployed these tools to suppress dissent, track religious minorities, and enforce social control. The potential for abuse of AI surveillance is enormous.",
+                "Automation driven by AI threatens to displace millions of workers across industries. While technological disruption has always created new jobs alongside those it eliminates, the speed and scope of AI-driven automation may outpace society's ability to adapt, creating economic hardship for vulnerable communities."
+            ]
+        },
+        {
+            "heading": "Christian Engagement: Neither Utopians nor Luddites",
+            "paragraphs": [
+                "Christians should reject two extreme responses to AI in society. The techno-utopian view holds that technology will solve all human problems and usher in a kind of secular salvation. This view ignores the reality of sin and the limits of human ingenuity. Technology cannot save us from our deepest problems — sin, death, and separation from God — because those problems are spiritual, not technical.",
+                "The opposite extreme — technophobia — rejects new technologies out of fear and nostalgia. While caution is appropriate, blanket rejection of AI would mean forfeiting the opportunity to use powerful tools for good. Christians have historically been at the forefront of using new technologies — from the printing press to radio to the internet — to spread the Gospel and serve their communities.",
+                "The Biblical path is wise engagement: testing everything, holding on to what is good, and speaking prophetically when technology is used for evil. Christians in technology fields have a special calling to bring ethical leadership, advocate for human dignity, and ensure that AI serves rather than diminishes human flourishing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the concept of 'testing everything' (1 Thessalonians 5:21) apply to new AI applications? Give an example of an AI application you would 'hold on to' and one you would reject.",
+            "guidance": "Think about evaluating AI applications against Biblical principles of truth, justice, human dignity, and love for neighbor. Consider both the intended and unintended consequences of specific technologies."
+        },
+        {
+            "id": 2,
+            "question": "Why should Christians reject both techno-utopianism and technophobia? What does a Biblical middle ground look like?",
+            "guidance": "Consider how utopianism idolizes human capability while technophobia reflects fear rather than faith. Think about how stewardship, discernment, and prophetic witness provide a balanced framework."
+        },
+        {
+            "id": 3,
+            "question": "How do deepfakes and AI-generated misinformation threaten the Biblical value of truth? What responsibility do Christians have in responding to this threat?",
+            "guidance": "Consider the ninth commandment's prohibition against bearing false witness. Think about how Christians can be leaders in media literacy, truth-telling, and holding technology companies accountable."
+        }
+    ]
+}

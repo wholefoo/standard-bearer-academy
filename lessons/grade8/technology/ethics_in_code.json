@@ -1,0 +1,72 @@
+{
+    "id": "ethics_in_code",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Ethics in Code",
+    "subtitle": "Honoring God Through Responsible Programming",
+    "scripture": "Micah 6:8",
+    "key_concepts": ["Ethical responsibility in programming", "Intellectual property and plagiarism", "Digital honesty", "Using technology to serve others"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Micah 6:8",
+                "text": "\"He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.\"",
+                "commentary": "God's requirements for justice, mercy, and humility apply to every area of life — including how we write and use code. Programmers have a responsibility to create software that is fair, helpful, and honest."
+            },
+            {
+                "reference": "Exodus 20:15",
+                "text": "\"You shall not steal.\"",
+                "commentary": "The commandment against stealing applies to intellectual property as well as physical property. Copying someone else's code without permission or credit, pirating software, and plagiarism are all forms of theft that violate God's moral law."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "The Moral Dimension of Programming",
+            "paragraphs": [
+                "Programming is not morally neutral. The code we write can be used to help people or to harm them, to tell the truth or to deceive, to protect privacy or to violate it. Every programmer makes ethical choices — whether they realize it or not — in how they design, build, and deploy software.",
+                "As Christians, we are called to a higher standard. We do not just ask 'Can I build this?' but 'Should I build this?' We consider not only whether something works, but whether it serves God's purposes and treats people with the dignity they deserve as image-bearers of God."
+            ]
+        },
+        {
+            "heading": "Intellectual Property and Giving Credit",
+            "paragraphs": [
+                "Intellectual property refers to creations of the mind — code, designs, inventions, and artistic works. Just as stealing physical property is wrong, taking credit for someone else's code or ideas is a form of theft.",
+                "In the programming world, there are different types of licenses that determine how code can be used and shared. Open-source software is freely available for use and modification, but even open-source licenses often require giving credit to the original author. Respecting these rules is a matter of honesty and integrity.",
+                "When you use code from the internet in your projects, always give credit to the original source. When you write original code, take pride in your work and protect it appropriately. These practices honor God's command to act justly and reflect the Christian value of truthfulness."
+            ]
+        },
+        {
+            "heading": "Digital Honesty",
+            "paragraphs": [
+                "Digital honesty means being truthful in our online activities and in the software we create. This includes not creating programs designed to deceive people, not spreading misinformation, and being transparent about what our software does with user data.",
+                "Unfortunately, the technology world is full of examples of dishonesty — from phishing scams that trick people into revealing personal information, to software that secretly collects user data, to fake reviews and bot accounts that manipulate public opinion. Christians must stand against these practices and commit to honesty in all their digital endeavors."
+            ]
+        },
+        {
+            "heading": "Using Code to Serve Others",
+            "paragraphs": [
+                "The greatest use of programming skill is in service to others. Technology can be used to solve real problems — helping people with disabilities, connecting isolated communities, improving education, managing resources for those in need, and spreading the Gospel to unreached people.",
+                "Many programmers volunteer their skills through organizations that create technology for nonprofits, churches, and communities in need. As you develop your programming abilities, think about how you might use these skills to serve God's kingdom and love your neighbor.",
+                "Remember the words of Jesus: 'From everyone who has been given much, much will be demanded' (Luke 12:48). Programming skill is a gift and a responsibility. Use it wisely and generously for the glory of God and the good of others."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does it mean to say that programming is not morally neutral? Give an example of how the same programming skill could be used for good or for evil.",
+            "guidance": "Think about how skills like data analysis could be used to help disaster relief efforts or to invade people's privacy. Consider how the programmer's intentions and values shape the impact of their work."
+        },
+        {
+            "id": 2,
+            "question": "Why is copying someone else's code without credit a form of stealing? How does respecting intellectual property honor God's commandments?",
+            "guidance": "Reflect on Exodus 20:15 and how the principle of not stealing extends beyond physical objects. Think about how giving credit builds trust and community among programmers."
+        },
+        {
+            "id": 3,
+            "question": "How could you use programming skills to serve others and glorify God? Describe a project idea that would help people in your community or church.",
+            "guidance": "Think creatively about problems you see in your community that technology could help solve. Consider how Jesus served others and how we can follow His example through our work with technology."
+        }
+    ]
+}

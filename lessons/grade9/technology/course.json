@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "technology",
+    "title": "Computer Science Foundations",
+    "description": "Order in God's Digital Creation",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Computer Science Foundations — Order in God's Digital Creation",
+            "lessons": ["history_computing", "binary_data", "algorithms", "programming_languages", "software_development", "faith_technology"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

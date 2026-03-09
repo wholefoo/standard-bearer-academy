@@ -1,0 +1,79 @@
+{
+    "id": "creative_nonfiction",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Creative Nonfiction",
+    "subtitle": "Telling True Stories with Literary Artistry",
+    "scripture": "John 8:32; Psalm 78:1-4",
+    "primary_source": "Annie Dillard, Pilgrim at Tinker Creek (1974), a model of creative nonfiction that finds God's presence in the natural world",
+    "key_concepts": ["Creative nonfiction defined", "Memoir, essay, and literary journalism", "Scene-building with true events", "The Christian mandate to tell true stories", "Finding the sacred in the ordinary"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "John 8:32",
+                "text": "\"Then you will know the truth, and the truth will set you free.\"",
+                "commentary": "Creative nonfiction is built on truth — real events, real people, real experiences. The Christian writer's commitment to truth is not merely a literary principle but a spiritual one. When we write truthfully about the world, we participate in the liberating power of truth that Jesus proclaimed."
+            },
+            {
+                "reference": "Psalm 78:1-4",
+                "text": "\"My people, hear my teaching; listen to the words of my mouth. I will open my mouth with a parable; I will utter hidden things, things from of old — things we have heard and known, things our ancestors have told us. We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of the LORD.\"",
+                "commentary": "The psalmist models creative nonfiction: telling true stories in compelling, artful ways to preserve them for future generations. Christian writers carry on this tradition when they tell the true stories of God's work in their lives, communities, and the world."
+            },
+            {
+                "reference": "Romans 1:20",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made.\"",
+                "commentary": "Creative nonfiction that attends closely to the natural world — as Annie Dillard's work does — can reveal God's invisible qualities through careful observation of His visible creation. The genre invites writers to look closely at reality and find the sacred woven into the ordinary."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: True Stories, Artfully Told",
+            "paragraphs": [
+                "Creative nonfiction is the art of telling true stories using the techniques of fiction — vivid scenes, compelling characters, narrative tension, sensory detail, and literary language. Unlike academic writing, which prioritizes argument and evidence, creative nonfiction prioritizes experience and meaning. Unlike fiction, it is bound by a commitment to factual truth.",
+                "The genre includes memoir, personal essay, literary journalism, nature writing, travel writing, and biography. What unites these forms is the combination of truthfulness and artistry — the writer's obligation to report what actually happened while crafting the telling with literary skill and purpose."
+            ]
+        },
+        {
+            "heading": "The Art of Scene-Building",
+            "paragraphs": [
+                "The fundamental unit of creative nonfiction is the scene — a moment reconstructed with enough sensory detail that the reader feels present. Instead of summarizing events ('My grandmother was a kind woman'), the creative nonfiction writer builds scenes ('My grandmother's kitchen smelled of cinnamon and lemon soap. She stood at the counter rolling dough, humming a hymn I didn't recognize, and when she saw me in the doorway she smiled and said, Come here, honey, I saved you the bowl to lick.').",
+                "Effective scenes include setting (where and when), character (who is present and what are they doing), dialogue (what is said), and sensory detail (what is seen, heard, smelled, tasted, touched). These elements combine to create an immersive experience that communicates meaning far more powerfully than abstract summary.",
+                "When writing about real events, accuracy matters. You may not remember every word of a conversation from years ago, but you should reconstruct it as faithfully as possible, capturing the essence of what was said. Honesty about the limits of memory — 'As I remember it' or 'Something like' — can be part of the narrative without undermining its power."
+            ]
+        },
+        {
+            "heading": "Forms of Creative Nonfiction",
+            "paragraphs": [
+                "Memoir focuses on a specific period, theme, or experience in the writer's life. Unlike autobiography, which attempts to cover an entire life, memoir zooms in on what matters most. The best memoirs transform personal experience into universal insight — the writer's particular story illuminates something true about the human condition.",
+                "The personal essay explores an idea, question, or experience through the lens of the writer's own perspective. It is less narrative than memoir, often moving between reflection and experience, weaving together observation, memory, and thought. Michel de Montaigne, who invented the essay form in the sixteenth century, called his essays 'attempts' — explorations rather than conclusions.",
+                "Literary journalism applies creative nonfiction techniques to reporting. Writers like Annie Dillard and Wendell Berry have used this form to explore nature, community, and faith with both factual rigor and literary beauty. For Christian writers, literary journalism offers a way to bear witness to what God is doing in the world through carefully observed, beautifully written true stories."
+            ]
+        },
+        {
+            "heading": "Finding the Sacred in the Ordinary",
+            "paragraphs": [
+                "One of the great gifts of creative nonfiction is its ability to reveal significance in everyday life. Annie Dillard's Pilgrim at Tinker Creek finds wonder and theological meaning in creek water, insects, and seasonal changes. Wendell Berry discovers profound truths about stewardship and community in the rhythms of farming. These writers teach us to pay attention — to look at the ordinary world with eyes of faith and discover God's presence in the mundane.",
+                "For Christian writers, creative nonfiction is an ideal genre for exploring how faith intersects with daily life. The moments when God feels most real are often not dramatic spiritual experiences but quiet, ordinary ones — a conversation with a neighbor, the beauty of a sunset, the satisfaction of honest work, the comfort of a familiar hymn. Creative nonfiction gives you the tools to capture these moments and share them with others.",
+                "As you develop your portfolio, consider including a piece of creative nonfiction. Write about a real experience — a place, a person, a season, a challenge — and attend to it with the careful observation and literary craft that the genre demands. Look for the sacred within the ordinary, and trust that your truthful attention to the real world will reveal something worth sharing."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write a scene from your own life using the techniques of creative nonfiction — setting, character, dialogue, and sensory detail. What does building a scene reveal that summary cannot?",
+            "guidance": "Choose a specific moment — a conversation, an event, a discovery — and reconstruct it with as much sensory detail as you can remember. Focus on showing rather than telling, and notice how the scene communicates meaning through experience rather than explanation."
+        },
+        {
+            "id": 2,
+            "question": "How does the Christian commitment to truth shape the practice of creative nonfiction? What ethical obligations does a nonfiction writer have that a fiction writer does not?",
+            "guidance": "Think about the difference between imaginative invention (fiction) and truthful reconstruction (nonfiction). Consider the writer's responsibility to accuracy, the limits of memory, and the importance of not fabricating events or dialogue."
+        },
+        {
+            "id": 3,
+            "question": "Annie Dillard finds God's presence in the natural world through careful observation. Where in your ordinary life do you see evidence of God's work? How would you write about it?",
+            "guidance": "Think about everyday moments, places, or people where you sense God's presence or purpose. Consider how close attention and literary craft could transform an ordinary experience into a piece of writing that reveals something sacred."
+        }
+    ]
+}

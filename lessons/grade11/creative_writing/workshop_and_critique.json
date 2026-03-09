@@ -1,0 +1,79 @@
+{
+    "id": "workshop_and_critique",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Workshop and Critique",
+    "subtitle": "Growing as a Writer Through Community",
+    "scripture": "Proverbs 27:17",
+    "primary_source": "The Inklings: C.S. Lewis, J.R.R. Tolkien, and Charles Williams (1930s-1960s)",
+    "key_concepts": ["Writing workshops", "Giving constructive critique", "Receiving criticism with humility", "Revision process", "Writing community"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "Growth happens in community. Just as iron must meet iron to become sharp, writers grow by sharing their work with others who can see what they cannot. The workshop is a place of mutual sharpening, where honest feedback strengthens every participant."
+            },
+            {
+                "reference": "Proverbs 12:1",
+                "text": "\"Whoever loves discipline loves knowledge, but whoever hates correction is stupid.\"",
+                "commentary": "Receiving criticism well requires humility — the recognition that our first drafts are not perfect and that others can see flaws we are blind to. The wise writer welcomes correction as a gift, not an attack."
+            },
+            {
+                "reference": "Ephesians 4:15",
+                "text": "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"",
+                "commentary": "Critique in a Christian writing community should be truthful and loving. Flattery that avoids honest assessment fails the writer. Harshness that tears down without building up fails the person. Truth spoken in love is the standard for all feedback."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Inklings as a Model",
+            "paragraphs": [
+                "In the 1930s and 1940s, a group of Christian writers met regularly at an Oxford pub called The Eagle and Child. They read their work aloud, offered frank criticism, and encouraged one another. This group — the Inklings — included C.S. Lewis, J.R.R. Tolkien, and Charles Williams. Their mutual critique produced some of the greatest Christian literature of the 20th century.",
+                "Tolkien read early drafts of 'The Lord of the Rings' to the Inklings over a period of years. Lewis encouraged him when he flagged and pushed back when the writing needed improvement. Lewis, in turn, read chapters of his own novels to the group. The result was not compromise but refinement — each writer's vision was sharpened, not diluted, by the feedback of trusted peers."
+            ]
+        },
+        {
+            "heading": "How to Give Effective Critique",
+            "paragraphs": [
+                "Good critique begins with careful reading. Before offering feedback, read the piece at least twice — once for overall impression and once for specific observations. Note what works well as specifically as you note what needs improvement. General praise ('I liked it') is as unhelpful as general criticism ('It needs work').",
+                "Be specific and constructive. Instead of saying 'this character is boring,' say 'I wanted to understand more about what motivates Sarah in the second chapter — her decision to leave felt sudden.' Instead of 'the dialogue is bad,' say 'in the argument scene, both characters sound similar — could you differentiate their voices?' Specific feedback gives the writer something actionable.",
+                "Address the work, not the writer. Say 'the pacing slows in the middle section' rather than 'you have a pacing problem.' This distinction may seem small, but it keeps the focus on the craft and reduces defensiveness. Remember that you are serving the writer's vision, not imposing your own."
+            ]
+        },
+        {
+            "heading": "How to Receive Critique",
+            "paragraphs": [
+                "Receiving criticism is one of the hardest skills a writer must develop. When someone critiques your work, your first instinct will often be to defend, explain, or dismiss. Resist this instinct. Listen carefully, take notes, and wait before responding. Many critiques that feel wrong in the moment prove valuable upon reflection.",
+                "Not all feedback will be useful. Some readers will misunderstand your intentions, and some suggestions will conflict with your vision for the work. That is normal. The writer must learn to discern which feedback illuminates genuine weaknesses and which reflects only a difference in taste. But always err on the side of taking criticism seriously — overconfidence is a greater danger than oversensitivity.",
+                "The spiritual discipline of humility is directly relevant here. If 'pride goes before destruction' (Proverbs 16:18), then the writer who refuses all criticism is headed for a fall. The willingness to admit that your work is imperfect and can be improved is not weakness but wisdom — and it is the only path to genuine excellence."
+            ]
+        },
+        {
+            "heading": "The Revision Process",
+            "paragraphs": [
+                "Revision is where good writing becomes great writing. The word itself means 're-vision' — seeing again. After receiving feedback, set your work aside for a time, then return to it with fresh eyes. Often, the distance reveals problems you could not see when you were deep in the writing process.",
+                "Revise in layers. First, address the big issues: structure, plot, character arcs. Then tackle scene-level problems: pacing, tension, dialogue. Finally, polish the prose itself: word choice, sentence rhythm, clarity. Trying to fix everything at once leads to confusion and frustration.",
+                "Remember that revision is not betrayal of your original inspiration. It is the refinement of that inspiration into its best possible form. A sculptor does not resent the chisel that reveals the figure within the stone. The writer should not resent the revision process that reveals the story within the draft."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the Inklings model the principle of 'iron sharpens iron'? What can we learn from their approach to mutual critique?",
+            "guidance": "Consider the combination of honesty, mutual respect, shared faith, and commitment to excellence that characterized the Inklings' interactions."
+        },
+        {
+            "id": 2,
+            "question": "Why is humility essential for a writer who wants to improve? How does the Christian understanding of humility differ from the world's view of self-promotion and self-confidence?",
+            "guidance": "Think about how true humility does not mean thinking your work is worthless but rather being honest about its strengths and weaknesses and being open to growth."
+        },
+        {
+            "id": 3,
+            "question": "Exchange a piece of your writing with a peer and practice giving specific, constructive critique. What did you learn about your own writing from the process of carefully reading someone else's work?",
+            "guidance": "Notice how analyzing another writer's choices sharpens your awareness of your own habits, strengths, and blind spots."
+        }
+    ]
+}

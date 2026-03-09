@@ -1,0 +1,75 @@
+{
+    "id": "what_is_technology",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: What Is Technology? — Tools Given by God",
+    "subtitle": "Understanding Technology as a Gift from Our Creator",
+    "scripture": "Exodus 35:31-32",
+    "key_concepts": ["Definition of technology", "History of human invention", "Technology as an extension of God-given creativity", "Responsible use of tools"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Exodus 35:31-32",
+                "text": "\"And he has filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs for work in gold, silver and bronze.\"",
+                "commentary": "God is the source of all human skill and ingenuity. When we create and use technology, we are exercising the creative ability that God has placed within us."
+            },
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it.'\"",
+                "commentary": "God gave humanity the mandate to subdue and manage the earth. Technology is one of the primary ways we fulfill this calling, using tools to cultivate, build, and improve life."
+            },
+            {
+                "reference": "Genesis 4:22",
+                "text": "\"Tubal-Cain forged all kinds of tools out of bronze and iron.\"",
+                "commentary": "From the earliest chapters of the Bible, we see people using their God-given intelligence to create tools. Technology is not a modern invention — it has been part of human life since the beginning."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Comes to Mind?",
+            "paragraphs": [
+                "When you hear the word 'technology,' you probably think of smartphones, computers, and video games. But technology is much bigger and older than any of those things. Technology is any tool, system, or method that humans create to solve problems or make life easier. A pencil is technology. A wheel is technology. A book is technology.",
+                "God created human beings with remarkable intelligence and creativity. From the very beginning, people have used these gifts to invent tools that help them work, communicate, and explore the world God made."
+            ]
+        },
+        {
+            "heading": "A Brief History of Technology",
+            "paragraphs": [
+                "The Bible records some of the earliest technologies. In Genesis 4, we learn that Tubal-Cain forged tools from bronze and iron. Noah built an enormous ark using the engineering knowledge God gave him. Throughout history, people have invented the wheel, the printing press, the steam engine, the telephone, and eventually the computer.",
+                "Each of these inventions changed the world in important ways. The printing press, for example, made it possible to share the Bible with millions of people. Technology has always been connected to how we fulfill God's purposes."
+            ]
+        },
+        {
+            "heading": "Technology as God-Given Creativity",
+            "paragraphs": [
+                "Because we are made in the image of God — the ultimate Creator — we have the ability to imagine, design, and build. Every invention begins with a God-given idea. When scientists discover how the natural world works and engineers build machines based on those discoveries, they are exploring and applying the laws that God put in place.",
+                "This means that technology itself is not good or evil. It is a tool. What matters is how we use it. A hammer can build a house or break a window. The internet can spread the Gospel or spread lies. As Christians, we are called to use technology wisely and for God's glory."
+            ]
+        },
+        {
+            "heading": "Using Technology Responsibly",
+            "paragraphs": [
+                "Because technology is so powerful, we must learn to use it responsibly. This means thinking carefully about how much time we spend with screens, what content we look at online, and how we treat others in digital spaces. God calls us to be wise stewards of every gift He gives us — and technology is one of those gifts.",
+                "Throughout this course, we will learn about computers, the internet, and digital tools. At every step, we will ask: How can we use this technology in a way that honors God and serves others?"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What is technology, and how is it broader than just computers and phones? Can you name three examples of technology from everyday life?",
+            "guidance": "Think about simple tools as well as complex devices. Consider how each one helps solve a problem or make a task easier."
+        },
+        {
+            "id": 2,
+            "question": "How does Genesis 1:28 connect to our use of technology? What responsibility comes with the ability to create tools?",
+            "guidance": "Consider what it means to 'subdue' the earth and how technology helps us do that. Think about both the benefits and the dangers."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to remember that technology is a tool, not something that is good or evil on its own? How should a Christian decide whether a particular use of technology is right or wrong?",
+            "guidance": "Think about examples of the same technology being used for good and for harm. Consider what Biblical principles could guide your decisions."
+        }
+    ]
+}

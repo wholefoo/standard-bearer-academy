@@ -1,0 +1,127 @@
+{
+    "id": "portfolio_quiz",
+    "title": "Unit 1: Senior Portfolio — A Legacy of Words",
+    "description": "Test your understanding of portfolio development, revision, creative nonfiction, publishing, and the Christian writer's calling.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Flannery O'Connor, what is the writer's primary business?",
+            "options": [
+                "To entertain as many readers as possible",
+                "To contemplate experience, not to be merged in it",
+                "To write as quickly as possible without revision",
+                "To imitate the style of famous authors"
+            ],
+            "correct": 1,
+            "explanation": "O'Connor emphasized that the writer's task is to contemplate experience — to step back from life and observe it with attentiveness and craft, rather than being swept along by it unreflectively. This contemplative posture is essential for producing meaningful, insightful writing."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between macro-revision and micro-revision?",
+            "options": [
+                "Macro-revision fixes spelling; micro-revision fixes plot",
+                "Macro-revision addresses structure and meaning; micro-revision addresses sentences and word choice",
+                "Macro-revision is done by editors; micro-revision is done by writers",
+                "There is no meaningful difference between them"
+            ],
+            "correct": 1,
+            "explanation": "Macro-revision addresses big-picture elements — plot structure, thesis clarity, character consistency, logical flow, and overall purpose. Micro-revision focuses on the craft of individual sentences, word choices, grammar, and style. Effective revision works from macro to micro."
+        },
+        {
+            "id": 3,
+            "question": "What does Colossians 3:23 teach about the revision process?",
+            "options": [
+                "That first drafts are always good enough",
+                "That only professional writers need to revise",
+                "That we should work with all our hearts as working for the Lord — making revision an act of worship",
+                "That revision is unnecessary if you pray before writing"
+            ],
+            "correct": 2,
+            "explanation": "Colossians 3:23 calls us to work at everything 'with all your heart, as working for the Lord.' Applied to writing, this means that revision — the hard work of crafting excellent prose — is an act of worship. Offering unrevised, careless work fails to honor God with our best effort."
+        },
+        {
+            "id": 4,
+            "question": "What makes a personal statement effective?",
+            "options": [
+                "Listing every accomplishment and award chronologically",
+                "Using as many impressive vocabulary words as possible",
+                "Focusing on one or two key experiences told with authenticity and specific detail",
+                "Avoiding any mention of personal challenges or struggles"
+            ],
+            "correct": 2,
+            "explanation": "Strong personal statements focus on specific experiences told with authenticity and vivid detail. They use narrative techniques — scenes, dialogue, sensory detail — to show rather than tell. They reveal character through story rather than through lists of accomplishments."
+        },
+        {
+            "id": 5,
+            "question": "What is creative nonfiction?",
+            "options": [
+                "Fiction that is based on real events but changes key facts",
+                "The art of telling true stories using literary techniques like vivid scenes, sensory detail, and narrative structure",
+                "Academic essays written in a creative format",
+                "Nonfiction writing that does not require factual accuracy"
+            ],
+            "correct": 1,
+            "explanation": "Creative nonfiction combines truthfulness with artistry — telling true stories using the techniques of fiction, including vivid scenes, compelling characters, narrative tension, and sensory detail. Unlike fiction, it is bound by a commitment to factual truth. Unlike academic writing, it prioritizes experience and meaning."
+        },
+        {
+            "id": 6,
+            "question": "How did Annie Dillard's Pilgrim at Tinker Creek model the Christian approach to creative nonfiction?",
+            "options": [
+                "By ignoring the natural world to focus on theology",
+                "By finding God's presence and theological meaning through close observation of the natural world",
+                "By writing fiction disguised as nonfiction",
+                "By arguing that nature is meaningless without human interpretation"
+            ],
+            "correct": 1,
+            "explanation": "Dillard's Pilgrim at Tinker Creek demonstrates how careful observation of the natural world — creek water, insects, seasonal changes — can reveal God's presence and theological truth. She models the creative nonfiction writer's ability to find the sacred in the ordinary through attentive, faithful observation."
+        },
+        {
+            "id": 7,
+            "question": "According to the parable of the talents (Matthew 25:14-30), what is the spiritual danger of refusing to share your writing gifts?",
+            "options": [
+                "There is no spiritual dimension to sharing creative work",
+                "Burying your talent out of fear is a failure of stewardship that displeases God",
+                "Only professional writers have an obligation to share their work",
+                "God is pleased when we protect our gifts by keeping them hidden"
+            ],
+            "correct": 1,
+            "explanation": "In the parable, the servant who buried his talent out of fear was condemned as 'wicked and lazy.' This teaches that God expects faithful stewardship of the gifts He gives — including creative talent. Hiding your writing gifts out of fear or perfectionism is a failure to steward what God has entrusted to you."
+        },
+        {
+            "id": 8,
+            "question": "How should a Christian writer handle rejection from publishers or literary magazines?",
+            "options": [
+                "By giving up writing entirely after the first rejection",
+                "By concluding that God does not want them to write",
+                "By practicing perseverance, learning from feedback, and trusting God's timing",
+                "By self-publishing everything immediately to avoid rejection"
+            ],
+            "correct": 2,
+            "explanation": "Rejection is a universal experience for writers — even C.S. Lewis and Madeleine L'Engle faced repeated rejections. Christian writers should respond with perseverance, humility, and trust in God's timing. Rejection is an opportunity to improve and to practice the faithfulness that characterizes the writing life."
+        },
+        {
+            "id": 9,
+            "question": "What did Dorothy Sayers argue about human creativity in The Mind of the Maker?",
+            "options": [
+                "That creativity is only for artists and not relevant to ordinary people",
+                "That human creativity is a meaningless evolutionary byproduct",
+                "That the creative impulse reflects God's own nature — we create because we are made in the image of a Creator",
+                "That human creativity is superior to God's creative work"
+            ],
+            "correct": 2,
+            "explanation": "Sayers argued that creativity is a fundamental reflection of the imago Dei — the image of God in humanity. Since the first thing Scripture reveals about God is that He is a Creator (Genesis 1:1), the human desire and ability to create is not accidental but a participation in God's own creative nature."
+        },
+        {
+            "id": 10,
+            "question": "What is the most important quality for sustaining a lifelong writing practice?",
+            "options": [
+                "Natural talent that requires no effort or discipline",
+                "Fame and publication success to stay motivated",
+                "Faithful perseverance — maintaining the discipline of writing through every season of life",
+                "Waiting for inspiration to strike before writing anything"
+            ],
+            "correct": 2,
+            "explanation": "The writers who leave the greatest legacy are those who persevere — writing through busy seasons and quiet ones, through success and rejection. Faithful perseverance, rooted in the understanding that writing is a calling from God, sustains the writing life far more effectively than talent, fame, or sporadic inspiration."
+        }
+    ]
+}

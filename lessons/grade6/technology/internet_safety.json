@@ -1,0 +1,75 @@
+{
+    "id": "internet_safety",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Internet Safety — Navigating the Web Wisely",
+    "subtitle": "Protecting Yourself Online as a Child of God",
+    "scripture": "Proverbs 4:23",
+    "key_concepts": ["How the internet works", "Online dangers and scams", "Protecting personal information", "Safe browsing habits"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 4:23",
+                "text": "\"Above all else, guard your heart, for everything you do flows from it.\"",
+                "commentary": "The internet can fill our hearts and minds with both good and harmful content. God commands us to guard what we allow into our hearts, and this applies directly to what we view, read, and interact with online."
+            },
+            {
+                "reference": "Proverbs 14:15",
+                "text": "\"The simple believe anything, but the prudent give thought to their steps.\"",
+                "commentary": "Not everything on the internet is true or safe. God calls us to be wise and discerning, carefully evaluating what we encounter online rather than believing everything we see."
+            },
+            {
+                "reference": "Psalm 101:3",
+                "text": "\"I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.\"",
+                "commentary": "The psalmist commits to turning away from harmful content. As Christians, we should make the same commitment when we go online."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Internet — A Powerful Tool",
+            "paragraphs": [
+                "The internet is one of the most powerful tools ever created. It connects billions of people around the world, provides instant access to vast amounts of information, and makes communication faster than ever before. Missionaries use it to share the Gospel. Students use it to learn. Families use it to stay connected.",
+                "But like any powerful tool, the internet can be dangerous if used carelessly. Just as you would not walk into a dark alley alone at night, you should not wander the internet without understanding the risks and knowing how to protect yourself."
+            ]
+        },
+        {
+            "heading": "How the Internet Works",
+            "paragraphs": [
+                "The internet is a global network of computers connected to each other. When you type a website address into your browser, your computer sends a request through this network to a server — a powerful computer that stores the website's files. The server sends the files back to your computer, and your browser displays the page.",
+                "Every device on the internet has an address called an IP address. Websites have addresses too, called URLs (Uniform Resource Locators). Understanding this basic structure helps you see that the internet is not a mysterious or magical thing — it is a system built by people using principles of logic and design."
+            ]
+        },
+        {
+            "heading": "Online Dangers",
+            "paragraphs": [
+                "There are several dangers to be aware of online. Scammers try to trick people into giving away personal information or money through fake emails and websites (called phishing). Cyberbullies use the internet to harass and hurt others. Predators may pretend to be someone they are not in order to take advantage of young people.",
+                "Harmful content — including things that are violent, dishonest, or morally wrong — is also easily accessible online. As Christians, we must be on guard and choose to turn away from anything that does not honor God."
+            ]
+        },
+        {
+            "heading": "Staying Safe Online",
+            "paragraphs": [
+                "Here are important rules for staying safe on the internet: Never share personal information (your full name, address, school, phone number, or photos) with strangers online. Never agree to meet someone in person whom you have only met online. Always tell a trusted adult if something online makes you feel uncomfortable or scared.",
+                "Use strong passwords that are hard to guess, and never share them with friends. Be cautious about clicking links in emails or messages from people you do not know. Remember that anything you post online can be seen by others and may be impossible to delete completely. Guard your heart and your information."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does Proverbs 4:23 apply to how we use the internet? What are some practical ways to 'guard your heart' when you are online?",
+            "guidance": "Think about the kinds of content you encounter online and how they can affect your thoughts, feelings, and actions."
+        },
+        {
+            "id": 2,
+            "question": "What is phishing, and how can you recognize a phishing attempt? Why is it important to be skeptical of messages from strangers?",
+            "guidance": "Consider specific signs of phishing emails or messages. Think about how Proverbs 14:15 applies to evaluating online messages."
+        },
+        {
+            "id": 3,
+            "question": "Why should you never share personal information with strangers online? What could happen if someone with bad intentions gets your personal details?",
+            "guidance": "Think about the kinds of information that should remain private and the risks of sharing them. Consider what steps you can take to protect yourself."
+        }
+    ]
+}

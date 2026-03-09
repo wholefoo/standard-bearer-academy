@@ -1,0 +1,76 @@
+{
+    "id": "short_story_basics",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Short Story Basics — Crafting a Tale with Purpose",
+    "subtitle": "Learning the Building Blocks of Story: Character, Setting, and Plot",
+    "scripture": "Ecclesiastes 3:11",
+    "key_concepts": ["The three elements of a story: character, setting, plot", "Beginning, middle, and end structure", "Conflict and resolution", "Telling stories that reflect truth and goodness"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ecclesiastes 3:11",
+                "text": "\"He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end.\"",
+                "commentary": "God has placed a longing for meaning and story in every human heart. We are drawn to narratives because we are part of God's great story — one that has a beginning, a purpose, and a glorious end."
+            },
+            {
+                "reference": "Luke 15:4",
+                "text": "\"Suppose one of you has a hundred sheep and loses one of them. Doesn't he leave the ninety-nine in the open country and go after the lost sheep until he finds it?\"",
+                "commentary": "Jesus was a master storyteller. He used parables — short, vivid stories — to teach profound truths. His stories had characters, settings, conflicts, and resolutions, just like the stories we will learn to write."
+            },
+            {
+                "reference": "Psalm 78:2-4",
+                "text": "\"I will open my mouth with a parable; I will utter hidden things, things from of old — things we have heard and known, things our ancestors have told us. We will not hide them from their children; we will tell the next generation the praiseworthy deeds of the LORD.\"",
+                "commentary": "Stories are meant to be passed down — they carry truth from one generation to the next. When we write stories, we join a long tradition of using narrative to preserve and share what matters most."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Everyone Loves a Good Story",
+            "paragraphs": [
+                "Think about your favorite book, movie, or Bible story. What makes it memorable? Chances are, it has characters you care about, a world you can picture, and a problem that keeps you turning the page. These are the basic building blocks of every story: character, setting, and plot.",
+                "God designed us to love stories. From the very beginning, He has revealed truth through narrative — the stories of creation, the Exodus, the life of Jesus. When we learn to write stories, we are developing a skill that God Himself uses to communicate with His people."
+            ]
+        },
+        {
+            "heading": "Character: The Heart of Your Story",
+            "paragraphs": [
+                "Every story needs a main character — someone the reader will follow through the events of the plot. A good character feels real. They have wants, fears, strengths, and weaknesses. Think about David in the Bible: he was brave enough to face Goliath but also made terrible mistakes. His complexity makes his story powerful.",
+                "When creating a character for your short story, ask yourself: What does this person want? What are they afraid of? What do they believe? You don't need to write a biography — just a few key details will help your character come to life on the page."
+            ]
+        },
+        {
+            "heading": "Setting: The World of Your Story",
+            "paragraphs": [
+                "The setting is where and when your story takes place. It could be a small town in the present day, a castle in medieval times, or a spaceship in the future. A well-described setting helps the reader feel immersed in the story.",
+                "Use the descriptive writing skills you learned in the last lesson to bring your setting alive. What does the place look like? What sounds fill the air? What does the weather feel like? The setting should not just be a backdrop — it should contribute to the mood and meaning of your story."
+            ]
+        },
+        {
+            "heading": "Plot: The Journey of Your Story",
+            "paragraphs": [
+                "Plot is what happens in your story — the sequence of events. Most stories follow a simple structure: beginning, middle, and end. In the beginning, we meet the character and learn about their world. In the middle, a conflict or problem arises that the character must face. In the end, the conflict is resolved.",
+                "Conflict is the engine of a story. Without a problem to solve, there is no reason to keep reading. Conflict can be external (a character facing a bully, a storm, or a difficult task) or internal (a character struggling with fear, doubt, or a hard decision). The resolution shows how the character responds to the conflict — and what they learn along the way.",
+                "Think about the parable of the lost sheep: the shepherd (character) is in the countryside (setting) and discovers a sheep is missing (conflict). He searches until he finds it (rising action) and brings it home with great joy (resolution). Even a short story can follow this powerful pattern."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Choose a parable that Jesus told (such as the Prodigal Son, the Good Samaritan, or the Lost Coin). Identify the character, setting, conflict, and resolution. Why do you think Jesus used stories to teach?",
+            "guidance": "Think about why a story is often more memorable and powerful than just stating a rule or fact."
+        },
+        {
+            "id": 2,
+            "question": "Create a character for a short story. Write down their name, age, one thing they want, and one thing they are afraid of. How do these details make the character feel more real?",
+            "guidance": "Even a few specific details can turn a flat character into someone the reader cares about. Think about what makes real people interesting."
+        },
+        {
+            "id": 3,
+            "question": "Why is conflict important in a story? How can a story's conflict and resolution reflect Biblical truths about struggle, growth, and God's faithfulness?",
+            "guidance": "Consider how many Bible stories involve characters facing difficult trials and how God works through those struggles."
+        }
+    ]
+}

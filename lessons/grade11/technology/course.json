@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "technology",
+    "title": "Data Science and Society — Understanding God's World Through Data",
+    "description": "An introduction to data science concepts and their ethical implications, exploring how data analysis can reveal patterns in God's creation and how Christians should approach the responsible use of data.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Data Science and Society — Understanding God's World Through Data",
+            "lessons": ["what_is_data_science", "collecting_cleaning_data", "statistical_analysis", "data_visualization", "machine_learning_basics", "ethical_use_data"]
+        }
+    ],
+    "quiz_id": "technology_quiz"
+}

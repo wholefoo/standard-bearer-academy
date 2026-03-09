@@ -1,0 +1,73 @@
+{
+    "id": "algorithms",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Algorithms",
+    "subtitle": "Solving Problems with Precise Instructions",
+    "scripture": "Proverbs 16:9",
+    "primary_source": "Al-Khwarizmi, The Compendious Book on Calculation by Completion and Balancing (c. 820 AD)",
+    "key_concepts": ["Algorithm design", "Sorting and searching algorithms", "Efficiency and optimization", "Flowcharts and pseudocode"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 16:9",
+                "text": "\"In their hearts humans plan their course, but the LORD establishes their steps.\"",
+                "commentary": "An algorithm is a plan — a carefully designed sequence of steps to reach a goal. While we plan our algorithms and procedures, we do so using the logical minds God gave us, under His sovereign guidance. Our ability to plan and reason methodically is a gift from the Creator."
+            },
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "Paul's instruction about orderliness applies beyond church worship to all areas of life. Algorithms embody this principle — they bring order and method to problem solving, reflecting God's own orderly nature."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is an Algorithm?",
+            "paragraphs": [
+                "An algorithm is a finite, well-defined sequence of instructions for solving a problem or accomplishing a task. The word 'algorithm' comes from the name of the 9th-century Persian mathematician Al-Khwarizmi, whose work on algebra and arithmetic introduced systematic methods for calculation to the Western world.",
+                "Algorithms are everywhere in daily life. A recipe is an algorithm for preparing food. Directions to a location are an algorithm for navigation. The steps you follow to solve a long division problem are an algorithm. In computer science, algorithms are the heart of every program — the logical procedures that transform input into desired output."
+            ]
+        },
+        {
+            "heading": "Searching Algorithms",
+            "paragraphs": [
+                "One fundamental computing task is searching — finding a specific item in a collection of data. A linear search checks each item one by one from beginning to end. This is simple but slow for large datasets; if you have a million items, you might need to check all million.",
+                "A binary search is much faster but requires the data to be sorted first. It works by repeatedly dividing the search area in half — check the middle item; if it is too high, search the lower half; if too low, search the upper half. A binary search can find an item among one million sorted items in at most 20 steps. This remarkable efficiency demonstrates how clever algorithm design can dramatically improve performance."
+            ]
+        },
+        {
+            "heading": "Sorting Algorithms",
+            "paragraphs": [
+                "Sorting — arranging items in order — is another fundamental computing task. There are many sorting algorithms, each with different strengths. Bubble sort repeatedly compares adjacent items and swaps them if they are in the wrong order. It is simple to understand but slow for large datasets.",
+                "More efficient algorithms like merge sort and quicksort use the divide-and-conquer approach — breaking the sorting problem into smaller subproblems, solving each, and combining the results. These algorithms can sort millions of items in seconds, compared to hours or days for simpler algorithms.",
+                "The study of sorting algorithms illustrates an important principle: there is usually more than one way to solve a problem, and some solutions are dramatically better than others. Wisdom in computing, as in life, involves finding the best approach rather than just the first one that works."
+            ]
+        },
+        {
+            "heading": "Flowcharts and Pseudocode",
+            "paragraphs": [
+                "Before writing code, programmers often plan their algorithms using flowcharts or pseudocode. A flowchart is a visual diagram that uses shapes and arrows to represent the steps and decision points in an algorithm. Rectangles represent actions, diamonds represent decisions, and arrows show the flow of logic.",
+                "Pseudocode is a plain-language description of an algorithm that looks like code but is written in ordinary language. For example: 'IF the number is even, THEN add it to the sum; OTHERWISE, skip it.' Pseudocode helps programmers focus on the logic of their algorithm without worrying about the specific syntax of a programming language.",
+                "Both tools reflect the Biblical value of careful planning. Just as Nehemiah planned every detail of rebuilding Jerusalem's walls before construction began (Nehemiah 2:11-16), good programmers design their algorithms before writing a single line of code."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to plan an algorithm before writing code? How does this reflect the Biblical principle of planning found in Proverbs 16:9 and other Scriptures?",
+            "guidance": "Consider examples from Scripture where careful planning led to success (Nehemiah rebuilding the walls, Joseph preparing for famine). Think about how planning demonstrates wisdom and stewardship of time."
+        },
+        {
+            "id": 2,
+            "question": "A binary search is dramatically faster than a linear search for large datasets. What does this teach us about the value of wisdom and working smarter rather than just harder?",
+            "guidance": "Reflect on Proverbs 4:7 — 'The beginning of wisdom is this: Get wisdom.' Think about how finding a better approach to a problem is often more valuable than simply applying more effort to a poor approach."
+        },
+        {
+            "id": 3,
+            "question": "Al-Khwarizmi, a scholar from the medieval Islamic world, contributed foundational ideas to computing and mathematics. What does this teach us about how God distributes gifts and knowledge across cultures and civilizations?",
+            "guidance": "Consider Acts 17:26-27, where Paul teaches that God determined the times and places of all peoples so that they would seek Him. Think about how contributions from many cultures have built the knowledge we enjoy today."
+        }
+    ]
+}

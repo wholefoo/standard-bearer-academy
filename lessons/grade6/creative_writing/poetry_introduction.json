@@ -1,0 +1,75 @@
+{
+    "id": "poetry_introduction",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Poetry Introduction — The Music of Language",
+    "subtitle": "Discovering How Rhythm, Imagery, and Emotion Come Together in Poetry",
+    "scripture": "Psalm 150:6",
+    "key_concepts": ["What makes poetry different from prose", "Rhythm and line breaks", "Imagery and emotion in poetry", "The Psalms as the greatest poetry collection"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 150:6",
+                "text": "\"Let everything that has breath praise the LORD. Praise the LORD.\"",
+                "commentary": "The Book of Psalms is the Bible's collection of poetry and songs. Poetry has always been a central way that God's people express praise, sorrow, gratitude, and hope. Writing poetry is one way we can let our breath praise the Lord."
+            },
+            {
+                "reference": "Psalm 23:1-3",
+                "text": "\"The LORD is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.\"",
+                "commentary": "Psalm 23 is one of the most beloved poems ever written. Notice how it uses imagery — green pastures, quiet waters — to express deep spiritual truth. Good poetry paints pictures that touch both the mind and the heart."
+            },
+            {
+                "reference": "Colossians 3:16",
+                "text": "\"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.\"",
+                "commentary": "Paul encourages believers to use psalms, hymns, and spiritual songs — all forms of poetry set to music. Poetry is not just an academic exercise; it is a spiritual practice."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Poetry?",
+            "paragraphs": [
+                "Poetry is one of the oldest and most powerful forms of writing. Unlike prose (regular sentences and paragraphs), poetry uses line breaks, rhythm, and concentrated language to express ideas and emotions in a compressed, vivid way. A poem can say in ten lines what might take a full page of prose.",
+                "You might think poetry is only for scholars or adults, but the truth is, you already know poetry. If you have memorized a Bible verse, sung a hymn, or recited the Pledge of Allegiance, you have experienced the power of poetic language. Poetry is everywhere — and it has been a vital part of worship and communication since the beginning of human history."
+            ]
+        },
+        {
+            "heading": "The Psalms: Poetry in the Bible",
+            "paragraphs": [
+                "The longest book in the Bible is the Book of Psalms — a collection of 150 poems and songs written over hundreds of years. Some psalms are joyful celebrations (Psalm 100). Others are cries for help in times of trouble (Psalm 13). Some are expressions of wonder at God's creation (Psalm 8). Together, they show us that poetry can express every human emotion honestly before God.",
+                "Hebrew poetry, like the Psalms, often uses a technique called parallelism, where two lines express a similar idea in different words. For example, Psalm 19:1: 'The heavens declare the glory of God; the skies proclaim the work of his hands.' The second line echoes and amplifies the first. This is a technique you can use in your own poetry."
+            ]
+        },
+        {
+            "heading": "Rhythm and Line Breaks",
+            "paragraphs": [
+                "One thing that makes poetry feel different from prose is its rhythm — the pattern of stressed and unstressed syllables. Read this line aloud: 'Amazing grace, how sweet the sound.' Can you hear how certain syllables are naturally emphasized? That's rhythm, and it gives poetry a musical quality.",
+                "Line breaks are another tool unique to poetry. Where you choose to end a line affects how the reader experiences the poem. A line break can create a pause, emphasize a word, or build suspense. Experiment with breaking your lines in different places to see how it changes the feel of your poem."
+            ]
+        },
+        {
+            "heading": "Imagery and Emotion",
+            "paragraphs": [
+                "Poetry is the art of saying something ordinary in an extraordinary way. It relies heavily on imagery — vivid, sensory language that helps the reader see, hear, and feel what the poet is describing. A good poem doesn't just tell you about an emotion; it makes you experience it.",
+                "For example, instead of writing 'I was sad,' a poet might write: 'The sky hung low and gray, pressing down like a heavy blanket on a bed I couldn't leave.' The imagery conveys sadness without ever using the word. As you begin writing poetry, focus on showing emotions through images and comparisons rather than simply naming them."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Read Psalm 23 slowly. What images stand out to you? How do the images of shepherds, pastures, and still waters help you understand God's care in a deeper way than a simple statement could?",
+            "guidance": "Consider why David chose these particular images. How do they appeal to the senses and emotions?"
+        },
+        {
+            "id": 2,
+            "question": "Try writing a short poem (4-8 lines) about something in God's creation — a tree, a river, a storm, an animal. Focus on using imagery and at least one comparison (simile or metaphor).",
+            "guidance": "Don't worry about rhyming. Focus on creating a vivid picture with your words. Read your poem aloud to hear how it sounds."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think God included so much poetry in the Bible? What can poetry express that prose sometimes cannot?",
+            "guidance": "Think about how poetry captures emotions, creates memorable phrases, and engages the imagination in ways that straightforward writing may not."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "creative_writing",
+    "title": "Advanced Fiction — The Art of the Christian Novel",
+    "description": "A study of novel-writing craft from a Christian worldview, covering structure, point of view, theme, allegory, and the rich legacy of Christian fiction writers who have shaped literature for God's glory.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Advanced Fiction — The Art of the Christian Novel",
+            "lessons": ["novel_structure", "point_of_view", "theme_and_allegory", "writing_christian_fiction", "workshop_and_critique", "legacy_christian_authors"]
+        }
+    ],
+    "quiz_id": "creative_writing_quiz"
+}

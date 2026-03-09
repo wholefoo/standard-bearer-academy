@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "creative_writing",
+    "title": "Stories of Virtue — Crafting Fiction with Purpose",
+    "description": "Build on foundational writing skills to craft fiction that reflects Biblical virtues. Students will learn character development, plot structure, dialogue, poetry forms, and the discipline of editing and revision.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Stories of Virtue — Crafting Fiction with Purpose",
+            "lessons": ["character_development", "plot_and_conflict", "dialogue", "writing_virtuous_heroes", "poetry_forms", "editing_and_revision"]
+        }
+    ],
+    "quiz_id": "writing_quiz"
+}

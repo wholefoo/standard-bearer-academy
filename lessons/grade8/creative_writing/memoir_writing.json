@@ -1,0 +1,75 @@
+{
+    "id": "memoir_writing",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Memoir Writing",
+    "subtitle": "Telling Your Story with Honesty and Grace",
+    "scripture": "Psalm 77:11-12",
+    "key_concepts": ["Memoir vs. autobiography", "Selecting meaningful moments", "Sensory detail", "Reflection and meaning", "Testimony as memoir"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 77:11-12",
+                "text": "\"I will remember the deeds of the LORD; yes, I will remember your miracles of long ago. I will consider all your works and meditate on all your mighty deeds.\"",
+                "commentary": "The psalmist models the heart of memoir writing: looking back on lived experience and finding meaning in it. Memoir is the practice of remembering purposefully — seeing God's hand in the events of our lives."
+            },
+            {
+                "reference": "Deuteronomy 6:20-21",
+                "text": "\"In the future, when your son asks you, 'What is the meaning of the stipulations, decrees and laws the LORD our God has commanded you?' tell him: 'We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.'\"",
+                "commentary": "God commands His people to tell their stories to the next generation. Personal testimony — remembering where we were, what God did, and how we were changed — is one of the most powerful forms of writing."
+            },
+            {
+                "reference": "Lamentations 3:21-23",
+                "text": "\"Yet this I call to mind and therefore I have hope: Because of the LORD's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.\"",
+                "commentary": "Even painful memories can become sources of hope when we see God's faithfulness woven through them. Honest memoir does not hide suffering — it finds meaning and redemption within it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Memoir?",
+            "paragraphs": [
+                "A memoir is a piece of writing that explores a specific experience, period, or theme from the author's life. Unlike an autobiography, which tries to tell a whole life story, a memoir focuses on a particular slice of life and explores it in depth. The word 'memoir' comes from the French word for 'memory.'",
+                "Great memoirs are not just accounts of what happened — they explore what the experience meant. The writer looks back on events and reflects on how those events shaped who they are. This combination of vivid storytelling and thoughtful reflection is what makes memoir compelling."
+            ]
+        },
+        {
+            "heading": "Choosing Your Moment",
+            "paragraphs": [
+                "The best memoirs focus on moments of change, discovery, or realization. You do not need to have lived an extraordinary life to write a powerful memoir. Ordinary experiences — a conversation with a grandparent, a failure on the sports field, a quiet moment of prayer — can become extraordinary when explored with honesty and depth.",
+                "Ask yourself: What moments changed how I see the world? When did I learn something important? What experiences do I return to in my memory again and again? These are the moments worth writing about."
+            ]
+        },
+        {
+            "heading": "Bringing Memories to Life",
+            "paragraphs": [
+                "The key to vivid memoir writing is sensory detail. Instead of telling readers what happened, show them. What did the room look like? What sounds did you hear? What did the air smell like? What were you feeling in your body? Specific, concrete details transport readers into your experience.",
+                "For example, instead of writing 'My grandmother's house was warm and welcoming,' you might write: 'Grandma's kitchen smelled like cinnamon and wood smoke. The yellow linoleum floor creaked under my bare feet, and the old clock on the wall ticked so loudly I could feel it in my chest.' The second version puts the reader in the room."
+            ]
+        },
+        {
+            "heading": "Reflection: Finding the Meaning",
+            "paragraphs": [
+                "What separates memoir from a diary entry is reflection. After recreating the experience for your reader, step back and explore what it meant. What did you learn? How did it change you? How do you see it differently now than you did then?",
+                "As Christians, we have a unique lens for reflection. We can look back and see God's hand at work — His provision, His correction, His comfort, His guidance. The psalmists did this constantly, remembering God's faithfulness in the past as a foundation for trust in the present. Your memoir can do the same."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write a one-paragraph memoir about a specific moment from your childhood. Focus on sensory details — what you saw, heard, smelled, and felt. Then write a second paragraph reflecting on what that moment means to you now.",
+            "guidance": "Choose a single, specific moment rather than a general period. The more focused your memory, the more vivid your writing will be. Do not worry about making it dramatic — honest, small moments are often the most powerful."
+        },
+        {
+            "id": 2,
+            "question": "Read Psalm 77:11-12. The psalmist deliberately chooses to remember God's works. How is this practice of intentional remembering similar to the craft of memoir writing?",
+            "guidance": "Think about how memoir, like the Psalms, is an act of choosing what to remember and finding meaning in it. Both require looking at the past with purpose rather than simply letting memories drift."
+        },
+        {
+            "id": 3,
+            "question": "Think of a difficult experience you have been through. Without sharing anything too personal, describe how you might write about that experience in a way that is honest about the struggle but also shows growth, hope, or God's faithfulness.",
+            "guidance": "The goal is not to minimize pain or pretend everything was easy. Honest memoir acknowledges real suffering while also looking for redemption, lessons learned, or evidence of God's care."
+        }
+    ]
+}

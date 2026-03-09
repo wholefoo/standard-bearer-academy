@@ -1,0 +1,76 @@
+{
+    "id": "poetry_forms",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Poetry Forms — Structure and Freedom in Verse",
+    "subtitle": "Exploring Different Poetry Forms and Discovering How Structure Enhances Creativity",
+    "scripture": "Psalm 33:3",
+    "key_concepts": ["Structured poetry forms: sonnet, haiku, limerick, acrostic", "Free verse poetry", "How constraints can spark creativity", "The variety of poetic expression in Scripture"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 33:3",
+                "text": "\"Sing to him a new song; play skillfully, and shout for joy.\"",
+                "commentary": "God calls us to create new songs — new expressions of praise. Learning different poetry forms gives us more tools to express what is in our hearts in fresh and skillful ways."
+            },
+            {
+                "reference": "Psalm 119:105",
+                "text": "\"Your word is a lamp for my feet, a light on my path.\"",
+                "commentary": "Psalm 119 is an acrostic poem — one of many structured poetic forms found in the Bible. Each section begins with a successive letter of the Hebrew alphabet. God inspired poets to use creative structures to express truth."
+            },
+            {
+                "reference": "Lamentations 3:22-23",
+                "text": "\"Because of the LORD's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.\"",
+                "commentary": "The Book of Lamentations is written in a carefully structured poetic form, including acrostic patterns. Even in expressing grief and sorrow, the writer used intentional structure — showing that form and feeling can work together beautifully."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Poetry Has Forms",
+            "paragraphs": [
+                "You might think that poetry is about total freedom — just writing whatever comes to mind. While free expression is certainly part of poetry, many of the world's greatest poems were written within strict structures. Sonnets, haiku, limericks, and acrostic poems all have rules about length, rhythm, or pattern. Surprisingly, these rules often make the poems better, not worse.",
+                "Think of it like a game. Games are fun because they have rules. The rules create challenges, and the challenges spark creativity. Poetry forms work the same way — they give you a framework that pushes you to think more carefully about every word you choose."
+            ]
+        },
+        {
+            "heading": "Exploring Poetry Forms",
+            "paragraphs": [
+                "A haiku is a three-line poem with a specific syllable pattern: five syllables in the first line, seven in the second, and five in the third. Haiku traditionally focuses on nature and a single moment of observation. For example: 'Morning dew glistens / on the petals of a rose — / God's quiet artwork.' This form teaches precision — every syllable counts.",
+                "An acrostic poem uses the first letter of each line to spell out a word or phrase. Psalm 119, the longest chapter in the Bible, is an acrostic — each section begins with a letter of the Hebrew alphabet. You can write an acrostic using a word like GRACE, FAITH, or HOPE, with each line exploring some aspect of that word.",
+                "A limerick is a humorous five-line poem with an AABBA rhyme scheme. While limericks are playful, they teach the important skill of working with rhyme and meter. A sonnet is a fourteen-line poem, often about love or deep themes, with a specific rhyme scheme. Shakespeare's sonnets are the most famous examples."
+            ]
+        },
+        {
+            "heading": "Free Verse: Poetry Without Rules",
+            "paragraphs": [
+                "Free verse is poetry that does not follow any fixed meter, rhyme scheme, or pattern. It relies instead on the natural rhythms of speech, vivid imagery, and the arrangement of words on the page. Free verse gives the poet complete freedom to shape the poem however they wish.",
+                "However, good free verse is not careless or random. It requires the same attention to word choice, imagery, and rhythm as structured poetry — perhaps even more, because there are no rules to fall back on. The line breaks, the pacing, and the sounds of the words must all be deliberately chosen to create the desired effect."
+            ]
+        },
+        {
+            "heading": "Constraints Spark Creativity",
+            "paragraphs": [
+                "It may seem strange, but working within constraints often produces the most creative results. When you have to fit your idea into exactly seventeen syllables (haiku) or spell out a word with the first letters of your lines (acrostic), you are forced to think differently. You discover words and ideas you would never have found otherwise.",
+                "This principle applies beyond poetry. God has given us life within certain boundaries — moral laws, physical laws, the limitations of our bodies and minds. Yet within these boundaries, human creativity flourishes. The same is true in poetry. Embrace the form, accept the challenge, and see how it stretches your imagination."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write a haiku (5-7-5 syllables) about something in God's creation. Count your syllables carefully. How does the limitation of seventeen syllables force you to choose your words more carefully?",
+            "guidance": "Focus on a single image or moment. Haiku is about capturing one observation precisely and beautifully."
+        },
+        {
+            "id": 2,
+            "question": "Write an acrostic poem using the word FAITH or GRACE. Each line should begin with the corresponding letter and explore some aspect of that concept. How does the structure help you think about the word in new ways?",
+            "guidance": "Let each letter guide you to a new idea. The structure should feel like a creative challenge, not a restriction."
+        },
+        {
+            "id": 3,
+            "question": "Read Psalm 119:105. Psalm 119 is an acrostic poem — each section begins with a successive letter of the Hebrew alphabet. Why do you think God inspired the psalmist to use this structured form? What does this tell us about the relationship between structure and creativity?",
+            "guidance": "Consider how the acrostic structure helped the psalmist organize a very long meditation on God's Word. Structure can serve devotion."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "technology_quiz",
+    "title": "Introduction to Programming — Building with Logic and Order: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is sequential execution in programming?",
+            "options": [
+                "Running multiple instructions at the same time",
+                "Processing instructions one at a time from top to bottom",
+                "Skipping instructions that are not needed",
+                "Running instructions in random order"
+            ],
+            "correct": 1,
+            "explanation": "Sequential execution means the computer processes instructions one at a time, in order from top to bottom. Each instruction is completed before the next one begins."
+        },
+        {
+            "id": 2,
+            "question": "What is a variable in programming?",
+            "options": [
+                "A type of loop that repeats code",
+                "A named container that stores a piece of information",
+                "A command that displays text on screen",
+                "A type of error in code"
+            ],
+            "correct": 1,
+            "explanation": "A variable is a named container that stores data in the computer's memory. It has a name (like a label) and a value (the stored information)."
+        },
+        {
+            "id": 3,
+            "question": "What is a Boolean value?",
+            "options": [
+                "A decimal number",
+                "A long text string",
+                "A value that is either true or false",
+                "A variable that cannot be changed"
+            ],
+            "correct": 2,
+            "explanation": "A Boolean value can only be one of two things: true or false. Boolean logic is the foundation of all computer decision-making."
+        },
+        {
+            "id": 4,
+            "question": "What is the difference between a 'for loop' and a 'while loop'?",
+            "options": [
+                "A for loop is faster than a while loop",
+                "A for loop repeats a set number of times; a while loop repeats as long as a condition is true",
+                "A while loop can only run once; a for loop runs multiple times",
+                "There is no difference between them"
+            ],
+            "correct": 1,
+            "explanation": "A for loop repeats a predetermined number of times, while a while loop continues repeating as long as its condition remains true."
+        },
+        {
+            "id": 5,
+            "question": "What is a function in programming?",
+            "options": [
+                "A type of variable that stores numbers",
+                "An error message from the computer",
+                "A named block of code that performs a specific task",
+                "A command that stops a program"
+            ],
+            "correct": 2,
+            "explanation": "A function is a named, reusable block of code that performs a specific task. Functions help organize code and prevent repetition."
+        },
+        {
+            "id": 6,
+            "question": "What is an algorithm?",
+            "options": [
+                "A type of programming language",
+                "A precise, step-by-step procedure for solving a problem",
+                "A computer hardware component",
+                "A type of variable that stores text"
+            ],
+            "correct": 1,
+            "explanation": "An algorithm is a precise, step-by-step procedure for solving a problem or completing a task. Algorithms must be clear enough for a computer to follow."
+        },
+        {
+            "id": 7,
+            "question": "What does 'decomposition' mean in computational thinking?",
+            "options": [
+                "Deleting old code that is no longer needed",
+                "Breaking a large problem into smaller, manageable parts",
+                "Converting code from one language to another",
+                "Finding and fixing bugs in a program"
+            ],
+            "correct": 1,
+            "explanation": "Decomposition means breaking a complex problem into smaller, more manageable parts. Each smaller part can then be solved individually."
+        },
+        {
+            "id": 8,
+            "question": "Why is it wrong to copy someone else's code without giving credit?",
+            "options": [
+                "Because the code will not work if copied",
+                "Because it violates copyright and is a form of intellectual theft",
+                "Because copied code always contains viruses",
+                "Because computers can detect copied code"
+            ],
+            "correct": 1,
+            "explanation": "Copying code without credit violates intellectual property rights and is a form of theft. The Bible commands us not to steal (Exodus 20:15), and this principle applies to ideas and creative works as well as physical property."
+        }
+    ]
+}
