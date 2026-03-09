@@ -25,23 +25,6 @@
     </div>
 </section>
 
-<section class="section" style="background: white; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
-    <div class="container">
-        <div class="section-title">
-            <h2>Grade Levels</h2>
-            <p>Complete curriculum from Pre-K through 12th Grade</p>
-        </div>
-        <div class="grade-grid">
-            {% for grade_key, grade in grades.items() %}
-            <a href="/grade/{{ grade_key }}" class="grade-card" style="text-decoration:none;">
-                <div class="grade-num">{{ grade.short }}</div>
-                <div class="grade-label">{{ grade.name }}</div>
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-</section>
-
 <section class="section">
     <div class="container">
         <div class="section-title">
@@ -59,7 +42,7 @@
     </div>
 </section>
 
-<section class="section" style="background: white; border-top: 1px solid var(--border);">
+<section class="section" style="background: white; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
     <div class="container">
         <div class="section-title">
             <h2>Our Foundation</h2>
@@ -78,6 +61,23 @@
                 <h3>Scripture-Rooted Ethics</h3>
                 <p>Literature and ethics are grounded in Biblical scripture and traditional Judeo-Christian values throughout every grade level.</p>
             </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Grade Levels</h2>
+            <p>Complete curriculum from Pre-K through 12th Grade</p>
+        </div>
+        <div class="grade-grid">
+            {% for grade_key, grade in grades.items() %}
+            <a href="/grade/{{ grade_key }}" class="grade-card" style="text-decoration:none;">
+                <div class="grade-num">{{ grade.short }}</div>
+                <div class="grade-label">{{ grade.name }}</div>
+            </a>
+            {% endfor %}
         </div>
     </div>
 </section>
