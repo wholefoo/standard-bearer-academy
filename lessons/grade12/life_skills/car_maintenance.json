@@ -1,0 +1,78 @@
+{
+    "id": "car_maintenance",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Car Maintenance and Transportation",
+    "subtitle": "Caring for Your Vehicle as a Faithful Steward",
+    "scripture": "Proverbs 27:23-24; Luke 16:10",
+    "primary_source": "Henry Ford, 'My Life and Work' (1922), on the value of practical knowledge and responsible use of machinery",
+    "key_concepts": ["Basic car maintenance schedule", "Understanding oil changes and tire care", "Buying vs. leasing a vehicle", "Car insurance essentials", "Emergency roadside preparedness", "Stewardship of transportation resources"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:23-24",
+                "text": "\"Be sure you know the condition of your flocks, give careful attention to your herds; for riches do not endure forever, and a crown is not secure for all generations.\"",
+                "commentary": "In the ancient world, flocks and herds were valuable assets requiring constant care. Today, a vehicle is one of the most significant assets a young adult owns. Knowing the condition of your car — its maintenance needs, fluid levels, and tire condition — reflects the same stewardship principle Solomon taught about livestock."
+            },
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+                "commentary": "Faithfulness in small things — like changing your oil on schedule, checking your tire pressure, and keeping your car clean — builds the character and discipline that God entrusts with greater responsibilities. Neglecting basic maintenance is a form of poor stewardship."
+            },
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Even mundane tasks like washing your car or checking the tire tread are opportunities to honor God through diligence and care. A well-maintained vehicle reflects a heart that takes seriously the responsibility of caring for what God has provided."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: More Than Just a Ride",
+            "paragraphs": [
+                "For many young adults, a car represents freedom and independence. It gets you to work, to church, to serve others, and to fulfill your daily responsibilities. But a vehicle is also a significant financial investment and a piece of complex machinery that requires regular care to function safely and reliably.",
+                "Understanding basic car maintenance is not optional — it is an essential life skill. Neglecting your vehicle leads to costly repairs, dangerous breakdowns, and shortened vehicle life. Caring for your car well is an act of stewardship that saves money, protects safety, and honors God with what He has provided."
+            ]
+        },
+        {
+            "heading": "Essential Maintenance Tasks",
+            "paragraphs": [
+                "Every vehicle requires regular maintenance to operate safely. The most fundamental tasks include oil changes (typically every 5,000-7,500 miles for modern vehicles), tire rotation and pressure checks, brake inspections, fluid level checks (coolant, transmission fluid, brake fluid, windshield washer fluid), air filter replacement, and battery testing.",
+                "Your owner's manual is your best guide to your specific vehicle's maintenance schedule. Keep a log of all maintenance performed, including dates, mileage, and what was done. This record helps you stay on schedule and adds value if you eventually sell the vehicle.",
+                "Learn to perform basic checks yourself: checking and adding oil, monitoring tire pressure with a gauge, inspecting wiper blades, checking all lights, and jumping a dead battery. These simple skills save money and prevent being stranded in situations where help is not immediately available."
+            ]
+        },
+        {
+            "heading": "Buying a Vehicle Wisely",
+            "paragraphs": [
+                "When purchasing a vehicle, the Biblical principle of living within your means is paramount. Financial experts recommend spending no more than 10-15% of your monthly income on total vehicle costs, including payment, insurance, fuel, and maintenance. Many young adults make the mistake of buying more car than they can afford.",
+                "For most young adults, a reliable used vehicle is the wisest first purchase. New cars lose 20-30% of their value in the first year alone. Research vehicles thoroughly, have any used car inspected by an independent mechanic before purchasing, and avoid long-term loans with high interest rates that leave you owing more than the car is worth.",
+                "Car insurance is legally required in most states and financially essential. Understand the difference between liability coverage (covers damage you cause to others), collision coverage (covers damage to your car), and comprehensive coverage (covers theft, weather damage, and other non-collision events). Shop for competitive rates but never drive uninsured."
+            ]
+        },
+        {
+            "heading": "Emergency Preparedness on the Road",
+            "paragraphs": [
+                "Every vehicle should carry an emergency kit including jumper cables, a flashlight, basic tools, a first aid kit, reflective triangles or flares, a phone charger, and seasonal supplies like an ice scraper or extra water. Being prepared is not fearful — it is wise stewardship.",
+                "Know what to do in common emergencies: a flat tire, an overheating engine, a dead battery, or a minor accident. Keep emergency contact numbers accessible, including roadside assistance, your insurance company, and a trusted mechanic. Being prepared allows you to respond calmly and help others in similar situations — living out the Good Samaritan principle on modern roads."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does regular car maintenance reflect the stewardship principle taught in Proverbs 27:23-24? What happens when we neglect the things God has entrusted to us?",
+            "guidance": "Consider how knowing the condition of your possessions and maintaining them prevents waste and loss. Think about how neglect of small responsibilities can lead to larger problems — both with vehicles and in life."
+        },
+        {
+            "id": 2,
+            "question": "Why is it important for a Christian to avoid spending more on a vehicle than they can reasonably afford? How does this relate to being free to serve God generously?",
+            "guidance": "Consider how excessive car payments limit your ability to tithe, save, give to those in need, and respond to God's calling. Think about how contentment with reliable transportation frees resources for kingdom purposes."
+        },
+        {
+            "id": 3,
+            "question": "How can being prepared for roadside emergencies be an opportunity to serve others and reflect Christ's love?",
+            "guidance": "Think about the parable of the Good Samaritan and how being equipped and knowledgeable puts you in a position to help stranded motorists, demonstrating practical Christian love on the road."
+        }
+    ]
+}

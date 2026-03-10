@@ -1,0 +1,83 @@
+{
+    "id": "investing",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Investing",
+    "subtitle": "Growing God's Resources Through Wise Investment",
+    "scripture": "Matthew 25:27",
+    "primary_source": "Benjamin Graham, 'The Intelligent Investor' (1949)",
+    "key_concepts": ["Investing vs. speculation", "Stocks, bonds, and mutual funds", "Compound interest", "Risk and diversification", "Biblical principles of stewardship in investing"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 25:27",
+                "text": "\"Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.\"",
+                "commentary": "In the parable of the talents, the master rebuked the servant who failed to invest. God expects us to be active stewards of our resources, growing and multiplying them wisely rather than hoarding them out of fear."
+            },
+            {
+                "reference": "Proverbs 21:5",
+                "text": "\"The plans of the diligent lead to profit as surely as haste leads to poverty.\"",
+                "commentary": "Wise investing requires diligent planning and patience. Quick-money schemes and impulsive decisions lead to loss, while careful research and long-term commitment lead to growth. Investing is an exercise in the virtue of patience."
+            },
+            {
+                "reference": "Ecclesiastes 11:2",
+                "text": "\"Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land.\"",
+                "commentary": "This ancient wisdom anticipates the modern principle of diversification — spreading investments across multiple areas to reduce risk. Solomon recognized that the future is uncertain and wise stewards prepare accordingly."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Investing Matters",
+            "paragraphs": [
+                "Investing is the practice of putting money to work so that it grows over time. Unlike saving — which preserves money in a safe place — investing involves purchasing assets that have the potential to increase in value or generate income. Investing is essential for building long-term wealth, funding retirement, and achieving financial goals that simple saving cannot accomplish.",
+                "For Christians, investing is an act of stewardship. The parable of the talents makes clear that God expects His servants to multiply the resources entrusted to them, not simply to preserve them. Learning to invest wisely — with knowledge, patience, and integrity — is a practical way to honor God with your financial resources."
+            ]
+        },
+        {
+            "heading": "Types of Investments",
+            "paragraphs": [
+                "The three primary types of investments are stocks, bonds, and cash equivalents. Stocks represent ownership shares in a company. When you buy stock, you become a partial owner and share in the company's profits (or losses). Bonds are loans you make to a company or government in exchange for regular interest payments and the return of your principal at maturity. Cash equivalents include savings accounts, certificates of deposit, and money market funds that offer safety and liquidity but lower returns.",
+                "Mutual funds and exchange-traded funds (ETFs) pool money from many investors to purchase diversified portfolios of stocks, bonds, or other assets. These are popular because they provide diversification — reducing risk by spreading investments across many companies and sectors. Index funds, which track a broad market index, have become especially popular because of their low fees and consistent long-term performance."
+            ]
+        },
+        {
+            "heading": "The Power of Compound Interest",
+            "paragraphs": [
+                "Albert Einstein reportedly called compound interest 'the eighth wonder of the world.' Compound interest means earning returns not only on your original investment but also on the returns that have already accumulated. Over time, this creates exponential growth that can transform modest, regular investments into substantial wealth.",
+                "For example, if you invest $100 per month starting at age 18, earning an average annual return of 8%, by age 65 you would have approximately $527,000 — even though you only contributed $56,400 of your own money. The remaining $470,600 came from compound growth. Starting early is the single most powerful investment strategy because it gives compound interest the most time to work."
+            ]
+        },
+        {
+            "heading": "Risk and Diversification",
+            "paragraphs": [
+                "All investing involves risk — the possibility of losing money. Generally, investments with higher potential returns carry higher risk, while safer investments offer lower returns. Understanding your risk tolerance — how much volatility you can handle emotionally and financially — is essential for making wise investment decisions.",
+                "Diversification is the primary strategy for managing risk. By spreading investments across different asset classes (stocks, bonds, real estate), different industries, and different geographic regions, you reduce the impact of any single investment's poor performance on your overall portfolio. Benjamin Graham, in 'The Intelligent Investor,' emphasized that the key to successful investing is not picking individual winners but building a diversified portfolio and maintaining the discipline to hold it through market fluctuations."
+            ]
+        },
+        {
+            "heading": "Biblical Principles for Investing",
+            "paragraphs": [
+                "Several Biblical principles guide Christian investing. First, invest with a long-term perspective rather than seeking quick riches (Proverbs 28:20). Second, diversify to manage risk wisely (Ecclesiastes 11:2). Third, avoid greed — investing should serve your family's needs and your ability to give generously, not fuel an insatiable desire for more. Fourth, maintain integrity — avoid investments in companies whose practices violate your convictions.",
+                "Finally, remember that earthly investments are temporary. Jesus taught, 'Do not store up for yourselves treasures on earth... but store up for yourselves treasures in heaven' (Matthew 6:19-20). Wise financial investing serves practical needs, but the most important investments are those made in eternal things — generosity, service, relationships, and the spread of the Gospel."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the parable of the talents challenge the idea that avoiding all financial risk is the safest approach? What does faithful stewardship of money require?",
+            "guidance": "Consider that the servant who buried his talent was rebuked for his inaction. Faithful stewardship requires wise action, not fearful avoidance of all risk."
+        },
+        {
+            "id": 2,
+            "question": "Why is starting to invest early so powerful? How does understanding compound interest affect your plans for saving and investing?",
+            "guidance": "Calculate or estimate how much money regular small investments could grow to over 40+ years. Consider how this motivates beginning even with small amounts."
+        },
+        {
+            "id": 3,
+            "question": "How should Christians balance investing for the future with Jesus' teaching about not storing up treasures on earth? What role does generosity play alongside investing?",
+            "guidance": "Reflect on the tension between wise financial planning and ultimate trust in God. Consider how investing and generous giving can work together as expressions of stewardship."
+        }
+    ]
+}

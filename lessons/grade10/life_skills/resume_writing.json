@@ -1,0 +1,83 @@
+{
+    "id": "resume_writing",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Resume Writing",
+    "subtitle": "Presenting Your Story with Honesty and Excellence",
+    "scripture": "Proverbs 22:29",
+    "primary_source": "Harvard Business Review, 'How to Write a Resume That Stands Out'",
+    "key_concepts": ["Resume structure and formatting", "Writing effective descriptions", "Honesty and integrity in self-presentation", "Cover letters", "Tailoring applications to specific positions"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 22:29",
+                "text": "\"Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.\"",
+                "commentary": "Excellence in presenting your skills and experience — starting with a well-crafted resume — opens doors to greater opportunities. A resume is your first chance to demonstrate the skill and diligence that characterize a faithful worker."
+            },
+            {
+                "reference": "Proverbs 12:22",
+                "text": "\"The Lord detests lying lips, but he delights in people who are trustworthy.\"",
+                "commentary": "A resume must be completely truthful. Exaggerating qualifications, fabricating experience, or misrepresenting skills is dishonest and will ultimately undermine your credibility and career."
+            },
+            {
+                "reference": "Ephesians 2:10",
+                "text": "\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\"",
+                "commentary": "Your resume tells the story of how God has been preparing you through experiences, education, and skills development. Every honest entry on your resume reflects part of God's ongoing work in your life."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Your Resume Tells Your Story",
+            "paragraphs": [
+                "A resume is a concise, written summary of your education, skills, experience, and accomplishments. It is typically the first document a potential employer sees, and it shapes their initial impression of you. A well-crafted resume can open doors to interviews and opportunities; a poorly written one can close them before you even get a chance to speak.",
+                "For the Christian, writing a resume is an exercise in truthful self-presentation. Your resume should accurately represent who you are and what you can offer, without exaggeration or false modesty. It should demonstrate the excellence and integrity that reflect your commitment to honoring God in all things."
+            ]
+        },
+        {
+            "heading": "Resume Structure and Format",
+            "paragraphs": [
+                "A standard resume includes several key sections: contact information, an objective or summary statement, education, work experience, skills, and relevant activities or volunteer work. The format should be clean, professional, and easy to read. Use consistent fonts, clear headings, and adequate white space. Most resumes should be one page for entry-level candidates.",
+                "Contact information goes at the top: your full name, phone number, email address, and city/state. Your email address should be professional — avoid nicknames or inappropriate handles. The objective statement briefly describes the position you seek and what you bring to it. Education lists your school, expected graduation date, GPA (if strong), and relevant coursework or honors."
+            ]
+        },
+        {
+            "heading": "Writing Effective Descriptions",
+            "paragraphs": [
+                "When describing your experience, use strong action verbs and focus on accomplishments rather than just duties. Instead of writing 'Was responsible for organizing events,' write 'Organized five community service events serving over 200 families.' Quantifying your achievements whenever possible gives employers concrete evidence of your capabilities.",
+                "Each bullet point should follow a simple formula: action verb + specific task + measurable result. This approach transforms vague descriptions into compelling evidence of your abilities. Even volunteer work, school projects, and church activities can be described in professional terms that highlight transferable skills."
+            ]
+        },
+        {
+            "heading": "The Cover Letter: Your Personal Introduction",
+            "paragraphs": [
+                "A cover letter accompanies your resume and provides an opportunity to introduce yourself personally, explain your interest in the specific position, and highlight the qualifications that make you an ideal candidate. While a resume lists facts, a cover letter tells a story — why you are passionate about this work and how your background has prepared you for it.",
+                "A strong cover letter is tailored to each position. Research the company and reference specific aspects of their mission or work that resonate with you. Explain how your skills and values align with what they seek. Keep it professional, concise (three to four paragraphs), and error-free. A cover letter full of typos or generic language suggests a lack of care and attention."
+            ]
+        },
+        {
+            "heading": "Integrity in Self-Presentation",
+            "paragraphs": [
+                "The temptation to embellish a resume is real, especially when you feel your experience is limited. However, dishonesty on a resume is not only morally wrong — it is also practically dangerous. Employers verify claims, and being caught in a lie can result in immediate disqualification or termination, along with lasting damage to your reputation.",
+                "Biblical integrity demands that every statement on your resume be truthful. This does not mean underselling yourself — it means accurately presenting your genuine skills, experiences, and accomplishments in the most professional light possible. You can be both honest and compelling. Trust that God has given you enough experience and ability to present yourself well without resorting to falsehood."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is honesty so important in resume writing? What are the practical and spiritual consequences of misrepresenting yourself on a resume?",
+            "guidance": "Consider both the immediate risks of being caught in a lie and the deeper issue of building a career on a foundation of dishonesty versus integrity."
+        },
+        {
+            "id": 2,
+            "question": "How can you present limited experience in a compelling way without exaggerating? What transferable skills from school, church, or volunteer work could strengthen your resume?",
+            "guidance": "Practice reframing everyday experiences using action verbs and measurable results. Even babysitting, lawn care, or leading a small group develops real skills."
+        },
+        {
+            "id": 3,
+            "question": "How does Ephesians 2:10 change the way you think about your resume and career preparation? What 'good works' has God been preparing you for?",
+            "guidance": "Reflect on how your unique combination of interests, abilities, and experiences might point toward specific ways God wants to use you in the world."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "job_hunting",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Job Hunting",
+    "subtitle": "Seeking Opportunity with Purpose and Persistence",
+    "scripture": "Colossians 3:23",
+    "primary_source": "U.S. Bureau of Labor Statistics, Occupational Outlook Handbook",
+    "key_concepts": ["Job market research", "Networking and referrals", "Online job boards and applications", "Identifying transferable skills", "Prayerful discernment in job searching"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "The job search itself is an opportunity to honor God. Approaching the process with diligence, honesty, and wholehearted effort reflects our commitment to serve the Lord in every area of life, including how we pursue employment."
+            },
+            {
+                "reference": "Proverbs 16:3",
+                "text": "\"Commit to the Lord whatever you do, and he will establish your plans.\"",
+                "commentary": "Job hunting should begin with prayer and surrender to God's will. When we commit our career plans to the Lord, He directs our steps — sometimes to unexpected places that perfectly fit His purposes for our lives."
+            },
+            {
+                "reference": "Jeremiah 29:11",
+                "text": "\"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.\"",
+                "commentary": "Even when the job search feels discouraging, believers can trust that God has a purpose and a plan. Patience and faith are essential companions during the search for meaningful work."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Job Search as a Calling",
+            "paragraphs": [
+                "Finding a job is one of the most important practical challenges you will face as a young adult. Whether you are seeking your first part-time position or planning a career after graduation, the ability to search for, find, and secure employment is a critical life skill. But for the Christian, job hunting is more than a practical task — it is an exercise in faith, patience, and stewardship.",
+                "God has given each person unique talents, interests, and abilities. The job search is an opportunity to discover where those gifts can be put to work for His glory and for the good of others. Approaching the process with prayer, diligence, and integrity sets the foundation for a career built on purpose rather than mere circumstance."
+            ]
+        },
+        {
+            "heading": "Researching the Job Market",
+            "paragraphs": [
+                "Effective job hunting begins with research. Understanding which industries are growing, which skills are in demand, and what opportunities exist in your area helps you focus your efforts wisely. The U.S. Bureau of Labor Statistics publishes the Occupational Outlook Handbook, which provides detailed information about hundreds of occupations, including job duties, education requirements, pay, and growth projections.",
+                "Beyond broad research, identify specific companies and organizations whose mission and values align with your own. Christians should consider not only salary and benefits but also whether a workplace environment will allow them to live out their faith with integrity. Research company cultures, read reviews from current and former employees, and pray for wisdom in identifying the right opportunities."
+            ]
+        },
+        {
+            "heading": "Networking: Building Relationships with Purpose",
+            "paragraphs": [
+                "Studies consistently show that a large percentage of jobs are filled through personal connections rather than public postings. Networking — building genuine professional relationships — is one of the most effective job-hunting strategies. This includes connecting with family friends, church members, teachers, coaches, and community leaders who may know of opportunities.",
+                "Networking is not about using people; it is about building authentic relationships where you can both give and receive help. The Christian approach to networking emphasizes serving others, being genuinely interested in people, and trusting God to open doors through the relationships He provides. Attend career fairs, join professional organizations, and be willing to volunteer — all of these create opportunities to meet people who can help guide your career."
+            ]
+        },
+        {
+            "heading": "Applying for Jobs: Practical Steps",
+            "paragraphs": [
+                "When you find positions that interest you, the application process requires careful attention to detail. Read job descriptions thoroughly and tailor your application to each specific position. Follow all instructions precisely — employers often use the application process itself to evaluate a candidate's ability to follow directions and pay attention to detail.",
+                "Online job boards such as Indeed, LinkedIn, and industry-specific sites are valuable tools, but do not rely on them exclusively. Many positions are filled before they are ever posted publicly. Combine online applications with direct outreach to companies you admire, follow-up phone calls, and in-person visits where appropriate. Persistence and professionalism in the application process reflect the work ethic that honors God."
+            ]
+        },
+        {
+            "heading": "Identifying Your Transferable Skills",
+            "paragraphs": [
+                "Even if you have limited formal work experience, you likely possess many transferable skills — abilities developed through school, volunteer work, church involvement, sports, hobbies, or family responsibilities. Skills like communication, teamwork, problem-solving, time management, and leadership are valued by employers across every industry.",
+                "Take inventory of your experiences and identify the skills each one developed. Leading a youth group teaches leadership and public speaking. Organizing a community service project demonstrates project management. Helping with a family business develops customer service skills. Recognizing and articulating these skills helps you present yourself confidently to potential employers, even at the beginning of your career."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How can you make prayer and faith a central part of your job search process? What does it look like to trust God while also working diligently?",
+            "guidance": "Consider the balance between resting in God's sovereignty and taking practical, persistent action. Both faith and works are important in the job search."
+        },
+        {
+            "id": 2,
+            "question": "What transferable skills have you already developed through school, church, volunteer work, or family responsibilities? How could you present these to a potential employer?",
+            "guidance": "Make a personal inventory of experiences and the skills they developed. Practice articulating these in a way that demonstrates their relevance to the workplace."
+        },
+        {
+            "id": 3,
+            "question": "Why is networking important, and how can Christians approach networking in a way that honors God and genuinely serves others?",
+            "guidance": "Reflect on the difference between using people for personal gain and building authentic relationships. Consider how the Golden Rule applies to professional networking."
+        }
+    ]
+}

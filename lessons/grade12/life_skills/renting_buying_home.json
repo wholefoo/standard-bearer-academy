@@ -1,0 +1,78 @@
+{
+    "id": "renting_buying_home",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Renting and Buying a Home",
+    "subtitle": "Finding and Managing Your First Place to Live",
+    "scripture": "Proverbs 24:27; Psalm 127:1",
+    "primary_source": "Benjamin Franklin, 'The Way to Wealth' (1758), on industry, frugality, and preparing before you build",
+    "key_concepts": ["Renting vs. buying a home", "Understanding lease agreements", "Budgeting for housing costs", "Mortgages and down payments", "Tenant rights and responsibilities", "Trusting God as your ultimate provider"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 24:27",
+                "text": "\"Put your outdoor work in order and get your fields ready; after that, build your house.\"",
+                "commentary": "This proverb teaches the wisdom of preparation before commitment. Before signing a lease or purchasing a home, a wise person establishes income, saves diligently, and counts the cost. Rushing into housing decisions without financial readiness leads to stress and poor stewardship."
+            },
+            {
+                "reference": "Psalm 127:1",
+                "text": "\"Unless the LORD builds the house, the builders labor in vain. Unless the LORD watches over the city, the guards stand watch in vain.\"",
+                "commentary": "Our homes — whether rented apartments or purchased houses — should be built on the foundation of God's will and guidance. Inviting God into our housing decisions means seeking His wisdom about timing, location, and financial commitments rather than relying solely on our own plans."
+            },
+            {
+                "reference": "Hebrews 13:5",
+                "text": "\"Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'\"",
+                "commentary": "Contentment is essential when making housing decisions. The world pressures young adults to buy more house than they need, but godly contentment means choosing housing that fits your means and allows generous living rather than stretching beyond your budget to impress others."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Your First Home Away from Home",
+            "paragraphs": [
+                "One of the most significant steps in becoming an independent adult is finding a place to live on your own. Whether you rent an apartment or eventually purchase a home, understanding how housing works is essential for responsible stewardship of the resources God provides.",
+                "For most young adults, renting is the first step. Renting allows flexibility, requires less upfront money, and frees you from the responsibilities of property ownership while you establish your career and finances. Buying a home is a major financial commitment that makes sense when you are financially stable, plan to stay in an area, and have saved adequately for a down payment."
+            ]
+        },
+        {
+            "heading": "Understanding the Rental Process",
+            "paragraphs": [
+                "Renting begins with determining what you can afford. A widely accepted guideline is that housing costs — including rent, utilities, and renter's insurance — should not exceed 25-30% of your gross monthly income. This leaves room for saving, giving, and covering other expenses.",
+                "When you find a suitable rental, you will sign a lease — a legally binding contract between you and the landlord. Read every word of your lease carefully. Key items to understand include the monthly rent amount, the lease duration, the security deposit terms, policies on pets and guests, maintenance responsibilities, and the process for ending the lease. Never sign a document you do not fully understand.",
+                "As a tenant, you have both rights and responsibilities. You have the right to a habitable living space, privacy, and proper notice before the landlord enters your unit. Your responsibilities include paying rent on time, keeping the property clean, reporting maintenance issues promptly, and following the terms of your lease. Being a responsible tenant is an expression of Christian integrity."
+            ]
+        },
+        {
+            "heading": "The Path to Home Ownership",
+            "paragraphs": [
+                "Buying a home is one of the largest financial decisions most people ever make. The process involves saving for a down payment (typically 10-20% of the purchase price), getting pre-approved for a mortgage, finding a home within your budget, making an offer, completing an inspection, and closing the deal.",
+                "A mortgage is a loan specifically for purchasing property. You repay it monthly over 15 to 30 years, plus interest. The total interest paid over the life of a mortgage can be substantial — sometimes exceeding the original purchase price. Understanding this reality helps you make wise decisions about how much to borrow and how quickly to pay it off.",
+                "Additional costs of homeownership include property taxes, homeowner's insurance, maintenance and repairs, and possibly homeowner's association fees. A faithful steward considers all these costs before committing to a purchase, following the Biblical principle of counting the cost before building (Luke 14:28-30)."
+            ]
+        },
+        {
+            "heading": "Making Housing Decisions with Wisdom",
+            "paragraphs": [
+                "Whether renting or buying, seek counsel from trusted advisors — parents, mentors, financial counselors, and most importantly, the Lord in prayer. Avoid making housing decisions based on emotion, social pressure, or the desire to keep up with peers.",
+                "Remember that your home is more than a financial investment — it is a place where you practice hospitality, build community, and serve as a witness for Christ. Choose housing that supports your ability to live generously, serve others, and grow in faith, rather than simply maximizing square footage or status."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What factors should a young Christian consider when deciding whether to rent or buy a home? How does Proverbs 24:27 apply to this decision?",
+            "guidance": "Consider financial readiness, career stability, location plans, and the wisdom of preparation. Think about how rushing into homeownership without adequate savings violates the principle of preparing your fields before building your house."
+        },
+        {
+            "id": 2,
+            "question": "How can contentment (Hebrews 13:5) protect you from making poor housing decisions? What pressures might tempt a young adult to spend more on housing than they should?",
+            "guidance": "Consider social media comparisons, peer pressure, desire for status, and cultural messages about what a home should look like. Think about how contentment with modest housing can free resources for giving, saving, and ministry."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to read and understand every part of a lease or mortgage agreement before signing? How does this relate to Christian integrity?",
+            "guidance": "Consider that signing a document is making a commitment — your word matters before God. Understanding what you agree to prevents disputes and demonstrates the honesty and diligence that should characterize believers."
+        }
+    ]
+}

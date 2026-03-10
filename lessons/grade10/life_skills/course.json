@@ -1,0 +1,14 @@
+{
+    "grade": "grade10",
+    "subject": "life_skills",
+    "title": "Career Exploration — Finding Your God-Given Calling",
+    "description": "A practical exploration of career planning, job skills, and vocational discernment from a Biblical perspective, equipping students to discover and pursue their God-given calling with excellence and purpose.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Career Exploration — Finding Your God-Given Calling",
+            "lessons": ["job_hunting", "resume_writing", "interviews", "work_ethic", "entrepreneurship", "vocational_discernment"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

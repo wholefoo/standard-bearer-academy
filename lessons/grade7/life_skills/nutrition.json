@@ -1,0 +1,75 @@
+{
+    "id": "nutrition",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Nutrition — Fueling Your Body God's Way",
+    "subtitle": "Understanding How the Food You Eat Affects Your Health and Well-Being",
+    "scripture": "Daniel 1:12",
+    "key_concepts": ["Basic food groups and nutrients", "Reading nutrition labels", "Making healthy food choices", "God's design for nourishment"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Daniel 1:12",
+                "text": "\"'Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink.'\"",
+                "commentary": "Daniel chose nutritious food over the king's rich diet, and God blessed him with better health and appearance. Our food choices matter, and God honors those who care for their bodies wisely."
+            },
+            {
+                "reference": "Genesis 1:29",
+                "text": "\"Then God said, 'I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.'\"",
+                "commentary": "God designed food for our nourishment. The variety of fruits, vegetables, grains, and proteins in creation reflects His generous provision and wisdom."
+            },
+            {
+                "reference": "1 Corinthians 10:31",
+                "text": "\"So whether you eat or drink or whatever you do, do it all for the glory of God.\"",
+                "commentary": "Even eating can glorify God when we make wise, grateful choices about the food we consume."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: You Are What You Eat",
+            "paragraphs": [
+                "The food you eat directly affects how you feel, how you think, and how well your body functions. Good nutrition gives you energy for school and activities, strengthens your immune system, helps you grow properly, and supports your brain function. Poor nutrition, on the other hand, can lead to fatigue, illness, and difficulty concentrating.",
+                "God designed an incredible variety of foods to nourish our bodies. From the fruits and vegetables of Genesis to the bread and fish Jesus shared with His disciples, food is one of God's most practical and delightful gifts. Understanding nutrition helps us steward this gift well."
+            ]
+        },
+        {
+            "heading": "The Basic Food Groups",
+            "paragraphs": [
+                "A balanced diet includes foods from five major groups: fruits, vegetables, grains, proteins, and dairy. Fruits and vegetables provide vitamins, minerals, and fiber. Grains (especially whole grains) give you sustained energy. Proteins — from meat, fish, beans, eggs, and nuts — build and repair your muscles. Dairy products provide calcium for strong bones.",
+                "Each food group provides different nutrients your body needs. Eating a variety of foods from all groups ensures you get the right balance. Try to fill half your plate with fruits and vegetables, a quarter with grains, and a quarter with protein at each meal."
+            ]
+        },
+        {
+            "heading": "Reading Nutrition Labels",
+            "paragraphs": [
+                "Nutrition labels are found on most packaged foods and tell you important information about what you are eating. They list serving size, calories, and the amounts of fat, sodium, sugar, protein, and various vitamins and minerals.",
+                "Learning to read labels helps you make informed choices. Watch for high amounts of added sugar, sodium, and saturated fat — these can harm your health when consumed in excess. Look for foods that are high in fiber, vitamins, and minerals. Comparing labels between products helps you choose the healthier option."
+            ]
+        },
+        {
+            "heading": "Making Healthy Choices",
+            "paragraphs": [
+                "Making healthy food choices does not mean you can never enjoy a treat. It means that most of the time, you choose foods that nourish your body well. Drink plenty of water instead of sugary drinks. Choose whole fruits over fruit juice. Pick whole grain bread over white bread. Eat a variety of colorful vegetables.",
+                "Daniel's example in the Bible shows that healthy eating requires intentionality and sometimes courage. He chose vegetables and water when everyone around him was eating rich, indulgent food — and God rewarded his discipline. Like Daniel, we can choose to fuel our bodies wisely, trusting that God's design for nutrition is best."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does Daniel's story teach us about the connection between food choices and health? How can you apply his example today?",
+            "guidance": "Think about the courage it took for Daniel to choose differently. Consider what healthy choices might require discipline in your life."
+        },
+        {
+            "id": 2,
+            "question": "Look at the nutrition label on a food item in your home. What does it tell you about the healthiness of that food?",
+            "guidance": "Check the serving size, sugar, sodium, and fiber content. Evaluate whether this is a healthy choice for regular consumption."
+        },
+        {
+            "id": 3,
+            "question": "How does 1 Corinthians 10:31 change the way you think about eating? What does it mean to eat 'for the glory of God'?",
+            "guidance": "Think about how gratitude, moderation, and wise choices can turn everyday meals into acts of worship."
+        }
+    ]
+}

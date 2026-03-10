@@ -1,0 +1,83 @@
+{
+    "id": "taxes",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Taxes",
+    "subtitle": "Rendering unto Caesar with Integrity and Understanding",
+    "scripture": "Romans 13:7",
+    "primary_source": "U.S. Constitution, Article I, Section 8 (Taxing Power)",
+    "key_concepts": ["Purpose and types of taxes", "Income tax basics", "Filing tax returns", "Tax deductions and credits", "Biblical perspective on civic duty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Romans 13:7",
+                "text": "\"Give to everyone what you owe them: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.\"",
+                "commentary": "Paul makes clear that paying taxes is a Christian obligation. Governments are established by God to maintain order and provide for the common good, and paying taxes is how citizens support these functions. Christians should pay their taxes honestly and fully."
+            },
+            {
+                "reference": "Matthew 22:21",
+                "text": "\"Then he said to them, 'So give back to Caesar what is Caesar's, and to God what is God's.'\"",
+                "commentary": "When asked about paying taxes, Jesus affirmed the legitimacy of taxation while also reminding us that our ultimate allegiance belongs to God. We fulfill our civic duties while maintaining our identity as citizens of God's kingdom."
+            },
+            {
+                "reference": "Proverbs 3:9",
+                "text": "\"Honor the Lord with your wealth, with the firstfruits of all your crops.\"",
+                "commentary": "Understanding taxes helps us plan our finances wisely, ensuring we can honor God with our giving while also meeting our civic obligations. Financial literacy enables better stewardship of all our resources."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why We Pay Taxes",
+            "paragraphs": [
+                "Taxes are mandatory financial contributions collected by governments to fund public services and infrastructure. They pay for roads, schools, military defense, law enforcement, courts, public health programs, and countless other services that benefit society. The power to levy taxes is established in the U.S. Constitution, Article I, Section 8, which grants Congress the authority to 'lay and collect Taxes, Duties, Imposts and Excises.'",
+                "While no one enjoys paying taxes, understanding them is an essential life skill. Christians have a Biblical obligation to pay taxes honestly (Romans 13:7), and practical knowledge of the tax system helps you plan your finances wisely, take advantage of legitimate deductions, and avoid costly mistakes or penalties."
+            ]
+        },
+        {
+            "heading": "Types of Taxes",
+            "paragraphs": [
+                "There are several major types of taxes. Income tax is levied on the money you earn from employment, investments, and other sources. The federal government and most states collect income tax. Sales tax is a percentage added to the price of goods and services at the point of purchase. Property tax is assessed on the value of real estate and is typically collected by local governments to fund schools and community services.",
+                "Payroll taxes fund Social Security and Medicare — programs that provide retirement income and healthcare for elderly Americans. These taxes are automatically deducted from your paycheck. Capital gains tax applies to profits from selling investments or property. Understanding these different taxes helps you anticipate your obligations and plan accordingly."
+            ]
+        },
+        {
+            "heading": "Income Tax Basics",
+            "paragraphs": [
+                "The federal income tax system is progressive, meaning that higher income levels are taxed at higher rates. Tax rates are organized into brackets — as your income increases, the portion in each higher bracket is taxed at a correspondingly higher rate. It is important to understand that moving into a higher tax bracket does not mean all of your income is taxed at the higher rate — only the income within that bracket.",
+                "Your taxable income is calculated by subtracting deductions from your gross income. The standard deduction is a fixed amount that most taxpayers can subtract; alternatively, you can itemize deductions if your qualifying expenses (such as charitable giving, mortgage interest, or medical expenses) exceed the standard deduction. Understanding these calculations helps you estimate your tax obligations and plan your finances."
+            ]
+        },
+        {
+            "heading": "Filing Your Tax Return",
+            "paragraphs": [
+                "Every year, taxpayers must file a tax return with the IRS (and usually their state) to report their income, calculate the taxes they owe, and reconcile that amount with the taxes already withheld from their paychecks. The federal filing deadline is typically April 15. Tax returns can be filed using paper forms, tax preparation software, or through a professional tax preparer.",
+                "When you start working, your employer will have you complete a W-4 form, which determines how much federal tax is withheld from each paycheck. At the end of the year, you will receive a W-2 form summarizing your earnings and withholdings. These documents are essential for filing your return accurately. Keeping organized financial records throughout the year makes tax time much less stressful."
+            ]
+        },
+        {
+            "heading": "Integrity in Tax Matters",
+            "paragraphs": [
+                "Christians are called to pay their taxes with complete honesty. Tax evasion — deliberately underreporting income or claiming false deductions — is both illegal and immoral. It violates the Biblical commands to be honest and to submit to governing authorities. However, tax avoidance — using legitimate strategies to minimize your tax burden, such as contributing to retirement accounts or claiming earned deductions — is perfectly appropriate and wise.",
+                "Understanding the difference between evasion and avoidance is crucial. Taking advantage of deductions and credits you legitimately qualify for is responsible stewardship. Misrepresenting your financial situation to reduce your taxes is theft from the public and a violation of your Christian witness. As in all financial matters, integrity must be non-negotiable."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Romans 13:7 shape a Christian's attitude toward paying taxes? How should this differ from the common attitude of resentment toward taxation?",
+            "guidance": "Consider Paul's broader teaching about submitting to governing authorities and how tax payment supports the common good. Reflect on the difference between cheerful compliance and grudging obligation."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between tax evasion and tax avoidance? Why is this distinction important for maintaining Christian integrity?",
+            "guidance": "Tax evasion is illegal and dishonest; tax avoidance uses legitimate means to minimize taxes. Consider specific examples and why the line between them matters morally."
+        },
+        {
+            "id": 3,
+            "question": "Why is financial literacy about taxes important for good stewardship? How does understanding the tax system help you manage your money more effectively?",
+            "guidance": "Think about how knowledge of deductions, credits, and tax-advantaged accounts enables you to keep more of your income for giving, saving, and family needs."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade11",
+    "subject": "life_skills",
+    "title": "Personal Finance — Managing God's Resources Wisely",
+    "description": "A comprehensive study of personal finance principles from a Biblical stewardship perspective, preparing students to manage money, plan for the future, and honor God with their financial decisions.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Personal Finance — Managing God's Resources Wisely",
+            "lessons": ["investing", "taxes", "insurance", "credit", "major_purchases", "retirement_planning"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

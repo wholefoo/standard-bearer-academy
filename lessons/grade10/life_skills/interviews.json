@@ -1,0 +1,83 @@
+{
+    "id": "interviews",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Interviews",
+    "subtitle": "Speaking with Confidence, Grace, and Truth",
+    "scripture": "1 Peter 3:15",
+    "primary_source": "Dale Carnegie, 'How to Win Friends and Influence People' (1936)",
+    "key_concepts": ["Interview preparation", "Common interview questions", "Professional appearance and body language", "The STAR method for answering questions", "Following up after interviews"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Peter 3:15",
+                "text": "\"Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.\"",
+                "commentary": "Preparation, clarity, and respectful communication are essential for interviews. Just as Peter encourages believers to be ready to explain their faith, job candidates must be ready to articulate their qualifications, motivations, and goals with confidence and grace."
+            },
+            {
+                "reference": "Proverbs 15:1",
+                "text": "\"A gentle answer turns away wrath, but a harsh word stirs up anger.\"",
+                "commentary": "The tone and manner of your responses in an interview matter as much as their content. Gentleness, warmth, and genuine respect for the interviewer create a positive impression that reflects Christian character."
+            },
+            {
+                "reference": "Proverbs 25:11",
+                "text": "\"Like apples of gold in settings of silver is a ruling rightly given.\"",
+                "commentary": "The right words, spoken at the right time and in the right way, are beautiful and powerful. Preparing thoughtful, well-crafted answers to interview questions allows you to present yourself with the excellence and clarity that honor God."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Interview as an Opportunity",
+            "paragraphs": [
+                "A job interview is your opportunity to make a personal impression that goes beyond what a resume can convey. It is a conversation — not an interrogation — where both you and the employer are evaluating whether the position is a good fit. For the Christian, an interview is also an opportunity to demonstrate character, integrity, and the kind of person you are when facing a challenging situation.",
+                "Many people find interviews nerve-wracking, but thorough preparation dramatically reduces anxiety and increases confidence. When you know what to expect, have practiced your responses, and have prayed for wisdom and peace, you can walk into an interview ready to present your best self with genuine confidence."
+            ]
+        },
+        {
+            "heading": "Preparing for the Interview",
+            "paragraphs": [
+                "Preparation is the single most important factor in interview success. Research the company thoroughly: understand their mission, products or services, recent news, and culture. Prepare answers to common interview questions such as 'Tell me about yourself,' 'What are your strengths and weaknesses?' 'Why do you want to work here?' and 'Where do you see yourself in five years?'",
+                "Practice your answers out loud, ideally with a friend, family member, or mentor who can provide honest feedback. Prepare thoughtful questions to ask the interviewer — this demonstrates genuine interest and initiative. Plan your outfit, gather necessary documents (copies of your resume, references, identification), and plan your route to arrive ten to fifteen minutes early."
+            ]
+        },
+        {
+            "heading": "The STAR Method",
+            "paragraphs": [
+                "Many interview questions ask you to describe past experiences that demonstrate specific skills or qualities. The STAR method provides a structured approach for answering these behavioral questions: Situation (describe the context), Task (explain what you needed to accomplish), Action (detail the specific steps you took), and Result (share the outcome and what you learned).",
+                "For example, if asked 'Tell me about a time you showed leadership,' you might describe organizing a church fundraiser (Situation), your goal to raise a specific amount (Task), how you recruited volunteers and planned events (Action), and the amount raised and lessons learned (Result). This method helps you give focused, compelling answers rather than rambling or vague responses."
+            ]
+        },
+        {
+            "heading": "Professional Appearance and Body Language",
+            "paragraphs": [
+                "First impressions are formed within seconds, and appearance plays a significant role. Dress one level above what is expected for the position — when in doubt, err on the side of being overdressed rather than underdressed. Ensure your clothing is clean, pressed, and fits well. Personal grooming matters: neat hair, clean nails, and minimal distracting accessories.",
+                "Body language communicates as powerfully as words. Offer a firm handshake, make appropriate eye contact, sit up straight, and avoid fidgeting. Smile genuinely and listen attentively. These nonverbal signals convey confidence, respect, and engagement. Avoid crossing your arms, checking your phone, or displaying nervous habits that might suggest discomfort or disinterest."
+            ]
+        },
+        {
+            "heading": "Following Up: The Final Impression",
+            "paragraphs": [
+                "What you do after an interview can be just as important as the interview itself. Send a thank-you note or email within 24 hours, expressing gratitude for the interviewer's time, reiterating your interest in the position, and briefly reinforcing why you are a strong candidate. This simple act of courtesy distinguishes you from many other candidates.",
+                "If you do not hear back within the timeframe the interviewer indicated, a polite follow-up email or phone call is appropriate. Be patient and professional regardless of the outcome. If you are not selected, respond graciously and ask if there is feedback that could help you improve. Every interview — whether successful or not — is valuable experience that prepares you for future opportunities."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does preparing thoroughly for an interview reflect Christian values of diligence and excellence? How can prayer complement practical preparation?",
+            "guidance": "Consider how preparation shows respect for the interviewer's time and demonstrates the seriousness with which you approach opportunity."
+        },
+        {
+            "id": 2,
+            "question": "How can you handle interview nerves in a way that relies on God's strength? What scriptures might encourage you before a stressful interview?",
+            "guidance": "Think about passages like Philippians 4:6-7 and Isaiah 41:10 and how they can provide peace and confidence in challenging moments."
+        },
+        {
+            "id": 3,
+            "question": "Why is following up after an interview important? How does sending a thank-you note reflect the Christian principle of gratitude and respect for others?",
+            "guidance": "Reflect on how small acts of courtesy and gratitude can have a significant impact on professional relationships and reflect your character."
+        }
+    ]
+}

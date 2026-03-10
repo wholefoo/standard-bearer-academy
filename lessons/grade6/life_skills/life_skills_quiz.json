@@ -1,0 +1,103 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Foundations for Life — Building Good Habits God's Way",
+    "description": "Test your understanding of personal responsibility, time management, hygiene, organization, manners, and goal-setting from a Biblical stewardship perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to Galatians 6:5, what does God expect from each person?",
+            "options": [
+                "That others will carry your burdens for you",
+                "That each person should carry their own load",
+                "That only adults need to be responsible",
+                "That responsibility is optional for believers"
+            ],
+            "correct": 1,
+            "explanation": "Galatians 6:5 teaches that each person should carry their own load, meaning God calls everyone to take personal responsibility for their actions and duties."
+        },
+        {
+            "id": 2,
+            "question": "What does Ephesians 5:15-16 teach about how Christians should use their time?",
+            "options": [
+                "Time does not matter as long as you pray",
+                "Fill every moment with work and never rest",
+                "Be wise and make the most of every opportunity",
+                "Only use time for spiritual activities"
+            ],
+            "correct": 2,
+            "explanation": "Ephesians 5:15-16 calls us to live wisely and make the most of every opportunity. This means being intentional and purposeful with our time, not wasting it."
+        },
+        {
+            "id": 3,
+            "question": "Why does the Bible call our bodies 'temples of the Holy Spirit' (1 Corinthians 6:19-20)?",
+            "options": [
+                "Because our bodies are made of stone like a temple",
+                "Because God's Spirit lives in believers, so our bodies should be honored and cared for",
+                "Because we should worship our bodies",
+                "Because temples are old and outdated"
+            ],
+            "correct": 1,
+            "explanation": "God's Holy Spirit lives in believers, making our bodies sacred dwelling places. This means we should care for our bodies through good hygiene and healthy habits as an act of worship."
+        },
+        {
+            "id": 4,
+            "question": "According to 1 Corinthians 14:40, how should things be done?",
+            "options": [
+                "As quickly as possible",
+                "However you feel like doing them",
+                "In a fitting and orderly way",
+                "Only when you are told to"
+            ],
+            "correct": 2,
+            "explanation": "1 Corinthians 14:40 teaches that everything should be done in a fitting and orderly way. God is a God of order, and organizing our lives reflects His character."
+        },
+        {
+            "id": 5,
+            "question": "What is the foundation of good manners according to Luke 6:31?",
+            "options": [
+                "Following a long list of rules",
+                "Doing to others as you would have them do to you",
+                "Always agreeing with everyone",
+                "Being quiet and staying out of the way"
+            ],
+            "correct": 1,
+            "explanation": "The Golden Rule — treating others as you want to be treated — is the foundation of all good manners. Courtesy flows naturally from a heart that values others."
+        },
+        {
+            "id": 6,
+            "question": "What does SMART stand for in goal setting?",
+            "options": [
+                "Simple, Meaningful, Active, Reasonable, Temporary",
+                "Specific, Measurable, Achievable, Relevant, Time-bound",
+                "Strong, Motivated, Ambitious, Reliable, Tough",
+                "Spiritual, Moral, Attentive, Respectful, Thankful"
+            ],
+            "correct": 1,
+            "explanation": "SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound. This framework helps turn vague wishes into clear, actionable plans."
+        },
+        {
+            "id": 7,
+            "question": "What is procrastination, and what does the Bible say about it?",
+            "options": [
+                "Working too hard; the Bible encourages rest",
+                "Putting off tasks you should do now; the Bible warns against laziness",
+                "Doing tasks ahead of time; the Bible says this is prideful",
+                "Asking others for help; the Bible says this shows weakness"
+            ],
+            "correct": 1,
+            "explanation": "Procrastination means putting off what you should do now. The Bible warns against laziness and uses the ant as an example of diligence (Proverbs 6:6-8)."
+        },
+        {
+            "id": 8,
+            "question": "According to Proverbs 16:3, what should we do with our plans and goals?",
+            "options": [
+                "Keep them secret from everyone",
+                "Only set goals that are easy to achieve",
+                "Commit them to the Lord and trust Him to establish them",
+                "Abandon all planning and just see what happens"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 16:3 tells us to commit our plans to the Lord and trust Him to establish them. Goal setting is important, but we should always invite God into the process and trust His guidance."
+        }
+    ]
+}

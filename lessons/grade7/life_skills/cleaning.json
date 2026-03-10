@@ -1,0 +1,75 @@
+{
+    "id": "cleaning",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Cleaning — Maintaining a Home That Honors God",
+    "subtitle": "Learning Practical Cleaning Skills as an Act of Stewardship",
+    "scripture": "Proverbs 31:27",
+    "key_concepts": ["Why a clean home matters", "Basic cleaning supplies and methods", "Creating a cleaning routine", "Cleaning as service and stewardship"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:27",
+                "text": "\"She watches over the affairs of her household and does not eat the bread of idleness.\"",
+                "commentary": "The Proverbs 31 woman is praised for her diligent care of her home. Keeping a clean and orderly household is an expression of love for the people who live there."
+            },
+            {
+                "reference": "2 Corinthians 5:17",
+                "text": "\"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!\"",
+                "commentary": "Just as Christ makes us new on the inside, we can reflect that renewal in our outward surroundings by keeping them clean and fresh."
+            },
+            {
+                "reference": "Titus 2:5",
+                "text": "\"To be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.\"",
+                "commentary": "The Bible values domestic skills as worthy work. Caring for a home is not demeaning — it is a meaningful way to serve God and others."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: A Clean Home, A Clear Mind",
+            "paragraphs": [
+                "A clean home is not just about appearance — it affects your health, your mood, and your ability to focus. Dust, dirt, and clutter can contribute to allergies, stress, and a general sense of chaos. A clean, well-maintained space, on the other hand, promotes peace, order, and well-being.",
+                "Keeping a home clean is everyone's responsibility, not just one person's job. Whether you live with your family now or on your own someday, knowing how to clean effectively is an essential life skill. It is also an act of stewardship — caring for the home God has given you."
+            ]
+        },
+        {
+            "heading": "Basic Cleaning Supplies",
+            "paragraphs": [
+                "You do not need a closet full of expensive products to keep your home clean. Basic supplies include an all-purpose cleaner, dish soap, glass cleaner, a broom and dustpan, a mop, a vacuum, sponges, scrub brushes, and clean rags or paper towels. Baking soda and vinegar are natural, affordable cleaners that work well for many tasks.",
+                "Always read the labels on cleaning products and follow the instructions. Some products should not be mixed together — for example, bleach and ammonia create dangerous fumes. Wear gloves when using harsh chemicals, and make sure the area is well-ventilated."
+            ]
+        },
+        {
+            "heading": "Room-by-Room Cleaning",
+            "paragraphs": [
+                "The kitchen requires daily attention — wash dishes after meals, wipe down counters and stovetops, sweep the floor, and take out the trash regularly. Deep clean the kitchen weekly by mopping the floor, cleaning the inside of the microwave, and wiping down appliances.",
+                "Bathrooms should be cleaned at least once a week. Scrub the toilet, sink, and shower or bathtub. Wipe mirrors and counters. Replace towels regularly. Bedrooms should be tidied daily — make the bed, put away clothes, and keep surfaces clear. Dust and vacuum weekly."
+            ]
+        },
+        {
+            "heading": "Creating a Cleaning Routine",
+            "paragraphs": [
+                "The best way to keep a home clean is to establish a routine so tasks do not pile up. Daily tasks include making beds, doing dishes, wiping counters, and quick tidying. Weekly tasks include vacuuming, mopping, bathroom cleaning, and laundry. Monthly or seasonal tasks include deep cleaning appliances, washing windows, and organizing closets.",
+                "Write your cleaning routine on a chart or checklist and post it where you can see it. Divide tasks among family members so everyone contributes. When cleaning is shared and consistent, it takes less time and effort, and the home stays pleasant for everyone. Remember, cleaning is not punishment — it is care for the space God has provided."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is maintaining a clean home an act of stewardship? How does it show gratitude to God?",
+            "guidance": "Think about your home as a gift from God. Consider how keeping it clean shows respect for His provision."
+        },
+        {
+            "id": 2,
+            "question": "What cleaning tasks are you currently responsible for? How could you take on more responsibility at home?",
+            "guidance": "Think about what you already do and what additional tasks you could learn. Consider how this serves your family."
+        },
+        {
+            "id": 3,
+            "question": "Create a simple weekly cleaning routine for your bedroom. What tasks would you include, and when would you do them?",
+            "guidance": "Include daily tasks (making the bed, putting away clothes) and weekly tasks (vacuuming, dusting). Be realistic and specific."
+        }
+    ]
+}

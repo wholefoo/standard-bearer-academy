@@ -1,0 +1,70 @@
+{
+    "id": "power_of_saving",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "The Power of Saving",
+    "subtitle": "Building for the Future with Patience and Discipline",
+    "scripture": "Proverbs 21:20",
+    "key_concepts": ["Why saving matters", "Pay yourself first", "Emergency funds", "Compound interest basics"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 21:20",
+                "text": "\"The wise store up choice food and olive oil, but fools gulp theirs down.\"",
+                "commentary": "Scripture draws a clear distinction between the wise person who saves for the future and the fool who consumes everything immediately. Saving is not about hoarding — it is about exercising the self-control and foresight that God values in His people."
+            },
+            {
+                "reference": "Proverbs 6:6-8",
+                "text": "\"Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer and gathers its food at harvest.\"",
+                "commentary": "God points us to the ant as an example of diligent saving. The ant does not wait for someone to tell it to prepare — it takes initiative. Saving requires the same kind of self-motivated discipline."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Saving Matters",
+            "paragraphs": [
+                "Saving money is one of the most important financial habits you can develop. It provides security during unexpected emergencies, allows you to make large purchases without going into debt, and gives you the freedom to take advantage of opportunities when they arise.",
+                "People who save consistently experience less financial stress because they have a cushion between themselves and life's surprises. A car repair, a medical bill, or a job loss is stressful enough without the added burden of having no money to cover it."
+            ]
+        },
+        {
+            "heading": "Pay Yourself First",
+            "paragraphs": [
+                "The most effective saving strategy is called 'pay yourself first.' This means that when you receive any income, the first thing you do — after tithing — is put a portion into savings before spending anything else.",
+                "If you wait until the end of the month to save whatever is left over, you will almost always find that nothing is left. By saving first, you make it a priority rather than an afterthought. Even saving 10% of every dollar you earn will build up significantly over time."
+            ]
+        },
+        {
+            "heading": "Emergency Funds",
+            "paragraphs": [
+                "An emergency fund is money set aside specifically for unexpected expenses — things like a broken phone, a flat tire, or a sudden need. Financial experts recommend eventually building an emergency fund that covers three to six months of living expenses.",
+                "As a teenager, your emergency fund goal can be smaller — perhaps $500 to $1,000. The important thing is to start the habit now. Having even a small emergency fund gives you confidence and protects you from making desperate financial decisions."
+            ]
+        },
+        {
+            "heading": "The Power of Compound Interest",
+            "paragraphs": [
+                "Compound interest is when you earn interest not just on your original savings but also on the interest you have already earned. Over time, this creates a snowball effect that can turn small, consistent savings into a substantial amount.",
+                "For example, if you save $50 per month starting at age 15, earning 7% annual interest, you would have over $200,000 by age 65. The same person who waits until age 25 to start saving the same amount would have only about $100,000. Starting early is one of the greatest financial advantages you can have."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does the example of the ant in Proverbs 6 teach us about personal responsibility and planning for the future?",
+            "guidance": "Consider that the ant saves without being told to. Think about how self-discipline in saving reflects maturity and responsibility before God."
+        },
+        {
+            "id": 2,
+            "question": "Why is 'paying yourself first' more effective than saving whatever is left over at the end of the month?",
+            "guidance": "Think about human nature and the temptation to spend. Consider how prioritizing savings changes your spending behavior."
+        },
+        {
+            "id": 3,
+            "question": "How does compound interest reward patience? How does this financial principle reflect the Biblical value of patience and long-term thinking?",
+            "guidance": "Consider Galatians 6:9 — 'Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.' Think about how small, faithful actions compound over time."
+        }
+    ]
+}

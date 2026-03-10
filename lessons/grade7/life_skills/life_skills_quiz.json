@@ -1,0 +1,103 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Home Economics — Caring for God's Household",
+    "description": "Test your understanding of cooking basics, nutrition, cleaning, laundry, basic sewing, and meal planning from a Biblical stewardship perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which of the following is the MOST important kitchen safety rule?",
+            "options": [
+                "Use the biggest knife available for every task",
+                "Always wash your hands before handling food",
+                "Cook everything on the highest heat setting",
+                "Leave the oven on when you leave the kitchen"
+            ],
+            "correct": 1,
+            "explanation": "Washing your hands before handling food is a fundamental kitchen safety practice that prevents the spread of bacteria and keeps food safe to eat."
+        },
+        {
+            "id": 2,
+            "question": "What did Daniel choose to eat instead of the king's rich food, and what was the result?",
+            "options": [
+                "He ate only bread and became weak",
+                "He ate vegetables and water, and became healthier than those who ate the king's food",
+                "He fasted completely and had miraculous strength",
+                "He ate the king's food and enjoyed it greatly"
+            ],
+            "correct": 1,
+            "explanation": "Daniel chose vegetables and water over the king's rich diet. After ten days, he appeared healthier and better nourished than those who ate the royal food (Daniel 1:12-15), showing that God honors wise food choices."
+        },
+        {
+            "id": 3,
+            "question": "Why should you sort laundry before washing it?",
+            "options": [
+                "It is not necessary — you can wash everything together",
+                "To prevent colors from bleeding onto lighter clothes and to protect delicate fabrics",
+                "To make the laundry pile look organized",
+                "Because the washing machine cannot handle mixed loads"
+            ],
+            "correct": 1,
+            "explanation": "Sorting laundry prevents color bleeding (dark dyes transferring to light fabrics) and protects delicate items from damage. It is an essential step in proper clothing care."
+        },
+        {
+            "id": 4,
+            "question": "What is the basic stitch called where you push the needle up through fabric and back down in a line?",
+            "options": [
+                "The cross stitch",
+                "The running stitch",
+                "The chain stitch",
+                "The blanket stitch"
+            ],
+            "correct": 1,
+            "explanation": "The running stitch is the most basic sewing stitch. You push the needle up through the fabric, then back down a short distance away, creating small, even stitches in a straight line."
+        },
+        {
+            "id": 5,
+            "question": "According to John 6:12, what did Jesus tell His disciples to do after feeding the five thousand?",
+            "options": [
+                "Throw away the leftover food",
+                "Give all the leftovers to the poor",
+                "Gather the leftover pieces so nothing would be wasted",
+                "Leave the leftovers for the birds"
+            ],
+            "correct": 2,
+            "explanation": "Jesus instructed His disciples to gather the leftover food so nothing would be wasted. This principle of avoiding waste applies directly to meal planning and food stewardship."
+        },
+        {
+            "id": 6,
+            "question": "What does 'mise en place' mean in cooking?",
+            "options": [
+                "Cooking at the highest temperature",
+                "Everything in its place — gathering all ingredients and tools before starting",
+                "Eating the meal as soon as it is cooked",
+                "Cleaning the kitchen after cooking"
+            ],
+            "correct": 1,
+            "explanation": "'Mise en place' is a French cooking term meaning 'everything in its place.' It means reading the recipe, gathering all ingredients and tools, and preparing them before you start cooking."
+        },
+        {
+            "id": 7,
+            "question": "How does meal planning help families save money?",
+            "options": [
+                "It does not — meal planning costs more",
+                "By reducing food waste, avoiding impulse purchases, and cooking at home instead of eating out",
+                "By only eating one meal per day",
+                "By buying the most expensive ingredients available"
+            ],
+            "correct": 1,
+            "explanation": "Meal planning saves money by helping families buy only what they need (reducing waste), stick to a grocery list (avoiding impulse buys), and cook at home (which is much cheaper than eating out)."
+        },
+        {
+            "id": 8,
+            "question": "How did Dorcas (Tabitha) use her sewing skills to serve others?",
+            "options": [
+                "She opened a clothing store for profit",
+                "She made robes and clothing for widows and those in need",
+                "She only sewed garments for the temple",
+                "She taught sewing classes at the synagogue"
+            ],
+            "correct": 1,
+            "explanation": "Dorcas made robes and clothing for widows and those in need (Acts 9:39). Her sewing skills were a practical ministry that blessed her community, showing that practical skills can be used to serve God."
+        }
+    ]
+}

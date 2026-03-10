@@ -1,0 +1,75 @@
+{
+    "id": "time_management",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Time Management — Making the Most of Every Day",
+    "subtitle": "Learning to Use God's Gift of Time Wisely and Purposefully",
+    "scripture": "Ephesians 5:15-16",
+    "key_concepts": ["Time as a gift from God", "Prioritizing tasks", "Creating schedules and routines", "Avoiding procrastination"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Ephesians 5:15-16",
+                "text": "\"Be very careful, then, how you live — not as unwise but as wise, making the most of every opportunity, because the days are evil.\"",
+                "commentary": "God tells us that time is precious and limited. We must use it wisely, not wasting it on things that do not matter. Planning our days is an act of wisdom and obedience."
+            },
+            {
+                "reference": "Psalm 90:12",
+                "text": "\"Teach us to number our days, that we may gain a heart of wisdom.\"",
+                "commentary": "Moses prayed this prayer, asking God to help him understand how short life is. When we realize our time is limited, we become more intentional about how we spend each day."
+            },
+            {
+                "reference": "Ecclesiastes 3:1",
+                "text": "\"There is a time for everything, and a season for every activity under the heavens.\"",
+                "commentary": "God has designed life with rhythms and seasons. Good time management means recognizing that there is a right time for work, rest, play, and worship."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Time Is a Gift",
+            "paragraphs": [
+                "Every person on earth receives the same 24 hours each day. No one gets more time, and no one gets less. What makes the difference is how we choose to use those hours. Time is one of the most valuable gifts God gives us, and like all His gifts, He expects us to steward it well.",
+                "Time management is not about cramming as many activities as possible into your day. It is about being intentional — knowing what matters most, putting first things first, and making sure there is time for work, rest, relationships, and worship."
+            ]
+        },
+        {
+            "heading": "Setting Priorities",
+            "paragraphs": [
+                "Not everything on your to-do list is equally important. Learning to prioritize means figuring out what needs to be done first, what can wait, and what might not need to be done at all. A good way to start is to ask: What is most important? What has a deadline? What honors God?",
+                "Jesus modeled perfect priorities. Even though crowds of people wanted His time, He made sure to pray, rest, and spend time with His closest disciples. He never seemed rushed or frantic because He knew exactly what the Father wanted Him to do each day."
+            ]
+        },
+        {
+            "heading": "Building a Daily Routine",
+            "paragraphs": [
+                "A routine is a regular pattern of activities that helps your day run smoothly. When you have a routine, you do not have to waste energy deciding what to do next — you already know. Good routines include time for morning devotions, schoolwork, chores, physical activity, free time, and a regular bedtime.",
+                "To build a routine, start by writing down everything you need to do in a typical day. Then arrange those tasks in a logical order. Try your routine for a week and adjust it as needed. Over time, good habits become automatic, and your days become more productive and peaceful."
+            ]
+        },
+        {
+            "heading": "Defeating Procrastination",
+            "paragraphs": [
+                "Procrastination means putting off something you should do now. It is one of the biggest enemies of good time management. Procrastination often leads to stress, rushed work, and poor results.",
+                "The Bible warns against laziness and delay. Proverbs 6:6-8 tells us to learn from the ant, which works hard and prepares for the future without anyone forcing it. When you feel tempted to procrastinate, try breaking a big task into small steps, setting a timer, or simply starting with the easiest part. Action creates momentum."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does God want us to manage our time wisely? How does Ephesians 5:15-16 apply to your daily schedule?",
+            "guidance": "Think about what it means to 'make the most of every opportunity.' Consider whether your current use of time reflects wisdom."
+        },
+        {
+            "id": 2,
+            "question": "Describe your current daily routine. What works well, and what could be improved?",
+            "guidance": "Be honest about how you spend your time. Think about whether you have time for devotions, schoolwork, chores, and rest."
+        },
+        {
+            "id": 3,
+            "question": "What causes you to procrastinate, and what strategies can you use to overcome it?",
+            "guidance": "Think about specific tasks you tend to put off. Consider practical strategies like breaking tasks into small steps or setting timers."
+        }
+    ]
+}

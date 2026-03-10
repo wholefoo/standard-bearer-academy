@@ -1,0 +1,70 @@
+{
+    "id": "tithing_generosity",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Tithing and Generosity",
+    "subtitle": "Giving Back to God What Already Belongs to Him",
+    "scripture": "Malachi 3:10",
+    "key_concepts": ["What is tithing", "The purpose of giving", "Generosity beyond the tithe", "Cheerful giving"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Malachi 3:10",
+                "text": "\"Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.\"",
+                "commentary": "God invites His people to test Him in the area of giving. Tithing — giving the first tenth of your income to God — is an act of faith that acknowledges God as the true owner of everything. It is the one area where God says 'test me and see.'"
+            },
+            {
+                "reference": "2 Corinthians 9:7",
+                "text": "\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"",
+                "commentary": "God cares not just about the amount we give but about the attitude behind our giving. He wants our generosity to flow from grateful hearts, not from guilt or obligation. A cheerful giver understands that everything belongs to God and that giving is a privilege."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Tithing?",
+            "paragraphs": [
+                "The word 'tithe' literally means 'tenth.' Throughout the Bible, God's people were called to give the first tenth of their income back to God. This was not because God needs our money — He owns everything — but because tithing teaches us to put God first and to trust Him with our finances.",
+                "Tithing is given to the local church to support its ministry, care for those in need, and advance the gospel. When you tithe, you participate in God's work in your community and around the world."
+            ]
+        },
+        {
+            "heading": "Why Give First, Not Last?",
+            "paragraphs": [
+                "The Bible emphasizes giving 'firstfruits' — the first and best portion, not leftovers. Giving first demonstrates that God is your highest priority. It takes faith to give before you know if you will have enough for everything else, but this is exactly the kind of trust God honors.",
+                "When you give God the first portion of your income, you are making a statement about who you trust to provide for your needs. It shifts your perspective from 'How much of my money should I give to God?' to 'How much of God's money should I keep for myself?'"
+            ]
+        },
+        {
+            "heading": "Generosity Beyond the Tithe",
+            "paragraphs": [
+                "While the tithe is a starting point, God calls His people to be generous in every area of life. This includes giving offerings above the tithe, helping people in need, being generous with your time and talents, and supporting missions and charitable organizations.",
+                "Generosity is not limited to wealthy people. Some of the most generous people in history have been those with modest incomes who chose to live simply so they could give more. The widow's two small coins in Mark 12 impressed Jesus more than the large gifts of the rich because she gave sacrificially."
+            ]
+        },
+        {
+            "heading": "The Heart of a Cheerful Giver",
+            "paragraphs": [
+                "God loves a cheerful giver because cheerful giving reflects a heart that trusts God completely. When you give joyfully, you demonstrate that your security is not in money but in God Himself.",
+                "Developing a habit of generosity while you are young will shape your character for a lifetime. Start by tithing from whatever income you receive — whether it is an allowance, gift money, or earnings from a job. As you grow in faith, you will find that generosity becomes not a burden but one of the greatest joys of the Christian life."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why does God ask us to give the 'first' portion of our income rather than whatever is left over? What does this reveal about the purpose of tithing?",
+            "guidance": "Think about what it means to prioritize God in every area of life. Consider how giving first requires trust and demonstrates where our true security lies."
+        },
+        {
+            "id": 2,
+            "question": "How can you be generous even if you do not have much money? What are some ways to give beyond financial gifts?",
+            "guidance": "Consider giving time, skills, encouragement, and service. Think about the widow's offering in Mark 12 and what Jesus valued about her gift."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between giving reluctantly and giving cheerfully? How can you cultivate a cheerful attitude toward giving?",
+            "guidance": "Reflect on 2 Corinthians 9:7 and consider how gratitude for God's blessings transforms our attitude toward giving. Think about times when giving has brought you joy."
+        }
+    ]
+}

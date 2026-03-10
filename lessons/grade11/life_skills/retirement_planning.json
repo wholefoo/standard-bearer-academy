@@ -1,0 +1,83 @@
+{
+    "id": "retirement_planning",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Retirement Planning",
+    "subtitle": "Preparing for the Future While Living Faithfully Today",
+    "scripture": "Proverbs 6:6-8",
+    "primary_source": "U.S. Social Security Administration, 'Understanding the Benefits'",
+    "key_concepts": ["Why retirement planning matters", "Social Security basics", "401(k) and IRA accounts", "Starting early and compound growth", "Stewardship across a lifetime"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 6:6-8",
+                "text": "\"Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer and gathers its food at harvest.\"",
+                "commentary": "The ant demonstrates the wisdom of preparing during times of abundance for times of scarcity. Retirement planning is the human equivalent — setting aside resources during your working years to provide for the season when you can no longer earn a full income."
+            },
+            {
+                "reference": "Proverbs 13:22",
+                "text": "\"A good person leaves an inheritance to their children's children.\"",
+                "commentary": "Wise retirement planning not only provides for your own needs but enables you to leave a legacy for future generations. Faithful financial stewardship across a lifetime creates the opportunity for generational blessing."
+            },
+            {
+                "reference": "Psalm 71:9",
+                "text": "\"Do not cast me away when I am old; do not forsake me when my strength is gone.\"",
+                "commentary": "While our ultimate trust is in God's faithfulness, responsible planning helps ensure that we are not a burden to others in our later years. Preparing financially for old age is an act of love toward both ourselves and those who care about us."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Plan for Retirement?",
+            "paragraphs": [
+                "Retirement may seem impossibly far away when you are in high school, but the decisions you make in your twenties and thirties have an enormous impact on your financial security decades later. Retirement planning is the process of setting aside and investing money during your working years so that you have sufficient resources to live comfortably when you stop earning a regular income.",
+                "The earlier you begin planning and saving for retirement, the more powerful compound growth works in your favor. Someone who begins investing $200 per month at age 22 will accumulate far more by age 65 than someone who begins investing $400 per month at age 35 — even though the late starter contributes more total money. Time is the most valuable asset in retirement planning, and it cannot be recovered once lost."
+            ]
+        },
+        {
+            "heading": "Social Security",
+            "paragraphs": [
+                "Social Security is a federal program that provides retirement income, disability benefits, and survivor benefits to eligible Americans. Throughout your working career, you and your employer each contribute 6.2% of your wages to the Social Security trust fund. When you retire (currently at full retirement age of 66-67), you receive monthly benefit payments based on your earnings history.",
+                "While Social Security provides an important safety net, it was never designed to be your sole source of retirement income. The average Social Security benefit replaces only about 40% of pre-retirement earnings. Most financial advisors recommend that Social Security be supplemented with personal savings and employer-sponsored retirement plans. Understanding what Social Security will and will not provide helps you plan appropriately."
+            ]
+        },
+        {
+            "heading": "Employer-Sponsored Retirement Plans",
+            "paragraphs": [
+                "A 401(k) is a retirement savings plan offered by many employers that allows you to contribute a portion of your pre-tax income to an investment account. Many employers offer matching contributions — essentially free money — up to a certain percentage of your salary. For example, an employer might match 50% of your contributions up to 6% of your salary. Always contribute enough to receive the full employer match; not doing so is leaving free money on the table.",
+                "Contributions to a traditional 401(k) reduce your current taxable income, and the investments grow tax-deferred until you withdraw them in retirement. A Roth 401(k) variant uses after-tax contributions, but withdrawals in retirement are tax-free. Both types offer significant advantages over taxable savings accounts, making them the foundation of most Americans' retirement plans."
+            ]
+        },
+        {
+            "heading": "Individual Retirement Accounts (IRAs)",
+            "paragraphs": [
+                "Individual Retirement Accounts (IRAs) are personal retirement savings accounts that offer tax advantages. A Traditional IRA allows tax-deductible contributions that grow tax-deferred; you pay taxes when you withdraw funds in retirement. A Roth IRA uses after-tax contributions, but all growth and qualified withdrawals are completely tax-free — making it especially powerful for young investors whose earnings will grow for decades.",
+                "For young people, a Roth IRA is often the best choice because you are likely in a lower tax bracket now than you will be in retirement. Contributing even small amounts consistently over many decades can result in substantial tax-free retirement savings. The current annual contribution limit for IRAs is adjusted periodically for inflation — check the IRS website for the most current figures."
+            ]
+        },
+        {
+            "heading": "Stewardship Across a Lifetime",
+            "paragraphs": [
+                "Retirement planning is part of a larger commitment to lifelong financial stewardship. The same principles that guide everyday money management — live below your means, save consistently, avoid unnecessary debt, give generously, and invest wisely — also apply to retirement planning. These habits, practiced consistently over decades, build the financial foundation for a secure and generous later life.",
+                "As Christians, our retirement planning should also consider how we want to use our later years for God's purposes. Retirement from a career does not mean retirement from service. Many believers find that their retirement years are among their most fruitful for ministry, mentoring, volunteering, and generosity. Planning well financially creates the freedom to serve abundantly in every season of life, from youth through old age."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is starting to save for retirement early so important? How does the example of the ant in Proverbs 6:6-8 apply to retirement planning?",
+            "guidance": "Consider the mathematics of compound growth and how time amplifies investment returns. Reflect on how the ant's foresight during seasons of abundance applies to our working years."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between a Traditional IRA and a Roth IRA? Why might a Roth IRA be especially beneficial for a young investor?",
+            "guidance": "Think about when taxes are paid in each case and how tax brackets typically change over a career. Consider the advantage of tax-free growth over several decades."
+        },
+        {
+            "id": 3,
+            "question": "How should a Christian's retirement plan reflect their values and calling? What role does generosity play in retirement planning?",
+            "guidance": "Consider how retirement can be a season of increased service and giving. Reflect on the balance between providing for personal needs and maintaining the ability to be generous."
+        }
+    ]
+}

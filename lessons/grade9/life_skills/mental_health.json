@@ -1,0 +1,71 @@
+{
+    "id": "mental_health",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Mental Health",
+    "subtitle": "Guarding Your Mind and Trusting God",
+    "scripture": "Philippians 4:6-7",
+    "primary_source": "Martyn Lloyd-Jones, Spiritual Depression: Its Causes and Its Cure (1965)",
+    "key_concepts": ["Understanding mental health", "Anxiety and depression awareness", "Biblical strategies for emotional wellness", "When and how to seek help"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Philippians 4:6-7",
+                "text": "\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.\"",
+                "commentary": "Paul does not dismiss anxiety as trivial — he offers a specific remedy: prayer with thanksgiving. God promises a peace that 'guards' our hearts and minds, like a soldier standing watch. This does not mean Christians never struggle with mental health, but it means they are never without hope or help."
+            },
+            {
+                "reference": "Psalm 42:11",
+                "text": "\"Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.\"",
+                "commentary": "The psalmist honestly acknowledges his emotional pain — he is downcast and disturbed. But he does not stay there. He preaches truth to himself, reminding his soul to hope in God. This pattern of honest lament followed by intentional hope is a powerful model for managing difficult emotions."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Mental Health?",
+            "paragraphs": [
+                "Mental health refers to your emotional, psychological, and social well-being. It affects how you think, feel, and act. Good mental health does not mean you are always happy — it means you have the resilience and resources to handle life's challenges, maintain healthy relationships, and make sound decisions.",
+                "Just as physical health requires attention and care, mental health requires intentional practices. Getting enough sleep, maintaining social connections, managing stress, and processing emotions in healthy ways all contribute to mental wellness. Ignoring your mental health is no more wise than ignoring a physical injury."
+            ]
+        },
+        {
+            "heading": "Understanding Anxiety and Depression",
+            "paragraphs": [
+                "Anxiety is a feeling of worry, nervousness, or unease about something with an uncertain outcome. Some anxiety is normal and even helpful — it motivates you to prepare for a test or be cautious in dangerous situations. But when anxiety becomes constant, overwhelming, or disproportionate to the situation, it may indicate an anxiety disorder that needs attention.",
+                "Depression is more than feeling sad. It is a persistent feeling of sadness, hopelessness, or loss of interest that lasts for weeks or months and interferes with daily life. Depression can affect sleep, appetite, concentration, and energy. It is not a sign of weak faith — many great Christians, including Charles Spurgeon and Martin Luther, struggled with depression."
+            ]
+        },
+        {
+            "heading": "Biblical Strategies for Emotional Wellness",
+            "paragraphs": [
+                "The Bible offers several practices that support mental health: prayer (casting your anxieties on God), Scripture meditation (filling your mind with truth), community (bearing one another's burdens), gratitude (shifting focus from problems to blessings), and rest (observing Sabbath principles).",
+                "Martyn Lloyd-Jones, in his book Spiritual Depression, taught that we must learn to 'preach to ourselves' rather than 'listen to ourselves.' This means actively speaking Biblical truth to our emotions rather than passively accepting every anxious or hopeless thought that enters our minds. Our feelings are real, but they are not always reliable guides to truth."
+            ]
+        },
+        {
+            "heading": "When and How to Seek Help",
+            "paragraphs": [
+                "There is no shame in seeking help for mental health struggles. Just as you would see a doctor for a broken bone, it is wise to seek help when emotional pain becomes overwhelming. Talk to a trusted parent, pastor, school counselor, or mental health professional.",
+                "Warning signs that you or a friend may need help include persistent sadness lasting more than two weeks, withdrawal from friends and activities, significant changes in sleep or appetite, feelings of worthlessness or hopelessness, and thoughts of self-harm. If you notice these signs in yourself or someone you know, speak up immediately. Seeking help is an act of courage and wisdom, not weakness."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the psalmist's approach in Psalm 42 — honestly expressing pain while choosing to hope in God — provide a model for handling difficult emotions?",
+            "guidance": "Consider the difference between suppressing emotions and processing them honestly before God. Think about how the psalmist talks to his own soul and redirects it toward truth."
+        },
+        {
+            "id": 2,
+            "question": "Why is it important to understand that struggling with anxiety or depression is not a sign of weak faith? How can this understanding help you support friends who are struggling?",
+            "guidance": "Consider the many faithful believers throughout history who struggled with mental health. Think about how compassion rather than judgment reflects Christ's heart."
+        },
+        {
+            "id": 3,
+            "question": "What does it mean to 'preach to yourself' rather than 'listen to yourself,' as Martyn Lloyd-Jones taught? How can you practice this in your daily life?",
+            "guidance": "Think about how your emotions often tell you things that are not true. Consider how actively reminding yourself of Biblical truth can counter anxious or hopeless thoughts."
+        }
+    ]
+}

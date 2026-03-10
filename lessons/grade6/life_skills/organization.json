@@ -1,0 +1,75 @@
+{
+    "id": "organization",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Organization — Bringing Order to Your World",
+    "subtitle": "Learning to Organize Your Space, Schoolwork, and Life as God Designed",
+    "scripture": "1 Corinthians 14:40",
+    "key_concepts": ["God as a God of order", "Organizing your physical space", "Keeping track of schoolwork and assignments", "Decluttering and simplifying"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 14:40",
+                "text": "\"But everything should be done in a fitting and orderly way.\"",
+                "commentary": "God is a God of order, not chaos. When we organize our lives — our rooms, our schoolwork, our schedules — we reflect His character and create an environment where we can thrive."
+            },
+            {
+                "reference": "Genesis 1:1-2",
+                "text": "\"In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep.\"",
+                "commentary": "God took a formless, empty world and brought beautiful order to it. In the same way, we can take messy, disorganized areas of our lives and bring structure and purpose to them."
+            },
+            {
+                "reference": "Proverbs 24:30-34",
+                "text": "\"I went past the field of a sluggard, past the vineyard of someone who has no sense; thorns had come up everywhere, the surface was covered with weeds, and the stone wall was in ruins.\"",
+                "commentary": "This proverb shows what happens when we neglect our responsibilities. Disorganization and neglect lead to bigger problems. Keeping things in order takes regular effort but prevents chaos."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Organization Matters",
+            "paragraphs": [
+                "Have you ever spent ten minutes looking for something you needed — a pencil, a homework sheet, a permission slip? Disorganization wastes time, causes stress, and can lead to missed deadlines and lost opportunities. Organization, on the other hand, brings peace, efficiency, and a sense of control.",
+                "God Himself is perfectly organized. He created the universe with precise order — the planets orbit in exact paths, the seasons change on schedule, and every living creature has its place in the ecosystem. When we organize our lives, we reflect the orderly nature of our Creator."
+            ]
+        },
+        {
+            "heading": "Organizing Your Physical Space",
+            "paragraphs": [
+                "Start with your room or study area. Everything should have a designated place — books on shelves, clothes in drawers or closets, school supplies in containers. When you finish using something, put it back where it belongs. This simple habit prevents clutter from building up.",
+                "Set aside time each week to tidy up your space. Go through papers and throw away what you do not need. Donate items you have outgrown or no longer use. A clean, organized space helps you think more clearly and feel less overwhelmed."
+            ]
+        },
+        {
+            "heading": "Organizing Schoolwork",
+            "paragraphs": [
+                "Use folders, binders, or a filing system to keep your schoolwork organized by subject. Write down assignments in a planner or assignment notebook as soon as they are given. Check your planner every evening to make sure you have completed everything due the next day.",
+                "Keep your backpack organized as well. Remove old papers regularly and make sure you have the supplies you need before leaving for school. An organized student is better prepared, less stressed, and more likely to turn in assignments on time."
+            ]
+        },
+        {
+            "heading": "The Habit of Decluttering",
+            "paragraphs": [
+                "Clutter is the enemy of organization. It accumulates slowly — a paper here, a toy there — until your space feels overwhelming. Regular decluttering prevents this buildup and keeps your environment manageable.",
+                "Jesus taught about the danger of accumulating too many possessions: 'Life does not consist in an abundance of possessions' (Luke 12:15). While organization is not about having nothing, it is about being intentional with what you have. Keep what is useful and meaningful, and let go of the rest. Simplicity creates space for what truly matters."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does God's orderly creation inspire you to bring more organization into your own life?",
+            "guidance": "Think about the precise order in nature — orbits, seasons, ecosystems — and how that reflects God's character."
+        },
+        {
+            "id": 2,
+            "question": "What area of your life is most disorganized right now? What steps could you take this week to improve it?",
+            "guidance": "Be specific. Think about your room, backpack, schoolwork, or schedule. Identify one practical step you can take."
+        },
+        {
+            "id": 3,
+            "question": "Why is regular decluttering important? How does Luke 12:15 relate to keeping your life organized?",
+            "guidance": "Think about the connection between accumulating too many things and feeling overwhelmed. Consider what 'simplicity' means practically."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "life_skills",
+    "title": "Home Economics — Caring for God's Household",
+    "description": "Learn practical skills for managing a home including cooking basics, nutrition, cleaning, laundry, basic sewing, and meal planning — all from a perspective of Biblical stewardship and serving others.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Home Economics — Caring for God's Household",
+            "lessons": ["cooking_basics", "nutrition", "cleaning", "laundry", "basic_sewing", "meal_planning"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

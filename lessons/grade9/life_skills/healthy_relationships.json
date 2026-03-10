@@ -1,0 +1,71 @@
+{
+    "id": "healthy_relationships",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Healthy Relationships",
+    "subtitle": "Building Friendships and Connections That Honor God",
+    "scripture": "Proverbs 27:17",
+    "primary_source": "C.S. Lewis, The Four Loves (1960)",
+    "key_concepts": ["Characteristics of healthy relationships", "Setting boundaries", "Conflict resolution", "Choosing friends wisely"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:17",
+                "text": "\"As iron sharpens iron, so one person sharpens another.\"",
+                "commentary": "Healthy relationships are not just comfortable — they make you better. Like iron sharpening iron, good friends challenge you to grow in character, wisdom, and faith. The process may involve friction, but the result is a sharper, stronger person."
+            },
+            {
+                "reference": "1 Corinthians 15:33",
+                "text": "\"Do not be misled: 'Bad company corrupts good character.'\"",
+                "commentary": "Paul warns that the people you spend time with shape who you become. This is not about judging others but about being wise in choosing your closest companions. Your inner circle of friends will either pull you toward God or away from Him."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Makes a Relationship Healthy?",
+            "paragraphs": [
+                "Healthy relationships — whether friendships, family connections, or romantic relationships — share several key characteristics: mutual respect, honest communication, trust, encouragement, and the freedom to be yourself without fear of judgment or manipulation.",
+                "In a healthy relationship, both people feel valued and heard. Disagreements happen, but they are resolved with kindness and a genuine desire to understand the other person's perspective. Neither person tries to control, manipulate, or demean the other. Both people are better because of the relationship."
+            ]
+        },
+        {
+            "heading": "Setting Healthy Boundaries",
+            "paragraphs": [
+                "Boundaries are the limits you set to protect your physical, emotional, and spiritual well-being. They are not walls that keep people out but fences that define what is acceptable and what is not. Saying 'no' to something harmful is not unkind — it is wise and necessary.",
+                "Examples of healthy boundaries include limiting time with people who consistently bring you down, refusing to participate in activities that violate your values, communicating your needs honestly, and not allowing anyone to pressure you into things you are uncomfortable with. Jesus Himself set boundaries — He withdrew from crowds to pray, He said no to inappropriate requests, and He confronted behavior that was harmful."
+            ]
+        },
+        {
+            "heading": "Resolving Conflict Biblically",
+            "paragraphs": [
+                "Conflict is inevitable in any relationship, but it does not have to be destructive. The Bible provides a clear framework for resolving disagreements: go directly to the person (Matthew 18:15), speak the truth in love (Ephesians 4:15), listen before responding (James 1:19), and be willing to forgive (Colossians 3:13).",
+                "Avoiding conflict is not the same as having peace. Sweeping problems under the rug allows resentment to build. Healthy conflict resolution addresses the issue honestly, focuses on the problem rather than attacking the person, and seeks a solution that honors both people and God."
+            ]
+        },
+        {
+            "heading": "Choosing Friends Wisely",
+            "paragraphs": [
+                "C.S. Lewis wrote in The Four Loves that friendship is born when one person says to another, 'What! You too? I thought I was the only one.' True friendship is built on shared values and mutual admiration of character, not just shared activities or proximity.",
+                "As a Christian, your closest friends should be people who share your faith and values — people who will encourage you to follow Christ, hold you accountable, and stand by you in difficult times. This does not mean you cannot be friendly with everyone, but your inner circle should be people who sharpen you like iron sharpens iron."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does it mean for a friend to 'sharpen' you like iron sharpens iron? Can you think of a friendship that has made you a better person? What made it so valuable?",
+            "guidance": "Consider how honest feedback, shared accountability, and mutual encouragement contribute to growth. Think about the difference between friends who make you comfortable and friends who make you better."
+        },
+        {
+            "id": 2,
+            "question": "Why is setting boundaries an act of love rather than an act of selfishness? How did Jesus model healthy boundaries?",
+            "guidance": "Think about how Jesus withdrew to pray, set limits on His time and energy, and confronted harmful behavior. Consider how boundaries protect both yourself and the relationship."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between avoiding conflict and resolving conflict? Why does the Bible instruct us to address disagreements directly?",
+            "guidance": "Consider Matthew 18:15 and the importance of going directly to someone who has wronged you. Think about how unresolved conflict leads to bitterness and broken relationships."
+        }
+    ]
+}

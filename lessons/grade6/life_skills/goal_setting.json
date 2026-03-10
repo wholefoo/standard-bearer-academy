@@ -1,0 +1,75 @@
+{
+    "id": "goal_setting",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Goal Setting — Planning with Purpose and Faith",
+    "subtitle": "Learning to Set and Pursue Goals That Honor God",
+    "scripture": "Proverbs 16:3",
+    "key_concepts": ["What goals are and why they matter", "Short-term vs. long-term goals", "SMART goals", "Trusting God with your plans"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 16:3",
+                "text": "\"Commit to the LORD whatever you do, and he will establish your plans.\"",
+                "commentary": "Goal setting is not about controlling your future — it is about committing your plans to God and trusting Him to guide your steps. When we invite God into our planning, He gives us direction and purpose."
+            },
+            {
+                "reference": "Proverbs 21:5",
+                "text": "\"The plans of the diligent lead to profit as surely as haste leads to poverty.\"",
+                "commentary": "God values planning and diligence. Setting goals and working toward them patiently is the path to lasting success. Rushing and acting without thought leads to failure."
+            },
+            {
+                "reference": "Jeremiah 29:11",
+                "text": "\"'For I know the plans I have for you,' declares the LORD, 'plans to prosper you and not to harm you, plans to give you hope and a future.'\"",
+                "commentary": "While we set our own goals, we can trust that God has even bigger plans for our lives. Our goals should align with His purposes and bring glory to Him."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Set Goals?",
+            "paragraphs": [
+                "A goal is something specific you want to achieve. It could be finishing a book, learning a new skill, improving a grade, or saving money for something important. Goals give you direction and motivation — they help you know where you are going and keep you moving forward.",
+                "Without goals, it is easy to drift through life without purpose. Proverbs 29:18 says, 'Where there is no vision, the people perish.' Having goals — and writing them down — gives you a vision for your future and helps you make daily decisions that lead somewhere meaningful."
+            ]
+        },
+        {
+            "heading": "Short-Term and Long-Term Goals",
+            "paragraphs": [
+                "Short-term goals are things you want to accomplish in the near future — this week, this month, or this semester. Examples include finishing a project, cleaning your room, or memorizing a Bible verse. Short-term goals are stepping stones that help you reach bigger objectives.",
+                "Long-term goals are things you want to achieve over a longer period — this year, in the next few years, or even in your lifetime. Examples include learning an instrument, developing a strong prayer habit, or preparing for a future career. Long-term goals require patience, persistence, and regular check-ins to stay on track."
+            ]
+        },
+        {
+            "heading": "SMART Goals",
+            "paragraphs": [
+                "One of the most effective ways to set goals is to make them SMART: Specific, Measurable, Achievable, Relevant, and Time-bound. Instead of saying 'I want to read more,' a SMART goal would be 'I will read one book per month for the next three months.'",
+                "Specific means your goal is clear and well-defined. Measurable means you can track your progress. Achievable means the goal is realistic for your abilities. Relevant means the goal matters to you and connects to your values. Time-bound means you set a deadline. SMART goals turn vague wishes into actionable plans."
+            ]
+        },
+        {
+            "heading": "Trusting God with Your Plans",
+            "paragraphs": [
+                "While setting goals is important, we must hold our plans loosely. James 4:13-15 warns against making plans without acknowledging God: 'Instead, you ought to say, \"If it is the Lord's will, we will live and do this or that.\"' God may redirect our plans, and that is okay — His ways are always better than ours.",
+                "The best approach is to pray about your goals, seek wise counsel from parents and mentors, and then work hard while trusting God with the results. When your goals honor God and serve others, you can pursue them with confidence, knowing that He will guide your steps."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Write one short-term goal and one long-term goal for yourself. Make sure each goal is SMART.",
+            "guidance": "Check that each goal is Specific, Measurable, Achievable, Relevant, and Time-bound. Be realistic but challenging."
+        },
+        {
+            "id": 2,
+            "question": "How does Proverbs 16:3 change the way you think about setting goals? What does it mean to 'commit your plans to the Lord'?",
+            "guidance": "Think about the difference between making plans on your own and inviting God into the process."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to hold your goals loosely and trust God's direction, even when His plans differ from yours?",
+            "guidance": "Think about a time when something did not go as planned but turned out well. Consider how God's perspective is bigger than ours."
+        }
+    ]
+}

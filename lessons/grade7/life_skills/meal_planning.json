@@ -1,0 +1,75 @@
+{
+    "id": "meal_planning",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Meal Planning — Feeding Your Family with Wisdom",
+    "subtitle": "Learning to Plan Nutritious, Affordable Meals for Your Household",
+    "scripture": "Proverbs 31:14-15",
+    "key_concepts": ["Benefits of meal planning", "Creating a weekly meal plan", "Making a grocery list and shopping wisely", "Budgeting for food"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:14-15",
+                "text": "\"She is like the merchant ships, bringing her food from afar. She gets up while it is still night; she provides food for her family and portions for her female servants.\"",
+                "commentary": "The virtuous woman plans ahead to provide good food for her household. Meal planning is a practical expression of this same diligence and forethought."
+            },
+            {
+                "reference": "Luke 14:28",
+                "text": "\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?\"",
+                "commentary": "Jesus taught the importance of planning ahead. Meal planning is a form of counting the cost — thinking ahead about what you need so you can be prepared and avoid waste."
+            },
+            {
+                "reference": "John 6:12",
+                "text": "\"When they had all had enough to eat, he said to his disciples, 'Gather the pieces that are left over. Let nothing be wasted.'\"",
+                "commentary": "After feeding the five thousand, Jesus told His disciples not to waste the leftover food. Good meal planning reduces food waste and shows respect for God's provision."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Plan Your Meals?",
+            "paragraphs": [
+                "Meal planning means deciding in advance what you will eat for each meal during the week. It may sound simple, but it is one of the most effective habits for eating well, saving money, and reducing stress. When you have a plan, you avoid the nightly question of 'What's for dinner?' and the temptation to order expensive, unhealthy takeout.",
+                "Meal planning also reduces food waste. When you buy only what you need, less food ends up in the trash. Jesus Himself modeled this principle when He told His disciples to gather the leftover bread and fish so nothing would be wasted (John 6:12). Planning ahead is an act of stewardship."
+            ]
+        },
+        {
+            "heading": "Creating a Weekly Meal Plan",
+            "paragraphs": [
+                "Start by deciding on meals for one week — breakfast, lunch, dinner, and snacks. Look at what you already have in your pantry, refrigerator, and freezer, and plan meals that use those ingredients first. Then fill in the rest of the week with balanced, nutritious meals.",
+                "Aim for variety — include different proteins, vegetables, and grains throughout the week. Plan at least one or two meals that make enough leftovers for another meal. Keep a few simple, quick recipes on hand for busy days. Write your plan on a calendar, whiteboard, or app where the whole family can see it."
+            ]
+        },
+        {
+            "heading": "Making a Grocery List",
+            "paragraphs": [
+                "Once your meal plan is set, make a grocery list of the ingredients you need. Organize your list by store section — produce, dairy, meat, pantry items — to make shopping faster and more efficient. Check your pantry before shopping to avoid buying items you already have.",
+                "Stick to your list at the store. Impulse buying is one of the biggest budget busters. Compare prices between brands and consider store brands, which are often just as good as name brands at a lower cost. Buy seasonal produce when possible — it is fresher and more affordable."
+            ]
+        },
+        {
+            "heading": "Budgeting for Food",
+            "paragraphs": [
+                "Food is one of the biggest expenses in any household, but smart planning can significantly reduce costs. Set a weekly or monthly food budget and track your spending. Look for sales and use coupons when available. Buying in bulk for items you use frequently can save money over time.",
+                "Cooking at home is almost always cheaper than eating out. A meal that costs $30 at a restaurant might cost $8 to make at home. Learning to cook simple, nutritious meals is one of the best financial skills you can develop. As wise stewards of God's resources, we should manage our food budget carefully and generously — always ready to share a meal with someone in need."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does meal planning help reduce food waste? Why did Jesus tell His disciples to gather the leftovers in John 6:12?",
+            "guidance": "Think about how planning prevents buying too much and how using leftovers honors God's provision."
+        },
+        {
+            "id": 2,
+            "question": "Create a simple meal plan for three days, including breakfast, lunch, dinner, and one snack each day. Try to make it balanced and affordable.",
+            "guidance": "Include foods from different food groups. Think about using leftovers from one meal in another. Keep it realistic."
+        },
+        {
+            "id": 3,
+            "question": "What strategies can help a family save money on groceries? How is wise food spending an act of Biblical stewardship?",
+            "guidance": "Think about making a list, comparing prices, buying seasonal produce, and cooking at home. Consider how saving money allows for generosity."
+        }
+    ]
+}

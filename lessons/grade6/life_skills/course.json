@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "life_skills",
+    "title": "Foundations for Life — Building Good Habits God's Way",
+    "description": "Learn essential life skills including personal responsibility, time management, hygiene, organization, manners, and goal-setting — all grounded in Biblical stewardship and honoring God through practical daily living.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Foundations for Life — Building Good Habits God's Way",
+            "lessons": ["personal_responsibility", "time_management", "hygiene", "organization", "manners", "goal_setting"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

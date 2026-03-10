@@ -1,0 +1,70 @@
+{
+    "id": "avoiding_debt",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Avoiding Debt",
+    "subtitle": "The Borrower Is Slave to the Lender",
+    "scripture": "Proverbs 22:7",
+    "key_concepts": ["What is debt", "Good debt versus bad debt", "The trap of credit cards", "Living within your means"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 22:7",
+                "text": "\"The rich rule over the poor, and the borrower is slave to the lender.\"",
+                "commentary": "Scripture uses strong language about debt — calling the borrower a 'slave' to the lender. When you owe money, you are obligated to someone else. Your future income is already spoken for. Debt limits your freedom to give, save, and respond to God's leading in your life."
+            },
+            {
+                "reference": "Romans 13:8",
+                "text": "\"Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.\"",
+                "commentary": "Paul urges believers to owe nothing to anyone except love. While this does not absolutely forbid all borrowing, it establishes a clear principle: Christians should strive to be free from financial obligations that bind them."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Debt?",
+            "paragraphs": [
+                "Debt is money you owe to someone else. When you borrow money, you must pay it back — usually with interest, which is the cost of borrowing. Interest means you end up paying more than you originally borrowed, sometimes much more.",
+                "Common forms of debt include credit card balances, car loans, student loans, and mortgages. While some debt may be necessary at certain points in life, the Bible's overall message is clear: avoid debt whenever possible and pay it off as quickly as you can."
+            ]
+        },
+        {
+            "heading": "The Credit Card Trap",
+            "paragraphs": [
+                "Credit cards make spending feel painless because you do not see the money leaving your account immediately. This psychological trick leads many people to spend far more than they would with cash. The average American household carries thousands of dollars in credit card debt.",
+                "Credit card interest rates are extremely high — often 15% to 25% per year. If you charge $1,000 on a credit card and only make minimum payments, it could take years to pay off and cost you hundreds of dollars in interest. What seemed like a small purchase becomes a heavy burden."
+            ]
+        },
+        {
+            "heading": "Living Within Your Means",
+            "paragraphs": [
+                "Living within your means simply means spending less than you earn. This sounds obvious, but our culture constantly pressures us to buy more, upgrade faster, and keep up with what others have. The Bible calls this 'the lust of the eyes' and warns against it.",
+                "Contentment is the antidote to overspending. When you are grateful for what God has provided and trust Him for what you need, you are free from the pressure to buy things you cannot afford. Contentment does not mean you never want better things — it means your joy is not dependent on having them."
+            ]
+        },
+        {
+            "heading": "A Debt-Free Vision",
+            "paragraphs": [
+                "Imagine a life where you owe nothing to anyone. Every dollar you earn is yours to give, save, or spend as God directs. You can respond to unexpected opportunities, help someone in need, or change careers without the weight of monthly debt payments holding you back.",
+                "Building a debt-free life starts with small decisions made consistently. Use cash or a debit card instead of credit. Save up for purchases instead of financing them. If you do take on debt for something like education, have a clear plan to pay it off quickly. Every choice to avoid unnecessary debt is a step toward financial freedom."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does Proverbs 22:7 mean when it says the borrower is 'slave' to the lender? How does debt limit your freedom?",
+            "guidance": "Think about how owing money gives someone else a claim on your future income. Consider how debt limits your ability to give, save, and follow God's leading."
+        },
+        {
+            "id": 2,
+            "question": "Why do credit cards make it so easy to overspend? What strategies could you use to avoid the credit card trap?",
+            "guidance": "Consider the psychology of not seeing money leave your account. Think about using cash, setting spending limits, or paying off the full balance each month."
+        },
+        {
+            "id": 3,
+            "question": "How does contentment help you avoid debt? What is the relationship between gratitude and wise financial decisions?",
+            "guidance": "Reflect on 1 Timothy 6:6 — 'Godliness with contentment is great gain.' Consider how being thankful for what you have protects you from impulse spending."
+        }
+    ]
+}

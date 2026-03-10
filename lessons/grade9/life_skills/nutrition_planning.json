@@ -1,0 +1,71 @@
+{
+    "id": "nutrition_planning",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Nutrition Planning",
+    "subtitle": "Fueling Your Body with Wisdom and Gratitude",
+    "scripture": "1 Corinthians 10:31",
+    "primary_source": "U.S. Department of Agriculture, Dietary Guidelines for Americans (2020-2025)",
+    "key_concepts": ["Macronutrients and micronutrients", "Reading nutrition labels", "Meal planning basics", "Eating with gratitude and self-control"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 10:31",
+                "text": "\"So whether you eat or drink or whatever you do, do it all for the glory of God.\"",
+                "commentary": "Paul teaches that even the basic act of eating can be done for God's glory. This transforms nutrition from a purely biological concern into a spiritual discipline. When we choose nourishing foods, eat with gratitude, and practice self-control at the table, we honor the God who provides our daily bread."
+            },
+            {
+                "reference": "Daniel 1:12-15",
+                "text": "\"Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink. Then compare our appearance with that of the young men who eat the royal food... At the end of the ten days they looked healthier and better nourished.\"",
+                "commentary": "Daniel chose simple, wholesome food over the rich diet of the Babylonian court — and God honored his discipline. While this passage is not primarily about nutrition, it demonstrates that what we eat matters and that disciplined eating choices produce real results."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Understanding Macronutrients",
+            "paragraphs": [
+                "Your body needs three main types of nutrients in large quantities, called macronutrients: carbohydrates, proteins, and fats. Carbohydrates are your body's primary energy source, found in grains, fruits, vegetables, and dairy. Proteins build and repair tissues, found in meat, fish, eggs, beans, and nuts. Fats support brain function and hormone production, found in oils, nuts, avocados, and dairy.",
+                "A balanced diet includes all three macronutrients in appropriate proportions. Extreme diets that eliminate entire categories of food are usually unnecessary and can be harmful. God created a wide variety of foods for our nourishment and enjoyment — a balanced approach honors His design."
+            ]
+        },
+        {
+            "heading": "Micronutrients and Hydration",
+            "paragraphs": [
+                "Micronutrients — vitamins and minerals — are needed in smaller amounts but are essential for health. Vitamin D supports bone health, vitamin C strengthens your immune system, iron carries oxygen in your blood, and calcium builds strong bones and teeth. Eating a variety of colorful fruits and vegetables is the best way to get the micronutrients your body needs.",
+                "Water is the most important nutrient of all. Your body is about 60% water, and every cell needs it to function properly. Teenagers should drink at least 8-10 cups of water daily, more during physical activity. Sugary drinks like soda and energy drinks provide calories without nutrition and should be limited."
+            ]
+        },
+        {
+            "heading": "Reading Nutrition Labels",
+            "paragraphs": [
+                "Nutrition labels on packaged foods tell you exactly what you are eating. Key items to check include serving size (the amount the label information is based on), calories (energy content), and the amounts of fat, sodium, sugar, protein, and fiber.",
+                "Be especially aware of added sugars and sodium, which are often much higher than you would expect in processed foods. The American Heart Association recommends no more than 25 grams of added sugar per day for teenagers. A single can of soda often contains more than this entire daily limit."
+            ]
+        },
+        {
+            "heading": "Meal Planning and Gratitude",
+            "paragraphs": [
+                "Planning your meals in advance helps you make better nutritional choices and saves money. A simple meal plan includes a balance of proteins, carbohydrates, and vegetables at each meal, with healthy snacks between meals to maintain energy throughout the day.",
+                "The Christian practice of saying grace before meals is more than tradition — it is an act of worship that acknowledges God as the provider of all good things. Eating with gratitude transforms meals from mere consumption into moments of thanksgiving. It also encourages mindful eating, which helps you pay attention to what and how much you eat."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does 1 Corinthians 10:31 change the way you think about your food choices? What does it mean to eat 'for the glory of God'?",
+            "guidance": "Consider how choosing nourishing foods, practicing self-control, and expressing gratitude transform eating into an act of worship."
+        },
+        {
+            "id": 2,
+            "question": "Why is balance important in nutrition? How does the variety of foods God created reflect His wisdom and generosity?",
+            "guidance": "Think about how God created many different types of foods, each providing different nutrients. Consider how extreme diets that eliminate entire food groups may not honor God's design."
+        },
+        {
+            "id": 3,
+            "question": "How can the practice of saying grace before meals help you become more mindful about what you eat?",
+            "guidance": "Reflect on how pausing to give thanks creates awareness of what you are about to consume. Consider how gratitude combats the mindless eating that often leads to poor nutritional choices."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "insurance",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Insurance",
+    "subtitle": "Prudent Protection for Life's Uncertainties",
+    "scripture": "Proverbs 27:12",
+    "primary_source": "National Association of Insurance Commissioners (NAIC), Consumer Resources",
+    "key_concepts": ["How insurance works", "Types of insurance", "Evaluating insurance needs", "Premiums, deductibles, and coverage", "Trusting God while planning wisely"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 27:12",
+                "text": "\"The prudent see danger and take refuge, but the simple keep going and pay the penalty.\"",
+                "commentary": "Insurance is a practical application of prudence — anticipating potential dangers and preparing for them. While we trust God for our provision, wisdom calls us to plan for the financial impacts of illness, accidents, and other unforeseen events."
+            },
+            {
+                "reference": "1 Timothy 5:8",
+                "text": "\"Anyone who does not provide for their relatives, and especially for their own household, has denied the faith and is worse than an unbeliever.\"",
+                "commentary": "Providing for your family includes protecting them from financial devastation caused by unexpected events. Insurance is one way responsible adults fulfill the Biblical mandate to provide for those in their care."
+            },
+            {
+                "reference": "James 4:14",
+                "text": "\"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes.\"",
+                "commentary": "Life is uncertain, and James reminds us of our limitations. While we cannot predict the future, we can prepare for its uncertainties through wise planning, including appropriate insurance coverage."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Insurance?",
+            "paragraphs": [
+                "Insurance is a financial product that protects against the risk of financial loss. You pay a regular amount (called a premium) to an insurance company, and in return, the company agrees to pay for certain covered losses if they occur. Insurance works by pooling risk — many people pay premiums, and those funds are used to cover the losses of the few who experience them.",
+                "Insurance does not prevent bad things from happening, but it prevents bad things from causing financial ruin. Without health insurance, a serious illness could generate hundreds of thousands of dollars in medical bills. Without auto insurance, a car accident could result in devastating financial liability. Insurance is a tool of prudent planning that allows families to weather life's storms without losing everything."
+            ]
+        },
+        {
+            "heading": "Types of Insurance",
+            "paragraphs": [
+                "There are several major types of insurance that most adults will need at various points in life. Health insurance covers medical expenses including doctor visits, hospital stays, prescriptions, and preventive care. Auto insurance covers damage to your vehicle and liability for injuries or property damage you cause in an accident. Homeowner's or renter's insurance protects your dwelling and possessions against damage, theft, or loss.",
+                "Life insurance provides a financial benefit to your dependents if you die, helping them replace your income and cover expenses. Disability insurance replaces a portion of your income if you become unable to work due to illness or injury. Each type of insurance addresses a different risk, and wise financial planning involves evaluating which types you need and how much coverage is appropriate for your situation."
+            ]
+        },
+        {
+            "heading": "Key Insurance Terms",
+            "paragraphs": [
+                "Understanding insurance requires familiarity with key terms. The premium is the amount you pay (usually monthly or annually) to maintain your coverage. The deductible is the amount you must pay out of pocket before the insurance company begins covering costs. Generally, higher deductibles result in lower premiums, and vice versa.",
+                "The policy limit is the maximum amount the insurance company will pay for a covered claim. A copay is a fixed amount you pay for a specific service (common in health insurance). Coinsurance is the percentage of costs you share with the insurer after meeting your deductible. Understanding these terms helps you compare policies intelligently and choose coverage that balances cost with adequate protection."
+            ]
+        },
+        {
+            "heading": "Evaluating Your Insurance Needs",
+            "paragraphs": [
+                "Not everyone needs every type of insurance, and coverage needs change throughout life. A single young adult may need only health insurance, auto insurance, and renter's insurance. A married couple with children will likely need life insurance and greater health coverage. A homeowner needs homeowner's insurance, and anyone whose income supports dependents should consider disability insurance.",
+                "When evaluating insurance needs, consider what financial losses would be most devastating and prioritize protecting against those risks. An emergency fund of three to six months' expenses provides a buffer for smaller unexpected costs and allows you to choose higher deductibles (and lower premiums) on your insurance policies. Balance the cost of premiums against the potential cost of going without coverage."
+            ]
+        },
+        {
+            "heading": "Faith and Financial Planning",
+            "paragraphs": [
+                "Some Christians question whether purchasing insurance demonstrates a lack of faith in God's provision. However, Scripture consistently praises prudent planning and preparation. Joseph stored grain during seven years of plenty to prepare for seven years of famine (Genesis 41). Nehemiah posted guards while building the wall. Insurance is not a substitute for trusting God — it is a practical tool of wise stewardship that protects your family from preventable financial hardship.",
+                "At the same time, insurance should never become a source of ultimate security. Our confidence rests in God, not in our policies. Insurance is one element of responsible financial planning, alongside saving, investing, and generous giving. Together, these practices reflect the balanced stewardship that honors God and provides for those entrusted to our care."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Proverbs 27:12 apply to insurance? Is purchasing insurance an act of prudence or a lack of faith? Explain your reasoning.",
+            "guidance": "Consider the Biblical examples of Joseph and Nehemiah who combined trust in God with practical preparation. How does insurance fit this pattern?"
+        },
+        {
+            "id": 2,
+            "question": "What types of insurance do you think will be most important for you in the next five to ten years? Why?",
+            "guidance": "Think about your likely life situation — employment, housing, transportation, family — and which risks would be most financially devastating without insurance."
+        },
+        {
+            "id": 3,
+            "question": "How do you balance the cost of insurance premiums with other financial priorities like saving, investing, and giving? What principles guide this decision?",
+            "guidance": "Consider how to prioritize essential coverage while managing costs through appropriate deductible levels and comparison shopping."
+        }
+    ]
+}

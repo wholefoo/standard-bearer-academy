@@ -1,0 +1,70 @@
+{
+    "id": "understanding_banking",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Understanding Banking",
+    "subtitle": "Managing Money with Wisdom and Integrity",
+    "scripture": "Matthew 25:27",
+    "key_concepts": ["Types of bank accounts", "How banks work", "Interest and fees", "Responsible banking habits"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 25:27",
+                "text": "\"Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.\"",
+                "commentary": "In the Parable of the Talents, the master rebuked the servant who buried his money instead of putting it to productive use. Even depositing it in a bank to earn interest would have been better than doing nothing. God expects us to be active, not passive, stewards of the resources He entrusts to us."
+            },
+            {
+                "reference": "Proverbs 13:11",
+                "text": "\"Dishonest money dwindles away, but whoever gathers money little by little makes it grow.\"",
+                "commentary": "Building wealth through honest, patient effort — including wise use of banking tools — is the Biblical pattern. Banks provide a safe place to store money and tools to help it grow gradually over time."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Do Banks Do?",
+            "paragraphs": [
+                "A bank is a financial institution that accepts deposits, makes loans, and provides other financial services. When you deposit money in a bank, the bank keeps it safe and may pay you interest — a small percentage of your balance — as a reward for keeping your money there.",
+                "Banks use the money deposited by customers to make loans to other people and businesses. The interest charged on those loans is how banks earn money. This system allows money to flow through the economy, helping businesses grow and people buy homes."
+            ]
+        },
+        {
+            "heading": "Types of Bank Accounts",
+            "paragraphs": [
+                "A checking account is designed for everyday transactions — paying bills, buying groceries, and making regular purchases. Most checking accounts come with a debit card that lets you access your money electronically.",
+                "A savings account is designed for money you want to set aside and grow. Savings accounts typically earn more interest than checking accounts but may have limits on how often you can withdraw money. Some banks also offer certificates of deposit (CDs), which pay higher interest in exchange for leaving your money deposited for a fixed period."
+            ]
+        },
+        {
+            "heading": "Understanding Fees and Interest",
+            "paragraphs": [
+                "Banks charge fees for certain services — overdraft fees when you spend more than you have, monthly maintenance fees on some accounts, and ATM fees for using machines outside your bank's network. Understanding these fees helps you avoid unnecessary costs.",
+                "Interest can work for you or against you. When a bank pays you interest on your savings, your money grows. When you pay interest on a loan or credit card, your debt grows. Learning the difference and making interest work in your favor is a key part of financial wisdom."
+            ]
+        },
+        {
+            "heading": "Responsible Banking Habits",
+            "paragraphs": [
+                "Good banking habits include regularly checking your account balance, reviewing your statements for errors or unauthorized charges, keeping your debit card and PIN secure, and never sharing your banking information online.",
+                "As a young person, opening a savings account — even with a small amount — is a great first step in learning to manage money. Many banks offer student accounts with no fees. Building a relationship with a bank now prepares you for more complex financial decisions in the future."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "In the Parable of the Talents, why was the master displeased with the servant who buried his money? What does this teach about how God wants us to manage our resources?",
+            "guidance": "Consider that the master expected his servants to put their resources to productive use. Think about how this applies to our financial stewardship today."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between a checking account and a savings account? When would you use each one?",
+            "guidance": "Think about the purpose of each account type. Consider how having both accounts helps you manage daily expenses and long-term savings."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to check your bank statements regularly? How does this relate to the Biblical principle of being a careful steward?",
+            "guidance": "Consider Proverbs 27:23 about knowing the condition of your flocks. Think about how regular monitoring prevents mistakes and catches problems early."
+        }
+    ]
+}

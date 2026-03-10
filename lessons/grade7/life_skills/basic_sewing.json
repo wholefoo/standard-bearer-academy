@@ -1,0 +1,75 @@
+{
+    "id": "basic_sewing",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Basic Sewing — Practical Skills for Everyday Life",
+    "subtitle": "Learning Simple Sewing Skills to Repair and Care for Clothing",
+    "scripture": "Proverbs 31:19",
+    "key_concepts": ["Basic sewing supplies", "Threading a needle and tying knots", "Sewing on a button", "Simple repairs and mending"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:19",
+                "text": "\"In her hand she holds the distaff and grasps the spindle with her fingers.\"",
+                "commentary": "The Proverbs 31 woman was skilled with textiles and sewing. These practical skills have been valued throughout history as expressions of diligence and resourcefulness."
+            },
+            {
+                "reference": "Acts 9:39",
+                "text": "\"All the widows stood around him, crying and showing him the robes and other clothing that Dorcas had made while she was still with them.\"",
+                "commentary": "Dorcas (Tabitha) was remembered and loved for her sewing skills, which she used to serve others. Practical skills become ministry when used to bless people."
+            },
+            {
+                "reference": "Exodus 35:25",
+                "text": "\"Every skilled woman spun with her hands and brought what she had spun — blue, purple or scarlet yarn or fine linen.\"",
+                "commentary": "The women of Israel used their textile skills to contribute to the building of the tabernacle. God values practical skills and uses them for His purposes."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Learn to Sew?",
+            "paragraphs": [
+                "You do not need to become a fashion designer to benefit from basic sewing skills. Knowing how to sew on a button, fix a hem, or mend a tear saves money, extends the life of your clothing, and gives you a sense of self-sufficiency. These are skills that will serve you your entire life.",
+                "Throughout the Bible, textile work is honored and valued. From the skilled women who made curtains for the tabernacle to Dorcas who sewed garments for the poor, sewing has always been a way to serve God and others. Learning these basics connects you to a long tradition of practical, faithful living."
+            ]
+        },
+        {
+            "heading": "Basic Sewing Supplies",
+            "paragraphs": [
+                "A basic sewing kit includes needles (in various sizes), thread (in basic colors — black, white, navy, and a few others), scissors, pins, a pincushion, a seam ripper, and a measuring tape. You can purchase an inexpensive sewing kit that contains all of these items.",
+                "Choose thread that matches the color of the fabric you are repairing. Use sharp scissors designated only for fabric — using them to cut paper will dull the blades. A thimble protects your finger when pushing a needle through thick fabric."
+            ]
+        },
+        {
+            "heading": "Threading a Needle and Basic Stitches",
+            "paragraphs": [
+                "To thread a needle, cut a piece of thread about 18 inches long. Wet the end slightly and push it through the eye of the needle. Pull about six inches through and tie a small knot at the other end of the thread to keep it from pulling through the fabric.",
+                "The running stitch is the most basic stitch — push the needle up through the fabric, then back down a short distance away, creating small, even stitches in a line. The backstitch is stronger — after each forward stitch, you go back and stitch through the previous stitch point, creating a solid line. Practice these stitches on scrap fabric before attempting a repair."
+            ]
+        },
+        {
+            "heading": "Sewing on a Button and Simple Repairs",
+            "paragraphs": [
+                "Sewing on a button is one of the most useful sewing skills. Place the button where it needs to go, push the needle up through the fabric and one hole of the button, then down through another hole and the fabric. Repeat this six to eight times for a secure attachment. Finish by wrapping the thread around the stitches between the button and fabric, then tie off on the back.",
+                "Other simple repairs include mending a small tear, fixing a fallen hem, and closing a split seam. For a torn seam, simply sew the two edges back together using a backstitch. For a fallen hem, fold the fabric to the correct length and sew it in place with small, even stitches. These repairs are straightforward and can save a garment that would otherwise be thrown away."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does learning to sew reflect the Biblical value of stewardship? Why is it better to repair clothing than to throw it away?",
+            "guidance": "Think about being resourceful with what God provides. Consider the environmental and financial benefits of mending clothes."
+        },
+        {
+            "id": 2,
+            "question": "How did Dorcas use her sewing skills to serve others (Acts 9:39)? How could you use practical skills to help people around you?",
+            "guidance": "Think about how practical skills become ministry when used to bless others. Consider ways you could serve your family or community."
+        },
+        {
+            "id": 3,
+            "question": "Practice sewing on a button or making a simple repair. Describe what you did and what you learned from the experience.",
+            "guidance": "Try a hands-on practice session. Note what was easy, what was challenging, and what you would do differently next time."
+        }
+    ]
+}

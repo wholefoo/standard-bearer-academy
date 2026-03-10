@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "life_skills",
+    "title": "Financial Foundations",
+    "description": "Biblical Stewardship of Money",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Financial Foundations — Biblical Stewardship of Money",
+            "lessons": ["budgeting_basics", "power_of_saving", "tithing_generosity", "avoiding_debt", "understanding_banking", "wise_spending"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

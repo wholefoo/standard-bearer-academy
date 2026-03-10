@@ -1,0 +1,75 @@
+{
+    "id": "laundry",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Laundry — Caring for Your Clothing with Diligence",
+    "subtitle": "Learning to Wash, Dry, and Care for Clothes as Good Stewards",
+    "scripture": "Proverbs 31:22",
+    "key_concepts": ["Sorting and preparing laundry", "Washing, drying, and folding clothes", "Reading care labels", "Clothing stewardship and modesty"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:22",
+                "text": "\"She makes coverings for her bed; she is clothed in fine linen and purple.\"",
+                "commentary": "The virtuous woman in Proverbs takes care with clothing and textiles. Caring for our clothes well means they last longer and serve us better — this is wise stewardship."
+            },
+            {
+                "reference": "Matthew 6:28-29",
+                "text": "\"And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these.\"",
+                "commentary": "While Jesus tells us not to worry about clothing, He does not say to neglect it. Taking proper care of what God provides shows gratitude and responsibility."
+            },
+            {
+                "reference": "Ecclesiastes 9:8",
+                "text": "\"Always be clothed in white, and always anoint your head with oil.\"",
+                "commentary": "This verse encourages keeping our clothing clean and our appearance neat. Clean, well-maintained clothing reflects self-respect and respect for others."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Learn to Do Laundry?",
+            "paragraphs": [
+                "Doing laundry is one of those tasks that never ends — as long as you wear clothes, they need to be washed. Learning to do laundry properly is an essential life skill that prepares you for independence. It also helps your family and shows that you can take care of yourself.",
+                "Properly caring for your clothing makes it last longer, which saves money and reduces waste. A shirt that is washed and dried correctly will look good and hold up for years. One that is treated carelessly may shrink, fade, or fall apart quickly. Good laundry habits are a form of stewardship."
+            ]
+        },
+        {
+            "heading": "Sorting Laundry",
+            "paragraphs": [
+                "Before washing, sort your laundry into groups. Separate whites from colors to prevent color bleeding. Separate heavily soiled items from lightly soiled ones. Delicate fabrics like silk or lace should be washed separately or in a mesh bag.",
+                "Check all pockets before washing — pens, tissues, coins, and other items can damage your clothes or the washing machine. Turn dark-colored clothes inside out to reduce fading. Close zippers and fasten hooks to prevent snagging."
+            ]
+        },
+        {
+            "heading": "Washing and Drying",
+            "paragraphs": [
+                "Read the care labels on your clothes before washing them. These labels tell you the recommended water temperature, wash cycle, and drying method. Most everyday clothes can be washed in cold or warm water on a regular cycle. Use the recommended amount of detergent — more is not better and can leave residue on your clothes.",
+                "For drying, some items go in the dryer on low or medium heat, while others should be air-dried on a rack or clothesline. Overdrying can shrink clothes and damage elastic. Remove clothes from the dryer promptly and fold or hang them right away to prevent wrinkles."
+            ]
+        },
+        {
+            "heading": "Folding, Hanging, and Storing",
+            "paragraphs": [
+                "Folding clothes neatly keeps them looking good and saves space in your drawers. T-shirts, pants, and casual clothes can be folded and stored in drawers. Dress shirts, blouses, and jackets should be hung on hangers in a closet to prevent wrinkles.",
+                "Take time to learn how to fold different items properly — shirts, pants, towels, and fitted sheets each have their own technique. Keep your dresser drawers and closet organized so you can easily find what you need. When you care for your clothing well, you show good stewardship and present yourself neatly to the world."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is doing laundry an act of stewardship? Why does caring for your clothing matter from a Biblical perspective?",
+            "guidance": "Think about clothing as a provision from God. Consider how caring for it well shows gratitude and responsibility."
+        },
+        {
+            "id": 2,
+            "question": "What are the basic steps for doing a load of laundry from start to finish?",
+            "guidance": "Walk through the process: sorting, checking pockets, selecting settings, washing, drying, and folding or hanging."
+        },
+        {
+            "id": 3,
+            "question": "Why is it important to read care labels on clothing? What could happen if you ignore them?",
+            "guidance": "Think about specific consequences like shrinking, color bleeding, or fabric damage. Consider how following instructions shows wisdom."
+        }
+    ]
+}

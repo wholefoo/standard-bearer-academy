@@ -1,0 +1,127 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Unit 1: Independent Living — Launching with Faith and Confidence",
+    "description": "Test your understanding of essential life skills for independent living, including housing, car maintenance, legal basics, community involvement, marriage preparation, and purposeful adult living from a Biblical perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to widely accepted financial guidelines, what percentage of your gross monthly income should housing costs not exceed?",
+            "options": [
+                "10-15%",
+                "25-30%",
+                "40-50%",
+                "60-70%"
+            ],
+            "correct": 1,
+            "explanation": "Financial experts recommend that housing costs — including rent, utilities, and insurance — should not exceed 25-30% of your gross monthly income. This leaves adequate room for saving, tithing, and covering other expenses, reflecting wise stewardship of God's provision."
+        },
+        {
+            "id": 2,
+            "question": "What does Proverbs 24:27 teach about preparing for major commitments like purchasing a home?",
+            "options": [
+                "Buy a home as quickly as possible to build equity",
+                "Never buy a home — renting is always more Biblical",
+                "Prepare your work and finances first, then make the commitment",
+                "Trust God to provide a home without any planning on your part"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 24:27 says, 'Put your outdoor work in order and get your fields ready; after that, build your house.' This teaches the wisdom of establishing your income and savings before taking on the major commitment of homeownership — preparation before building."
+        },
+        {
+            "id": 3,
+            "question": "Why is regular car maintenance an act of Biblical stewardship?",
+            "options": [
+                "Because the Bible specifically commands car care",
+                "Because it impresses other people and builds your reputation",
+                "Because caring for what God has entrusted to you reflects faithfulness with His resources",
+                "Because it is only important for expensive vehicles"
+            ],
+            "correct": 2,
+            "explanation": "Luke 16:10 teaches that faithfulness in small things demonstrates trustworthiness with greater things. Regular car maintenance — oil changes, tire care, fluid checks — reflects responsible stewardship of a significant resource God has provided, preventing waste through neglect."
+        },
+        {
+            "id": 4,
+            "question": "What is a contract, and why should Christians take contract-signing seriously?",
+            "options": [
+                "A suggestion that can be ignored if inconvenient; Christians are only bound by God's law",
+                "A legally binding agreement; signing is making a commitment that reflects your integrity",
+                "A document that only benefits the company; Christians should avoid all contracts",
+                "A formality that has no spiritual significance"
+            ],
+            "correct": 1,
+            "explanation": "A contract is a legally binding agreement between parties. Jesus taught that our word should be completely trustworthy (Matthew 5:37). Signing a contract is making a commitment, and honoring that commitment reflects Christian integrity and honesty."
+        },
+        {
+            "id": 5,
+            "question": "According to William Blackstone's 'Commentaries on the Laws of England,' what is the foundation of law?",
+            "options": [
+                "The will of the majority",
+                "Military power and enforcement",
+                "God's moral order",
+                "Economic efficiency"
+            ],
+            "correct": 2,
+            "explanation": "William Blackstone argued that human law derives its authority from God's moral law. This understanding, which deeply influenced America's founders, means that law is not merely about human convention but reflects a higher moral order established by the Creator."
+        },
+        {
+            "id": 6,
+            "question": "What does Jeremiah 29:7 teach about a Christian's responsibility to their community?",
+            "options": [
+                "Christians should isolate themselves from secular communities",
+                "Christians should seek the peace and prosperity of their city and pray for it",
+                "Christians should only serve other Christians, not the broader community",
+                "Community involvement is optional and not a Biblical priority"
+            ],
+            "correct": 1,
+            "explanation": "God told the exiles in Babylon to 'seek the peace and prosperity of the city' and pray for it. This shows that even in imperfect circumstances, God's people are called to actively invest in the welfare of their communities — not withdraw from them."
+        },
+        {
+            "id": 7,
+            "question": "What is the most important quality to look for in a potential spouse, according to Biblical teaching?",
+            "options": [
+                "Physical attractiveness and social status",
+                "Financial stability and career success",
+                "Shared Christian faith and godly character",
+                "Similar hobbies and entertainment preferences"
+            ],
+            "correct": 2,
+            "explanation": "Scripture warns against being 'unequally yoked' with unbelievers (2 Corinthians 6:14). Shared Christian faith provides the essential foundation for navigating every aspect of married life — finances, parenting, conflict resolution, and life priorities. Godly character is far more important than superficial compatibility."
+        },
+        {
+            "id": 8,
+            "question": "What did Dietrich Bonhoeffer mean when he wrote that 'it is not your love that sustains the marriage, but the marriage that sustains your love'?",
+            "options": [
+                "Love is unimportant in marriage",
+                "Marriage is only about legal obligations, not feelings",
+                "The covenant commitment of marriage provides the security and faithfulness that deepens love over time",
+                "Couples should not expect to feel love for each other"
+            ],
+            "correct": 2,
+            "explanation": "Bonhoeffer taught that marriage is a divine institution — a covenant commitment that sustains and deepens love through faithfulness, not a feeling-based relationship that lasts only as long as romantic emotions persist. The covenant provides the stable foundation within which love grows and matures."
+        },
+        {
+            "id": 9,
+            "question": "According to Colossians 3:17, how should Christians approach ordinary daily tasks like cooking, cleaning, and paying bills?",
+            "options": [
+                "As necessary evils that distract from spiritual activities",
+                "As tasks to be done as quickly as possible with minimal effort",
+                "As acts done in the name of the Lord Jesus, giving thanks to God",
+                "As responsibilities that have no spiritual significance"
+            ],
+            "correct": 2,
+            "explanation": "Colossians 3:17 teaches that 'whatever you do, whether in word or deed, do it all in the name of the Lord Jesus.' There is no division between sacred and secular in the Christian life — every daily task, done with gratitude and faithfulness, is an act of worship."
+        },
+        {
+            "id": 10,
+            "question": "What is the key difference between merely surviving as an independent adult and thriving with purpose?",
+            "options": [
+                "Earning a higher salary than your peers",
+                "Living with intentional choices guided by your identity as God's child and your calling to glorify Him",
+                "Having more possessions and a bigger home",
+                "Avoiding all risk and staying comfortable"
+            ],
+            "correct": 1,
+            "explanation": "Thriving as an independent adult comes from living with purpose — making intentional choices about time, energy, money, and relationships that are guided by your identity as a child of God. Ecclesiastes 12:1 urges remembering your Creator in your youth, establishing the priorities and disciplines that shape a meaningful life."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Health and Wellness — Honoring God with Your Body: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to 1 Corinthians 6:19-20, why should Christians care for their physical bodies?",
+            "options": [
+                "Because physical appearance determines your worth",
+                "Because your body is a temple of the Holy Spirit",
+                "Because God only blesses healthy people",
+                "Because exercise is required by Biblical law"
+            ],
+            "correct": 1,
+            "explanation": "Paul teaches that the Christian's body is a temple of the Holy Spirit. Caring for your body is an act of worship and stewardship, honoring the God who created and redeemed you."
+        },
+        {
+            "id": 2,
+            "question": "What are the three macronutrients your body needs?",
+            "options": [
+                "Vitamins, minerals, and water",
+                "Carbohydrates, proteins, and fats",
+                "Calcium, iron, and vitamin D",
+                "Fiber, sugar, and sodium"
+            ],
+            "correct": 1,
+            "explanation": "The three macronutrients are carbohydrates (energy), proteins (building and repair), and fats (brain function and hormones). A balanced diet includes all three in appropriate proportions."
+        },
+        {
+            "id": 3,
+            "question": "What does Martyn Lloyd-Jones mean by 'preaching to yourself' rather than 'listening to yourself'?",
+            "options": [
+                "Talking out loud instead of thinking silently",
+                "Ignoring all negative emotions completely",
+                "Actively speaking Biblical truth to counter anxious or hopeless thoughts",
+                "Only reading the Bible and never talking to other people"
+            ],
+            "correct": 2,
+            "explanation": "Lloyd-Jones taught that we should actively speak Biblical truth to our emotions rather than passively accepting every anxious or hopeless thought. Our feelings are real but not always reliable guides to truth."
+        },
+        {
+            "id": 4,
+            "question": "What is the first rule of first aid?",
+            "options": [
+                "Call 911 immediately",
+                "Begin CPR right away",
+                "Ensure your own safety before helping others",
+                "Move the injured person to safety"
+            ],
+            "correct": 2,
+            "explanation": "The first rule of first aid is to ensure your own safety. You cannot help someone else if you become a victim yourself. Assess the scene for dangers before approaching."
+        },
+        {
+            "id": 5,
+            "question": "What does RICE stand for in treating sprains and strains?",
+            "options": [
+                "Run, Ice, Compress, Exercise",
+                "Rest, Ice, Compress, Elevate",
+                "Relax, Immobilize, Cool, Examine",
+                "Rest, Isolate, Cover, Evaluate"
+            ],
+            "correct": 1,
+            "explanation": "RICE stands for Rest the injured area, Ice it for 20 minutes at a time, Compress with an elastic bandage, and Elevate the injury above heart level."
+        },
+        {
+            "id": 6,
+            "question": "According to Proverbs 27:17, what is the purpose of close friendships?",
+            "options": [
+                "To make life more fun and entertaining",
+                "To have someone who always agrees with you",
+                "To sharpen each other's character and faith",
+                "To ensure you are never alone"
+            ],
+            "correct": 2,
+            "explanation": "Proverbs 27:17 says 'As iron sharpens iron, so one person sharpens another.' Healthy friendships challenge you to grow in character, wisdom, and faith, even when it involves honest friction."
+        },
+        {
+            "id": 7,
+            "question": "What is the difference between 'eustress' and chronic stress?",
+            "options": [
+                "Eustress is imaginary; chronic stress is real",
+                "Eustress is positive, short-term stress that motivates; chronic stress is harmful, long-lasting stress",
+                "Eustress affects the body; chronic stress affects only the mind",
+                "There is no real difference between them"
+            ],
+            "correct": 1,
+            "explanation": "Eustress is positive, short-term stress that motivates you to meet challenges. Chronic stress is harmful, long-lasting stress that damages physical health, mental well-being, and relationships."
+        },
+        {
+            "id": 8,
+            "question": "Why does the Bible instruct us to go directly to a person we have a conflict with (Matthew 18:15)?",
+            "options": [
+                "To publicly shame them into changing",
+                "To address the issue honestly and seek resolution before it grows",
+                "To prove that you are right and they are wrong",
+                "To avoid involving any other people ever"
+            ],
+            "correct": 1,
+            "explanation": "Jesus teaches us to go directly to the person to address the issue honestly and seek resolution. This prevents gossip, misunderstanding, and the buildup of resentment that damages relationships."
+        },
+        {
+            "id": 9,
+            "question": "What does Richard Swenson mean by 'margin' in the context of stress management?",
+            "options": [
+                "The profit margin on financial investments",
+                "The space between your load and your limits — breathing room for rest and reflection",
+                "The border of a page in a notebook",
+                "The minimum grade needed to pass a class"
+            ],
+            "correct": 1,
+            "explanation": "Swenson uses 'margin' to describe the breathing room between our load and our limits. Modern life often eliminates this margin, leaving no space for rest, reflection, or relationship with God."
+        },
+        {
+            "id": 10,
+            "question": "According to 1 Timothy 4:8, what is the proper Christian perspective on physical fitness?",
+            "options": [
+                "Physical fitness is sinful and should be avoided",
+                "Physical fitness is the most important thing in life",
+                "Physical training has some value, but godliness has value for all things",
+                "Physical fitness is only important for athletes"
+            ],
+            "correct": 2,
+            "explanation": "Paul acknowledges that physical training has genuine value while keeping it in proper perspective — godliness has value for all things, holding promise for both the present life and the life to come. The body matters, but the soul matters more."
+        }
+    ]
+}

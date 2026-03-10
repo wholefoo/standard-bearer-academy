@@ -1,0 +1,75 @@
+{
+    "id": "cooking_basics",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Cooking Basics — Preparing Food with Care and Gratitude",
+    "subtitle": "Learning Kitchen Fundamentals as an Act of Love and Service",
+    "scripture": "Acts 2:46",
+    "key_concepts": ["Kitchen safety basics", "Essential cooking tools and techniques", "Following a recipe", "Cooking as service to others"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Acts 2:46",
+                "text": "\"Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts.\"",
+                "commentary": "The early church gathered around meals. Preparing food is not just a chore — it is a way to build community, show hospitality, and share joy with others."
+            },
+            {
+                "reference": "Proverbs 31:15",
+                "text": "\"She gets up while it is still night; she provides food for her family and portions for her female servants.\"",
+                "commentary": "The virtuous woman in Proverbs is celebrated for her diligence in providing food for her household. Learning to cook is a practical skill that serves families and communities."
+            },
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Even tasks like cooking and preparing meals can be done as worship when we do them wholeheartedly for God's glory."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Learn to Cook?",
+            "paragraphs": [
+                "Cooking is one of the most practical and rewarding skills you can learn. Everyone needs to eat, and knowing how to prepare your own food gives you independence, saves money, and allows you to nourish yourself and others with wholesome meals.",
+                "Throughout the Bible, meals are significant. Jesus fed the five thousand, shared the Last Supper with His disciples, and cooked breakfast for His friends on the shore after His resurrection (John 21:9-12). Food brings people together, and preparing it is an act of love and service."
+            ]
+        },
+        {
+            "heading": "Kitchen Safety",
+            "paragraphs": [
+                "Before you start cooking, you need to understand basic kitchen safety. Always wash your hands before handling food. Learn how to safely use a knife — keep your fingers curled and cut away from your body. Use oven mitts when handling hot pans, and never leave the stove unattended.",
+                "Keep raw meat separate from other foods to prevent contamination. Clean up spills immediately to prevent slipping. Know where the fire extinguisher is located and what to do if something catches fire. Safety in the kitchen shows responsibility and respect for yourself and others."
+            ]
+        },
+        {
+            "heading": "Essential Tools and Techniques",
+            "paragraphs": [
+                "Every kitchen needs basic tools: a cutting board, a sharp knife, measuring cups and spoons, mixing bowls, a skillet, a saucepan, a baking sheet, and a spatula. Learning what each tool does and how to use it properly is the first step in becoming a confident cook.",
+                "Basic cooking techniques include boiling (heating liquid until it bubbles), sautéing (cooking quickly in a small amount of oil), baking (cooking in an oven with dry heat), and mixing (combining ingredients together). Start with simple recipes that use these techniques, and build your skills gradually."
+            ]
+        },
+        {
+            "heading": "Following a Recipe",
+            "paragraphs": [
+                "A recipe is like a set of instructions — it tells you what ingredients you need, how much of each to use, and the steps to follow. Read the entire recipe before you begin so you know what to expect. Gather all your ingredients and tools before starting — this is called 'mise en place,' a French term meaning 'everything in its place.'",
+                "Measure ingredients carefully, especially when baking. Follow the steps in order, and pay attention to cooking times and temperatures. As you gain experience, you will learn to adjust recipes to your taste and even create your own. Start simple — scrambled eggs, sandwiches, pasta, and salads are great first recipes."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How can cooking be an act of worship and service to others? How does Acts 2:46 show the importance of sharing meals?",
+            "guidance": "Think about how preparing food for family or friends shows love. Consider how meals bring people together."
+        },
+        {
+            "id": 2,
+            "question": "Why is kitchen safety important, and how does being safe in the kitchen demonstrate personal responsibility?",
+            "guidance": "Think about specific safety rules and why they matter. Consider how carelessness could affect you and others."
+        },
+        {
+            "id": 3,
+            "question": "What is one simple recipe you would like to learn to make? What tools and ingredients would you need?",
+            "guidance": "Choose a recipe that is realistic for your skill level. Think about how you would follow the steps carefully."
+        }
+    ]
+}

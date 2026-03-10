@@ -1,0 +1,14 @@
+{
+    "grade": "grade12",
+    "subject": "life_skills",
+    "title": "Independent Living — Launching with Faith and Confidence",
+    "description": "Preparing to live independently as a faithful steward — covering housing, transportation, legal basics, community involvement, marriage preparation, and purposeful adult living",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Independent Living — Launching with Faith and Confidence",
+            "lessons": ["renting_buying_home", "car_maintenance", "legal_basics", "community_involvement", "marriage_preparation", "adulting_with_purpose"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

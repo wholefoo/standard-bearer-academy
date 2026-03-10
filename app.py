@@ -39,6 +39,7 @@ SUBJECTS = {
     "civics": {"name": "Civics & Government", "icon": "⚖️"},
     "technology": {"name": "Technology", "icon": "💻"},
     "creative_writing": {"name": "Creative Writing", "icon": "✍️"},
+    "life_skills": {"name": "Life Skills", "icon": "🛠️"},
 }
 
 USER_ROLES = {

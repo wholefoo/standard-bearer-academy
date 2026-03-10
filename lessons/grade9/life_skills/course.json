@@ -1,0 +1,14 @@
+{
+    "grade": "grade9",
+    "subject": "life_skills",
+    "title": "Health and Wellness",
+    "description": "Honoring God with Your Body",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Health and Wellness — Honoring God with Your Body",
+            "lessons": ["physical_fitness", "nutrition_planning", "mental_health", "first_aid", "healthy_relationships", "stress_management"]
+        }
+    ],
+    "quiz_id": "life_skills_quiz"
+}

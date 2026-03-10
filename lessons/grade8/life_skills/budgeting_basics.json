@@ -1,0 +1,70 @@
+{
+    "id": "budgeting_basics",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Budgeting Basics",
+    "subtitle": "Planning Your Finances God's Way",
+    "scripture": "Luke 14:28",
+    "key_concepts": ["What is a budget", "Income versus expenses", "Tracking spending", "Setting financial priorities"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 14:28",
+                "text": "\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?\"",
+                "commentary": "Jesus Himself taught the importance of financial planning. Before beginning any project, a wise person counts the cost. A budget is simply a plan for how you will use the money God has entrusted to you, ensuring that every dollar has a purpose."
+            },
+            {
+                "reference": "Proverbs 27:23-24",
+                "text": "\"Be sure you know the condition of your flocks, give careful attention to your herds; for riches do not endure forever, and a crown is not secure for all generations.\"",
+                "commentary": "God calls us to pay attention to what we have. In modern terms, this means knowing how much money you earn, how much you spend, and where it goes. Careful attention to your finances is a form of faithful stewardship."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Budget?",
+            "paragraphs": [
+                "A budget is a written plan for how you will earn, spend, save, and give your money over a set period of time — usually a month. It is not a restriction on your freedom but a tool that gives you control over your finances instead of letting your finances control you.",
+                "Think of a budget like a road map. Without a map, you might still arrive at your destination eventually, but you will likely waste time, take wrong turns, and run out of gas along the way. A budget keeps you on the right financial path."
+            ]
+        },
+        {
+            "heading": "Income and Expenses",
+            "paragraphs": [
+                "Income is all the money that comes in — from allowance, chores, a part-time job, gifts, or any other source. Expenses are everything you spend money on, from necessities like food and clothing to wants like entertainment and snacks.",
+                "The most important rule of budgeting is simple: do not spend more than you earn. When your expenses exceed your income, you go into debt. When your income exceeds your expenses, you have money to save, give, and invest for the future."
+            ]
+        },
+        {
+            "heading": "Tracking Your Spending",
+            "paragraphs": [
+                "Most people are surprised when they first track their spending. Small purchases — a snack here, a game there — add up quickly. Tracking every dollar you spend for a month reveals patterns you might not have noticed.",
+                "You can track spending with a simple notebook, a spreadsheet, or a budgeting app. The method does not matter as much as the habit. When you know where your money goes, you can make intentional choices instead of wondering where it all went."
+            ]
+        },
+        {
+            "heading": "Setting Financial Priorities",
+            "paragraphs": [
+                "A budget forces you to decide what matters most. Biblical priorities suggest a clear order: first, give to God through tithes and offerings; second, meet your needs like food, shelter, and clothing; third, save for the future; and fourth, enjoy your wants.",
+                "Setting priorities does not mean you can never have fun with money. It means you plan for fun after you have taken care of your responsibilities. This is the difference between a person who manages money wisely and one who is constantly stressed about finances."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why did Jesus use the example of building a tower to teach about planning? How does this apply to managing your money today?",
+            "guidance": "Think about what happens when someone starts a project without enough resources to finish it. Consider how a budget helps you 'count the cost' before spending."
+        },
+        {
+            "id": 2,
+            "question": "What are some small daily expenses that might add up to a large amount over a month? How could tracking these expenses help you make better choices?",
+            "guidance": "Consider things like snacks, drinks, apps, or entertainment. Calculate what a $3 daily purchase costs over a month and a year."
+        },
+        {
+            "id": 3,
+            "question": "How does having a budget actually give you more freedom rather than less? How does this reflect the way God's commands give us freedom?",
+            "guidance": "Think about how boundaries in life — speed limits, game rules, God's commandments — actually protect us and allow us to thrive. Consider how a budget protects you from financial stress."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "physical_fitness",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Physical Fitness",
+    "subtitle": "Strengthening the Temple of the Holy Spirit",
+    "scripture": "1 Corinthians 6:19-20",
+    "primary_source": "Kenneth Cooper, Aerobics (1968)",
+    "key_concepts": ["The body as God's temple", "Components of physical fitness", "Creating an exercise routine", "Stewardship of physical health"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "1 Corinthians 6:19-20",
+                "text": "\"Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.\"",
+                "commentary": "Paul teaches that the Christian's body is not merely a biological machine but a temple — a sacred dwelling place of God's Spirit. This elevates physical care from a matter of vanity to a matter of worship. When we care for our bodies through exercise and healthy habits, we honor the God who created us and redeemed us."
+            },
+            {
+                "reference": "1 Timothy 4:8",
+                "text": "\"For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come.\"",
+                "commentary": "Paul acknowledges that physical fitness has genuine value while keeping it in proper perspective. The body matters, but the soul matters more. A Christian approach to fitness avoids both the extremes of neglecting the body and idolizing it."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Your Body: A Sacred Trust",
+            "paragraphs": [
+                "God created human beings with physical bodies and declared His creation 'very good.' Unlike worldviews that see the body as unimportant or evil, Christianity teaches that the physical body has dignity and purpose. Jesus Himself took on a human body in the Incarnation, and Scripture promises the resurrection of the body for eternity.",
+                "Because your body is a gift from God and a temple of the Holy Spirit, caring for it is an act of stewardship. Just as you would not let a church building fall into disrepair, you should not neglect the body God has entrusted to you. Physical fitness is one important aspect of this care."
+            ]
+        },
+        {
+            "heading": "Components of Physical Fitness",
+            "paragraphs": [
+                "Physical fitness has several components: cardiovascular endurance (how well your heart and lungs work during sustained activity), muscular strength (how much force your muscles can produce), muscular endurance (how long your muscles can work without fatigue), flexibility (the range of motion in your joints), and body composition (the ratio of fat to lean tissue in your body).",
+                "A well-rounded fitness program addresses all these components. Running or swimming builds cardiovascular endurance; weight training builds strength; stretching improves flexibility. No single exercise does everything, which is why variety in physical activity is important."
+            ]
+        },
+        {
+            "heading": "Building an Exercise Routine",
+            "paragraphs": [
+                "The American Heart Association recommends at least 60 minutes of moderate to vigorous physical activity every day for teenagers. This can include organized sports, walking, biking, swimming, dancing, or any activity that gets your heart rate up.",
+                "A good exercise routine includes three elements: warm-up (5-10 minutes of light activity to prepare your body), the main workout (30-60 minutes of cardio, strength training, or a combination), and cool-down (5-10 minutes of stretching and gentle movement). Consistency matters more than intensity — exercising moderately every day is better than exercising intensely once a week."
+            ]
+        },
+        {
+            "heading": "Avoiding the Idol of the Body",
+            "paragraphs": [
+                "While caring for your body honors God, obsessing over your appearance or physical performance can become a form of idolatry. Our culture worships physical beauty and athletic achievement, but the Bible teaches that 'charm is deceptive, and beauty is fleeting' (Proverbs 31:30).",
+                "The goal of Christian fitness is not a perfect body but a healthy one — a body capable of serving God and others effectively. When you exercise to have energy for ministry, to be mentally sharp for your studies, and to live a long and productive life, you are exercising for the right reasons."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does it mean practically to treat your body as a 'temple of the Holy Spirit'? How should this change the way you think about exercise and physical health?",
+            "guidance": "Consider how you would treat a sacred space. Think about how the knowledge that God's Spirit dwells in you should motivate physical care without leading to vanity."
+        },
+        {
+            "id": 2,
+            "question": "How can you tell the difference between healthy physical discipline and an unhealthy obsession with your body? Where is the line between stewardship and idolatry?",
+            "guidance": "Reflect on 1 Timothy 4:8 and the balance Paul strikes between physical and spiritual training. Consider your motivations — are you exercising for God's glory or for your own image?"
+        },
+        {
+            "id": 3,
+            "question": "What barriers prevent you from being physically active? How can you overcome them with discipline and planning?",
+            "guidance": "Think about practical obstacles like time, motivation, and access to facilities. Consider how small changes — walking more, taking stairs, stretching daily — can build habits over time."
+        }
+    ]
+}

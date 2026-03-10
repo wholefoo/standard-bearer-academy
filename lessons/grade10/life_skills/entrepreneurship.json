@@ -1,0 +1,83 @@
+{
+    "id": "entrepreneurship",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Entrepreneurship",
+    "subtitle": "Creating Value and Serving Others Through Business",
+    "scripture": "Proverbs 31:16-18",
+    "primary_source": "Peter Drucker, 'Innovation and Entrepreneurship' (1985)",
+    "key_concepts": ["Entrepreneurial mindset", "Identifying needs and creating solutions", "Business planning basics", "Risk management and stewardship", "Ethical business practices"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 31:16-18",
+                "text": "\"She considers a field and buys it; out of her earnings she plants a vineyard. She sets about her work vigorously; her arms are strong for her tasks. She sees that her trading is profitable, and her lamp does not go out at night.\"",
+                "commentary": "The Proverbs 31 woman is a biblical model of entrepreneurship. She evaluates opportunities wisely, invests her resources strategically, works vigorously, and ensures her ventures are profitable. Her entrepreneurial activity blesses her family and community."
+            },
+            {
+                "reference": "Matthew 25:20-21",
+                "text": "\"The man who had received five bags of gold brought the other five. 'Master,' he said, 'you entrusted me with five bags of gold. See, I have gained five more.' His master replied, 'Well done, good and faithful servant!'\"",
+                "commentary": "The parable of the talents teaches that God expects us to invest and multiply the resources He gives us, not merely to preserve them. Entrepreneurship — wisely investing time, talent, and resources to create value — is one way of being a faithful steward."
+            },
+            {
+                "reference": "Proverbs 11:1",
+                "text": "\"The Lord detests dishonest scales, but accurate weights find favor with him.\"",
+                "commentary": "Ethical business practices are non-negotiable for the Christian entrepreneur. Honest dealings, fair pricing, and transparent practices honor God and build the kind of trust that sustains a business long-term."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Entrepreneurship?",
+            "paragraphs": [
+                "Entrepreneurship is the process of creating a new business or venture to solve a problem, meet a need, or provide a product or service. Entrepreneurs see opportunities where others see obstacles. They combine creativity, initiative, and calculated risk-taking to build something new that creates value for others.",
+                "Peter Drucker, often called the father of modern management, defined entrepreneurship as the practice of 'systematic innovation' — deliberately seeking out opportunities for change and turning them into productive enterprises. For the Christian, entrepreneurship is a powerful way to exercise stewardship, serve the community, and create meaningful work for others."
+            ]
+        },
+        {
+            "heading": "The Entrepreneurial Mindset",
+            "paragraphs": [
+                "Entrepreneurs think differently. They are observant — noticing problems that need solutions and needs that are not being met. They are creative — imagining new products, services, or approaches that others have not considered. They are resilient — willing to fail, learn, and try again. And they are action-oriented — moving from ideas to implementation.",
+                "This mindset can be cultivated. Start by paying attention to frustrations and inefficiencies in your daily life. Ask 'How could this be done better?' Think about the unique skills and knowledge you possess and how they might be applied to create value. Entrepreneurship does not require a revolutionary invention — most successful businesses solve ordinary problems in better ways."
+            ]
+        },
+        {
+            "heading": "Identifying Needs and Creating Solutions",
+            "paragraphs": [
+                "Every successful business begins with a genuine need. Market research helps entrepreneurs understand who their potential customers are, what problems they face, and what solutions they are willing to pay for. This can be as simple as talking to people in your community, observing daily life, or surveying potential customers about their frustrations and desires.",
+                "Once you identify a need, the next step is developing a solution — a product or service that addresses that need better, faster, cheaper, or more conveniently than existing alternatives. The key is to create genuine value for others. Businesses that focus on serving their customers well tend to thrive; those focused solely on making money often fail because they lose sight of the people they exist to serve."
+            ]
+        },
+        {
+            "heading": "Business Planning Basics",
+            "paragraphs": [
+                "A business plan is a written document that outlines your business concept, target market, products or services, marketing strategy, financial projections, and operational plan. It serves as a roadmap for your venture and is often required if you seek funding from investors or lenders. Even for small ventures, a basic business plan forces you to think through important questions before investing time and money.",
+                "Key elements of a business plan include an executive summary, a description of the business and its mission, a market analysis, a description of your products or services, a marketing and sales strategy, financial projections, and an operations plan. Each section requires honest assessment and realistic planning — optimism is essential for entrepreneurs, but it must be grounded in facts and careful analysis."
+            ]
+        },
+        {
+            "heading": "Ethical Entrepreneurship",
+            "paragraphs": [
+                "Christian entrepreneurs are called to a higher standard of business ethics. This means fair dealing with customers, honest advertising, just treatment of employees, responsible environmental stewardship, and transparent financial practices. It means refusing to profit through deception, exploitation, or harm to others — even when such practices might increase short-term profits.",
+                "Ethical entrepreneurship also means viewing your business as a ministry — a platform for glorifying God and serving people. Many Christian entrepreneurs use their businesses to provide jobs for people in need, support charitable causes, and model integrity in the marketplace. Your business can be a powerful witness to the transforming power of the Gospel when it is built on a foundation of Biblical values."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What needs or problems in your community could potentially be addressed through a business venture? Brainstorm at least three ideas.",
+            "guidance": "Think about frustrations you observe in daily life, services that are lacking in your area, or products that could be improved. Consider how your unique skills could create value."
+        },
+        {
+            "id": 2,
+            "question": "How does the parable of the talents (Matthew 25:14-30) encourage an entrepreneurial approach to stewardship? What risks does faithful stewardship require?",
+            "guidance": "Consider that the servant who buried his talent was rebuked, while those who invested and multiplied theirs were praised. How does this apply to using your abilities and resources?"
+        },
+        {
+            "id": 3,
+            "question": "What are the unique ethical challenges of entrepreneurship? How can a Christian business owner maintain integrity when facing competitive pressure?",
+            "guidance": "Think about specific scenarios: pricing decisions, advertising claims, treatment of employees, and environmental impact. How do Biblical principles guide these decisions?"
+        }
+    ]
+}

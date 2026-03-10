@@ -1,0 +1,127 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Career Exploration — Finding Your God-Given Calling",
+    "description": "Test your understanding of career exploration, job skills, work ethic, and vocational discernment from a Biblical perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "According to the lesson, what is the most effective way to find job opportunities?",
+            "options": [
+                "Only applying through online job boards",
+                "Waiting for opportunities to come to you",
+                "Combining networking, online applications, and direct outreach",
+                "Only relying on newspaper classified ads"
+            ],
+            "correct": 2,
+            "explanation": "A comprehensive job search combines networking (personal connections), online applications, direct outreach to companies, and follow-up. Studies show that many jobs are filled through personal connections rather than public postings alone."
+        },
+        {
+            "id": 2,
+            "question": "What is the best formula for writing effective resume bullet points?",
+            "options": [
+                "Describe your personality traits",
+                "List your job duties without specifics",
+                "Action verb + specific task + measurable result",
+                "Write long paragraphs about each experience"
+            ],
+            "correct": 2,
+            "explanation": "Effective resume descriptions use the formula: action verb + specific task + measurable result. This transforms vague descriptions into compelling evidence of your capabilities."
+        },
+        {
+            "id": 3,
+            "question": "What does the STAR method stand for in interview preparation?",
+            "options": [
+                "Skills, Training, Achievements, References",
+                "Situation, Task, Action, Result",
+                "Strengths, Talents, Ambitions, Rewards",
+                "Strategy, Timing, Approach, Review"
+            ],
+            "correct": 1,
+            "explanation": "The STAR method (Situation, Task, Action, Result) provides a structured approach for answering behavioral interview questions by describing a specific experience in a clear, focused way."
+        },
+        {
+            "id": 4,
+            "question": "According to Genesis 2:15, when was work established by God?",
+            "options": [
+                "After the Fall as a punishment for sin",
+                "During the time of Moses",
+                "Before the Fall as part of God's good design",
+                "After the Flood as a requirement for survival"
+            ],
+            "correct": 2,
+            "explanation": "Genesis 2:15 shows that God placed Adam in the garden 'to work it and take care of it' before sin entered the world. Work is part of God's original good design, not a curse."
+        },
+        {
+            "id": 5,
+            "question": "What is the key lesson from the parable of the talents (Matthew 25) for entrepreneurship?",
+            "options": [
+                "God wants us to bury our resources to keep them safe",
+                "Only some people are called to be productive",
+                "God expects us to invest and multiply the resources He gives us",
+                "Financial success is the measure of faithfulness"
+            ],
+            "correct": 2,
+            "explanation": "In the parable, the servants who invested and multiplied their talents were praised, while the one who buried his was rebuked. God expects faithful stewardship — wisely investing and multiplying our resources, not merely preserving them."
+        },
+        {
+            "id": 6,
+            "question": "What is the difference between a career and a vocation according to the lesson?",
+            "options": [
+                "There is no difference; they are the same thing",
+                "A career is chosen based on interests; a vocation is a calling discerned through prayer and self-assessment",
+                "A vocation pays more than a career",
+                "A career is secular; a vocation is only for pastors and missionaries"
+            ],
+            "correct": 1,
+            "explanation": "While a career is chosen based on interests and market factors, a vocation (from the Latin 'to call') is a calling discerned through prayer, self-assessment, and wise counsel — a life's work aligned with God's purposes."
+        },
+        {
+            "id": 7,
+            "question": "Why is honesty on a resume so important from both a practical and Biblical perspective?",
+            "options": [
+                "It is only important if you might get caught",
+                "Dishonesty violates God's command for truthfulness and can lead to disqualification or termination",
+                "Honesty is nice but not necessary for getting a job",
+                "Only the education section needs to be accurate"
+            ],
+            "correct": 1,
+            "explanation": "Biblical integrity (Proverbs 12:22) demands complete truthfulness. Practically, employers verify claims, and being caught in a lie results in disqualification, termination, and lasting reputation damage."
+        },
+        {
+            "id": 8,
+            "question": "What should you do within 24 hours after a job interview?",
+            "options": [
+                "Post about the interview on social media",
+                "Call the interviewer repeatedly to check on the decision",
+                "Send a thank-you note expressing gratitude and reiterating your interest",
+                "Nothing — just wait to hear back"
+            ],
+            "correct": 2,
+            "explanation": "Sending a thank-you note or email within 24 hours expresses gratitude for the interviewer's time, reiterates your interest, and reinforces why you are a strong candidate. This simple courtesy distinguishes you from other candidates."
+        },
+        {
+            "id": 9,
+            "question": "According to the Reformation principle discussed in the lesson, which vocations are considered sacred callings?",
+            "options": [
+                "Only pastoral ministry and missionary work",
+                "Only jobs in churches and Christian organizations",
+                "All legitimate vocations performed with faithfulness and integrity",
+                "Only jobs that directly involve evangelism"
+            ],
+            "correct": 2,
+            "explanation": "The Reformation recovered the truth that all legitimate vocations are sacred callings. Martin Luther taught that any honest occupation performed faithfully serves God, demolishing the false hierarchy between 'spiritual' and 'secular' work."
+        },
+        {
+            "id": 10,
+            "question": "What is the first step in developing an entrepreneurial business idea?",
+            "options": [
+                "Securing a large bank loan",
+                "Building a website",
+                "Identifying a genuine need or problem that can be addressed with a product or service",
+                "Choosing a business name"
+            ],
+            "correct": 2,
+            "explanation": "Every successful business begins with identifying a genuine need. Market research helps entrepreneurs understand customer problems and develop solutions that create real value for others."
+        }
+    ]
+}

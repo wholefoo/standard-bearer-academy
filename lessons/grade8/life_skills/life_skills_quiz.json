@@ -1,0 +1,103 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Financial Foundations — Biblical Stewardship of Money: Unit Quiz",
+    "passing_score": 70,
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the most important rule of budgeting?",
+            "options": [
+                "Always buy the cheapest option",
+                "Do not spend more than you earn",
+                "Save all your money and never spend it",
+                "Only use cash, never cards"
+            ],
+            "correct": 1,
+            "explanation": "The fundamental rule of budgeting is to spend less than you earn. When expenses exceed income, debt is the inevitable result."
+        },
+        {
+            "id": 2,
+            "question": "What does 'pay yourself first' mean in the context of saving?",
+            "options": [
+                "Spend money on yourself before paying bills",
+                "Put money into savings before spending on anything else",
+                "Always pay cash instead of using credit",
+                "Keep all your money in a checking account"
+            ],
+            "correct": 1,
+            "explanation": "'Pay yourself first' means putting money into savings as soon as you receive income, before spending on other things. This ensures saving is a priority, not an afterthought."
+        },
+        {
+            "id": 3,
+            "question": "What does the word 'tithe' literally mean?",
+            "options": [
+                "Gift",
+                "Tenth",
+                "Offering",
+                "Sacrifice"
+            ],
+            "correct": 1,
+            "explanation": "The word 'tithe' literally means 'tenth.' Biblical tithing involves giving the first tenth of your income to God through the local church."
+        },
+        {
+            "id": 4,
+            "question": "According to Proverbs 22:7, what is the relationship between a borrower and a lender?",
+            "options": [
+                "They are equal partners",
+                "The borrower is slave to the lender",
+                "The lender serves the borrower",
+                "They have no relationship after the loan"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 22:7 states that 'the borrower is slave to the lender,' meaning debt creates an obligation that limits your freedom and puts you under another person's authority."
+        },
+        {
+            "id": 5,
+            "question": "In the Parable of the Talents (Matthew 25), why was the master displeased with the servant who buried his money?",
+            "options": [
+                "Because the servant spent the money on himself",
+                "Because the servant gave the money away",
+                "Because the servant failed to put the money to productive use",
+                "Because the servant lost the money"
+            ],
+            "correct": 2,
+            "explanation": "The master was displeased because the servant did nothing productive with the resources entrusted to him. God expects us to actively manage and grow what He gives us, not hide it away out of fear."
+        },
+        {
+            "id": 6,
+            "question": "What is compound interest?",
+            "options": [
+                "Interest charged only on the original amount",
+                "Interest earned on both the original amount and previously earned interest",
+                "A type of bank fee",
+                "Interest that decreases over time"
+            ],
+            "correct": 1,
+            "explanation": "Compound interest means earning interest on both your original savings and on the interest that has already been added. This creates a snowball effect that grows your money faster over time."
+        },
+        {
+            "id": 7,
+            "question": "What is the '24-hour rule' for defeating impulse buying?",
+            "options": [
+                "Only shop for 24 hours per month",
+                "Return all purchases within 24 hours",
+                "Wait 24 hours before making an unplanned purchase",
+                "Only buy items that last longer than 24 hours"
+            ],
+            "correct": 2,
+            "explanation": "The 24-hour rule means waiting a full day before making an unplanned purchase. This cooling-off period allows the impulse to fade and helps you make a more rational decision."
+        },
+        {
+            "id": 8,
+            "question": "What is the Biblical order of financial priorities?",
+            "options": [
+                "Save first, then spend, then give",
+                "Spend first, then save, then give",
+                "Give first, then meet needs, then save, then enjoy wants",
+                "Save everything and give nothing"
+            ],
+            "correct": 2,
+            "explanation": "Biblical financial priorities begin with giving to God (tithes and offerings), then meeting basic needs, then saving for the future, and finally enjoying wants. This order puts God first and reflects faithful stewardship."
+        }
+    ]
+}

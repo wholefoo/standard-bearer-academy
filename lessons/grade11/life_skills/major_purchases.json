@@ -1,0 +1,83 @@
+{
+    "id": "major_purchases",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Major Purchases",
+    "subtitle": "Buying Wisely — Cars, Homes, and Big Decisions",
+    "scripture": "Luke 14:28",
+    "primary_source": "Federal Trade Commission (FTC), Consumer Information on Major Purchases",
+    "key_concepts": ["Counting the cost before buying", "Buying vs. leasing a car", "The home-buying process", "Avoiding impulse decisions", "Contentment vs. consumerism"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 14:28",
+                "text": "\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?\"",
+                "commentary": "Jesus used this illustration to teach about counting the cost of discipleship, but the principle applies directly to major financial decisions. Before making a large purchase, sit down, calculate the full cost, and ensure you have the resources to complete the commitment."
+            },
+            {
+                "reference": "Hebrews 13:5",
+                "text": "\"Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'\"",
+                "commentary": "Contentment is the antidote to the consumer culture that pressures us to constantly upgrade and acquire more. Major purchases should be made from a position of contentment and genuine need, not from envy, insecurity, or the desire to impress others."
+            },
+            {
+                "reference": "Proverbs 24:27",
+                "text": "\"Put your outdoor work in order and get your fields ready; after that, build your house.\"",
+                "commentary": "This proverb teaches the wisdom of proper sequence in financial decisions — establish your income and financial foundation before taking on major obligations. Rushing into large purchases before you are financially ready leads to stress and hardship."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Counting the Cost",
+            "paragraphs": [
+                "Major purchases — a car, a home, education, major appliances — are among the most significant financial decisions you will make. These decisions involve large sums of money, long-term commitments, and consequences that affect your financial health for years or even decades. Making these decisions wisely requires careful research, honest self-assessment, and the discipline to resist pressure and impulse.",
+                "Jesus taught the principle of counting the cost: before beginning any significant undertaking, calculate whether you have the resources to complete it. This principle is especially relevant for major purchases, where enthusiasm or pressure can lead to commitments you cannot sustain. A wise buyer takes time, does research, and makes decisions based on facts and prayer rather than emotion and impulse."
+            ]
+        },
+        {
+            "heading": "Buying a Car",
+            "paragraphs": [
+                "For most young adults, a car is the first major purchase. The key decision is whether to buy new, buy used, or lease. New cars depreciate rapidly — losing 20-30% of their value in the first year alone. A well-maintained used car often provides much better value. If you finance a car, keep the loan term as short as possible (ideally no more than 48 months) and ensure the monthly payment fits comfortably within your budget.",
+                "Before visiting a dealership, research the fair market value of vehicles you are considering using resources like Kelley Blue Book or Edmunds. Get pre-approved for financing from your bank or credit union, which often offers better rates than dealer financing. Have any used car inspected by an independent mechanic before purchasing. Never let a salesperson pressure you into a decision — walk away if you feel rushed or uncomfortable."
+            ]
+        },
+        {
+            "heading": "Buying a Home",
+            "paragraphs": [
+                "Homeownership is often the largest financial commitment a person makes. The process involves saving for a down payment (typically 10-20% of the purchase price), getting pre-approved for a mortgage, finding a home, making an offer, conducting inspections, and closing the deal. A mortgage is a loan secured by the property itself, typically repaid over 15 or 30 years.",
+                "Before buying a home, ensure you are financially ready: stable income, minimal debt, an emergency fund, and a down payment saved. Financial advisors generally recommend that housing costs (mortgage payment, property taxes, insurance) not exceed 28% of your gross monthly income. Consider all costs of homeownership — maintenance, repairs, utilities, and property taxes — not just the mortgage payment. Renting is sometimes the wiser choice, especially if you may relocate soon or are not yet financially established."
+            ]
+        },
+        {
+            "heading": "Avoiding Impulse Decisions",
+            "paragraphs": [
+                "Marketing and social pressure constantly push us toward impulsive major purchases. Advertisements create artificial urgency ('limited time offer!'), salespeople use high-pressure tactics, and social media fuels comparison and envy. Resisting these pressures requires self-awareness, discipline, and a commitment to making decisions based on your actual needs and financial capacity.",
+                "Practical strategies for avoiding impulse decisions include: implementing a waiting period (at least 48 hours for any purchase over $100, at least 30 days for major purchases), discussing large decisions with a trusted advisor or spouse, creating a written list of criteria before shopping, and praying for wisdom and contentment. If a deal is genuinely good, it will still seem good after careful reflection."
+            ]
+        },
+        {
+            "heading": "Contentment vs. Consumerism",
+            "paragraphs": [
+                "Our culture equates happiness with acquisition — the newest phone, the biggest house, the latest car. But Scripture teaches that contentment comes not from possessions but from relationship with God and gratitude for His provision. Paul wrote from prison, 'I have learned the secret of being content in any and every situation' (Philippians 4:12). His contentment was rooted not in circumstances but in Christ.",
+                "This does not mean that major purchases are wrong — it means they should be made from a foundation of contentment rather than discontent. Buy a car because you need reliable transportation, not because you want to impress people. Buy a home because it serves your family well, not because culture says you should. When your identity and satisfaction rest in Christ rather than in possessions, you are free to make wise financial decisions unclouded by envy or insecurity."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does Jesus' principle of 'counting the cost' (Luke 14:28) apply to major purchases? What specific costs should be calculated beyond the sticker price?",
+            "guidance": "Consider insurance, maintenance, taxes, depreciation, opportunity cost, and the impact on your overall financial plan. Think about both financial and non-financial costs."
+        },
+        {
+            "id": 2,
+            "question": "What cultural pressures make it difficult to practice contentment when it comes to major purchases? How can you guard against consumerism?",
+            "guidance": "Reflect on the influence of advertising, social media, and peer comparison. Consider practical strategies and spiritual disciplines that cultivate contentment."
+        },
+        {
+            "id": 3,
+            "question": "If you were advising a friend about buying their first car, what practical and Biblical advice would you give them?",
+            "guidance": "Think about research, budgeting, new vs. used, financing options, and how to resist sales pressure. Include Biblical principles of stewardship and contentment."
+        }
+    ]
+}

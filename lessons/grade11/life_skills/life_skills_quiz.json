@@ -1,0 +1,127 @@
+{
+    "id": "life_skills_quiz",
+    "title": "Personal Finance — Managing God's Resources Wisely",
+    "description": "Test your understanding of investing, taxes, insurance, credit, major purchases, and retirement planning from a Biblical stewardship perspective.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is compound interest?",
+            "options": [
+                "Interest paid only on the original investment amount",
+                "Interest earned on both the original investment and previously accumulated returns",
+                "A fee charged by banks for opening an account",
+                "Interest that decreases over time"
+            ],
+            "correct": 1,
+            "explanation": "Compound interest means earning returns not only on your original investment but also on the returns that have already accumulated, creating exponential growth over time."
+        },
+        {
+            "id": 2,
+            "question": "What does Ecclesiastes 11:2 teach about investing?",
+            "options": [
+                "Put all your money in one investment for maximum returns",
+                "Avoid investing because the future is uncertain",
+                "Diversify your investments across multiple ventures to manage risk",
+                "Only invest in gold and silver"
+            ],
+            "correct": 2,
+            "explanation": "Ecclesiastes 11:2 says 'Invest in seven ventures, yes, in eight' — anticipating the modern principle of diversification, spreading investments across multiple areas to reduce risk."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between tax evasion and tax avoidance?",
+            "options": [
+                "They are the same thing",
+                "Tax evasion is illegal and dishonest; tax avoidance uses legitimate strategies to minimize taxes",
+                "Tax avoidance is illegal; tax evasion is legal",
+                "Tax evasion only applies to businesses, not individuals"
+            ],
+            "correct": 1,
+            "explanation": "Tax evasion is illegal — deliberately underreporting income or claiming false deductions. Tax avoidance is legal and appropriate — using legitimate strategies like retirement contributions and earned deductions to minimize your tax burden."
+        },
+        {
+            "id": 4,
+            "question": "According to 1 Timothy 5:8, why is insurance an important financial tool?",
+            "options": [
+                "It guarantees you will never face financial difficulty",
+                "It helps fulfill the Biblical mandate to provide for your household by protecting against devastating financial losses",
+                "It is required by the Bible for all believers",
+                "It replaces the need for an emergency fund"
+            ],
+            "correct": 1,
+            "explanation": "1 Timothy 5:8 teaches that providing for your household is a fundamental responsibility. Insurance protects your family from financial devastation caused by illness, accidents, or other unforeseen events."
+        },
+        {
+            "id": 5,
+            "question": "What is the most important factor in calculating your credit score?",
+            "options": [
+                "The number of credit cards you have",
+                "Your annual income",
+                "Your payment history — consistently making payments on time",
+                "The length of your credit history"
+            ],
+            "correct": 2,
+            "explanation": "Payment history accounts for 35% of your credit score — the single largest factor. Consistently making all payments on time is the most important thing you can do to build and maintain a strong credit score."
+        },
+        {
+            "id": 6,
+            "question": "What does Proverbs 22:7 teach about debt?",
+            "options": [
+                "Borrowing money is always sinful",
+                "The borrower is slave to the lender — debt limits your freedom",
+                "Debt is a blessing from God",
+                "Only large amounts of debt are dangerous"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 22:7 warns that 'the borrower is slave to the lender,' illustrating how debt creates a relationship of obligation that restricts your financial freedom and limits your options."
+        },
+        {
+            "id": 7,
+            "question": "According to Jesus' principle in Luke 14:28, what should you do before making a major purchase?",
+            "options": [
+                "Buy it immediately before the price goes up",
+                "Ask a friend to buy it for you",
+                "Sit down and calculate the full cost to ensure you have the resources to complete the commitment",
+                "Wait for someone to give you the money"
+            ],
+            "correct": 2,
+            "explanation": "Jesus taught the principle of counting the cost — estimating the full expense and ensuring you have adequate resources before making a commitment. This applies to financial decisions as well as spiritual ones."
+        },
+        {
+            "id": 8,
+            "question": "What is the key advantage of a Roth IRA for young investors?",
+            "options": [
+                "Contributions are tax-deductible",
+                "There are no contribution limits",
+                "All growth and qualified withdrawals are completely tax-free",
+                "You can withdraw money at any time without penalty"
+            ],
+            "correct": 2,
+            "explanation": "A Roth IRA uses after-tax contributions, but all growth and qualified withdrawals are tax-free. For young investors whose money will grow for decades, this means potentially hundreds of thousands of dollars in tax-free retirement income."
+        },
+        {
+            "id": 9,
+            "question": "What is a deductible in an insurance policy?",
+            "options": [
+                "The monthly amount you pay for coverage",
+                "The maximum amount the insurance company will pay",
+                "The amount you must pay out of pocket before insurance coverage begins",
+                "A discount you receive for having multiple policies"
+            ],
+            "correct": 2,
+            "explanation": "A deductible is the amount you must pay out of pocket for covered expenses before the insurance company begins paying. Generally, higher deductibles result in lower premium costs."
+        },
+        {
+            "id": 10,
+            "question": "Why does the Bible recommend starting financial preparation early, as illustrated by the ant in Proverbs 6:6-8?",
+            "options": [
+                "Because money is the most important thing in life",
+                "Because preparing during times of abundance provides for times of scarcity, and early saving maximizes compound growth",
+                "Because God will not provide for those who do not save",
+                "Because retirement is the ultimate goal of life"
+            ],
+            "correct": 1,
+            "explanation": "The ant stores provisions during summer for the coming winter — preparing during abundance for scarcity. Similarly, saving and investing during your working years, especially starting early when compound growth has the most time to work, provides for the season when you can no longer earn a full income."
+        }
+    ]
+}

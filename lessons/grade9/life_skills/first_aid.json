@@ -1,0 +1,71 @@
+{
+    "id": "first_aid",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "First Aid Basics",
+    "subtitle": "Being Prepared to Help Like the Good Samaritan",
+    "scripture": "Luke 10:33-34",
+    "primary_source": "American Red Cross, First Aid/CPR/AED Participant's Manual (2021)",
+    "key_concepts": ["First aid principles", "Treating common injuries", "Emergency response", "The Good Samaritan ethic of care"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Luke 10:33-34",
+                "text": "\"But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him.\"",
+                "commentary": "The Good Samaritan did not just feel compassion — he acted. He used practical skills to bandage wounds and provide care. Learning first aid prepares you to be a Good Samaritan in your own community, ready to help when someone is injured or in danger."
+            },
+            {
+                "reference": "Galatians 6:2",
+                "text": "\"Carry each other's burdens, and in this way you will fulfill the law of Christ.\"",
+                "commentary": "Knowing first aid is one practical way to carry the burdens of others. When someone is hurt, your knowledge and willingness to help can make the difference between a minor incident and a serious emergency."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "First Aid Principles",
+            "paragraphs": [
+                "First aid is the immediate care given to a person who has been injured or suddenly become ill. The goals of first aid are to preserve life, prevent the condition from worsening, and promote recovery. You do not need to be a doctor to provide effective first aid — basic knowledge and a calm head can save lives.",
+                "The first rule of first aid is to ensure your own safety. You cannot help someone else if you become a victim yourself. Before approaching any emergency, assess the scene for dangers such as traffic, fire, electrical hazards, or unstable structures. Call 911 or ask someone else to call if the situation is serious."
+            ]
+        },
+        {
+            "heading": "Treating Common Injuries",
+            "paragraphs": [
+                "For cuts and scrapes, wash the wound with clean water, apply gentle pressure with a clean cloth to stop bleeding, and cover with a sterile bandage. For burns, cool the affected area under cool (not cold) running water for at least 10 minutes, then cover loosely with a sterile bandage. Never apply ice, butter, or toothpaste to burns.",
+                "For sprains and strains, remember the acronym RICE: Rest the injured area, Ice it for 20 minutes at a time, Compress with an elastic bandage, and Elevate the injury above the level of the heart. If you suspect a broken bone, do not try to move the injured limb — immobilize it and seek medical help immediately."
+            ]
+        },
+        {
+            "heading": "Emergency Response: Choking and CPR",
+            "paragraphs": [
+                "Choking occurs when an object blocks the airway. If a person is coughing forcefully, encourage them to keep coughing. If they cannot cough, speak, or breathe, perform the Heimlich maneuver: stand behind the person, place your fist just above the navel, grasp it with your other hand, and give quick upward thrusts until the object is expelled.",
+                "CPR (Cardiopulmonary Resuscitation) is used when someone's heart stops beating. The basic steps are: call 911, place the heel of your hand on the center of the person's chest, push hard and fast (about 2 inches deep, 100-120 compressions per minute), and continue until help arrives. Taking a certified CPR course is highly recommended for everyone."
+            ]
+        },
+        {
+            "heading": "Building a First Aid Kit",
+            "paragraphs": [
+                "Every home, car, and school should have a basic first aid kit. Essential items include adhesive bandages in various sizes, sterile gauze pads, adhesive tape, an elastic bandage, antiseptic wipes, antibiotic ointment, tweezers, scissors, disposable gloves, and a first aid manual.",
+                "Check your first aid kit regularly to replace used or expired items. Being prepared before an emergency happens is far better than scrambling to find supplies in a crisis. As Proverbs 22:3 says, 'The prudent see danger and take refuge, but the simple keep going and pay the penalty.'"
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the story of the Good Samaritan challenge you to be prepared to help others? What prevented the priest and Levite from stopping, and how can you avoid making the same mistake?",
+            "guidance": "Consider the excuses people make for not helping — fear, inconvenience, not wanting to get involved. Think about how preparation and knowledge give you the confidence to act."
+        },
+        {
+            "id": 2,
+            "question": "Why is it important to ensure your own safety before helping someone else in an emergency? How does this principle apply beyond first aid?",
+            "guidance": "Think about how becoming a second victim makes the situation worse, not better. Consider how taking care of yourself enables you to care for others more effectively."
+        },
+        {
+            "id": 3,
+            "question": "How does being prepared with first aid knowledge and supplies reflect the Biblical virtue of prudence (Proverbs 22:3)?",
+            "guidance": "Reflect on the difference between prudence (wise preparation) and worry (anxious fear). Consider how preparation is an act of love for those around you."
+        }
+    ]
+}

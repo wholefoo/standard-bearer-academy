@@ -1,12 +1,12 @@
 # Standard Bearer Academy — K-12 Homeschool LMS
 
 ## Overview
-A comprehensive K-12 Homeschool Resource Platform built with Python/Flask. The platform hosts 98 courses spanning PreK through 12th Grade across 8 subjects (6 core + Technology and Creative Writing for grades 6-12), all from a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview.
+A comprehensive K-12 Homeschool Resource Platform built with Python/Flask. The platform hosts 105 courses spanning PreK through 12th Grade across 9 subjects (6 core + Technology, Creative Writing, and Life Skills for grades 6-12), all from a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview.
 
 ## Architecture
 - **Backend**: Python 3.11 + Flask
 - **Database**: PostgreSQL (stores student progress, quiz scores)
-- **Content**: 769 JSON files in `lessons/` directory (file-based curriculum)
+- **Content**: 825 JSON files in `lessons/` directory (file-based curriculum)
 - **Frontend**: Jinja2 templates with vanilla CSS/JS
 - **Server**: Flask dev server on port 5000
 
@@ -19,7 +19,7 @@ lessons/                    # All curriculum content as JSON files
   prek/{bible,science,math,reading,history,civics}/
   kindergarten/{bible,science,math,reading,history,civics}/
   grade1-grade5/{science,math,reading,history,bible,civics}/
-  grade6-grade12/{science,math,reading,history,bible,civics,technology,creative_writing}/
+  grade6-grade12/{science,math,reading,history,bible,civics,technology,creative_writing,life_skills}/
 templates/
   base.html                 # Base template with header, nav, footer
   index.html                # Homepage with role selection
@@ -37,7 +37,7 @@ static/
 - **completed_lessons**: student_id, grade, subject, unit, lesson_id, completed_at
 - **quiz_scores**: student_id, grade, subject, unit, quiz_id, score, total, percentage, answers (JSONB)
 
-## Complete Course Catalog (98 courses)
+## Complete Course Catalog (105 courses)
 
 ### PreK (ages 3-5)
 - Bible: Bible ABCs — Learning Letters Through Scripture
@@ -104,6 +104,7 @@ static/
 - Civics: Ancient to Modern Government — God's Design for Order
 - Technology: Digital Foundations — Technology as a Tool for God's Kingdom
 - Creative Writing: The Gift of Words — Writing to Glorify God
+- Life Skills: Foundations for Life — Building Good Habits God's Way
 
 ### 7th Grade (ages 12-13)
 - Science: Earth Science — Exploring God's World
@@ -114,6 +115,7 @@ static/
 - Civics: American Government — The Constitution in Action
 - Technology: Web and Media Literacy — Navigating the Digital World Wisely
 - Creative Writing: Stories of Virtue — Crafting Fiction with Purpose
+- Life Skills: Home Economics — Caring for God's Household
 
 ### 8th Grade (ages 13-14)
 - Science: Physical Science — Laws of the Creator
@@ -124,6 +126,7 @@ static/
 - Civics: Citizenship and Law — Biblical Justice in America
 - Technology: Introduction to Programming — Building with Logic and Order
 - Creative Writing: The Writer's Workshop — Finding Your Voice for Truth
+- Life Skills: Financial Foundations — Biblical Stewardship of Money
 
 ### 9th Grade (ages 14-15) — High School Format
 - Science: Biology — The Design of Life
@@ -134,6 +137,7 @@ static/
 - Civics: Civics & Government — Foundations of Liberty
 - Technology: Computer Science Foundations — Order in God's Digital Creation
 - Creative Writing: Narrative and Imagination — Writing Stories that Matter
+- Life Skills: Health and Wellness — Honoring God with Your Body
 
 ### 10th Grade (ages 15-16)
 - Science: Chemistry — The Elements of Creation
@@ -144,6 +148,7 @@ static/
 - Civics: Comparative Government — Liberty vs. Tyranny
 - Technology: Cybersecurity and Ethics — Guarding Truth in a Digital Age
 - Creative Writing: Poetry and the Soul — Expressing Faith Through Verse
+- Life Skills: Career Exploration — Finding Your God-Given Calling
 
 ### 11th Grade (ages 16-17)
 - Science: Physics — The Laws God Wrote
@@ -154,6 +159,7 @@ static/
 - Civics: Constitutional Law — Original Intent and Application
 - Technology: Data Science and Society — Understanding God's World Through Data
 - Creative Writing: Advanced Fiction — The Art of the Christian Novel
+- Life Skills: Personal Finance — Managing God's Resources Wisely
 
 ### 12th Grade (ages 17-18)
 - Science: Environmental Science — Stewardship of God's Earth
@@ -164,6 +170,7 @@ static/
 - Civics: Economics & Free Enterprise — Biblical Stewardship
 - Technology: Artificial Intelligence and Ethics — Wisdom for the Age of Machines
 - Creative Writing: Senior Portfolio — A Legacy of Words
+- Life Skills: Independent Living — Launching with Faith and Confidence
 
 ## Content System
 Lessons stored as JSON in `lessons/<grade>/<subject>/`. Each course has:
@@ -191,6 +198,7 @@ GRADE_LEVELS in app.py: prek, kindergarten, grade1-grade12 (15 levels total)
 - **Economics**: Free market from Biblical stewardship perspective
 - **Technology**: Digital citizenship, programming, cybersecurity, AI — Biblical stewardship of tools, responsible use
 - **Creative Writing**: Fiction, poetry, nonfiction — writing as worship, storytelling to glorify God
+- **Life Skills**: Financial literacy, home economics, career prep, independent living — Biblical stewardship of practical life
 
 ## Running the App
 ```

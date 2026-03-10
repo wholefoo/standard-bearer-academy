@@ -1,0 +1,83 @@
+{
+    "id": "credit",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Credit",
+    "subtitle": "Understanding Debt, Credit, and Financial Freedom",
+    "scripture": "Proverbs 22:7",
+    "primary_source": "Federal Reserve, 'Consumer Credit Report'",
+    "key_concepts": ["How credit works", "Credit scores and reports", "Types of debt", "Responsible use of credit", "Biblical warnings about debt"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 22:7",
+                "text": "\"The rich rule over the poor, and the borrower is slave to the lender.\"",
+                "commentary": "This proverb captures a fundamental truth about debt: borrowing creates a relationship of obligation that limits your freedom. While some debt may be necessary, the Bible warns that excessive borrowing leads to a form of financial bondage."
+            },
+            {
+                "reference": "Romans 13:8",
+                "text": "\"Let no debt remain outstanding, except the continuing debt to love one another.\"",
+                "commentary": "Paul instructs believers to fulfill their financial obligations fully and promptly. This principle supports responsible use of credit — borrowing only what you can repay and meeting all obligations on time."
+            },
+            {
+                "reference": "Psalm 37:21",
+                "text": "\"The wicked borrow and do not repay, but the righteous give generously.\"",
+                "commentary": "Scripture draws a clear moral line: failing to repay debts is wicked, while generosity characterizes the righteous. If you borrow, you have a moral obligation to repay. This truth should make us cautious about taking on debt we might not be able to honor."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Credit?",
+            "paragraphs": [
+                "Credit is the ability to borrow money with the agreement to repay it later, usually with interest. When you use a credit card, take out a student loan, or finance a car, you are using credit. Credit enables you to make purchases and investments that you could not afford to pay for all at once, but it comes with both costs and risks that must be carefully managed.",
+                "Understanding how credit works is essential for financial success. Used wisely, credit can help you build a positive financial reputation, make necessary investments in your future, and manage cash flow. Used poorly, credit can trap you in a cycle of debt that consumes your income, limits your options, and causes tremendous stress."
+            ]
+        },
+        {
+            "heading": "Credit Scores and Reports",
+            "paragraphs": [
+                "A credit score is a three-digit number that represents your creditworthiness — how likely you are to repay borrowed money. Scores typically range from 300 to 850, with higher scores indicating lower risk to lenders. Your credit score affects your ability to borrow money, the interest rates you will pay, and even your ability to rent an apartment or get certain jobs.",
+                "Credit scores are calculated based on five factors: payment history (35%), amounts owed (30%), length of credit history (15%), types of credit used (10%), and new credit inquiries (10%). The most important factor is consistently making payments on time. Your credit report — a detailed record of your borrowing and repayment history — is maintained by three major credit bureaus: Equifax, Experian, and TransUnion. You are entitled to a free copy of your credit report annually from each bureau."
+            ]
+        },
+        {
+            "heading": "Types of Debt",
+            "paragraphs": [
+                "Not all debt is created equal. Financial advisors often distinguish between 'productive' debt and 'consumer' debt. Productive debt is borrowing that funds an investment likely to increase in value or earning potential, such as a mortgage on a home or a student loan for education. Consumer debt is borrowing to purchase things that lose value, such as credit card debt for clothing, dining, or electronics.",
+                "While productive debt can be a wise financial tool when managed carefully, consumer debt is almost always harmful. Credit card interest rates often exceed 20%, meaning that a $1,000 purchase paid off over time with minimum payments could cost $2,000 or more. The most financially successful people minimize consumer debt and use credit strategically for productive purposes only."
+            ]
+        },
+        {
+            "heading": "Responsible Use of Credit",
+            "paragraphs": [
+                "If you choose to use credit, several principles help ensure responsible use. First, never borrow more than you can comfortably repay. A common guideline is to keep total debt payments (excluding mortgage) below 20% of your take-home pay. Second, always pay your credit card balance in full each month to avoid interest charges. Third, keep your credit utilization ratio — the percentage of available credit you are using — below 30%.",
+                "Fourth, make every payment on time — late payments damage your credit score and often trigger penalty fees and higher interest rates. Fifth, avoid opening too many credit accounts, as each application creates a 'hard inquiry' that temporarily lowers your score. Sixth, regularly review your credit report for errors and dispute any inaccuracies promptly. These practices build a strong credit history while avoiding the dangers of excessive debt."
+            ]
+        },
+        {
+            "heading": "Biblical Wisdom About Debt",
+            "paragraphs": [
+                "The Bible does not absolutely prohibit borrowing, but it consistently warns about its dangers. Proverbs 22:7 describes the borrower as 'slave to the lender,' illustrating how debt restricts freedom. Romans 13:8 urges believers to keep no debt outstanding. These passages counsel extreme caution — borrow only when necessary, borrow as little as possible, and repay as quickly as possible.",
+                "Financial freedom — the state of owing nothing and having the resources to give generously — is a worthy goal for every Christian. Debt makes generosity difficult because income goes to creditors rather than to the needs of others. As you build your financial life, prioritize staying out of unnecessary debt, paying off any debt quickly, and maintaining the freedom to use your resources according to God's leading rather than a creditor's demands."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does Proverbs 22:7 mean when it says 'the borrower is slave to the lender'? How have you seen this principle at work in real life?",
+            "guidance": "Think about how debt obligations limit choices — where you can live, what jobs you can take, how much you can give. Consider how financial freedom enables greater flexibility and generosity."
+        },
+        {
+            "id": 2,
+            "question": "What is the difference between productive debt and consumer debt? Why is this distinction important for making wise financial decisions?",
+            "guidance": "Consider specific examples of each type and evaluate whether the borrowed money increases your net worth or earning potential, or simply funds consumption."
+        },
+        {
+            "id": 3,
+            "question": "How can a young person begin building a positive credit history while avoiding the dangers of excessive debt? What practical steps would you take?",
+            "guidance": "Think about strategies like using a credit card for small purchases and paying it off monthly, or becoming an authorized user on a parent's account. Consider how to build credit without becoming dependent on borrowing."
+        }
+    ]
+}

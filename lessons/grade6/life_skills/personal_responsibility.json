@@ -1,0 +1,75 @@
+{
+    "id": "personal_responsibility",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Personal Responsibility — Owning Your Actions Before God",
+    "subtitle": "Understanding That God Calls Us to Be Faithful Stewards of Our Lives",
+    "scripture": "Galatians 6:5",
+    "key_concepts": ["What personal responsibility means", "Taking ownership of choices and consequences", "Being dependable at home and school", "Accountability before God"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Galatians 6:5",
+                "text": "\"For each one should carry their own load.\"",
+                "commentary": "God calls every person to take responsibility for their own actions and duties. While we help one another, each of us must answer for how we live our lives."
+            },
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+                "commentary": "Responsibility starts with small things — making your bed, finishing homework, keeping your word. God watches how we handle little tasks because they reveal our character."
+            },
+            {
+                "reference": "Romans 14:12",
+                "text": "\"So then, each of us will give an account of ourselves to God.\"",
+                "commentary": "One day every person will stand before God and explain how they lived. This truth reminds us that personal responsibility is not just about pleasing others — it is about honoring our Creator."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Personal Responsibility?",
+            "paragraphs": [
+                "Personal responsibility means taking ownership of your actions, your words, and your choices. It means doing what you are supposed to do without being reminded, making things right when you make a mistake, and understanding that your decisions have consequences.",
+                "Some people blame others when things go wrong, or they make excuses for why they did not do their work. But God calls us to a higher standard. He wants us to be honest about our failures and committed to doing better. Personal responsibility is the foundation of a trustworthy character."
+            ]
+        },
+        {
+            "heading": "Responsibility at Home",
+            "paragraphs": [
+                "Being responsible at home means doing your chores without being asked multiple times, keeping your room clean, and helping your family. It means following through on promises you make to your parents or siblings.",
+                "When you take care of your responsibilities at home, you show your family that you can be trusted. You also honor your parents, which is one of the Ten Commandments (Exodus 20:12). A responsible young person is preparing to be a responsible adult."
+            ]
+        },
+        {
+            "heading": "Responsibility at School",
+            "paragraphs": [
+                "At school, personal responsibility means completing assignments on time, paying attention in class, and being honest about your work. It means not cheating, not copying from others, and asking for help when you need it rather than giving up.",
+                "Being responsible at school also means treating your teachers and classmates with respect. When you take your education seriously, you are stewarding the mind God gave you and preparing for the calling He has planned for your future."
+            ]
+        },
+        {
+            "heading": "Learning from Mistakes",
+            "paragraphs": [
+                "Everyone makes mistakes — that is part of being human. What matters is how you respond. A responsible person admits their mistake, apologizes sincerely, and takes steps to make it right. They do not hide behind excuses or blame someone else.",
+                "The Bible is full of people who made mistakes and grew from them. King David sinned greatly, but when confronted, he took full responsibility and repented before God (Psalm 51). God honored David's honesty and called him a man after His own heart. When we own our failures, God can use them to shape our character."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What does it mean to take personal responsibility? Give an example from your own life where you demonstrated responsibility.",
+            "guidance": "Think about a time when you did the right thing even when it was hard, or when you admitted a mistake and made it right."
+        },
+        {
+            "id": 2,
+            "question": "Why does God care about how we handle small responsibilities? How does Luke 16:10 apply to your daily life?",
+            "guidance": "Consider how being faithful in small duties — like chores or homework — prepares you for bigger responsibilities God may give you."
+        },
+        {
+            "id": 3,
+            "question": "How should a Christian respond when they make a mistake? What does David's example in Psalm 51 teach us?",
+            "guidance": "Think about the difference between making excuses and truly owning your failures. Consider how repentance leads to growth."
+        }
+    ]
+}
