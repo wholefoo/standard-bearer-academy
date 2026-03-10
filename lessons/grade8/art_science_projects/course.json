@@ -1,0 +1,14 @@
+{
+    "grade": "grade8",
+    "subject": "art_science_projects",
+    "title": "Applied Science and Art — Preparing for High School",
+    "description": "Develop advanced skills in research, painting, sound physics, environmental science, graphic design, and forensic science — preparing for high school through hands-on projects rooted in Biblical stewardship.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Applied Science and Art — Preparing for High School",
+            "lessons": ["research_project", "oil_painting", "physics_of_sound", "environmental_audit", "graphic_design", "forensic_science"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

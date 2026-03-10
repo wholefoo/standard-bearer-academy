@@ -1,0 +1,63 @@
+{
+    "id": "art_science_quiz",
+    "title": "Creation Station — Art and Science Quiz",
+    "description": "Test your knowledge of the hands-on art and science projects and what they taught us about God's creation!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What does a seed need to grow into a plant?",
+            "options": ["Only darkness", "Water, soil, and sunlight", "Just air", "Only a pot"],
+            "correct": 1,
+            "explanation": "God designed seeds to grow when they receive water, soil, and sunlight. These are the things every plant needs to live and grow."
+        },
+        {
+            "id": 2,
+            "question": "What happens to construction paper left in the sun?",
+            "options": ["It gets darker", "The color fades", "It turns white", "Nothing happens"],
+            "correct": 1,
+            "explanation": "Sunlight is powerful and causes the color on construction paper to fade. Objects placed on the paper block the sunlight and keep those spots dark."
+        },
+        {
+            "id": 3,
+            "question": "What covers most of the Earth's surface?",
+            "options": ["Land", "Sand", "Water", "Ice"],
+            "correct": 2,
+            "explanation": "About 70 percent of Earth's surface is covered with water. God filled the oceans, rivers, and lakes with water that all living things need."
+        },
+        {
+            "id": 4,
+            "question": "What kinds of objects do magnets attract?",
+            "options": ["Wooden objects", "Paper objects", "Iron and steel objects", "Plastic objects"],
+            "correct": 2,
+            "explanation": "God designed magnetism to work with metals like iron and steel. Magnets do not attract wood, paper, or plastic."
+        },
+        {
+            "id": 5,
+            "question": "What did Jesus say about God and the birds?",
+            "options": ["Birds take care of themselves", "God feeds the birds", "Birds are not important", "We should not watch birds"],
+            "correct": 1,
+            "explanation": "Jesus said to look at the birds because God feeds them, even though they do not plant or harvest. He cares for us even more (Matthew 6:26)."
+        },
+        {
+            "id": 6,
+            "question": "What does a rain gauge measure?",
+            "options": ["Temperature", "Wind speed", "How much rain falls", "Cloud shapes"],
+            "correct": 2,
+            "explanation": "A rain gauge measures how much rain falls in a certain area. It helps us see how much water God sends to the Earth."
+        },
+        {
+            "id": 7,
+            "question": "What happens when you put two north poles of a magnet together?",
+            "options": ["They stick together", "They push apart", "Nothing happens", "They break"],
+            "correct": 1,
+            "explanation": "When two of the same poles (north-north or south-south) are brought together, they push apart. This is called repelling."
+        },
+        {
+            "id": 8,
+            "question": "Why did God create the water cycle?",
+            "options": ["To make floods", "To keep water moving so living things have what they need", "To make rivers dry up", "To fill swimming pools"],
+            "correct": 1,
+            "explanation": "God designed the water cycle so that water evaporates, forms clouds, and falls as rain. This keeps water moving to provide for all living things on Earth."
+        }
+    ]
+}

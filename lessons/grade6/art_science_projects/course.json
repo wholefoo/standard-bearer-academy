@@ -1,0 +1,14 @@
+{
+    "grade": "grade6",
+    "subject": "art_science_projects",
+    "title": "STEAM Explorations — Where Faith Meets Innovation",
+    "description": "Explore robotics, perspective drawing, chemistry, engineering, digital art, and microscopy through hands-on projects that reveal the brilliance of our Creator.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: STEAM Explorations — Where Faith Meets Innovation",
+            "lessons": ["robotics_basics", "perspective_drawing", "ph_experiments", "bridge_engineering", "digital_art", "microscope_lab"]
+        }
+    ],
+    "quiz_id": "projects_quiz"
+}

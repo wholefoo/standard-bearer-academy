@@ -1,0 +1,63 @@
+{
+    "id": "projects_quiz",
+    "title": "The Creator's Lab — Advanced Projects and Experiments",
+    "description": "Test your knowledge of DNA, crystals, animation, maps, chemical reactions, and architecture — and the Creator behind it all!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the shape of the DNA molecule called?",
+            "options": ["A single strand", "A double helix", "A triple spiral", "A flat ribbon"],
+            "correct": 1,
+            "explanation": "DNA has a double helix shape — like a twisted ladder. This elegant structure was designed by God to store the incredibly complex instructions for building living organisms."
+        },
+        {
+            "id": 2,
+            "question": "In DNA, adenine (A) always pairs with which base?",
+            "options": ["Cytosine (C)", "Guanine (G)", "Thymine (T)", "Uracil (U)"],
+            "correct": 2,
+            "explanation": "Adenine always pairs with thymine (A-T), and cytosine always pairs with guanine (C-G). This precise pairing system ensures accurate copying of genetic information."
+        },
+        {
+            "id": 3,
+            "question": "What causes crystals to grow in orderly geometric shapes?",
+            "options": ["Random chance", "The repeating pattern of atoms in a crystal lattice", "The container they grow in", "The color of the solution"],
+            "correct": 1,
+            "explanation": "Crystals grow in geometric shapes because their atoms arrange themselves in a highly ordered, repeating pattern called a crystal lattice — reflecting the order God built into creation."
+        },
+        {
+            "id": 4,
+            "question": "How many photographs might be needed for a 30-second stop-motion animation?",
+            "options": ["10 photos", "30 photos", "300 or more photos", "Just 1 photo"],
+            "correct": 2,
+            "explanation": "A 30-second stop-motion animation played at 10 frames per second would need at least 300 individual photographs, each showing a tiny movement — teaching us the value of patience and detailed work."
+        },
+        {
+            "id": 5,
+            "question": "On a topographic map, what do closely spaced contour lines indicate?",
+            "options": ["Flat terrain", "Steep terrain", "A body of water", "A forest"],
+            "correct": 1,
+            "explanation": "When contour lines are close together, it means the elevation changes rapidly over a short distance — indicating steep terrain like a cliff or mountainside."
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is a sign that a chemical reaction has occurred?",
+            "options": ["The substance stays exactly the same", "A color change, gas production, or temperature change", "The substance gets bigger without changing", "The substance moves to a different container"],
+            "correct": 1,
+            "explanation": "Chemical reactions produce observable signs including color changes, gas bubbles, temperature changes, precipitate formation, or light production — evidence that new substances are being formed."
+        },
+        {
+            "id": 7,
+            "question": "According to Jesus' parable, what should we build our lives upon?",
+            "options": ["Sand", "Wood", "The rock of God's Word", "Our own ideas"],
+            "correct": 2,
+            "explanation": "In Matthew 7:24-27, Jesus taught that the wise person builds on the rock — meaning God's Word. Just as buildings need strong foundations, our lives need the solid foundation of Scripture."
+        },
+        {
+            "id": 8,
+            "question": "Why is the triangle considered the strongest shape in structural engineering?",
+            "options": ["It has the most sides", "It looks the best", "It cannot be deformed without breaking a side", "It uses the most material"],
+            "correct": 2,
+            "explanation": "A triangle is rigid because its shape cannot be changed without breaking one of its sides. This makes it the strongest shape for building — a principle God built into the laws of physics."
+        }
+    ]
+}

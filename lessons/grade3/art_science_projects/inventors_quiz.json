@@ -1,0 +1,63 @@
+{
+    "id": "inventors_quiz",
+    "title": "The Inventor's Workshop Quiz",
+    "description": "Test your knowledge of circuits, bridges, water filtration, ecosystems, solar energy, and fossils!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What three things does every simple circuit need?",
+            "options": ["A magnet, a bulb, and tape", "A power source, a path, and a device", "A switch, a motor, and a battery", "A wire, a fan, and a plug"],
+            "correct": 1,
+            "explanation": "Every simple circuit needs a power source like a battery, a path for electricity like a wire, and a device that uses the electricity like a light bulb."
+        },
+        {
+            "id": 2,
+            "question": "What is the strongest shape used in building bridges?",
+            "options": ["Circle", "Square", "Triangle", "Rectangle"],
+            "correct": 2,
+            "explanation": "Triangles are the strongest shape in building because they do not collapse under pressure like squares and rectangles can."
+        },
+        {
+            "id": 3,
+            "question": "In a water filter, what material traps the smallest particles?",
+            "options": ["Gravel", "Cotton balls", "Sand", "Rocks"],
+            "correct": 2,
+            "explanation": "Sand traps smaller particles in a water filter, while gravel catches larger debris and charcoal absorbs chemicals."
+        },
+        {
+            "id": 4,
+            "question": "What is an ecosystem?",
+            "options": ["A type of bridge", "A community of living things and their environment", "A kind of fossil", "A solar-powered oven"],
+            "correct": 1,
+            "explanation": "An ecosystem is a community of living things and the environment they live in, all designed by God to work together."
+        },
+        {
+            "id": 5,
+            "question": "How does a solar oven trap heat?",
+            "options": ["By using batteries", "By burning wood", "By using reflective surfaces and a clear cover", "By plugging into a wall outlet"],
+            "correct": 2,
+            "explanation": "A solar oven uses reflective surfaces like aluminum foil to bounce sunlight inside and a clear cover to trap the heat."
+        },
+        {
+            "id": 6,
+            "question": "What is a mold fossil?",
+            "options": ["A fossil made of gold", "An impression or shape left in rock", "A living animal", "A type of plant"],
+            "correct": 1,
+            "explanation": "A mold fossil is an impression left in rock, like a footprint in mud that hardened over time."
+        },
+        {
+            "id": 7,
+            "question": "What happens when a circuit is open or broken?",
+            "options": ["The light gets brighter", "Electricity flows faster", "Electricity stops flowing", "The battery recharges"],
+            "correct": 2,
+            "explanation": "When a circuit is open or broken, electricity cannot flow through the complete path, so the device stops working."
+        },
+        {
+            "id": 8,
+            "question": "Why is solar energy called a renewable resource?",
+            "options": ["Because it is very expensive", "Because it will never run out", "Because it only works at night", "Because it uses batteries"],
+            "correct": 1,
+            "explanation": "Solar energy is renewable because the sun will keep shining and providing energy — it will never run out."
+        }
+    ]
+}

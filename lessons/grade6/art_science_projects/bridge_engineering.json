@@ -1,0 +1,75 @@
+{
+    "id": "bridge_engineering",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Bridge Engineering — Connecting People by God's Design",
+    "subtitle": "Building Strong Structures Through Engineering Principles",
+    "scripture": "Proverbs 24:3-4",
+    "key_concepts": ["Types of bridges (beam, arch, truss, suspension)", "Forces: compression and tension", "Load distribution and structural integrity", "Building with wisdom and purpose"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 24:3-4",
+                "text": "\"By wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures.\"",
+                "commentary": "Building anything — a house, a bridge, a life — requires wisdom, understanding, and knowledge. These are gifts from God. Engineering is an application of the wisdom God has placed in His creation, and every strong structure we build reflects the principles He designed."
+            },
+            {
+                "reference": "Nehemiah 2:17-18",
+                "text": "\"Then I said to them, 'You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem.' ... They replied, 'Let us start rebuilding.'\"",
+                "commentary": "Nehemiah led a great engineering project — rebuilding the walls of Jerusalem. This massive construction effort required planning, teamwork, perseverance, and trust in God. Great building projects throughout Scripture demonstrate that God values skilled construction work."
+            },
+            {
+                "reference": "Isaiah 28:16",
+                "text": "\"So this is what the Sovereign LORD says: 'See, I lay a stone in Zion, a tested stone, a precious cornerstone for a sure foundation.'\"",
+                "commentary": "God Himself speaks in the language of engineering and construction. Christ is described as the cornerstone — the most important structural element in a building. Our lives, like bridges, must be built on a sure foundation."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Why Bridges Matter",
+            "paragraphs": [
+                "Bridges are among the most important structures humans build. They connect communities separated by rivers, valleys, and canyons. They enable trade, travel, and communication. Without bridges, many cities and towns would be completely isolated. Bridges are a powerful symbol of connection — and God is a God who connects people to Himself and to one another.",
+                "The history of bridge building stretches back thousands of years. Ancient Romans built stone arch bridges that still stand today, over 2,000 years later. Their engineering knowledge, combined with durable materials, created structures that have outlasted empires. This reminds us that building with wisdom and quality produces lasting results."
+            ]
+        },
+        {
+            "heading": "Types of Bridges",
+            "paragraphs": [
+                "There are four main types of bridges: beam, arch, truss, and suspension. A beam bridge is the simplest — a flat surface supported at each end. An arch bridge uses a curved structure to transfer weight outward and downward into the ground. A truss bridge uses triangles to distribute weight efficiently. A suspension bridge hangs the roadway from cables attached to tall towers.",
+                "Each type of bridge is suited for different situations. Short spans might use a simple beam. Medium spans often use arches or trusses. Very long spans — like the Golden Gate Bridge — require suspension designs. Choosing the right type of bridge for the situation requires wisdom and understanding of the forces involved."
+            ]
+        },
+        {
+            "heading": "Forces in Bridges: Compression and Tension",
+            "paragraphs": [
+                "Two main forces act on every bridge: compression (a pushing force that squeezes material together) and tension (a pulling force that stretches material apart). A successful bridge design manages these forces so that no part of the structure is overwhelmed.",
+                "In an arch bridge, the curved shape converts downward forces into compression along the arch, pushing outward into the supports. In a suspension bridge, the cables are under enormous tension while the towers are under compression. God designed the physical laws that make these forces predictable and manageable — allowing engineers to build with confidence."
+            ]
+        },
+        {
+            "heading": "Building and Testing Your Bridge",
+            "paragraphs": [
+                "When engineers design a bridge, they first study the site, calculate the forces involved, and choose appropriate materials. Then they create detailed plans and build models to test before constructing the real thing. This process of planning, testing, and refining is essential to building something that lasts.",
+                "You can apply these same principles to build a model bridge. Using simple materials like popsicle sticks, straws, or pasta, you can explore how different designs handle weight. Testing your bridge to failure teaches you where the weak points are and how to improve your design — a process that mirrors how God refines our character through trials."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is a bridge a symbol of what God does in our lives and relationships? What 'bridges' has God built to connect you to Himself and to others?",
+            "guidance": "Think about how Christ is described as the mediator between God and humanity. Consider how the church, family, and friendships serve as bridges connecting people."
+        },
+        {
+            "id": 2,
+            "question": "Why is testing and refining important in bridge engineering? How does this relate to how God refines our character through trials (James 1:2-4)?",
+            "guidance": "Consider how testing reveals weaknesses that need to be strengthened. Think about how trials in our lives expose areas where we need to grow and trust God more."
+        },
+        {
+            "id": 3,
+            "question": "What does Proverbs 24:3-4 teach about the relationship between wisdom and building? How can you apply this principle to your own life?",
+            "guidance": "Think about how wisdom is the foundation for any lasting structure — whether physical or spiritual. Consider how seeking God's wisdom leads to building a life that endures."
+        }
+    ]
+}

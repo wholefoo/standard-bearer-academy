@@ -1,0 +1,49 @@
+{
+    "id": "art_science_quiz",
+    "title": "Little Creators Quiz",
+    "description": "Let's see what you remember about creating art and exploring God's world!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who is the greatest Creator of all?",
+            "options": ["Our teacher", "God", "The animals", "The wind"],
+            "correct": 1,
+            "explanation": "God is the greatest Creator! He made the heavens and the earth and everything in them (Genesis 1:1)."
+        },
+        {
+            "id": 2,
+            "question": "What can you find outside to make a nature collage?",
+            "options": ["Toys and blocks", "Leaves, sticks, and flowers", "Books and crayons", "Cups and plates"],
+            "correct": 1,
+            "explanation": "We can find leaves, sticks, flowers, and pebbles outside — all beautiful things God made for us to enjoy!"
+        },
+        {
+            "id": 3,
+            "question": "What new color do you get when you mix red and yellow?",
+            "options": ["Green", "Purple", "Orange", "Blue"],
+            "correct": 2,
+            "explanation": "When you mix red and yellow together, you get orange! God filled His world with wonderful colors."
+        },
+        {
+            "id": 4,
+            "question": "Who made all the animals?",
+            "options": ["The animals made themselves", "God made them", "Nobody made them", "People made them"],
+            "correct": 1,
+            "explanation": "God made all the animals — big ones, tiny ones, and every kind in between (Genesis 1:25)!"
+        },
+        {
+            "id": 5,
+            "question": "What does God put in the sky after it rains?",
+            "options": ["A star", "A rainbow", "A moon", "A snowflake"],
+            "correct": 1,
+            "explanation": "God put the rainbow in the sky as His special promise. It has many beautiful colors (Genesis 9:13)!"
+        },
+        {
+            "id": 6,
+            "question": "How many senses did God give us?",
+            "options": ["Two", "Three", "Five", "Ten"],
+            "correct": 2,
+            "explanation": "God gave us five wonderful senses — sight, hearing, smell, taste, and touch — so we can enjoy His creation (Psalm 139:14)!"
+        }
+    ]
+}

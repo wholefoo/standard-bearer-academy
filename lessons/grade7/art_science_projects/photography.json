@@ -1,0 +1,75 @@
+{
+    "id": "photography",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Photography — Capturing God's Creation Through a Lens",
+    "subtitle": "Learning Composition, Light, and Storytelling Through Photography",
+    "scripture": "Psalm 19:1",
+    "key_concepts": ["Composition and framing", "Natural and artificial light", "Rule of thirds", "Visual storytelling"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "Creation is constantly displaying God's glory. Photography gives us the ability to capture and share these displays — freezing moments of beauty that point viewers toward the Creator."
+            },
+            {
+                "reference": "Genesis 1:31",
+                "text": "\"God saw all that he had made, and it was very good.\"",
+                "commentary": "God looked at His creation and saw beauty and goodness. When we observe the world carefully through a camera lens, we learn to see what God sees — the extraordinary beauty in ordinary things."
+            },
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "Photography trains our eyes to seek out beauty, truth, and goodness. As Christian photographers, we have the privilege of capturing images that point others toward what is true, noble, and praiseworthy."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Seeing the World Differently",
+            "paragraphs": [
+                "Photography is more than taking pictures — it is the art of seeing. A skilled photographer notices light, shadow, color, pattern, and texture that most people walk right past. Learning photography trains your eye to observe the world more carefully and to appreciate the beauty God has placed all around you.",
+                "You do not need an expensive camera to learn photography. A smartphone camera is a powerful tool that can capture stunning images when used with intention and skill. What matters most is not your equipment but your eye — your ability to see and compose a compelling image."
+            ]
+        },
+        {
+            "heading": "Composition: The Rule of Thirds",
+            "paragraphs": [
+                "Composition is how you arrange elements within your photograph. One of the most important composition techniques is the rule of thirds. Imagine dividing your image into nine equal sections using two horizontal and two vertical lines. Placing your subject along these lines or at their intersections creates a more dynamic and visually pleasing image than centering it.",
+                "Other composition techniques include leading lines (roads, fences, or rivers that draw the eye into the image), framing (using natural elements like doorways or branches to frame your subject), and negative space (leaving empty areas to create a sense of calm or isolation). Practice each technique by taking at least five photographs using each one."
+            ]
+        },
+        {
+            "heading": "Understanding Light",
+            "paragraphs": [
+                "Light is the most important element in photography — the word 'photography' literally means 'writing with light.' The quality, direction, and color of light dramatically affect the mood and impact of an image. Soft, diffused light (like on an overcast day) creates gentle images, while harsh, direct light creates strong shadows and high contrast.",
+                "The golden hours — the first and last hour of sunlight each day — produce warm, beautiful light that photographers prize. Practice photographing the same subject at different times of day and notice how changing light transforms the image. Side lighting reveals texture, backlighting creates silhouettes, and front lighting illuminates details."
+            ]
+        },
+        {
+            "heading": "Your Photography Project: A Visual Devotional",
+            "paragraphs": [
+                "Create a visual devotional — a series of 8-10 photographs that tell a story about God's creation or illustrate a Bible verse or passage. Each photograph should use at least one composition technique you have learned and demonstrate thoughtful use of light.",
+                "Accompany each photograph with a short written reflection (2-3 sentences) explaining what you captured and how it connects to your chosen theme or Scripture. Present your visual devotional as a printed or digital portfolio. This project combines technical skill with spiritual reflection, training both your eye and your heart."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How has learning to photograph changed the way you see the world around you? What beauty have you noticed that you previously overlooked?",
+            "guidance": "Think about specific moments when you noticed light, patterns, or details you would have missed before. Consider how this awareness connects to appreciating God's creation."
+        },
+        {
+            "id": 2,
+            "question": "How can photography be used as a form of worship or ministry? How does capturing beauty point others toward God?",
+            "guidance": "Consider how sharing beautiful images can inspire gratitude, wonder, and praise. Think about how visual storytelling can communicate truth."
+        },
+        {
+            "id": 3,
+            "question": "What was the most challenging part of creating your visual devotional? How did the process of pairing images with Scripture deepen your understanding of the passage?",
+            "guidance": "Reflect on the creative process and how it required you to think deeply about both the visual and the spiritual dimensions of your project."
+        }
+    ]
+}

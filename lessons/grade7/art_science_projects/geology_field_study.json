@@ -1,0 +1,75 @@
+{
+    "id": "geology_field_study",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Geology Field Study — Reading the Story Written in Stone",
+    "subtitle": "Collecting, Identifying, and Analyzing Rocks and Minerals",
+    "scripture": "Psalm 18:2",
+    "key_concepts": ["Rock classification", "Mineral identification", "Geological processes", "Field study methods"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 18:2",
+                "text": "\"The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge.\"",
+                "commentary": "Scripture frequently compares God to a rock — strong, immovable, and reliable. As you study the rocks of the earth, consider why this metaphor is so powerful and what it reveals about God's unchanging nature."
+            },
+            {
+                "reference": "Matthew 7:24-25",
+                "text": "\"Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.\"",
+                "commentary": "Jesus uses rock as a metaphor for a solid foundation. Understanding geology helps us appreciate why this metaphor resonates — rock is enduring, strong, and forms the literal foundation of the earth."
+            },
+            {
+                "reference": "Job 28:9-10",
+                "text": "\"Man's hand assaults the flinty rock and lays bare the roots of the mountains. He tunnels through the rock; his eyes see all its treasures.\"",
+                "commentary": "God has placed treasures within the earth — minerals, gems, and metals — for humanity to discover and use wisely. Geology is the science of uncovering these hidden wonders."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Earth Beneath Our Feet",
+            "paragraphs": [
+                "Geology is the study of the earth's solid matter — the rocks, minerals, and processes that have shaped the landscape over time. Every rock you pick up has a story to tell about the conditions under which it formed and the forces that have acted upon it.",
+                "Geologists classify rocks into three main types based on how they formed: igneous rocks (formed from cooled magma or lava), sedimentary rocks (formed from compressed layers of sediment), and metamorphic rocks (formed when existing rocks are transformed by heat and pressure). Each type reveals different aspects of the earth's dynamic processes."
+            ]
+        },
+        {
+            "heading": "Mineral Identification",
+            "paragraphs": [
+                "Minerals are the building blocks of rocks. Each mineral has specific physical properties that help identify it: color, luster (how it reflects light), hardness (measured on the Mohs scale from 1-10), streak (the color of its powder), and crystal structure.",
+                "Practice identifying minerals using these properties. Collect samples from your area and test each one. Is it hard enough to scratch glass? Does it have a metallic or glassy luster? What color streak does it leave on a porcelain tile? Recording these observations systematically teaches you to think like a scientist and appreciate the diversity God built into the earth's materials."
+            ]
+        },
+        {
+            "heading": "Conducting a Field Study",
+            "paragraphs": [
+                "A geological field study involves visiting a location to observe, collect, and document rock and mineral samples in their natural setting. Choose a site — a creek bed, road cut, hillside, or quarry — where rocks are exposed and accessible.",
+                "Bring a field notebook, a hand lens, a collection bag, and identification guides. At your site, sketch the landscape and note the types of rocks visible. Collect labeled samples (with permission), recording where each was found. Look for evidence of geological processes: layering in sedimentary rocks, crystals in igneous rocks, or folding and banding in metamorphic rocks."
+            ]
+        },
+        {
+            "heading": "Creating Your Rock and Mineral Collection",
+            "paragraphs": [
+                "Organize your collected samples into a display collection. Label each specimen with its name, type (igneous, sedimentary, or metamorphic), key identifying properties, and where it was found. Arrange your collection logically — by type, by location, or by the geological process that formed each specimen.",
+                "Write a field study report that includes your site description, a map or sketch of where you collected each sample, your identification methods, and your conclusions about the geological history of your area. What forces shaped the landscape? What can the rocks tell you about conditions long ago? This project combines scientific observation with the wonder of discovering the treasures God has placed in the earth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why do you think the Bible so often uses rock as a metaphor for God? What properties of rock make it a fitting comparison?",
+            "guidance": "Think about the physical properties of rock — strength, durability, stability — and how these parallel God's character as described in Scripture."
+        },
+        {
+            "id": 2,
+            "question": "What did your field study reveal about the geological history of your area? What surprised you about the rocks you found?",
+            "guidance": "Reflect on specific discoveries and what they taught you about the forces that shaped your local landscape."
+        },
+        {
+            "id": 3,
+            "question": "How does studying the earth's rocks and minerals deepen your appreciation for God's creation? What does the incredible variety of minerals tell you about the Creator?",
+            "guidance": "Consider the diversity, beauty, and usefulness of the minerals God placed in the earth. Think about how this variety reflects His creativity and provision."
+        }
+    ]
+}

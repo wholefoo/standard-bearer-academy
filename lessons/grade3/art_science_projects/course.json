@@ -1,0 +1,14 @@
+{
+    "grade": "grade3",
+    "subject": "art_science_projects",
+    "title": "The Inventor's Workshop — Building and Discovering",
+    "description": "Build, explore, and discover through hands-on projects that reveal God's amazing design in science and engineering.",
+    "units": [
+        {
+            "id": "inventors_workshop",
+            "title": "Building and Discovering",
+            "lessons": ["simple_circuits", "bridge_building", "water_filtration", "ecosystem_diorama", "solar_oven", "fossil_impressions"]
+        }
+    ],
+    "quiz_id": "inventors_quiz"
+}

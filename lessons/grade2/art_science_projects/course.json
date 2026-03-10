@@ -1,0 +1,14 @@
+{
+    "grade": "grade2",
+    "subject": "art_science_projects",
+    "title": "Explore and Create — Science Experiments and Art Projects",
+    "description": "Discover God's amazing world through hands-on science experiments and creative art projects that reveal Biblical truths.",
+    "units": [
+        {
+            "id": "explore_create",
+            "title": "Explore and Create Projects",
+            "lessons": ["volcano_model", "butterfly_lifecycle", "constellation_viewer", "rock_painting", "weather_station", "terrarium"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

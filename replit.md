@@ -1,12 +1,12 @@
 # Standard Bearer Academy — K-12 Homeschool LMS
 
 ## Overview
-A comprehensive K-12 Homeschool Resource Platform built with Python/Flask. The platform hosts 105 courses spanning PreK through 12th Grade across 9 subjects (6 core + Technology, Creative Writing, and Life Skills for grades 6-12), all from a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview.
+A comprehensive K-12 Homeschool Resource Platform built with Python/Flask. The platform hosts 115 courses spanning PreK through 12th Grade across 10 subjects (6 core + Art & Science Projects for PreK-8, Technology and Creative Writing for grades 6-12, Life Skills for grades 6-12), all from a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview.
 
 ## Architecture
 - **Backend**: Python 3.11 + Flask
 - **Database**: PostgreSQL (stores student progress, quiz scores)
-- **Content**: 825 JSON files in `lessons/` directory (file-based curriculum)
+- **Content**: 905 JSON files in `lessons/` directory (file-based curriculum)
 - **Frontend**: Jinja2 templates with vanilla CSS/JS
 - **Server**: Flask dev server on port 5000
 
@@ -16,10 +16,11 @@ app.py                      # Main Flask application with routes
 content_loader.py           # JSON file-based curriculum content loader
 db.py                       # Database utilities for progress/quiz tracking
 lessons/                    # All curriculum content as JSON files
-  prek/{bible,science,math,reading,history,civics}/
-  kindergarten/{bible,science,math,reading,history,civics}/
-  grade1-grade5/{science,math,reading,history,bible,civics}/
-  grade6-grade12/{science,math,reading,history,bible,civics,technology,creative_writing,life_skills}/
+  prek/{bible,science,math,reading,history,civics,art_science_projects}/
+  kindergarten/{bible,science,math,reading,history,civics,art_science_projects}/
+  grade1-grade5/{science,math,reading,history,bible,civics,art_science_projects}/
+  grade6-grade8/{science,math,reading,history,bible,civics,technology,creative_writing,life_skills,art_science_projects}/
+  grade9-grade12/{science,math,reading,history,bible,civics,technology,creative_writing,life_skills}/
 templates/
   base.html                 # Base template with header, nav, footer
   index.html                # Homepage with role selection
@@ -37,7 +38,7 @@ static/
 - **completed_lessons**: student_id, grade, subject, unit, lesson_id, completed_at
 - **quiz_scores**: student_id, grade, subject, unit, quiz_id, score, total, percentage, answers (JSONB)
 
-## Complete Course Catalog (105 courses)
+## Complete Course Catalog (115 courses)
 
 ### PreK (ages 3-5)
 - Bible: Bible ABCs — Learning Letters Through Scripture
@@ -46,6 +47,7 @@ static/
 - Reading: God's Word ABCs — Learning to Read with Scripture
 - History: Heroes of the Bible — Stories of Faith and Courage
 - Civics: God's Rules — Learning Right from Wrong
+- Art & Science Projects: Little Creators — Exploring God's World Through Art and Play
 
 ### Kindergarten (ages 5-6)
 - Bible: God's Numbers — Counting Through Scripture
@@ -54,6 +56,7 @@ static/
 - Reading: Reading God's Word — Phonics and Bible Stories
 - History: Our Country — America the Beautiful
 - Civics: Being a Good Helper — Rules and Responsibilities
+- Art & Science Projects: God's Colorful World — Art and Discovery for Little Hands
 
 ### 1st Grade (ages 6-7)
 - Science: The Days of Creation
@@ -62,6 +65,7 @@ static/
 - History: American Heroes — Leaders Who Trusted God
 - Bible: The Life of Jesus — Stories from the Gospels
 - Civics: My Community — Rules, Leaders, and Helpers
+- Art & Science Projects: Creation Station — Hands-On Art and Science
 
 ### 2nd Grade (ages 7-8)
 - Science: God's Amazing Animals
@@ -70,6 +74,7 @@ static/
 - History: Pilgrims and Patriots — America's Early Days
 - Bible: Old Testament Adventures — From Noah to David
 - Civics: Our Nation — Symbols, Laws, and Freedom
+- Art & Science Projects: Explore and Create — Science Experiments and Art Projects
 
 ### 3rd Grade (ages 8-9)
 - Science: Plants and Ecosystems — God's Green Earth
@@ -78,6 +83,7 @@ static/
 - History: Explorers and Settlers — God's Hand in the New World
 - Bible: Kings and Prophets — God's Faithful Servants
 - Civics: We the People — Our Government and Constitution
+- Art & Science Projects: The Inventor's Workshop — Building and Discovering
 
 ### 4th Grade (ages 9-10)
 - Science: Astronomy — The Heavens Declare God's Glory
@@ -86,6 +92,7 @@ static/
 - History: America's Godly Heritage — From Columbus to the Constitution
 - Bible: The Early Church — Acts of the Apostles
 - Civics: Rights and Responsibilities — Being a Good Citizen
+- Art & Science Projects: Design and Discover — Engineering and Art Challenges
 
 ### 5th Grade (ages 10-11)
 - Science: The Human Body — Fearfully and Wonderfully Made
@@ -94,6 +101,7 @@ static/
 - History: Westward Expansion — America Grows Under Providence
 - Bible: Wisdom Literature — Psalms, Proverbs, and Ecclesiastes
 - Civics: The Three Branches — How Our Government Works
+- Art & Science Projects: The Creator's Lab — Advanced Projects and Experiments
 
 ### 6th Grade (ages 11-12) — Middle School Format
 - Science: Life Science — The Miracle of Living Things
@@ -105,6 +113,7 @@ static/
 - Technology: Digital Foundations — Technology as a Tool for God's Kingdom
 - Creative Writing: The Gift of Words — Writing to Glorify God
 - Life Skills: Foundations for Life — Building Good Habits God's Way
+- Art & Science Projects: STEAM Explorations — Where Faith Meets Innovation
 
 ### 7th Grade (ages 12-13)
 - Science: Earth Science — Exploring God's World
@@ -116,6 +125,7 @@ static/
 - Technology: Web and Media Literacy — Navigating the Digital World Wisely
 - Creative Writing: Stories of Virtue — Crafting Fiction with Purpose
 - Life Skills: Home Economics — Caring for God's Household
+- Art & Science Projects: Design Thinking — Solving Problems God's Way
 
 ### 8th Grade (ages 13-14)
 - Science: Physical Science — Laws of the Creator
@@ -127,6 +137,7 @@ static/
 - Technology: Introduction to Programming — Building with Logic and Order
 - Creative Writing: The Writer's Workshop — Finding Your Voice for Truth
 - Life Skills: Financial Foundations — Biblical Stewardship of Money
+- Art & Science Projects: Applied Science and Art — Preparing for High School
 
 ### 9th Grade (ages 14-15) — High School Format
 - Science: Biology — The Design of Life
@@ -199,6 +210,7 @@ GRADE_LEVELS in app.py: prek, kindergarten, grade1-grade12 (15 levels total)
 - **Technology**: Digital citizenship, programming, cybersecurity, AI — Biblical stewardship of tools, responsible use
 - **Creative Writing**: Fiction, poetry, nonfiction — writing as worship, storytelling to glorify God
 - **Life Skills**: Financial literacy, home economics, career prep, independent living — Biblical stewardship of practical life
+- **Art & Science Projects**: Hands-on STEAM projects, experiments, crafts — exploring God's creation through creative discovery
 
 ## Running the App
 ```

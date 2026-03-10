@@ -1,0 +1,75 @@
+{
+    "id": "graphic_design",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Graphic Design — Communicating Truth Through Visual Design",
+    "subtitle": "Learning Typography, Layout, and Visual Communication Principles",
+    "scripture": "Habakkuk 2:2",
+    "key_concepts": ["Typography and font selection", "Layout and visual hierarchy", "Color psychology in design", "Communicating a message visually"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Habakkuk 2:2",
+                "text": "\"Then the LORD replied: 'Write down the revelation and make it plain on tablets so that a herald may run with it.'\"",
+                "commentary": "God instructed Habakkuk to communicate His message clearly and visibly. Graphic design is the modern art of making messages plain — clear, beautiful, and accessible to all who see them."
+            },
+            {
+                "reference": "Proverbs 22:29",
+                "text": "\"Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.\"",
+                "commentary": "Skill in any craft — including design — is valued by God and opens doors to serve and influence others. Developing excellence in graphic design equips you to communicate truth effectively."
+            },
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "As Christian designers, we have a responsibility to create work that is true, noble, and excellent. Our designs should communicate truth beautifully and point viewers toward what is good."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Design Is Communication",
+            "paragraphs": [
+                "Graphic design is the art of visual communication — using images, typography, color, and layout to convey a message clearly and effectively. Every poster, website, book cover, and logo you see was designed by someone who made deliberate choices about how to present information visually.",
+                "Good design is not just about making things look attractive — it is about making messages clear, accessible, and impactful. A well-designed flyer communicates its message at a glance. A poorly designed one confuses or overwhelms the viewer. As Christians, we have important truths to communicate, and design is a powerful tool for doing so effectively."
+            ]
+        },
+        {
+            "heading": "Typography: The Art of Letters",
+            "paragraphs": [
+                "Typography — the selection and arrangement of typefaces — is one of the most important elements of graphic design. Different fonts convey different moods: serif fonts (like Times New Roman) feel traditional and authoritative, sans-serif fonts (like Helvetica) feel modern and clean, and decorative fonts can add personality but should be used sparingly.",
+                "Key typography principles include hierarchy (using size, weight, and style to show which text is most important), readability (ensuring text is easy to read), and consistency (limiting your design to 2-3 complementary fonts). Practice creating text layouts that guide the reader's eye from the most important information to supporting details."
+            ]
+        },
+        {
+            "heading": "Layout, Color, and Visual Hierarchy",
+            "paragraphs": [
+                "Layout is how you arrange elements on a page or screen. Effective layouts use alignment (elements lined up along invisible guides), proximity (related items grouped together), contrast (differences in size, color, or weight to create emphasis), and white space (empty areas that give the eye a place to rest).",
+                "Color choices significantly affect how a design is perceived. Warm colors (red, orange, yellow) feel energetic and urgent. Cool colors (blue, green, purple) feel calm and trustworthy. High contrast between text and background improves readability, while a limited color palette creates visual harmony. Choose colors intentionally based on the mood and message of your design."
+            ]
+        },
+        {
+            "heading": "Your Design Project",
+            "paragraphs": [
+                "Create a series of three related graphic design pieces for a cause or message you care about — such as a church event, a community service project, or a Bible verse series. Your series might include a poster, a social media graphic, and a bookmark or flyer, all sharing a consistent visual theme.",
+                "Apply the principles you have learned: choose typography that fits your message, create a clear visual hierarchy, use color intentionally, and maintain consistency across all three pieces. You can use free design tools like Canva or GIMP, or work by hand with markers and rulers. Present your finished designs with a written explanation of your design choices and how they serve your message."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does good design help communicate truth more effectively? Why does the visual presentation of a message matter as much as the words themselves?",
+            "guidance": "Think about how design affects whether people notice, read, understand, and remember a message. Consider how God instructed messages to be made 'plain.'"
+        },
+        {
+            "id": 2,
+            "question": "What design choices did you make for your project, and why? How did typography, color, and layout decisions serve your message?",
+            "guidance": "Reflect on specific choices you made and how they contributed to the clarity and impact of your design. Consider what you would change if you could start over."
+        },
+        {
+            "id": 3,
+            "question": "How can graphic design skills be used to serve God and your community? What are some practical ways you could use design to make a positive impact?",
+            "guidance": "Think about how churches, ministries, and community organizations need effective visual communication. Consider how your skills could serve these needs."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "grade": "grade7",
+    "subject": "art_science_projects",
+    "title": "Design Thinking — Solving Problems God's Way",
+    "description": "Tackle real-world challenges through invention, architecture, circuits, photography, and geology — using design thinking principles rooted in Biblical wisdom and stewardship.",
+    "units": [
+        {
+            "id": "unit1",
+            "title": "Unit 1: Design Thinking — Solving Problems God's Way",
+            "lessons": ["invention_project", "scientific_method", "architectural_model", "electrical_circuits", "photography", "geology_field_study"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

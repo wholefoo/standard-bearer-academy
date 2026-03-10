@@ -1,0 +1,75 @@
+{
+    "id": "architectural_model",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: Architectural Model Building — Designing Structures with Purpose",
+    "subtitle": "Exploring Engineering Principles Through Scale Model Construction",
+    "scripture": "Proverbs 24:3-4",
+    "key_concepts": ["Architectural design principles", "Scale and proportion", "Structural integrity", "Blueprint reading and creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 24:3-4",
+                "text": "\"By wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures.\"",
+                "commentary": "Building requires wisdom, understanding, and knowledge — three gifts from God. Whether constructing a home or a model, thoughtful planning and careful execution honor the Creator who designed us to build."
+            },
+            {
+                "reference": "1 Kings 6:1",
+                "text": "\"In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv, the second month, he began to build the temple of the LORD.\"",
+                "commentary": "Solomon's temple was one of the most carefully planned and beautifully built structures in history. God gave Solomon the wisdom and resources to create a building that reflected His glory and majesty."
+            },
+            {
+                "reference": "Hebrews 11:10",
+                "text": "\"For he was looking forward to the city with foundations, whose architect and builder is God.\"",
+                "commentary": "God Himself is described as an architect. When we design and build, we reflect the creative nature of our Maker, who plans with purpose and builds with perfection."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Architecture as Problem Solving",
+            "paragraphs": [
+                "Architecture is the art and science of designing buildings and structures. Every building you see — from a simple shed to a towering skyscraper — began as an idea in someone's mind, was carefully planned on paper, and then constructed with skill and precision.",
+                "Architects must consider many factors: the purpose of the building, the people who will use it, the materials available, the forces of nature (gravity, wind, earthquakes), and aesthetic beauty. Great architecture balances function and beauty, reflecting the order and creativity of God's own design."
+            ]
+        },
+        {
+            "heading": "Understanding Scale and Proportion",
+            "paragraphs": [
+                "A scale model is a smaller version of a real structure, built in exact proportion. If your model uses a scale of 1:20, every measurement in the model is one-twentieth of the real size. Maintaining accurate scale ensures that your model accurately represents the real structure.",
+                "To create your model, first decide on your scale. Measure the dimensions of the real structure (or your imagined design) and calculate the scaled-down measurements. Use graph paper to create a blueprint — a detailed plan showing the floor layout, wall heights, and key features from multiple angles."
+            ]
+        },
+        {
+            "heading": "Structural Integrity and Materials",
+            "paragraphs": [
+                "A building must be structurally sound — able to support its own weight and withstand external forces. Key structural elements include foundations (which distribute weight to the ground), columns and beams (which carry loads), and bracing (which resists lateral forces like wind).",
+                "For your model, you can use materials like cardboard, balsa wood, craft sticks, foam board, or even 3D-printed components. Consider how real buildings use triangles for strength (trusses), arches to distribute weight, and deep foundations for stability. Test your model's strength by gently applying pressure to see where it flexes or fails."
+            ]
+        },
+        {
+            "heading": "Building Your Model",
+            "paragraphs": [
+                "Choose a structure to model — it could be a historical building like Solomon's temple, a community building like a church or library, or an original design of your own. Create your blueprint first, then carefully cut and assemble your materials according to your plan.",
+                "Pay attention to details: windows, doors, roof pitch, and decorative elements all contribute to the character of a building. As you build, you will discover challenges that force you to adapt your design — just as real architects and builders do. Present your finished model with a written explanation of your design choices and the principles you applied."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What design challenges did you encounter while building your model, and how did you solve them? What does this teach you about the importance of planning?",
+            "guidance": "Think about moments when your original plan needed adjustment. Consider how real architects balance ideal designs with practical constraints."
+        },
+        {
+            "id": 2,
+            "question": "How does the verse from Proverbs 24:3-4 about building with wisdom apply both to physical buildings and to building a life of faith?",
+            "guidance": "Consider how the principles of strong foundations, careful planning, and quality construction apply to character and spiritual growth as well as architecture."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think God is described as an architect and builder in Scripture? What does this tell us about His character?",
+            "guidance": "Reflect on what the metaphor of God as builder reveals about His intentionality, creativity, and care for the details of His creation."
+        }
+    ]
+}

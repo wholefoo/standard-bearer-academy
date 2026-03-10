@@ -1,0 +1,14 @@
+{
+    "grade": "prek",
+    "subject": "art_science_projects",
+    "title": "Little Creators — Exploring God's World Through Art and Play",
+    "description": "Discover God's amazing world through finger painting, nature collages, color mixing, and more! Hands-on fun for ages 3-5.",
+    "units": [
+        {
+            "id": "little_creators",
+            "title": "Little Creators",
+            "lessons": ["finger_painting_creation", "nature_collage", "color_mixing", "playdough_animals", "weather_art", "sensory_exploration"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

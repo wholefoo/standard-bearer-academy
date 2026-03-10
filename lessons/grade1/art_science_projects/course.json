@@ -1,0 +1,14 @@
+{
+    "grade": "grade1",
+    "subject": "art_science_projects",
+    "title": "Creation Station — Hands-On Art and Science",
+    "description": "Explore God's amazing world through exciting hands-on art and science projects that bring Biblical truths to life.",
+    "units": [
+        {
+            "id": "creation_station",
+            "title": "Creation Station Projects",
+            "lessons": ["plant_growing", "sun_prints", "paper_mache_earth", "magnet_exploration", "bird_feeder", "rain_gauge"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

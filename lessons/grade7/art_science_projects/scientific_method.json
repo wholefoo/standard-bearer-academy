@@ -1,0 +1,75 @@
+{
+    "id": "scientific_method",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Scientific Method Deep Dive — Designing Rigorous Experiments",
+    "subtitle": "Pursuing Truth Through Careful Observation and Testing",
+    "scripture": "Proverbs 25:2",
+    "key_concepts": ["Scientific method steps", "Variables and controls", "Hypothesis formation", "Data collection and analysis"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 25:2",
+                "text": "\"It is the glory of God to conceal a matter; to search out a matter is the glory of kings.\"",
+                "commentary": "God has hidden wonders throughout creation for us to discover. The scientific method is a disciplined way to search out these hidden truths — and doing so brings glory to both God and the one who seeks understanding."
+            },
+            {
+                "reference": "1 Thessalonians 5:21",
+                "text": "\"Test everything; hold on to what is good.\"",
+                "commentary": "The scientific method is built on testing — forming a hypothesis and then rigorously checking whether it holds true. This Biblical principle of testing and discerning applies to both spiritual and physical truth."
+            },
+            {
+                "reference": "Job 12:7-8",
+                "text": "\"But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you.\"",
+                "commentary": "God invites us to learn from His creation through careful observation. The scientific method gives us a structured way to listen to what creation has to teach us about God's design."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: Why Does Method Matter?",
+            "paragraphs": [
+                "Science is not just about doing cool experiments — it is about discovering reliable truths about God's creation. The scientific method provides a structured approach to asking questions, testing ideas, and drawing conclusions based on evidence rather than guesswork.",
+                "Without a disciplined method, our observations can be clouded by assumptions and biases. The scientific method helps us separate what we think from what we can demonstrate. This pursuit of truth reflects God's character, for He is a God of order and truth."
+            ]
+        },
+        {
+            "heading": "The Steps of the Scientific Method",
+            "paragraphs": [
+                "The scientific method follows a logical sequence: observation, question, hypothesis, experiment, data collection, analysis, and conclusion. Each step builds on the one before it, creating a chain of reasoning that can be tested and verified by others.",
+                "A hypothesis is an educated guess — a testable prediction about what will happen and why. A good hypothesis is specific and measurable. For example, instead of saying 'plants need light,' a strong hypothesis states: 'If a bean plant receives 8 hours of sunlight daily, then it will grow taller than a plant receiving only 2 hours of sunlight over two weeks.'"
+            ]
+        },
+        {
+            "heading": "Variables and Controls",
+            "paragraphs": [
+                "Every experiment involves variables. The independent variable is the factor you deliberately change. The dependent variable is what you measure to see the effect. Control variables are everything you keep the same to ensure a fair test.",
+                "A control group — a version of the experiment where the independent variable is not changed — provides a baseline for comparison. Without proper controls, you cannot be sure that your results are caused by the factor you are testing rather than some other influence."
+            ]
+        },
+        {
+            "heading": "Your Experiment: Design and Execute",
+            "paragraphs": [
+                "Choose a question about the natural world that interests you. Form a clear hypothesis, identify your variables, and design an experiment with proper controls. Conduct your experiment over several days, recording detailed observations and measurements in a lab notebook.",
+                "After collecting your data, organize it into tables or graphs. Analyze the patterns you see. Does the evidence support your hypothesis, or does it point in a different direction? Write a conclusion that honestly reports your findings. Remember, a disproven hypothesis is not a failure — it is a valuable discovery that brings you closer to the truth."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is honesty so important in reporting experimental results, even when the data does not support your hypothesis?",
+            "guidance": "Consider how scientific integrity reflects God's value of truth. Think about what happens when scientists are dishonest about their findings."
+        },
+        {
+            "id": 2,
+            "question": "How does the scientific method help us understand God's creation more accurately than casual observation alone?",
+            "guidance": "Think about how structured testing removes bias and reveals reliable truths that casual observation might miss."
+        },
+        {
+            "id": 3,
+            "question": "What did your experiment teach you? How did the process of careful testing change your understanding of your topic?",
+            "guidance": "Reflect on specific things you learned that surprised you or confirmed what you expected. Consider how the process itself shaped your thinking."
+        }
+    ]
+}

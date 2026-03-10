@@ -1,0 +1,75 @@
+{
+    "id": "electrical_circuits",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Electrical Circuits — Harnessing Energy with Purpose",
+    "subtitle": "Building Series and Parallel Circuits to Understand Electrical Energy",
+    "scripture": "Matthew 5:14-16",
+    "key_concepts": ["Electrical current and voltage", "Series vs. parallel circuits", "Circuit components", "Conductors and insulators"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Matthew 5:14-16",
+                "text": "\"You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house.\"",
+                "commentary": "Jesus calls us to be light in the world. As you learn to build circuits that produce light, consider how God calls you to shine for Him — not hiding your gifts but using them to illuminate the world around you."
+            },
+            {
+                "reference": "Psalm 119:105",
+                "text": "\"Your word is a lamp for my feet, a light on my path.\"",
+                "commentary": "Just as electrical circuits channel energy to produce light, God's Word channels truth into our lives to guide our path. Both require a complete connection — a circuit or a committed heart — to function properly."
+            },
+            {
+                "reference": "Ecclesiastes 4:12",
+                "text": "\"Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.\"",
+                "commentary": "Parallel circuits demonstrate strength through multiple pathways — if one path fails, the others continue. Similarly, God designed us to live in community, where we strengthen one another."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Flow of Electricity",
+            "paragraphs": [
+                "Electricity is the flow of tiny charged particles called electrons through a conductor, usually a wire. This flow of electrons is called electric current. For current to flow, there must be a complete loop — a circuit — connecting a power source (like a battery) to a device (like a light bulb) and back again.",
+                "If the circuit is broken at any point — a disconnected wire, a burned-out bulb, or an open switch — the current stops and the device turns off. Understanding this principle is the foundation for building any electrical device, from a simple flashlight to a complex computer."
+            ]
+        },
+        {
+            "heading": "Series Circuits",
+            "paragraphs": [
+                "In a series circuit, all components are connected in a single loop. The current flows through each component one after another — from the battery, through the first bulb, through the second bulb, and back to the battery. If one bulb burns out, the circuit breaks and all bulbs go dark.",
+                "Build a series circuit using a battery, two small light bulbs, and wire. Observe what happens when you remove one bulb. Notice how the brightness of the bulbs decreases as you add more — because the total voltage is shared among all the components in the circuit."
+            ]
+        },
+        {
+            "heading": "Parallel Circuits",
+            "paragraphs": [
+                "In a parallel circuit, each component has its own separate path back to the power source. This means that if one bulb burns out, the others continue to work because the current has alternative pathways. Most household wiring uses parallel circuits for this reason.",
+                "Build a parallel circuit using the same materials. Notice that each bulb shines at full brightness because each receives the full voltage from the battery. Compare the behavior of your series and parallel circuits, noting the differences in brightness and what happens when one component is removed."
+            ]
+        },
+        {
+            "heading": "Circuit Design Challenge",
+            "paragraphs": [
+                "Now apply your knowledge by designing a circuit for a specific purpose. Create a model room with working lights using a combination of series and parallel circuits. Include a switch that controls at least one light independently. Draw a circuit diagram using standard symbols before building your physical circuit.",
+                "Test your design to make sure it works as intended. Troubleshoot any problems by checking for loose connections, correct polarity, and complete circuit paths. Document your design process, including your circuit diagram, photographs of your build, and a written explanation of how your circuit works and why you chose series or parallel connections for different components."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How is a parallel circuit like a Christian community? What happens when we support one another through multiple connections rather than depending on a single path?",
+            "guidance": "Think about how parallel circuits maintain function even when one path fails. Consider how community provides strength and resilience."
+        },
+        {
+            "id": 2,
+            "question": "What challenges did you face in building your circuits? How did troubleshooting teach you about perseverance and problem-solving?",
+            "guidance": "Reflect on specific problems you encountered and how you diagnosed and fixed them. Consider how this process develops patience and logical thinking."
+        },
+        {
+            "id": 3,
+            "question": "Jesus calls us to be 'the light of the world.' How does understanding how light actually works — through circuits and energy — deepen your appreciation of this metaphor?",
+            "guidance": "Think about what it takes to produce light: a complete circuit, a power source, and an unbroken connection. Consider what the spiritual equivalents might be."
+        }
+    ]
+}

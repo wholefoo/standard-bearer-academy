@@ -1,0 +1,75 @@
+{
+    "id": "ph_experiments",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: pH Experiments — Exploring Acids and Bases in God's World",
+    "subtitle": "Understanding the Chemistry of Everyday Substances",
+    "scripture": "Job 38:4-5",
+    "key_concepts": ["The pH scale (0-14)", "Acids, bases, and neutral substances", "Natural pH indicators", "God's precise chemical design"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Job 38:4-5",
+                "text": "\"Where were you when I laid the earth's foundation? Tell me, if you understand. Who marked off its dimensions? Surely you know!\"",
+                "commentary": "God reminds Job that He is the architect of all creation, including the precise chemical laws that govern acids and bases. The pH balance of our blood, our soil, and our oceans is maintained by systems God designed with extraordinary precision."
+            },
+            {
+                "reference": "Colossians 1:17",
+                "text": "\"He is before all things, and in him all things hold together.\"",
+                "commentary": "The delicate chemical balance that sustains life is not accidental. Christ holds all things together — including the precise pH levels that allow our bodies, our food, and our ecosystems to function properly."
+            },
+            {
+                "reference": "Psalm 104:24",
+                "text": "\"How many are your works, LORD! In wisdom you made them all; the earth is full of your creatures.\"",
+                "commentary": "The intricate chemistry of acids and bases is one of countless examples of God's wisdom in creation. Every chemical reaction, every balanced system, reflects His infinite knowledge and care."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is pH?",
+            "paragraphs": [
+                "pH is a measurement of how acidic or basic (alkaline) a substance is. The pH scale runs from 0 to 14. A pH of 7 is neutral — pure water has a pH of 7. Anything below 7 is acidic (like lemon juice, vinegar, or stomach acid), and anything above 7 is basic (like baking soda, soap, or bleach).",
+                "The pH scale is logarithmic, which means each whole number represents a tenfold change in acidity or basicity. A substance with a pH of 3 is ten times more acidic than one with a pH of 4, and one hundred times more acidic than one with a pH of 5. This mathematical elegance reflects the orderly mind of our Creator."
+            ]
+        },
+        {
+            "heading": "Acids and Bases in Everyday Life",
+            "paragraphs": [
+                "You encounter acids and bases every day. Orange juice, soda, and tomatoes are acidic. Soap, toothpaste, and antacids are basic. Your stomach produces hydrochloric acid (pH around 2) to digest food, while your blood must be maintained at a very precise pH of about 7.4. Even a small change in blood pH can be life-threatening.",
+                "God designed remarkable buffer systems in your body that constantly adjust your blood pH. These buffers work automatically, without any conscious effort on your part, keeping you alive and healthy. The precision of this system points to an intelligent Designer who cares deeply about every detail of your body."
+            ]
+        },
+        {
+            "heading": "Natural pH Indicators",
+            "paragraphs": [
+                "A pH indicator is a substance that changes color when exposed to acids or bases. Red cabbage juice is one of the best natural indicators — it turns red in acids, purple in neutral solutions, green in weak bases, and yellow in strong bases. God packed this remarkable chemical property into an ordinary vegetable.",
+                "Other natural indicators include turmeric (turns red in bases), blueberry juice, and even the pigments in flower petals. The fact that God designed plants with chemical compounds that visually respond to pH changes is another example of the hidden wonders woven throughout His creation."
+            ]
+        },
+        {
+            "heading": "pH in God's Ecosystems",
+            "paragraphs": [
+                "The pH of soil determines which plants can grow in it. Most crops grow best in slightly acidic to neutral soil (pH 6-7). Blueberries prefer more acidic soil, while asparagus prefers slightly basic soil. God designed each plant to thrive in specific chemical conditions.",
+                "Aquatic ecosystems are also sensitive to pH. Most freshwater fish need a pH between 6.5 and 8.5 to survive. Acid rain — caused by pollution — can lower the pH of lakes and streams, harming fish and other organisms. As stewards of God's creation, we have a responsibility to protect these delicate chemical balances."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the precise pH balance required by your blood (7.35-7.45) point to an intelligent Creator rather than random chance?",
+            "guidance": "Consider how narrow the range is and what happens if blood pH moves even slightly outside this range. Think about the buffer systems God designed to maintain this balance automatically."
+        },
+        {
+            "id": 2,
+            "question": "Why do you think God designed natural pH indicators like red cabbage juice? What does this tell us about the hidden complexity of creation?",
+            "guidance": "Consider how many amazing properties exist in ordinary things around us that we might never notice without scientific investigation. Think about what this reveals about God's creativity."
+        },
+        {
+            "id": 3,
+            "question": "How does understanding pH help us be better stewards of God's creation? Give a specific example.",
+            "guidance": "Think about acid rain, soil health, and water quality. Consider how human activity affects pH levels in the environment and our responsibility to care for what God has entrusted to us."
+        }
+    ]
+}

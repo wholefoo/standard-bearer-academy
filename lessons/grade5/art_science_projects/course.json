@@ -1,0 +1,14 @@
+{
+    "grade": "grade5",
+    "subject": "art_science_projects",
+    "title": "The Creator's Lab — Advanced Projects and Experiments",
+    "description": "Dive into advanced hands-on projects exploring DNA, crystals, animation, maps, chemistry, and architecture — discovering the genius of our Creator through science and art.",
+    "units": [
+        {
+            "id": "creators_lab",
+            "title": "The Creator's Lab",
+            "lessons": ["dna_model", "crystal_growing", "stop_motion", "topographic_map", "chemical_reactions", "architectural_design"]
+        }
+    ],
+    "quiz_id": "projects_quiz"
+}

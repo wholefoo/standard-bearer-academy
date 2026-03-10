@@ -1,0 +1,75 @@
+{
+    "id": "environmental_audit",
+    "lesson_number": 4,
+    "unit": "unit1",
+    "title": "Lesson 4: Environmental Audit — Assessing and Improving Our Stewardship",
+    "subtitle": "Conducting a Systematic Assessment of Environmental Impact",
+    "scripture": "Genesis 2:15",
+    "key_concepts": ["Environmental assessment methods", "Energy and water usage", "Waste reduction strategies", "Stewardship action planning"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Genesis 2:15",
+                "text": "\"The LORD God took the man and put him in the Garden of Eden to work it and take care of it.\"",
+                "commentary": "God gave humanity the responsibility to care for creation. An environmental audit is a practical way to assess how well we are fulfilling this stewardship mandate and identify areas for improvement."
+            },
+            {
+                "reference": "Luke 16:10",
+                "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+                "commentary": "Faithful stewardship starts with small, everyday choices — how we use water, energy, and resources. Being trustworthy in these 'little' things demonstrates our readiness for greater responsibility."
+            },
+            {
+                "reference": "Numbers 35:33-34",
+                "text": "\"Do not pollute the land where you are... Do not defile the land where you live and where I dwell, for I, the LORD, dwell among the Israelites.\"",
+                "commentary": "God commands His people not to pollute or defile the land. Caring for the environment is not merely a modern concern — it is a Biblical command rooted in respect for God's creation and His presence in the world."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is an Environmental Audit?",
+            "paragraphs": [
+                "An environmental audit is a systematic assessment of how a home, school, or organization uses resources and impacts the environment. It examines energy consumption, water usage, waste production, and other environmental factors to identify areas where improvements can be made.",
+                "Conducting an audit is a practical application of the stewardship principle found in Genesis 2:15. Rather than simply talking about caring for creation, an audit gives you concrete data about your actual impact and actionable steps to reduce waste and use resources more wisely."
+            ]
+        },
+        {
+            "heading": "Auditing Energy Use",
+            "paragraphs": [
+                "Begin your audit by examining energy consumption. Walk through your home or school and identify every device that uses electricity. Note which lights are left on in empty rooms, which appliances run constantly, and where energy might be wasted through poor insulation or inefficient equipment.",
+                "Record your findings in a data table, noting the device, its estimated wattage, and the approximate hours it runs per day. Calculate the daily and weekly energy consumption for major items. Research the source of your electricity — is it generated from coal, natural gas, nuclear, solar, wind, or hydroelectric power? Understanding where your energy comes from connects your daily habits to their broader environmental impact."
+            ]
+        },
+        {
+            "heading": "Auditing Water and Waste",
+            "paragraphs": [
+                "Next, assess water usage and waste production. Track how much water your household uses for drinking, cooking, bathing, laundry, and outdoor use over one week. Identify potential areas of waste — dripping faucets, running toilets, excessively long showers, or overwatering lawns.",
+                "For waste, sort and weigh your household trash and recycling for one week. Categorize it: food waste, paper, plastic, metal, glass, and non-recyclable materials. Calculate what percentage of your waste could have been recycled, composted, or avoided entirely through different purchasing choices. These numbers provide a clear, honest picture of your environmental footprint."
+            ]
+        },
+        {
+            "heading": "Creating an Action Plan",
+            "paragraphs": [
+                "Based on your audit findings, create a realistic action plan with specific, measurable goals. For example: 'Reduce electricity usage by 15% over the next month by turning off lights in unoccupied rooms and unplugging chargers when not in use.' Or: 'Reduce landfill waste by 25% by composting food scraps and recycling all eligible materials.'",
+                "Present your audit findings and action plan in a professional report, including data tables, charts showing current resource use, and your proposed improvements with projected savings. Implement your plan for at least two weeks and measure the results. This project demonstrates that faithful stewardship is not just an ideal — it is a practical commitment that produces real, measurable change."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What surprised you most about the results of your environmental audit? Were there areas of waste you had not previously noticed?",
+            "guidance": "Reflect on specific findings that changed your awareness. Consider how measuring something objectively often reveals realities we overlook."
+        },
+        {
+            "id": 2,
+            "question": "How does the concept of stewardship in Genesis 2:15 apply to your daily choices about energy, water, and waste? What does faithful stewardship look like practically?",
+            "guidance": "Think about how 'working and taking care of' creation translates into everyday decisions. Consider how small changes can have significant cumulative impact."
+        },
+        {
+            "id": 3,
+            "question": "After implementing your action plan, what changes were most effective? What obstacles did you encounter, and how might you overcome them long-term?",
+            "guidance": "Reflect on both successes and challenges. Consider how sustained change requires both personal commitment and community support."
+        }
+    ]
+}

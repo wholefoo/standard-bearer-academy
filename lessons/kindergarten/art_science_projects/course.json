@@ -1,0 +1,14 @@
+{
+    "grade": "kindergarten",
+    "subject": "art_science_projects",
+    "title": "God's Colorful World — Art and Discovery for Little Hands",
+    "description": "Explore God's colorful world through rainbow art, leaf rubbings, water experiments, clay sculpting, and more! Hands-on discovery for kindergartners.",
+    "units": [
+        {
+            "id": "colorful_world",
+            "title": "God's Colorful World",
+            "lessons": ["rainbow_colors", "leaf_rubbings", "simple_machines_play", "water_experiments", "clay_sculpting", "shadow_art"]
+        }
+    ],
+    "quiz_id": "art_science_quiz"
+}

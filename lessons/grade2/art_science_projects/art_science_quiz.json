@@ -1,0 +1,63 @@
+{
+    "id": "art_science_quiz",
+    "title": "Explore and Create — Art and Science Quiz",
+    "description": "Test your knowledge of the hands-on science experiments and art projects and what they taught us about God's creation!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What happens when you mix baking soda and vinegar in a volcano model?",
+            "options": ["Nothing happens", "It creates a fizzy eruption", "It turns solid", "It disappears"],
+            "correct": 1,
+            "explanation": "When baking soda and vinegar mix, they create a chemical reaction that produces a fizzy eruption, like lava flowing from a volcano."
+        },
+        {
+            "id": 2,
+            "question": "What is the process called when a caterpillar changes into a butterfly?",
+            "options": ["Migration", "Hibernation", "Metamorphosis", "Pollination"],
+            "correct": 2,
+            "explanation": "Metamorphosis is the process where a caterpillar completely transforms through four stages — egg, caterpillar, chrysalis, and butterfly — by God's amazing design."
+        },
+        {
+            "id": 3,
+            "question": "On which day of Creation did God make the stars?",
+            "options": ["Day 1", "Day 3", "Day 4", "Day 6"],
+            "correct": 2,
+            "explanation": "God created the sun, moon, and stars on Day 4 of Creation to govern day and night and to mark seasons (Genesis 1:14-19)."
+        },
+        {
+            "id": 4,
+            "question": "What are the three main types of rocks?",
+            "options": ["Big, medium, and small", "Igneous, sedimentary, and metamorphic", "Hard, soft, and smooth", "Red, gray, and brown"],
+            "correct": 1,
+            "explanation": "God created three main types of rocks: igneous (from cooled lava), sedimentary (from layers pressed together), and metamorphic (changed by heat and pressure)."
+        },
+        {
+            "id": 5,
+            "question": "What does a wind vane measure?",
+            "options": ["How fast the wind blows", "Which direction the wind comes from", "How much rain falls", "The temperature outside"],
+            "correct": 1,
+            "explanation": "A wind vane shows which direction the wind is coming from. It points into the wind so you can tell if it blows from the north, south, east, or west."
+        },
+        {
+            "id": 6,
+            "question": "What is a terrarium?",
+            "options": ["A type of dinosaur", "A mini garden inside a container", "A weather tool", "A kind of rock"],
+            "correct": 1,
+            "explanation": "A terrarium is like a tiny garden inside a jar or container. It has soil, plants, and water that work together in a mini ecosystem designed by God."
+        },
+        {
+            "id": 7,
+            "question": "Why does the Bible call God our 'Rock'?",
+            "options": ["Because God is made of stone", "Because God is strong, solid, and dependable", "Because God likes rocks", "Because rocks are pretty"],
+            "correct": 1,
+            "explanation": "The Bible calls God our 'Rock' because He is strong, solid, and dependable — just like a big, sturdy rock that never moves (Psalm 18:2)."
+        },
+        {
+            "id": 8,
+            "question": "What does 2 Corinthians 5:17 say about being in Christ?",
+            "options": ["We become older", "We become a new creation", "We become butterflies", "We become smarter"],
+            "correct": 1,
+            "explanation": "2 Corinthians 5:17 says that if anyone is in Christ, the new creation has come — the old has gone and the new is here! Just like a caterpillar becomes a butterfly, God makes us new."
+        }
+    ]
+}

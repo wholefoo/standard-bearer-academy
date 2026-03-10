@@ -1,0 +1,103 @@
+{
+    "id": "art_science_quiz",
+    "title": "Applied Science and Art — Preparing for High School",
+    "description": "Test your understanding of research methods, oil painting, the physics of sound, environmental stewardship, graphic design, and forensic science.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What makes a good research question?",
+            "options": [
+                "It should be answerable with a simple yes or no",
+                "It should be as broad as possible to cover more topics",
+                "It should be clear, focused, and answerable through investigation",
+                "It should already have a known answer that you can confirm"
+            ],
+            "correct": 2,
+            "explanation": "A strong research question is clear, focused, and answerable through investigation. It should be specific enough to study thoroughly but broad enough to yield meaningful findings. Questions using 'how,' 'why,' or 'to what extent' encourage deeper analysis."
+        },
+        {
+            "id": 2,
+            "question": "In oil painting, what is the purpose of working in layers from thin to thick?",
+            "options": [
+                "It saves paint and reduces cost",
+                "It allows you to establish the overall composition first and add detail gradually",
+                "Thick paint must always go on the bottom layer",
+                "It makes the painting dry faster"
+            ],
+            "correct": 1,
+            "explanation": "Working from thin to thick (called 'fat over lean') allows you to establish the overall composition with thin washes first, then build up detail, texture, and richness with thicker layers. This approach provides flexibility for corrections and creates depth in the finished painting."
+        },
+        {
+            "id": 3,
+            "question": "What determines the pitch of a sound?",
+            "options": [
+                "The amplitude of the sound wave",
+                "The medium the sound travels through",
+                "The frequency of the sound wave — how many vibrations per second",
+                "The distance between the sound source and the listener"
+            ],
+            "correct": 2,
+            "explanation": "Pitch is determined by frequency — the number of vibrations per second, measured in Hertz (Hz). Higher frequency means higher pitch; lower frequency means lower pitch. The human ear can typically detect frequencies between 20 Hz and 20,000 Hz."
+        },
+        {
+            "id": 4,
+            "question": "According to Genesis 2:15, what responsibility did God give humanity regarding creation?",
+            "options": [
+                "To use all resources as quickly as possible",
+                "To work the earth and take care of it",
+                "To build cities and eliminate wilderness",
+                "To avoid touching anything in nature"
+            ],
+            "correct": 1,
+            "explanation": "Genesis 2:15 tells us that God placed humanity in the garden 'to work it and take care of it.' This establishes our role as stewards — using creation's resources responsibly while also protecting and nurturing the environment."
+        },
+        {
+            "id": 5,
+            "question": "What is visual hierarchy in graphic design?",
+            "options": [
+                "Arranging images from smallest to largest",
+                "Using size, weight, color, and placement to guide the viewer's attention from most to least important information",
+                "Putting the most colorful elements at the top of the page",
+                "Using only one font size throughout the design"
+            ],
+            "correct": 1,
+            "explanation": "Visual hierarchy uses design elements like size, font weight, color, contrast, and placement to guide the viewer's eye through information in order of importance. It ensures that the most critical message is seen first and supporting details follow naturally."
+        },
+        {
+            "id": 6,
+            "question": "Why are fingerprints useful in forensic science?",
+            "options": [
+                "Because everyone's fingerprints look exactly the same",
+                "Because fingerprints change every day, providing a timeline",
+                "Because every person has unique fingerprint patterns that remain unchanged throughout life",
+                "Because fingerprints can only be found at crime scenes"
+            ],
+            "correct": 2,
+            "explanation": "Every person has unique fingerprint patterns — loops, whorls, and arches — that remain unchanged throughout their entire life. This uniqueness makes fingerprints a reliable way to identify individuals, and they have been used in forensic investigation for over a century."
+        },
+        {
+            "id": 7,
+            "question": "What does chromatography separate, and how does it work?",
+            "options": [
+                "It separates light into colors using a prism",
+                "It separates mixtures by allowing different components to move at different rates through a medium",
+                "It separates rocks into different mineral types",
+                "It separates sound waves into different frequencies"
+            ],
+            "correct": 1,
+            "explanation": "Chromatography separates mixtures based on how different components travel through a medium at different rates. In paper chromatography, a solvent carries components up filter paper, separating them into visible bands — revealing the individual substances in a mixture like ink."
+        },
+        {
+            "id": 8,
+            "question": "What does resonance mean in the physics of sound, and why is it important for musical instruments?",
+            "options": [
+                "Resonance is when sound bounces off walls to create an echo",
+                "Resonance occurs when an object vibrates at its natural frequency, amplifying the sound",
+                "Resonance means the sound gets quieter over distance",
+                "Resonance is the ability to hear sound through solid objects"
+            ],
+            "correct": 1,
+            "explanation": "Resonance occurs when an object vibrates at its natural frequency in response to a matching sound wave, causing the vibrations to build and amplify. Musical instruments use resonance — like a guitar's hollow body — to make their sound louder and richer."
+        }
+    ]
+}

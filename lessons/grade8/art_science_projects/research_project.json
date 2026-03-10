@@ -1,0 +1,75 @@
+{
+    "id": "research_project",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Research Project — Investigating a Question That Matters",
+    "subtitle": "Designing and Conducting an Independent Research Investigation",
+    "scripture": "Proverbs 18:15",
+    "key_concepts": ["Research question formulation", "Source evaluation", "Data collection methods", "Presenting findings"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 18:15",
+                "text": "\"The heart of the discerning acquires knowledge, for the ears of the wise seek it out.\"",
+                "commentary": "God values the pursuit of knowledge. Research is a disciplined way to seek truth, requiring discernment to ask the right questions and wisdom to evaluate the answers we find."
+            },
+            {
+                "reference": "Acts 17:11",
+                "text": "\"Now the Berean Jews were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.\"",
+                "commentary": "The Bereans are commended for researching — examining evidence carefully rather than accepting claims uncritically. Good research follows this same principle of careful, honest examination."
+            },
+            {
+                "reference": "Colossians 2:3",
+                "text": "\"In whom are hidden all the treasures of wisdom and knowledge.\"",
+                "commentary": "All true knowledge ultimately comes from God. When we research diligently and honestly, we are uncovering treasures that God has embedded in His creation and in human experience."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Makes Research Meaningful?",
+            "paragraphs": [
+                "Research is the systematic pursuit of knowledge through investigation. Unlike casual curiosity, formal research follows a structured process: asking a clear question, gathering reliable evidence, analyzing the data, and drawing well-supported conclusions. This discipline prepares you for the academic rigor of high school and beyond.",
+                "The best research begins with a question that genuinely interests you — something you want to understand more deeply. Your question should be specific enough to investigate thoroughly but broad enough to yield meaningful findings. Whether your topic involves science, history, social issues, or technology, the research process remains the same."
+            ]
+        },
+        {
+            "heading": "Formulating Your Research Question",
+            "paragraphs": [
+                "A strong research question is clear, focused, and answerable through investigation. Avoid yes/no questions; instead, ask 'how,' 'why,' or 'to what extent' questions that require analysis. For example, instead of asking 'Does pollution harm rivers?' ask 'How does agricultural runoff affect water quality in local streams?'",
+                "Refine your question by doing preliminary reading on your topic. Understand what is already known and identify gaps in existing knowledge. Your research should aim to contribute something new — even if it is simply confirming or challenging existing findings within your local context."
+            ]
+        },
+        {
+            "heading": "Gathering and Evaluating Sources",
+            "paragraphs": [
+                "Use a variety of sources: books, academic articles, reputable websites, interviews with experts, and your own observations or experiments. Evaluate each source for reliability by considering the author's credentials, the publication's reputation, the date of publication, and whether the claims are supported by evidence.",
+                "Keep detailed notes organized by source. Record direct quotes, paraphrased information, and your own analysis. Always cite your sources properly — giving credit where it is due is both an academic requirement and a matter of honesty and integrity before God."
+            ]
+        },
+        {
+            "heading": "Presenting Your Findings",
+            "paragraphs": [
+                "Organize your findings into a clear, structured report or presentation. Include an introduction stating your research question and why it matters, a methods section describing how you investigated, a results section presenting your findings with data and evidence, and a conclusion discussing what your findings mean.",
+                "Use visual aids — charts, graphs, photographs, or diagrams — to make your data accessible and compelling. Practice presenting your research clearly and confidently, anticipating questions from your audience. A well-executed research project demonstrates intellectual maturity and prepares you for the demands of high school academics."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "Why is it important to ask a specific, focused research question rather than investigating a broad topic? How does focus improve the quality of your findings?",
+            "guidance": "Think about how a vague question leads to scattered research, while a precise question allows deep, meaningful investigation."
+        },
+        {
+            "id": 2,
+            "question": "How does the example of the Bereans in Acts 17:11 apply to the research process? What does it look like to examine evidence carefully and honestly?",
+            "guidance": "Consider how the Bereans checked claims against evidence. Think about how good researchers do the same — testing assertions against reliable data rather than accepting them uncritically."
+        },
+        {
+            "id": 3,
+            "question": "What was the most challenging part of your research project? What did you learn about yourself as a learner through this process?",
+            "guidance": "Reflect on specific difficulties — finding reliable sources, organizing data, or drawing conclusions — and how overcoming them helped you grow."
+        }
+    ]
+}

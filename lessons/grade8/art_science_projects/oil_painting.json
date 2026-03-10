@@ -1,0 +1,75 @@
+{
+    "id": "oil_painting",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Oil Painting Techniques — Creating Beauty with Skill and Patience",
+    "subtitle": "Exploring Color Theory, Brushwork, and Composition in Oil Paint",
+    "scripture": "Exodus 31:3-5",
+    "key_concepts": ["Color mixing and theory", "Brushwork techniques", "Composition and focal point", "Layering and glazing"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Exodus 31:3-5",
+                "text": "\"And I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs for work in gold, silver and bronze, to cut and set stones, to work in wood, and to engage in all kinds of crafts.\"",
+                "commentary": "God Himself fills people with artistic skill. The ability to create beautiful art is a gift from God, and developing that gift through practice and discipline is an act of stewardship and worship."
+            },
+            {
+                "reference": "Psalm 27:4",
+                "text": "\"One thing I ask from the LORD, this only do I seek: that I may dwell in the house of the LORD all the days of my life, to gaze on the beauty of the LORD and to seek him in his temple.\"",
+                "commentary": "David longed to gaze on God's beauty. When we create beautiful artwork, we participate in reflecting God's beauty back into the world — giving others a glimpse of the glory that inspired us."
+            },
+            {
+                "reference": "Colossians 3:23",
+                "text": "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"",
+                "commentary": "Oil painting requires patience, skill, and wholehearted effort. Working diligently at our craft — even when no one is watching — honors God and develops excellence."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: The Art of Oil Painting",
+            "paragraphs": [
+                "Oil painting has been one of the most beloved art forms for centuries, producing some of the most famous works in history — from the Renaissance masterpieces of Leonardo da Vinci to the luminous landscapes of the Hudson River School. Oil paint's rich colors, smooth blending, and slow drying time make it uniquely versatile.",
+                "Unlike watercolor or acrylic, oil paint stays workable for hours or even days, allowing you to blend colors directly on the canvas, build up layers gradually, and make corrections as you work. This patient, layered process teaches discipline and rewards careful observation."
+            ]
+        },
+        {
+            "heading": "Color Theory and Mixing",
+            "paragraphs": [
+                "Understanding color theory is essential for painting. The primary colors — red, yellow, and blue — cannot be mixed from other colors. Secondary colors (orange, green, purple) are made by mixing two primaries. Tertiary colors result from mixing a primary with an adjacent secondary.",
+                "Practice mixing colors on a palette before applying them to canvas. Learn to create warm colors (reds, oranges, yellows) and cool colors (blues, greens, purples), and understand how placing warm and cool colors next to each other creates visual energy. Mixing complementary colors (opposites on the color wheel) produces neutral tones useful for shadows and natural subjects."
+            ]
+        },
+        {
+            "heading": "Brushwork and Technique",
+            "paragraphs": [
+                "Different brushes and strokes create different effects. Flat brushes produce broad, even strokes ideal for backgrounds and large areas. Round brushes are versatile for detail work. Palette knives can create thick, textured effects called impasto.",
+                "Practice basic techniques: blocking in large shapes with thin paint first, then building up detail with thicker layers. Learn to blend edges softly where forms turn gradually (like a cheek or a cloud) and to leave sharp edges where forms meet abruptly (like the edge of a building against the sky). Each technique develops your control and expressive range."
+            ]
+        },
+        {
+            "heading": "Your Oil Painting Project",
+            "paragraphs": [
+                "Create an oil painting of a subject from God's creation — a landscape, a still life of natural objects, an animal, or a scene that reflects the beauty and order of the natural world. Begin with a pencil sketch on canvas to plan your composition, identifying your focal point and the flow of the viewer's eye through the painting.",
+                "Work in layers: start with thin washes of color to establish the overall composition, then build up with thicker paint for detail and texture. Allow each layer to dry partially before adding the next. Take your time — oil painting rewards patience. When finished, write a brief artist's statement explaining your subject, your technique, and how the painting connects to your appreciation of God's creation."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the slow, patient process of oil painting differ from faster art forms you have tried? What virtues does this process develop?",
+            "guidance": "Think about how patience, careful observation, and willingness to work slowly toward a goal are valuable both in art and in spiritual growth."
+        },
+        {
+            "id": 2,
+            "question": "How does creating art that reflects God's creation serve as a form of worship? How can beautiful artwork point others toward God?",
+            "guidance": "Consider how art that captures the beauty of creation can inspire wonder and gratitude in viewers, directing their attention toward the Creator."
+        },
+        {
+            "id": 3,
+            "question": "What was the most challenging technique you learned? How did persevering through difficulty improve your skill and your finished painting?",
+            "guidance": "Reflect on specific technical challenges and how working through them produced better results than giving up would have."
+        }
+    ]
+}

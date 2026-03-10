@@ -1,0 +1,75 @@
+{
+    "id": "perspective_drawing",
+    "lesson_number": 2,
+    "unit": "unit1",
+    "title": "Lesson 2: Perspective Drawing — Seeing the World Through God's Eyes",
+    "subtitle": "Learning to Represent Three-Dimensional Space on a Flat Surface",
+    "scripture": "Psalm 19:1",
+    "key_concepts": ["One-point and two-point perspective", "Vanishing points and horizon lines", "Foreshortening and depth", "Art as worship and observation of creation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 19:1",
+                "text": "\"The heavens declare the glory of God; the skies proclaim the work of his hands.\"",
+                "commentary": "When we learn to draw what we see — the depth of a forest path, the height of a mountain, the vastness of the sky — we are training our eyes to notice the glory of God's creation. Art becomes an act of worship when it helps us see and celebrate what God has made."
+            },
+            {
+                "reference": "Exodus 31:3-5",
+                "text": "\"And I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs.\"",
+                "commentary": "God values artistic skill. He specifically filled certain people with His Spirit to create beautiful works of art. When we develop our drawing abilities, we are cultivating a God-given gift."
+            },
+            {
+                "reference": "Romans 1:20",
+                "text": "\"For since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made.\"",
+                "commentary": "Drawing from observation forces us to look closely at creation. The more carefully we look, the more we see evidence of God's invisible qualities — His creativity, order, beauty, and power."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Perspective Drawing?",
+            "paragraphs": [
+                "Perspective drawing is a technique that creates the illusion of three-dimensional depth on a flat, two-dimensional surface. When you look down a long road, the edges of the road appear to come together in the distance. Perspective drawing recreates this effect using mathematical principles and careful observation.",
+                "Before the Renaissance period (around the 1400s), most European art looked flat and unrealistic. It was Christian artists like Filippo Brunelleschi and later Leonardo da Vinci who developed the mathematical rules of perspective, revolutionizing art and helping people see creation more accurately."
+            ]
+        },
+        {
+            "heading": "One-Point Perspective",
+            "paragraphs": [
+                "In one-point perspective, all lines that go 'into' the picture converge at a single vanishing point on the horizon line. The horizon line represents your eye level. This technique is perfect for drawing roads, hallways, railway tracks, or any scene where you are looking straight ahead.",
+                "To draw in one-point perspective, start by drawing a horizontal line across your paper — this is the horizon. Place a dot on the horizon — this is the vanishing point. Then draw lines from the edges of objects to the vanishing point. Objects get smaller as they approach the vanishing point, creating the illusion of distance."
+            ]
+        },
+        {
+            "heading": "Two-Point Perspective",
+            "paragraphs": [
+                "Two-point perspective uses two vanishing points on the horizon line. This technique is used to draw buildings, boxes, and other rectangular objects that are viewed from an angle. The edges of the object recede toward two different vanishing points, creating a more dynamic and realistic view.",
+                "Most of the buildings and structures you see in everyday life appear in two-point perspective. Learning this technique allows you to draw cityscapes, churches, houses, and other architectural subjects with convincing depth and realism."
+            ]
+        },
+        {
+            "heading": "Drawing as an Act of Worship",
+            "paragraphs": [
+                "When you draw from observation — carefully studying the shapes, proportions, and details of God's creation — you are practicing a form of worship. You are saying, 'God, what You have made is worthy of my attention and effort.' Drawing slows you down and trains you to really see the beauty that surrounds you.",
+                "Throughout history, Christian artists have used perspective drawing to create magnificent works that point viewers to God. Cathedral paintings, landscape art, and illustrations of Scripture stories all use perspective to draw the viewer's eye toward truth and beauty. Your art can do the same."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How did the development of perspective drawing during the Renaissance change the way people depicted God's creation?",
+            "guidance": "Consider how flat, unrealistic art compared to perspective art that shows depth and realism. Think about how seeing creation more accurately can help us appreciate God's design."
+        },
+        {
+            "id": 2,
+            "question": "How can drawing and observational art become an act of worship? What does careful observation of creation teach us about God?",
+            "guidance": "Think about Romans 1:20 and how looking closely at creation reveals God's qualities. Consider how slowing down to draw trains our eyes to see beauty we might otherwise miss."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think God gave humans the ability and desire to create art? What purpose does artistic expression serve in God's plan?",
+            "guidance": "Consider that God Himself is the ultimate Creator and that we are made in His image. Think about how art communicates truth, beauty, and meaning in ways that words alone cannot."
+        }
+    ]
+}

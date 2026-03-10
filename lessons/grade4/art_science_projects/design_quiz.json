@@ -1,0 +1,63 @@
+{
+    "id": "design_quiz",
+    "title": "Design and Discover Quiz",
+    "description": "Test your knowledge of catapults, star maps, cells, erosion, tessellations, and rockets!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What type of energy is stored in a pulled-back catapult arm?",
+            "options": ["Kinetic energy", "Potential energy", "Solar energy", "Sound energy"],
+            "correct": 1,
+            "explanation": "When you pull back a catapult arm, you store potential energy. When released, it becomes kinetic energy — the energy of motion."
+        },
+        {
+            "id": 2,
+            "question": "What is a constellation?",
+            "options": ["A single bright star", "A group of stars forming a pattern", "A type of planet", "A shooting star"],
+            "correct": 1,
+            "explanation": "A constellation is a group of stars that forms a pattern or picture in the night sky, like Orion or the Big Dipper."
+        },
+        {
+            "id": 3,
+            "question": "What is the control center of an animal cell?",
+            "options": ["The mitochondria", "The cell membrane", "The nucleus", "The cytoplasm"],
+            "correct": 2,
+            "explanation": "The nucleus is the control center of the cell. It holds the cell's instructions, called DNA."
+        },
+        {
+            "id": 4,
+            "question": "What helps prevent erosion by holding soil in place?",
+            "options": ["Wind", "Plant roots", "Rain", "Sunlight"],
+            "correct": 1,
+            "explanation": "Plant roots act like tiny anchors, holding soil in place and preventing it from being washed or blown away."
+        },
+        {
+            "id": 5,
+            "question": "What is a tessellation?",
+            "options": ["A type of fossil", "A pattern of shapes with no gaps or overlaps", "A kind of bridge", "A chemical reaction"],
+            "correct": 1,
+            "explanation": "A tessellation is a pattern of shapes that fit together perfectly with no gaps and no overlaps, like the pattern in a honeycomb."
+        },
+        {
+            "id": 6,
+            "question": "Which law of physics explains how rockets work?",
+            "options": ["The law of gravity only", "Newton's First Law", "Newton's Third Law of Motion", "The law of magnetism"],
+            "correct": 2,
+            "explanation": "Newton's Third Law states that for every action there is an equal and opposite reaction — when a rocket pushes gas down, the gas pushes the rocket up."
+        },
+        {
+            "id": 7,
+            "question": "What do mitochondria do in a cell?",
+            "options": ["Store water", "Make energy for the cell", "Protect the cell", "Hold DNA"],
+            "correct": 1,
+            "explanation": "Mitochondria are the power plants of the cell — they produce the energy the cell needs to function."
+        },
+        {
+            "id": 8,
+            "question": "Which star has been used by sailors to find their way?",
+            "options": ["The Sun", "Polaris, the North Star", "Sirius", "Betelgeuse"],
+            "correct": 1,
+            "explanation": "Polaris, the North Star, has been used by sailors and travelers for centuries to find their direction because it stays in a fixed position in the northern sky."
+        }
+    ]
+}

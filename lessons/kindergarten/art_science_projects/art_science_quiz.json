@@ -1,0 +1,49 @@
+{
+    "id": "art_science_quiz",
+    "title": "God's Colorful World Quiz",
+    "description": "Let's see what you learned about art and discovery in God's colorful world!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Why did God put a rainbow in the sky?",
+            "options": ["To make it rain", "As a promise to never flood the whole earth again", "To hide the sun", "Because He was bored"],
+            "correct": 1,
+            "explanation": "God put the rainbow in the sky as a promise to Noah that He would never flood the whole earth again (Genesis 9:13)."
+        },
+        {
+            "id": 2,
+            "question": "What can you see inside a leaf when you do a leaf rubbing?",
+            "options": ["Nothing", "The veins and pattern of the leaf", "Animals", "Words"],
+            "correct": 1,
+            "explanation": "Leaf rubbings show the veins and patterns that God designed inside each leaf!"
+        },
+        {
+            "id": 3,
+            "question": "What is a ramp?",
+            "options": ["A flat surface that goes up to help move things", "A kind of animal", "A type of food", "A color"],
+            "correct": 0,
+            "explanation": "A ramp is a flat surface that goes up. It helps us move heavy things more easily. God gave people wisdom to create tools like ramps!"
+        },
+        {
+            "id": 4,
+            "question": "What happens when you put a leaf in water?",
+            "options": ["It disappears", "It sinks to the bottom", "It floats", "It turns blue"],
+            "correct": 2,
+            "explanation": "Leaves are light, so they float on water! God designed water in amazing ways."
+        },
+        {
+            "id": 5,
+            "question": "The Bible says God is like a potter and we are like what?",
+            "options": ["Water", "Clay", "Rocks", "Flowers"],
+            "correct": 1,
+            "explanation": "The Bible says we are the clay and God is the potter. He shapes us with love and care (Isaiah 64:8)!"
+        },
+        {
+            "id": 6,
+            "question": "What makes a shadow?",
+            "options": ["Wind blowing", "An object blocking the light", "Rain falling", "Clouds singing"],
+            "correct": 1,
+            "explanation": "A shadow is made when an object blocks the light. God created light on the very first day of creation (Genesis 1:3)!"
+        }
+    ]
+}

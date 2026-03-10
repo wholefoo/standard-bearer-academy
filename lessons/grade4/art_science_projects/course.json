@@ -1,0 +1,14 @@
+{
+    "grade": "grade4",
+    "subject": "art_science_projects",
+    "title": "Design and Discover — Engineering and Art Challenges",
+    "description": "Take on exciting engineering and art challenges that reveal God's principles of design, physics, and creativity.",
+    "units": [
+        {
+            "id": "design_discover",
+            "title": "Engineering and Art Challenges",
+            "lessons": ["catapult_building", "star_map", "cell_model", "erosion_experiment", "tessellation_art", "rocket_launch"]
+        }
+    ],
+    "quiz_id": "design_quiz"
+}

@@ -1,0 +1,98 @@
+{
+    "id": "projects_quiz",
+    "title": "STEAM Explorations — Where Faith Meets Innovation",
+    "description": "Test your understanding of robotics, perspective drawing, pH chemistry, bridge engineering, digital art, and microscopy.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the correct order of the input-process-output model in robotics?",
+            "options": [
+                "Actuators gather data, sensors make decisions, controllers act",
+                "Sensors gather information, a controller processes it, actuators carry out actions",
+                "Controllers gather data, actuators process it, sensors respond",
+                "The order does not matter"
+            ],
+            "correct": 1,
+            "explanation": "In the input-process-output model, sensors gather information (input), a controller processes it (process), and actuators carry out actions (output). This mirrors how God designed our bodies — senses, brain, and muscles."
+        },
+        {
+            "id": 2,
+            "question": "In one-point perspective drawing, where do all receding lines converge?",
+            "options": [
+                "At the bottom of the page",
+                "At a single vanishing point on the horizon line",
+                "At the edges of the paper",
+                "They do not converge — they stay parallel"
+            ],
+            "correct": 1,
+            "explanation": "In one-point perspective, all lines that recede into the distance converge at a single vanishing point on the horizon line, creating the illusion of depth on a flat surface."
+        },
+        {
+            "id": 3,
+            "question": "What pH value indicates a neutral substance?",
+            "options": ["0", "3", "7", "14"],
+            "correct": 2,
+            "explanation": "A pH of 7 is neutral — neither acidic nor basic. Pure water has a pH of 7. Values below 7 are acidic, and values above 7 are basic (alkaline)."
+        },
+        {
+            "id": 4,
+            "question": "Why is the triangle considered the strongest shape for bridge construction?",
+            "options": [
+                "It uses the least material",
+                "It is the most attractive shape",
+                "It cannot be deformed without breaking a side",
+                "It is the easiest shape to build"
+            ],
+            "correct": 2,
+            "explanation": "A triangle is inherently rigid — its shape cannot be changed without breaking one of its sides. This makes triangles ideal for distributing weight in bridges and other structures."
+        },
+        {
+            "id": 5,
+            "question": "What color model do digital screens use to display images?",
+            "options": [
+                "CMYK (Cyan, Magenta, Yellow, Black)",
+                "RGB (Red, Green, Blue)",
+                "RYB (Red, Yellow, Blue)",
+                "HSL (Hue, Saturation, Lightness)"
+            ],
+            "correct": 1,
+            "explanation": "Digital screens use the RGB color model, combining Red, Green, and Blue light at various intensities to produce millions of colors. This is an additive color model where all three at full intensity produce white."
+        },
+        {
+            "id": 6,
+            "question": "How do you calculate the total magnification of a compound microscope?",
+            "options": [
+                "Add the eyepiece power and objective lens power together",
+                "Multiply the eyepiece power by the objective lens power",
+                "Subtract the eyepiece power from the objective lens power",
+                "Use only the objective lens power"
+            ],
+            "correct": 1,
+            "explanation": "Total magnification equals the eyepiece (ocular) magnification multiplied by the objective lens magnification. For example, a 10x eyepiece with a 40x objective produces 400x total magnification."
+        },
+        {
+            "id": 7,
+            "question": "According to Philippians 4:8, what standard should guide a Christian artist's creative work?",
+            "options": [
+                "Whatever is popular and trendy",
+                "Whatever gets the most attention",
+                "Whatever is true, noble, right, pure, lovely, and admirable",
+                "Whatever the artist feels like creating"
+            ],
+            "correct": 2,
+            "explanation": "Philippians 4:8 calls us to focus on what is true, noble, right, pure, lovely, and admirable. This provides a Biblical filter for all creative work, including digital art."
+        },
+        {
+            "id": 8,
+            "question": "What does red cabbage juice do when used as a pH indicator?",
+            "options": [
+                "It stays the same color in all substances",
+                "It changes color depending on whether a substance is acidic, neutral, or basic",
+                "It only works with water",
+                "It turns black in every solution"
+            ],
+            "correct": 1,
+            "explanation": "Red cabbage juice is a natural pH indicator that changes color: red in acids, purple in neutral solutions, green in weak bases, and yellow in strong bases — a remarkable chemical property God built into an ordinary vegetable."
+        }
+    ]
+}

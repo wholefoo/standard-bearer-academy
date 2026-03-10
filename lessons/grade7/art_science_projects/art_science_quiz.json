@@ -1,0 +1,103 @@
+{
+    "id": "art_science_quiz",
+    "title": "Design Thinking — Solving Problems God's Way",
+    "description": "Test your understanding of invention and design thinking, the scientific method, architecture, electrical circuits, photography, and geology.",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the first step of the design thinking process?",
+            "options": [
+                "Build a prototype immediately",
+                "Empathize — understand the problem and the people affected",
+                "Test your solution on others",
+                "Choose the most expensive materials"
+            ],
+            "correct": 1,
+            "explanation": "The design thinking process begins with empathy — deeply understanding the problem and the people who experience it. This ensures that solutions are meaningful and address real needs."
+        },
+        {
+            "id": 2,
+            "question": "In the scientific method, what is the purpose of a control group?",
+            "options": [
+                "To make the experiment more complicated",
+                "To provide a baseline for comparison so you can see the effect of your variable",
+                "To control the temperature of the experiment",
+                "To prove that your hypothesis is correct"
+            ],
+            "correct": 1,
+            "explanation": "A control group provides a baseline — a version of the experiment where the independent variable is not changed. This allows you to compare results and determine whether your variable actually caused the observed effect."
+        },
+        {
+            "id": 3,
+            "question": "What is the primary advantage of a parallel circuit over a series circuit?",
+            "options": [
+                "It uses less wire",
+                "It is easier to build",
+                "If one component fails, the others continue to work",
+                "It produces brighter light with fewer batteries"
+            ],
+            "correct": 2,
+            "explanation": "In a parallel circuit, each component has its own path back to the power source. If one component fails, the current continues through the other paths, so the remaining components keep working."
+        },
+        {
+            "id": 4,
+            "question": "What does the 'rule of thirds' help you do in photography?",
+            "options": [
+                "Take exactly three photos of each subject",
+                "Divide your budget into three equal parts for equipment",
+                "Create more dynamic and visually pleasing compositions by placing subjects along grid lines",
+                "Use three different light sources for each photo"
+            ],
+            "correct": 2,
+            "explanation": "The rule of thirds divides your image into a 3x3 grid. Placing your subject along the grid lines or at their intersections creates a more dynamic and visually interesting composition than simply centering the subject."
+        },
+        {
+            "id": 5,
+            "question": "What are the three main types of rocks classified by geologists?",
+            "options": [
+                "Hard, soft, and medium",
+                "Igneous, sedimentary, and metamorphic",
+                "Limestone, granite, and marble",
+                "Volcanic, river, and mountain"
+            ],
+            "correct": 1,
+            "explanation": "Geologists classify rocks into three types based on how they formed: igneous (from cooled magma), sedimentary (from compressed layers of sediment), and metamorphic (from existing rocks transformed by heat and pressure)."
+        },
+        {
+            "id": 6,
+            "question": "According to Proverbs 24:3-4, what three things are needed to build a house?",
+            "options": [
+                "Money, materials, and workers",
+                "Wisdom, understanding, and knowledge",
+                "Speed, strength, and skill",
+                "Plans, permits, and patience"
+            ],
+            "correct": 1,
+            "explanation": "Proverbs 24:3-4 teaches that 'by wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures.' These principles apply to all building and design."
+        },
+        {
+            "id": 7,
+            "question": "Why is a hypothesis important in the scientific method?",
+            "options": [
+                "It guarantees the experiment will succeed",
+                "It provides a testable prediction that guides the experiment design",
+                "It replaces the need for actual testing",
+                "It ensures you get the answer you want"
+            ],
+            "correct": 1,
+            "explanation": "A hypothesis is a testable prediction that gives your experiment direction and focus. It states what you expect to happen and why, allowing you to design an experiment that can support or disprove your prediction."
+        },
+        {
+            "id": 8,
+            "question": "What does the word 'photography' literally mean, and why is light so important in this art form?",
+            "options": [
+                "Capturing memories — because photos preserve moments in time",
+                "Drawing with pencils — because photographers must sketch first",
+                "Writing with light — because light is the essential element that creates every photograph",
+                "Painting with colors — because photography is about color balance"
+            ],
+            "correct": 2,
+            "explanation": "Photography literally means 'writing with light.' Light is the essential element in every photograph — its quality, direction, and color determine the mood, clarity, and beauty of the image."
+        }
+    ]
+}

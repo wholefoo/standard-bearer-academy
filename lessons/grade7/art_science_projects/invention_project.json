@@ -1,0 +1,75 @@
+{
+    "id": "invention_project",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: The Invention Project — Identifying Problems and Designing Solutions",
+    "subtitle": "Using God-Given Creativity to Solve Real-World Problems",
+    "scripture": "Exodus 35:31-32",
+    "key_concepts": ["Design thinking process", "Problem identification", "Brainstorming and prototyping", "Iterative improvement"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Exodus 35:31-32",
+                "text": "\"And he has filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs for work in gold, silver and bronze.\"",
+                "commentary": "God gave Bezalel specific skills and wisdom to design and build. When we use our creativity to invent solutions, we follow the example of those whom God equipped for purposeful work."
+            },
+            {
+                "reference": "Proverbs 8:12",
+                "text": "\"I, wisdom, dwell together with prudence; I possess knowledge and discretion.\"",
+                "commentary": "Good invention starts with wisdom — understanding the problem deeply before rushing to solutions. God calls us to combine creativity with careful, thoughtful planning."
+            },
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it.'\"",
+                "commentary": "God gave humanity the mandate to develop and steward creation. Invention and innovation are part of fulfilling this calling — using our minds to improve life for others."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Design Thinking?",
+            "paragraphs": [
+                "Design thinking is a creative problem-solving process used by engineers, architects, and inventors around the world. It starts not with a solution, but with a question: What problem needs solving? This approach honors God by using the minds He gave us to serve others and improve the world around us.",
+                "The design thinking process has five stages: empathize (understand the problem and the people affected), define (clearly state the problem), ideate (brainstorm many possible solutions), prototype (build a simple model), and test (try it out and improve it). Each stage requires patience, humility, and a willingness to learn from failure."
+            ]
+        },
+        {
+            "heading": "Identifying a Real Problem",
+            "paragraphs": [
+                "Great inventions begin with observation. Look around your home, school, or community. What frustrations do people face? What tasks are harder than they need to be? What needs are unmet? A good inventor pays attention to the world around them and listens to others with empathy.",
+                "Write down at least five problems you observe. Then choose one that excites you — something you genuinely want to solve. The best inventions come from inventors who care deeply about the people they are helping. This reflects God's heart for compassion and service."
+            ]
+        },
+        {
+            "heading": "Brainstorming and Sketching Solutions",
+            "paragraphs": [
+                "Once you have identified your problem, spend time brainstorming as many solutions as possible. Do not judge your ideas at first — even wild or impractical ideas can spark better ones. Sketch your top three ideas on paper, labeling the parts and explaining how each would work.",
+                "Select your best idea and create a more detailed plan. Consider what materials you would need, how large it would be, and how someone would use it. Think about potential challenges and how you might overcome them. This planning stage is where wisdom and creativity come together."
+            ]
+        },
+        {
+            "heading": "Building and Testing Your Prototype",
+            "paragraphs": [
+                "A prototype is a simple, working model of your invention. It does not need to be perfect — it just needs to demonstrate your idea. Use everyday materials like cardboard, tape, string, paper cups, or craft supplies to build a basic version of your design.",
+                "Test your prototype by trying to use it for its intended purpose. Does it work? What could be improved? Ask someone else to try it and give feedback. Inventors rarely get it right on the first try. Iteration — improving through repeated testing — is a key part of the design process. Perseverance in the face of setbacks reflects the character God builds in us through challenges."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "What problem did you choose to solve, and why does it matter to you? How does solving problems for others reflect God's love?",
+            "guidance": "Think about how your invention could help real people. Consider how serving others through creativity is an act of love and stewardship."
+        },
+        {
+            "id": 2,
+            "question": "What did you learn from testing your prototype? How does the process of iteration teach patience and humility?",
+            "guidance": "Reflect on what worked and what didn't. Consider how failure and improvement are part of God's process of shaping our character."
+        },
+        {
+            "id": 3,
+            "question": "How does the design thinking process — empathize, define, ideate, prototype, test — reflect Biblical principles of wisdom and service?",
+            "guidance": "Think about how each stage requires listening, careful thought, creativity, and perseverance — all qualities God values."
+        }
+    ]
+}

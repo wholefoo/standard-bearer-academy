@@ -1,0 +1,75 @@
+{
+    "id": "physics_of_sound",
+    "lesson_number": 3,
+    "unit": "unit1",
+    "title": "Lesson 3: The Physics of Sound — Understanding Waves, Vibrations, and Music",
+    "subtitle": "Exploring How Sound Works Through Experiments and Instrument Building",
+    "scripture": "Psalm 150:3-5",
+    "key_concepts": ["Sound waves and vibration", "Frequency and pitch", "Amplitude and volume", "Resonance and harmonics"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Psalm 150:3-5",
+                "text": "\"Praise him with the sounding of the trumpet, praise him with the harp and lyre, praise him with timbrel and dancing, praise him with the strings and pipe, praise him with the clash of cymbals, praise him with resounding cymbals.\"",
+                "commentary": "God delights in music made by many different instruments — each producing sound through different physical principles. Understanding the science of sound deepens our appreciation for the music we offer in worship."
+            },
+            {
+                "reference": "Job 38:7",
+                "text": "\"While the morning stars sang together and all the angels shouted for joy.\"",
+                "commentary": "God's creation began with joyful sound. The physics of sound — vibrations traveling through matter — is part of the beautiful order God embedded in the universe."
+            },
+            {
+                "reference": "Colossians 3:16",
+                "text": "\"Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.\"",
+                "commentary": "Music is a powerful tool for worship, teaching, and building community. Understanding how sound works gives us deeper appreciation for the gift of music that God has given humanity."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Sound?",
+            "paragraphs": [
+                "Sound is a form of energy produced by vibrations. When an object vibrates — a guitar string, a drum head, your vocal cords — it causes the surrounding air molecules to vibrate in a chain reaction, creating a wave that travels outward in all directions. When these waves reach your ear, your brain interprets them as sound.",
+                "Sound waves are longitudinal waves, meaning the air molecules vibrate back and forth in the same direction the wave travels, creating areas of compression (where molecules are pushed together) and rarefaction (where they spread apart). Sound requires a medium to travel through — air, water, or solid materials — which is why there is no sound in the vacuum of space."
+            ]
+        },
+        {
+            "heading": "Frequency, Pitch, and Wavelength",
+            "paragraphs": [
+                "The frequency of a sound wave — how many vibrations occur per second, measured in Hertz (Hz) — determines its pitch. High-frequency waves produce high-pitched sounds (like a whistle), while low-frequency waves produce low-pitched sounds (like a bass drum). The human ear can typically hear frequencies between 20 Hz and 20,000 Hz.",
+                "Experiment with pitch by stretching rubber bands of different thicknesses over a box. Thinner, tighter bands vibrate faster and produce higher pitches. Thicker, looser bands vibrate slower and produce lower pitches. You can also demonstrate pitch changes by filling glass bottles with different amounts of water and tapping them — more water means less air to vibrate, producing higher pitches."
+            ]
+        },
+        {
+            "heading": "Amplitude, Volume, and Resonance",
+            "paragraphs": [
+                "The amplitude of a sound wave — the size of the vibration — determines its volume (loudness). Larger vibrations produce louder sounds; smaller vibrations produce softer sounds. Volume is measured in decibels (dB). Normal conversation is about 60 dB, while a rock concert can exceed 110 dB — loud enough to damage hearing.",
+                "Resonance occurs when an object vibrates at its natural frequency in response to a sound wave. This is why a singer can shatter a glass — if the sound matches the glass's natural frequency, the vibrations build until the glass breaks. Musical instruments use resonance to amplify sound: a guitar's hollow body resonates with the vibrating strings, making the sound louder and richer."
+            ]
+        },
+        {
+            "heading": "Build Your Own Instrument",
+            "paragraphs": [
+                "Apply your understanding of sound by designing and building a simple musical instrument. You might build a string instrument (using a box and rubber bands or fishing line), a wind instrument (using PVC pipes of different lengths), or a percussion instrument (using containers of different sizes and materials).",
+                "Your instrument should be able to produce at least five different pitches. Document your design process, explaining how it produces sound, why different pitches are produced, and how volume can be controlled. Play a simple melody on your instrument and present your project with a written explanation connecting the physics of sound to the beauty of music that God designed for our enjoyment and His glory."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does understanding the physics of sound deepen your appreciation for music — both in worship and in daily life?",
+            "guidance": "Think about how knowing that sound involves precise physical principles makes the beauty of music even more remarkable. Consider what this reveals about God's design."
+        },
+        {
+            "id": 2,
+            "question": "What design challenges did you face when building your instrument? How did understanding frequency and resonance help you solve them?",
+            "guidance": "Reflect on specific problems and how your knowledge of sound physics guided your solutions. Consider how theory and practice work together."
+        },
+        {
+            "id": 3,
+            "question": "Why do you think God designed humans to respond so powerfully to music? How does music serve purposes beyond entertainment?",
+            "guidance": "Consider how music affects emotions, builds community, aids memory, and facilitates worship. Think about why God specifically commands musical praise."
+        }
+    ]
+}

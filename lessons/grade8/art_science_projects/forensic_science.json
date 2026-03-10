@@ -1,0 +1,75 @@
+{
+    "id": "forensic_science",
+    "lesson_number": 6,
+    "unit": "unit1",
+    "title": "Lesson 6: Forensic Science — Using Science to Pursue Justice and Truth",
+    "subtitle": "Exploring Fingerprinting, Chromatography, and Evidence Analysis",
+    "scripture": "Proverbs 21:15",
+    "key_concepts": ["Fingerprint analysis", "Chromatography", "Observation and evidence", "Scientific reasoning in investigation"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Proverbs 21:15",
+                "text": "\"When justice is done, it brings joy to the righteous but terror to evildoers.\"",
+                "commentary": "Forensic science serves the cause of justice — using careful observation and scientific analysis to determine the truth. God values justice, and forensic science is one way humanity pursues it."
+            },
+            {
+                "reference": "Psalm 139:14",
+                "text": "\"I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+                "commentary": "Fingerprints are one of the most remarkable examples of God's individual design — no two people in history have ever shared the same fingerprint patterns. This uniqueness reflects how God knows and values each person individually."
+            },
+            {
+                "reference": "Deuteronomy 16:20",
+                "text": "\"Follow justice and justice alone, so that you may live and possess the land the LORD your God is giving you.\"",
+                "commentary": "God commands His people to pursue justice diligently. Forensic science provides tools for this pursuit, using evidence rather than assumptions to determine what truly happened."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "Introduction: What Is Forensic Science?",
+            "paragraphs": [
+                "Forensic science is the application of scientific methods and techniques to investigate crimes, accidents, and other events requiring factual evidence. Forensic scientists analyze physical evidence — fingerprints, fibers, chemicals, documents, and biological samples — to reconstruct what happened and identify those involved.",
+                "Forensic science serves justice by replacing speculation with evidence. Rather than relying on guesswork or false accusations, forensic investigators use careful observation, systematic testing, and logical reasoning to determine the truth. This commitment to evidence-based truth aligns with God's command to pursue justice fairly and honestly."
+            ]
+        },
+        {
+            "heading": "Fingerprint Analysis",
+            "paragraphs": [
+                "Every person has unique fingerprint patterns — loops, whorls, and arches — that remain unchanged throughout their life. Fingerprint analysis is one of the oldest and most reliable forensic techniques, used for over a century to identify individuals.",
+                "Practice collecting fingerprints using an ink pad or by dusting surfaces with cocoa powder or graphite and lifting prints with clear tape. Examine the prints with a magnifying glass and classify them by pattern type. Compare prints from different fingers and different people to observe the incredible uniqueness God built into each individual. Create a fingerprint identification card for yourself, documenting all ten fingers."
+            ]
+        },
+        {
+            "heading": "Chromatography: Separating Mixtures",
+            "paragraphs": [
+                "Chromatography is a technique for separating mixtures based on how different components move through a medium. In paper chromatography, a sample (like ink) is placed on filter paper, and a solvent (like water or rubbing alcohol) carries the different components up the paper at different rates, separating them into visible bands of color.",
+                "Conduct a chromatography experiment: use different brands of black markers on strips of filter paper or coffee filters. Dip the bottom edge in water and observe how the ink separates into its component colors. Different brands produce different color patterns, which can be used to identify which specific pen was used to write a document — a technique actually used in forensic investigations."
+            ]
+        },
+        {
+            "heading": "Your Forensic Investigation",
+            "paragraphs": [
+                "Set up a mock crime scene investigation. Working with a partner or family member, create a scenario where evidence must be collected and analyzed to solve a mystery. Include fingerprints, handwriting samples, fiber evidence, and chromatography analysis. One person sets up the scene; the other investigates.",
+                "Document your investigation like a real forensic scientist: photograph the scene, collect and label evidence carefully, conduct your analyses, and write a detailed report presenting your findings and conclusions. Your report should clearly explain how each piece of evidence contributed to your conclusion. This project integrates observation, scientific analysis, logical reasoning, and clear communication — essential skills for any field of study."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the uniqueness of fingerprints reflect God's individual design and care for each person? What does it mean that no two people share the same prints?",
+            "guidance": "Think about how fingerprint uniqueness demonstrates that God created each person as a distinct individual. Consider what this says about His attention to detail and personal knowledge of each of us."
+        },
+        {
+            "id": 2,
+            "question": "Why is evidence-based investigation more just than relying on assumptions or accusations? How does forensic science serve the Biblical command to pursue justice?",
+            "guidance": "Consider how evidence protects the innocent and identifies the guilty more reliably than guesswork. Think about Biblical principles of fair judgment and the importance of witnesses and evidence."
+        },
+        {
+            "id": 3,
+            "question": "What skills from forensic science — careful observation, systematic testing, logical reasoning — are valuable in other areas of life and faith?",
+            "guidance": "Reflect on how these skills apply to studying Scripture, making decisions, evaluating claims, and understanding the world around you."
+        }
+    ]
+}

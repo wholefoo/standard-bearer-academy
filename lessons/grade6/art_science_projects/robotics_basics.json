@@ -1,0 +1,75 @@
+{
+    "id": "robotics_basics",
+    "lesson_number": 1,
+    "unit": "unit1",
+    "title": "Lesson 1: Robotics Basics — Designing Machines That Serve",
+    "subtitle": "Exploring How Human Creativity Reflects the Creator's Ingenuity",
+    "scripture": "Exodus 35:31-32",
+    "key_concepts": ["What a robot is and how it works", "Input-process-output model", "Sensors and actuators", "Using creativity as a gift from God"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Exodus 35:31-32",
+                "text": "\"And he has filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills — to make artistic designs for work in gold, silver and bronze.\"",
+                "commentary": "God gave Bezalel extraordinary skill and creativity for building the Tabernacle. In the same way, our ability to design and build machines — including robots — is a gift from God. We use these gifts to serve others and glorify Him."
+            },
+            {
+                "reference": "Genesis 1:28",
+                "text": "\"God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it.'\"",
+                "commentary": "God gave humanity the mandate to exercise dominion over creation. Robotics and technology are tools that help us fulfill this mandate — cultivating the earth, solving problems, and caring for one another more effectively."
+            },
+            {
+                "reference": "Proverbs 22:29",
+                "text": "\"Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.\"",
+                "commentary": "God honors skillful work. Learning robotics and engineering develops the kind of practical skill and diligence that Scripture commends. Excellence in our work is a form of worship."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is a Robot?",
+            "paragraphs": [
+                "A robot is a machine that can be programmed to carry out tasks automatically or semi-automatically. Robots come in many forms — from simple machines that repeat the same motion on a factory assembly line to sophisticated devices that can navigate obstacles, respond to voice commands, or even perform surgery.",
+                "At its core, every robot follows the input-process-output model. Sensors gather information from the environment (input), a controller or computer processes that information and makes decisions (process), and actuators like motors or lights carry out actions (output). This elegant system mirrors the way God designed our own bodies — our senses gather input, our brains process it, and our muscles respond."
+            ]
+        },
+        {
+            "heading": "Sensors and Actuators",
+            "paragraphs": [
+                "Sensors are the 'eyes and ears' of a robot. Light sensors detect brightness, touch sensors detect pressure, ultrasonic sensors measure distance, and temperature sensors detect heat. Each sensor converts a physical measurement into an electrical signal that the robot's controller can understand.",
+                "Actuators are the 'muscles' of a robot. Motors spin wheels or move arms, LEDs produce light, and speakers produce sound. The controller sends signals to actuators based on what it has learned from the sensors. This combination of sensing and acting allows robots to interact with the world around them."
+            ]
+        },
+        {
+            "heading": "Building a Simple Robot",
+            "paragraphs": [
+                "You do not need expensive equipment to explore robotics. A simple bristlebot — made from a toothbrush head, a small vibrating motor, and a coin cell battery — demonstrates the basic principles. The motor vibrates, causing the bristles to move, and the robot scoots across a flat surface.",
+                "More advanced projects might involve programmable microcontrollers like Arduino or micro:bit, which allow you to write code that tells the robot how to respond to sensor input. Whether simple or complex, building a robot teaches problem-solving, logical thinking, and perseverance — all qualities that honor God."
+            ]
+        },
+        {
+            "heading": "Robotics and Faith",
+            "paragraphs": [
+                "Some people worry that advanced technology replaces the need for God. But the opposite is true — the more we create, the more we appreciate the unmatched creativity of our Creator. The most advanced robot in the world cannot match the complexity of a single human cell. Our innovations are pale reflections of God's infinite ingenuity.",
+                "As Christians, we are called to use technology to serve others and glorify God. Robots that assist disabled people, deliver medicine, explore dangerous environments, or help farmers grow food are all examples of using our God-given creativity to love our neighbors."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How does the input-process-output model of a robot compare to how God designed the human body to interact with the world?",
+            "guidance": "Think about how your senses gather information, your brain processes it, and your muscles respond. Consider how the body's system is infinitely more complex than any robot."
+        },
+        {
+            "id": 2,
+            "question": "Why should Christians care about developing technology like robotics? How can robots be used to serve others?",
+            "guidance": "Consider the dominion mandate in Genesis 1:28 and examples of robots that help people in practical ways — medical robots, agricultural robots, search-and-rescue robots."
+        },
+        {
+            "id": 3,
+            "question": "What is the difference between human creativity and robotic 'intelligence'? Why does building advanced machines actually point us back to God?",
+            "guidance": "Think about the fact that robots only do what they are programmed to do, while humans have genuine creativity, consciousness, and moral reasoning — gifts from our Creator."
+        }
+    ]
+}

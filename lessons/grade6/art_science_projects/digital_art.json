@@ -1,0 +1,75 @@
+{
+    "id": "digital_art",
+    "lesson_number": 5,
+    "unit": "unit1",
+    "title": "Lesson 5: Digital Art — Creating Beauty with Technology",
+    "subtitle": "Using Digital Tools to Express Creativity and Honor the Creator",
+    "scripture": "Philippians 4:8",
+    "key_concepts": ["Digital art tools and techniques", "Pixels, resolution, and color theory", "Vector vs. raster graphics", "Creating art that honors God"],
+    "scripture_connection": {
+        "verses": [
+            {
+                "reference": "Philippians 4:8",
+                "text": "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.\"",
+                "commentary": "This verse provides a filter for all creative work, including digital art. As Christian artists, we should create work that is true, noble, right, pure, lovely, and admirable. Our art should point viewers toward beauty and truth, not away from it."
+            },
+            {
+                "reference": "Psalm 96:6",
+                "text": "\"Splendor and majesty are before him; strength and glory are in his sanctuary.\"",
+                "commentary": "God surrounds Himself with beauty. He created a world filled with stunning colors, intricate patterns, and breathtaking landscapes. When we create beautiful art — whether with paint or pixels — we reflect the character of our beautiful God."
+            },
+            {
+                "reference": "Colossians 3:17",
+                "text": "\"And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.\"",
+                "commentary": "Digital art, like any creative endeavor, can be done in the name of Jesus. When we create with excellence, gratitude, and the desire to glorify God, our art becomes an offering of worship."
+            }
+        ]
+    },
+    "content": [
+        {
+            "heading": "What Is Digital Art?",
+            "paragraphs": [
+                "Digital art is any artistic work created using digital technology. This includes illustrations made on a tablet, photos edited with software, graphic designs created on a computer, and animations produced with digital tools. Digital art has become one of the most common forms of artistic expression in the modern world.",
+                "While the tools are different from traditional art, the fundamental principles remain the same: composition, color theory, balance, contrast, and storytelling. A digital artist needs the same eye for beauty and the same creative spirit that God gives to all artists. The medium is new, but the gift of creativity comes from the same eternal Source."
+            ]
+        },
+        {
+            "heading": "Pixels and Resolution",
+            "paragraphs": [
+                "Digital images are made up of tiny squares called pixels (short for 'picture elements'). Each pixel is a single point of color. When thousands or millions of pixels are combined, they form a complete image. The more pixels in an image, the higher its resolution and the sharper it appears.",
+                "Resolution is measured in pixels per inch (PPI) or dots per inch (DPI). A higher resolution means more detail. For screen display, 72-96 PPI is standard. For printing, 300 DPI is typically needed for sharp results. Understanding resolution helps you create art that looks crisp and professional at any size."
+            ]
+        },
+        {
+            "heading": "Color Theory in Digital Art",
+            "paragraphs": [
+                "Digital screens use the RGB color model — Red, Green, and Blue light are combined in various intensities to produce millions of colors. This is an additive color model: combining all three colors at full intensity produces white light. God designed light itself to contain the full spectrum of color, and digital technology harnesses this property.",
+                "Understanding color relationships helps artists create more effective compositions. Complementary colors (opposites on the color wheel) create vibrant contrast. Analogous colors (neighbors on the color wheel) create harmony. Warm colors (reds, oranges, yellows) advance toward the viewer, while cool colors (blues, greens, purples) recede. These principles reflect the order God built into how our eyes perceive light."
+            ]
+        },
+        {
+            "heading": "Creating Art That Honors God",
+            "paragraphs": [
+                "As Christian digital artists, our work should be guided by the standard set in Philippians 4:8. We should ask ourselves: Is this true? Is it noble? Is it pure? Is it lovely? Does it point people toward God or away from Him? Not every piece of art needs to include explicit Christian content, but all our art should reflect Christian values.",
+                "Digital art can be used to illustrate Bible stories, create worship graphics for church, design encouraging social media posts, or simply celebrate the beauty of God's creation through digital painting and photography. The possibilities are limited only by your imagination and your willingness to develop your skills."
+            ]
+        }
+    ],
+    "reflection_questions": [
+        {
+            "id": 1,
+            "question": "How can you apply the filter of Philippians 4:8 to the digital art you create and consume? What would this look like practically?",
+            "guidance": "Think about specific examples of art that is true, noble, right, pure, lovely, and admirable versus art that falls short of these standards. Consider how this applies to both creating and viewing digital content."
+        },
+        {
+            "id": 2,
+            "question": "How does understanding color theory (how colors interact and affect mood) reveal God's design in how He created our eyes and brains to perceive light?",
+            "guidance": "Consider the complexity of human color vision — millions of cone cells detecting different wavelengths of light. Think about why God might have designed a world so rich in color."
+        },
+        {
+            "id": 3,
+            "question": "In what ways can digital art be used to serve God's kingdom and encourage others? Brainstorm at least three specific ideas.",
+            "guidance": "Think about practical applications: church graphics, illustrated Scripture verses, encouraging social media content, designing materials for missions, visualizing Bible stories for younger children, etc."
+        }
+    ]
+}
