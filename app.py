@@ -40,6 +40,7 @@ SUBJECTS = {
     "technology": {"name": "Technology", "icon": "💻"},
     "creative_writing": {"name": "Creative Writing", "icon": "✍️"},
     "life_skills": {"name": "Life Skills", "icon": "🛠️"},
+    "art_science_projects": {"name": "Art & Science Projects", "icon": "🎨"},
 }
 
 USER_ROLES = {
