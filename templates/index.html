@@ -1,5 +1,135 @@
 {% extends "base.html" %}
 {% block title %}Standard Bearer Academy - K-12 Homeschool Learning Management System{% endblock %}
+{% block meta_description %}<meta name="description" content="Standard Bearer Academy is a free, comprehensive K-12 homeschool LMS offering 115 courses across 10 subjects including Science, Math, History, Bible, and more — all from a conservative, Judeo-Evangelical Christian, Creation-based worldview.">{% endblock %}
+{% block meta_keywords %}<meta name="keywords" content="homeschool curriculum, Christian homeschool, K-12 education, creation science, biblical worldview, homeschool LMS, Bible-based learning, free homeschool, young earth creationism, classical Christian education, homeschool courses">{% endblock %}
+{% block og_meta %}
+<meta property="og:title" content="Standard Bearer Academy - K-12 Christian Homeschool Curriculum">
+<meta property="og:description" content="Free K-12 homeschool LMS with 115 courses across 10 subjects. Creation-based science, providential history, and Scripture-rooted education for every grade.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ request.url_root }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Standard Bearer Academy - K-12 Christian Homeschool Curriculum">
+<meta name="twitter:description" content="Free K-12 homeschool LMS with 115 courses across 10 subjects. Creation-based science, providential history, and Scripture-rooted education.">
+{% endblock %}
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Standard Bearer Academy",
+  "description": "A comprehensive K-12 homeschool learning management system offering 115 courses across 10 subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based (Young Earth/Biblical) worldview.",
+  "url": "{{ request.url_root }}",
+  "email": "boundlessvolumes@gmail.com",
+  "founder": {
+    "@type": "Person",
+    "name": "Mike Mallek",
+    "email": "boundlessvolumes@gmail.com"
+  },
+  "educationalCredentialAwarded": "Homeschool Curriculum Completion",
+  "isAccessibleForFree": true,
+  "sameAs": []
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Standard Bearer Academy",
+  "url": "{{ request.url_root }}",
+  "description": "K-12 Homeschool Learning Management System"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Standard Bearer Academy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) that provides a complete curriculum from Pre-K through 12th grade. Every course is built on a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. Our platform currently offers 115 courses across 10 subjects, with over 900 individual lessons designed for homeschooling families."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Standard Bearer Academy for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our platform is designed for Christian homeschooling families who want a rigorous, Bible-centered education for their children. It serves Parent/Teacher and Student roles. Whether you're homeschooling one child or several across different grade levels, Standard Bearer Academy provides structured, faith-based curriculum for every stage of learning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What subjects are offered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard Bearer Academy offers 10 subjects: Science, Mathematics, Reading/Language Arts, History & Social Studies, Bible & Scripture, and Civics & Government (all grades PreK-12), plus Art & Science Projects (PreK-8th), Technology (grades 6-12), Creative Writing (grades 6-12), and Life Skills (grades 6-12)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many courses and lessons are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The platform currently offers 115 courses containing over 900 individual lessons and quizzes. Each course typically includes 6 detailed lessons and a comprehensive quiz. The curriculum spans 15 grade levels (PreK through 12th grade)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the platform free to use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Standard Bearer Academy is currently in beta, and the entire curriculum is available for viewing at no cost. We believe that quality, faith-based education should be accessible to all families."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is science taught from a Biblical perspective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All science courses are taught from a Young Earth Creationist (YEC) and Intelligent Design perspective. We affirm the literal Genesis account of creation, teach that the earth is approximately 6,000-10,000 years old, and present scientific evidence that supports the Biblical narrative."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do you mean by Creation-based science?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creation-based science means that all scientific content is taught from a perspective that affirms the Biblical account of creation as described in Genesis. We teach that God created the heavens and the earth in six literal days, that the earth is young, and that all living things were created according to their kinds by an intelligent Designer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How was the curriculum content created?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The curriculum was generated using various artificial intelligence tools with strict worldview guardrails in place. All content generation was required to adhere to a politically conservative, Judeo-Evangelical Christian, and Creation-based worldview. We rely on discerning parents and teachers to help review and verify the material during the beta period."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Life Skills are taught?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Life Skills courses run from 6th through 12th grade covering personal responsibility, home economics, financial foundations, health and wellness, career exploration, personal finance, and independent living — all grounded in Biblical stewardship."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting started is simple. Visit the Parent/Teacher Dashboard to see all available courses, or browse by grade level on the homepage. Click on any grade to see every course available for that level. No account creation is required during the beta period."
+      }
+    }
+  ]
+}
+</script>
+{% endblock %}
 
 {% block content %}
 <section class="hero">

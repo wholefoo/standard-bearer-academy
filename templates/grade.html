@@ -1,5 +1,34 @@
 {% extends "base.html" %}
-{% block title %}{{ grade_info.name }}{% endblock %}
+{% block title %}{{ grade_info.name }} Homeschool Curriculum - Standard Bearer Academy{% endblock %}
+{% block meta_description %}<meta name="description" content="Browse all {{ grade_info.name }} homeschool courses at Standard Bearer Academy. Bible-based curriculum covering Science, Math, Reading, History, Bible, Civics, and more from a Christian worldview.">{% endblock %}
+{% block meta_keywords %}<meta name="keywords" content="{{ grade_info.name }} homeschool, {{ grade_info.name }} curriculum, Christian {{ grade_info.name }}, homeschool courses, biblical education">{% endblock %}
+{% block og_meta %}
+<meta property="og:title" content="{{ grade_info.name }} Homeschool Curriculum - Standard Bearer Academy">
+<meta property="og:description" content="Complete {{ grade_info.name }} homeschool curriculum with Bible-based courses in Science, Math, Reading, History, and more.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ request.url }}">
+{% endblock %}
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ grade_info.name }} Curriculum",
+  "description": "All homeschool courses available for {{ grade_info.name }} at Standard Bearer Academy",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Standard Bearer Academy"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ request.url_root }}"},
+      {"@type": "ListItem", "position": 2, "name": "{{ grade_info.name }}"}
+    ]
+  }
+}
+</script>
+{% endblock %}
 
 {% block content %}
 <div class="page-header">

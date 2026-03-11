@@ -1,5 +1,45 @@
 {% extends "base.html" %}
-{% block title %}{{ lesson.title }}{% endblock %}
+{% block title %}{{ lesson.title }} - {{ grade_info.name }} {{ subject_info.name }} - Standard Bearer Academy{% endblock %}
+{% block meta_description %}<meta name="description" content="{{ lesson.title }} — {{ grade_info.name }} {{ subject_info.name }} lesson from Standard Bearer Academy. {% if lesson.key_concepts is defined %}Key concepts: {{ lesson.key_concepts[:3]|join(', ') }}.{% endif %}">{% endblock %}
+{% block meta_keywords %}<meta name="keywords" content="{{ lesson.title }}, {{ grade_info.name }} {{ subject_info.name }}, Christian homeschool, biblical worldview{% if lesson.key_concepts is defined %}, {{ lesson.key_concepts|join(', ') }}{% endif %}">{% endblock %}
+{% block og_meta %}
+<meta property="og:title" content="{{ lesson.title }} - Standard Bearer Academy">
+<meta property="og:description" content="{{ grade_info.name }} {{ subject_info.name }} lesson. {% if lesson.key_concepts is defined %}Covers: {{ lesson.key_concepts[:4]|join(', ') }}.{% endif %}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ request.url }}">
+{% endblock %}
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LearningResource",
+  "name": "{{ lesson.title }}",
+  "learningResourceType": "Lesson",
+  "educationalLevel": "{{ grade_info.name }}",
+  "about": "{{ subject_info.name }}",
+  "isAccessibleForFree": true,
+  "inLanguage": "en",
+  {% if lesson.key_concepts is defined %}"keywords": "{{ lesson.key_concepts|join(', ') }}",{% endif %}
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Standard Bearer Academy"
+  },
+  "isPartOf": {
+    "@type": "Course",
+    "name": "{{ course_data.title if course_data else grade_info.name ~ ' ' ~ subject_info.name }}"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ request.url_root }}"},
+      {"@type": "ListItem", "position": 2, "name": "{{ grade_info.name }}", "item": "{{ request.url_root }}grade/{{ grade }}"},
+      {"@type": "ListItem", "position": 3, "name": "{{ subject_info.name }}", "item": "{{ request.url_root }}course/{{ grade }}/{{ subject }}"},
+      {"@type": "ListItem", "position": 4, "name": "{{ lesson.title }}"}
+    ]
+  }
+}
+</script>
+{% endblock %}
 
 {% block content %}
 <div class="page-header">

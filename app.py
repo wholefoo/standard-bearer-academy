@@ -1,6 +1,7 @@
-from flask import Flask, render_template, request, jsonify, redirect, url_for
+from flask import Flask, render_template, request, jsonify, redirect, url_for, Response, make_response
 import os
 import logging
+from datetime import datetime
 from content_loader import (
     load_course, load_lesson, load_quiz,
     get_all_lessons_for_course, get_lesson_navigation,
@@ -212,6 +213,174 @@ def submit_quiz():
         "percentage": percentage,
         "results": results
     })
+
+
+@app.route("/robots.txt")
+def robots_txt():
+    base_url = request.url_root.rstrip("/")
+    content = f"""User-agent: *
+Allow: /
+Disallow: /api/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: {base_url}/sitemap.xml
+"""
+    return Response(content, mimetype="text/plain")
+
+
+@app.route("/sitemap.xml")
+def sitemap_xml():
+    base_url = request.url_root.rstrip("/")
+    today = datetime.now().strftime("%Y-%m-%d")
+    available_courses = get_available_courses()
+
+    pages = []
+    pages.append({"loc": f"{base_url}/", "priority": "1.0", "changefreq": "weekly"})
+    pages.append({"loc": f"{base_url}/dashboard", "priority": "0.9", "changefreq": "weekly"})
+
+    for grade_key in GRADE_LEVELS:
+        pages.append({"loc": f"{base_url}/grade/{grade_key}", "priority": "0.8", "changefreq": "monthly"})
+
+    for c in available_courses:
+        pages.append({"loc": f"{base_url}/course/{c['grade']}/{c['subject']}", "priority": "0.7", "changefreq": "monthly"})
+        course_data = load_course(c["grade"], c["subject"])
+        if course_data:
+            lessons, _ = get_all_lessons_for_course(c["grade"], c["subject"])
+            for lesson in lessons:
+                pages.append({"loc": f"{base_url}/lesson/{c['grade']}/{c['subject']}/{lesson['id']}", "priority": "0.6", "changefreq": "monthly"})
+            if course_data.get("quiz_id"):
+                pages.append({"loc": f"{base_url}/quiz/{c['grade']}/{c['subject']}", "priority": "0.5", "changefreq": "monthly"})
+
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    for page in pages:
+        xml += "  <url>\n"
+        xml += f"    <loc>{page['loc']}</loc>\n"
+        xml += f"    <lastmod>{today}</lastmod>\n"
+        xml += f"    <changefreq>{page['changefreq']}</changefreq>\n"
+        xml += f"    <priority>{page['priority']}</priority>\n"
+        xml += "  </url>\n"
+    xml += "</urlset>"
+
+    response = make_response(xml)
+    response.headers["Content-Type"] = "application/xml"
+    return response
+
+
+@app.route("/llms.txt")
+def llms_txt():
+    content = """# Standard Bearer Academy
+
+## About
+Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) offering 115 courses across 10 subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based (Young Earth/Biblical) worldview.
+
+## Contact
+- Email: boundlessvolumes@gmail.com
+- Founded by: Mike Mallek
+
+## Subjects (10 total)
+- Science (PreK-12): Creation-based, Young Earth Creationist, Intelligent Design perspective
+- Mathematics (PreK-12): Standard curriculum with Biblical stewardship applications
+- Reading & Language Arts (PreK-12): Phonics-based, Biblical values, Christian literary analysis
+- History & Social Studies (PreK-12): Providential history, Western Civilization, American Exceptionalism
+- Bible & Scripture (PreK-12): Direct Scripture study, Old and New Testament, age-appropriate
+- Civics & Government (PreK-12): Constitutional originalism, Biblical basis for government, limited government
+- Art & Science Projects (PreK-8): Hands-on STEAM projects, experiments, crafts exploring God's creation
+- Technology (6-12): Digital citizenship, programming, cybersecurity, AI, Biblical stewardship of tools
+- Creative Writing (6-12): Fiction, poetry, nonfiction — writing as worship, storytelling to glorify God
+- Life Skills (6-12): Financial literacy, home economics, career prep, independent living, Biblical stewardship
+
+## Grade Levels
+PreK, Kindergarten, 1st Grade through 12th Grade (15 levels total)
+
+## Curriculum Stats
+- 115 courses
+- 905+ JSON lesson/quiz files
+- 6 lessons per course plus a quiz
+- Free and open during beta
+
+## Lesson Formats
+- Elementary (PreK-5): Memory verse, objective, content, hands-on activity, discussion questions
+- Middle/High School (6-12): Scripture connection sidebar, detailed content sections, key concepts, reflection questions, primary sources (high school)
+
+## Worldview
+All content strictly adheres to:
+- Politically conservative perspective
+- Judeo-Evangelical Christian theology
+- Young Earth Creationism (literal Genesis, 6-day creation, ~6,000-10,000 year old earth)
+- Providential history (God's hand in human events)
+- Constitutional originalism
+- Biblical basis for ethics, government, and education
+
+## Technology
+- Built with Python/Flask
+- PostgreSQL database for progress tracking
+- JSON-based curriculum content
+- Responsive web design
+"""
+    return Response(content, mimetype="text/plain")
+
+
+@app.route("/llms-full.txt")
+def llms_full_txt():
+    base_url = request.url_root.rstrip("/")
+    available_courses = get_available_courses()
+    content = f"""# Standard Bearer Academy — Full Course Catalog
+
+> url: {base_url}
+> contact: boundlessvolumes@gmail.com
+> founder: Mike Mallek
+
+## Overview
+115 courses across 10 subjects, PreK through 12th Grade.
+All content from a conservative, Judeo-Evangelical Christian, Creation-based worldview.
+Free to use during beta.
+
+## Pages
+- Homepage: {base_url}/
+- Dashboard: {base_url}/dashboard
+- Robots.txt: {base_url}/robots.txt
+- Sitemap: {base_url}/sitemap.xml
+
+## Grade Level Pages
+"""
+    for grade_key, grade_info in GRADE_LEVELS.items():
+        content += f"- {grade_info['name']}: {base_url}/grade/{grade_key}\n"
+
+    content += "\n## Complete Course Listing\n"
+    current_grade = ""
+    for c in sorted(available_courses, key=lambda x: (GRADE_LEVELS.get(x["grade"], {}).get("order", 99), x["subject"])):
+        grade_name = GRADE_LEVELS.get(c["grade"], {}).get("name", c["grade"])
+        if grade_name != current_grade:
+            current_grade = grade_name
+            content += f"\n### {current_grade}\n"
+        subject_name = SUBJECTS.get(c["subject"], {}).get("name", c["subject"])
+        content += f"- {subject_name}: {c['title']} ({base_url}/course/{c['grade']}/{c['subject']})\n"
+
+    return Response(content, mimetype="text/plain")
 
 
 if __name__ == "__main__":

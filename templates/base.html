@@ -4,7 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}Standard Bearer Academy - K-12 Homeschool Learning Management System{% endblock %}</title>
+    {% block meta_description %}<meta name="description" content="Standard Bearer Academy offers a comprehensive K-12 homeschool curriculum with 115 courses across 10 subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based worldview.">{% endblock %}
+    {% block meta_keywords %}<meta name="keywords" content="homeschool curriculum, Christian homeschool, K-12 education, creation science, biblical worldview, homeschool LMS, Bible-based learning">{% endblock %}
+    {% block canonical %}<link rel="canonical" href="{{ request.url }}">{% endblock %}
+    <meta name="author" content="Mike Mallek">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta property="og:site_name" content="Standard Bearer Academy">
+    {% block og_meta %}
+    <meta property="og:title" content="Standard Bearer Academy - K-12 Homeschool LMS">
+    <meta property="og:description" content="A comprehensive K-12 homeschool curriculum with 115 courses across 10 subjects, rooted in Scripture and a Creation-based worldview.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ request.url }}">
+    {% endblock %}
+    {% block twitter_meta %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Standard Bearer Academy - K-12 Homeschool LMS">
+    <meta name="twitter:description" content="A comprehensive K-12 homeschool curriculum with 115 courses across 10 subjects, rooted in Scripture and a Creation-based worldview.">
+    {% endblock %}
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block structured_data %}{% endblock %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4W03XCK3M6"></script>
     <script>

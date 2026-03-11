@@ -1,5 +1,12 @@
 {% extends "base.html" %}
-{% block title %}{{ roles[role].name }} Dashboard{% endblock %}
+{% block title %}{{ roles[role].name }} Dashboard - Standard Bearer Academy{% endblock %}
+{% block meta_description %}<meta name="description" content="Browse all 115 homeschool courses at Standard Bearer Academy. View courses by grade level (PreK-12th) across 10 subjects including Science, Math, Bible, History, and more.">{% endblock %}
+{% block meta_keywords %}<meta name="keywords" content="homeschool dashboard, Christian homeschool courses, K-12 curriculum, homeschool lesson plans, Bible-based education">{% endblock %}
+{% block og_meta %}
+<meta property="og:title" content="Course Dashboard - Standard Bearer Academy">
+<meta property="og:description" content="Browse all 115 homeschool courses across 10 subjects and 15 grade levels at Standard Bearer Academy.">
+<meta property="og:type" content="website">
+{% endblock %}
 
 {% block content %}
 <div class="page-header">
