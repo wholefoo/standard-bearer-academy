@@ -275,6 +275,9 @@ def sitemap_xml():
     pages = []
     pages.append({"loc": f"{base_url}/", "priority": "1.0", "changefreq": "weekly"})
     pages.append({"loc": f"{base_url}/dashboard", "priority": "0.9", "changefreq": "weekly"})
+    pages.append({"loc": f"{base_url}/about", "priority": "0.6", "changefreq": "monthly"})
+    pages.append({"loc": f"{base_url}/privacy", "priority": "0.4", "changefreq": "yearly"})
+    pages.append({"loc": f"{base_url}/terms", "priority": "0.4", "changefreq": "yearly"})
 
     for grade_key in GRADE_LEVELS:
         pages.append({"loc": f"{base_url}/grade/{grade_key}", "priority": "0.8", "changefreq": "monthly"})
