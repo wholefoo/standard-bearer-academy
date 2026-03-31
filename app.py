@@ -261,6 +261,21 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
 Sitemap: {base_url}/sitemap.xml
 """
     return Response(content, mimetype="text/plain")
@@ -358,6 +373,15 @@ All content strictly adheres to:
 - PostgreSQL database for progress tracking
 - JSON-based curriculum content
 - Responsive web design
+
+## Key Pages
+- Homepage: /
+- Dashboard: /dashboard
+- About Us: /about
+- Privacy Policy: /privacy
+- Terms of Use: /terms
+- Sitemap: /sitemap.xml
+- Full Course Catalog: /llms-full.txt
 """
     return Response(content, mimetype="text/plain")
 
@@ -380,6 +404,9 @@ Free to use during beta.
 ## Pages
 - Homepage: {base_url}/
 - Dashboard: {base_url}/dashboard
+- About Us: {base_url}/about
+- Privacy Policy: {base_url}/privacy
+- Terms of Use: {base_url}/terms
 - Robots.txt: {base_url}/robots.txt
 - Sitemap: {base_url}/sitemap.xml
 

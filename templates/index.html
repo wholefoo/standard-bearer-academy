@@ -38,7 +38,15 @@
   "@type": "WebSite",
   "name": "Standard Bearer Academy",
   "url": "{{ request.url_root }}",
-  "description": "K-12 Homeschool Learning Management System"
+  "description": "K-12 Homeschool Learning Management System",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ request.url_root }}dashboard?search={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
 }
 </script>
 <script type="application/ld+json">
@@ -91,23 +99,31 @@
       "name": "How is science taught from a Biblical perspective?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "All science courses are taught from a Young Earth Creationist (YEC) and Intelligent Design perspective. We affirm the literal Genesis account of creation, teach that the earth is approximately 6,000-10,000 years old, and present scientific evidence that supports the Biblical narrative."
+        "text": "All science courses are taught from a Young Earth Creationist (YEC) and Intelligent Design perspective. We affirm the literal Genesis account of creation, teach that the earth is approximately 6,000-10,000 years old, and present scientific evidence that supports the Biblical narrative. Topics like biology, chemistry, physics, earth science, and environmental science are all explored through the lens of God's purposeful design."
       }
     },
     {
       "@type": "Question",
-      "name": "What do you mean by Creation-based science?",
+      "name": "How is history taught differently at Standard Bearer Academy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Creation-based science means that all scientific content is taught from a perspective that affirms the Biblical account of creation as described in Genesis. We teach that God created the heavens and the earth in six literal days, that the earth is young, and that all living things were created according to their kinds by an intelligent Designer."
+        "text": "Our history curriculum follows a Providential History approach, meaning we teach that God is sovereign over human events and that His hand can be seen throughout history. We emphasize Western Civilization as a pillar of Judeo-Christian heritage, celebrate American Exceptionalism and the Founding Fathers' reliance on Biblical principles, and trace the arc of God's plan from ancient civilizations through the modern era."
       }
     },
     {
       "@type": "Question",
-      "name": "How was the curriculum content created?",
+      "name": "What does the Civics curriculum cover?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The curriculum was generated using various artificial intelligence tools with strict worldview guardrails in place. All content generation was required to adhere to a politically conservative, Judeo-Evangelical Christian, and Creation-based worldview. We rely on discerning parents and teachers to help review and verify the material during the beta period."
+        "text": "Our Civics & Government curriculum teaches Constitutional originalism, the Biblical basis for government and law, the principles of limited government, individual liberty, and free enterprise. Students learn about the U.S. Constitution as originally intended by the Founders, explore the Biblical roots of Western law, and study comparative government systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the Art and Science Projects courses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Art & Science Projects (PreK through 8th grade) provide hands-on, creative learning experiences. Younger students do activities like finger painting creation scenes and growing plants. Older elementary students tackle projects like building simple circuits and creating ecosystem dioramas. Middle school students advance to STEAM explorations including robotics, bridge engineering, photography, and forensic science. Every project connects back to Biblical themes of stewardship and wonder at God's creation."
       }
     },
     {
@@ -115,15 +131,127 @@
       "name": "What Life Skills are taught?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Life Skills courses run from 6th through 12th grade covering personal responsibility, home economics, financial foundations, health and wellness, career exploration, personal finance, and independent living — all grounded in Biblical stewardship."
+        "text": "Life Skills courses run from 6th through 12th grade: 6th grade covers personal responsibility and time management; 7th grade covers home economics; 8th grade covers financial foundations; 9th grade covers health and wellness; 10th grade covers career exploration; 11th grade covers personal finance and investing; 12th grade covers independent living including renting a home, car maintenance, and marriage preparation — all grounded in Biblical stewardship."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I get started?",
+      "name": "How are lessons structured for younger students in PreK through 5th grade?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Getting started is simple. Visit the Parent/Teacher Dashboard to see all available courses, or browse by grade level on the homepage. Click on any grade to see every course available for that level. No account creation is required during the beta period."
+        "text": "Elementary lessons (PreK through 5th grade) include a Memory Verse (a Bible verse for memorization), a Learning Objective, Lesson Content in easy-to-read paragraphs, a Hands-On Activity (craft or experiment), and Discussion Questions for parent-child conversation about the lesson and its Biblical connections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are lessons structured for older students in 6th through 12th grade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Middle and high school lessons include a Scripture Connection sidebar with Bible verses and commentary, detailed Content organized into sections, Key Concepts highlighting essential terms, Reflection Questions to help students think critically and apply Biblical principles, and (for high school) Primary Source references to historical documents or scholarly texts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do quizzes work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each course includes an interactive multiple-choice quiz covering material from all lessons. PreK and Kindergarten quizzes have 6 questions, elementary grades have 8 questions, and middle/high school quizzes have 8-10 questions. After submitting, students immediately see their score with detailed explanations for each answer. Quiz scores are saved to the student's progress record."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can students retake quizzes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Students can retake quizzes as many times as they like to improve their understanding. Each attempt is scored and recorded so parents and teachers can track progress and growth over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get started with Standard Bearer Academy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting started is simple. Visit the Parent/Teacher Dashboard to see all available courses, or browse by grade level on the homepage. Click on any grade to see every course available for that level. From there, select a course, choose a lesson, and begin learning. No account creation is required during the beta period."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Parent Teacher Dashboard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Parent/Teacher Dashboard provides a comprehensive overview of all available courses organized by subject with course title, grade level, and number of lessons. From the dashboard, parents and teachers can quickly navigate to any course, review content before presenting it to students, and monitor student progress through completed lessons and quiz scores."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I preview lessons before assigning them to my student?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Every lesson is fully accessible to browse. You can read through the content, activities, discussion questions, and quiz material at your own pace. This allows you to prepare for discussions, gather materials needed for hands-on activities, and ensure the content aligns with your family's educational goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the platform track student progress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The platform tracks completed lessons and quiz scores for each student. When a student finishes a lesson, it is marked as complete. Quiz scores including the percentage, number correct, and individual answers are saved and can be reviewed by parents and teachers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Standard Bearer Academy alongside other curriculum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Standard Bearer Academy can serve as your complete curriculum or as a supplement. Many homeschooling families use it as their primary curriculum for Bible, History, and Civics while supplementing with hands-on science kits or math workbooks. The self-paced format makes it easy to integrate into any homeschool schedule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do you mean by Creation-based science?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creation-based science means all scientific content is taught from a perspective that affirms the Biblical account of creation as described in Genesis. We teach that God created the heavens and the earth in six literal days, that the earth is young (approximately 6,000-10,000 years old), and that all living things were created according to their kinds. Students examine evidence through the lens of Scripture and develop critical thinking skills rooted in faith."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How was the curriculum content created?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The curriculum was generated using artificial intelligence tools with strict worldview guardrails requiring all content to adhere to a politically conservative, Judeo-Evangelical Christian, and Creation-based worldview. Because AI-generated content lacks the human element, we rely on discerning parents and teachers to review and verify the material during our beta period. Feedback is invaluable to this project."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is every subject taught from a Biblical perspective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, without exception. Every lesson in every subject integrates Biblical truth. Math lessons reference God's order and design in numbers. Science teaches the wonder of God's creation. History reveals God's providential hand. Technology and Life Skills are grounded in Biblical stewardship. Scripture verses and Biblical connections are woven throughout every piece of content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Bible translation does Standard Bearer Academy use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our curriculum primarily references the English Standard Version (ESV), King James Version (KJV), and New International Version (NIV). The specific translation may vary by lesson, but all Scripture references are faithful to the original Biblical text. Families are encouraged to read alongside their preferred translation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What devices can I use to access Standard Bearer Academy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard Bearer Academy is a web-based platform that works on any device with a modern web browser — desktop computers, laptops, tablets, and smartphones. No apps need to be installed. The interface is designed to be readable and easy to navigate on screens of all sizes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is behind Standard Bearer Academy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard Bearer Academy was created by Mike Mallek, who believes that families deserve access to a comprehensive, uncompromised, faith-based educational resource. The project combines a passion for Christian education with modern technology to deliver a K-12 curriculum that honors God, upholds Biblical truth, and equips the next generation to be faithful standard-bearers. You can reach Mike directly at boundlessvolumes@gmail.com."
       }
     }
   ]
