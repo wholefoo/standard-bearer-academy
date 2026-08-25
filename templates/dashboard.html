@@ -1,11 +1,21 @@
 {% extends "base.html" %}
 {% block title %}{{ roles[role].name }} Dashboard - Standard Bearer Academy{% endblock %}
 {% block meta_description %}<meta name="description" content="Browse all 115 homeschool courses at Standard Bearer Academy. View courses by grade level (PreK-12th) across 10 subjects including Science, Math, Bible, History, and more.">{% endblock %}
-{% block meta_keywords %}<meta name="keywords" content="homeschool dashboard, Christian homeschool courses, K-12 curriculum, homeschool lesson plans, Bible-based education">{% endblock %}
 {% block og_meta %}
 <meta property="og:title" content="Course Dashboard - Standard Bearer Academy">
 <meta property="og:description" content="Browse all 115 homeschool courses across 10 subjects and 15 grade levels at Standard Bearer Academy.">
 <meta property="og:type" content="website">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Course Dashboard - Standard Bearer Academy">
+<meta name="twitter:description" content="Browse 115 Christian homeschool courses across 10 subjects and 15 grade levels.">
+<meta name="twitter:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block structured_data %}
+{% set schema = {"@context":"https://schema.org","@type":"CollectionPage","@id":canonical_url ~ "#page","url":canonical_url,"name":"Standard Bearer Academy Course Dashboard","description":"Browse the complete K-12 Christian homeschool course catalog.","isPartOf":{"@id":site_url ~ "/#website"}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}

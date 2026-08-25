@@ -5,7 +5,17 @@
 <meta property="og:title" content="Privacy Policy - Standard Bearer Academy">
 <meta property="og:description" content="Read our Privacy Policy to understand how Standard Bearer Academy handles your data and protects your family's information.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url }}">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy - Standard Bearer Academy">
+<meta name="twitter:description" content="How Standard Bearer Academy handles and protects family information.">
+<meta name="twitter:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block structured_data %}
+{% set schema = {"@context":"https://schema.org","@type":"WebPage","@id":canonical_url ~ "#page","url":canonical_url,"name":"Privacy Policy","isPartOf":{"@id":site_url ~ "/#website"}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}

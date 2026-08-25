@@ -1,54 +1,40 @@
 {% extends "base.html" %}
 {% block title %}Standard Bearer Academy - K-12 Homeschool Learning Management System{% endblock %}
 {% block meta_description %}<meta name="description" content="Standard Bearer Academy is a free, comprehensive K-12 homeschool LMS offering 115 courses across 10 subjects including Science, Math, History, Bible, and more — all from a conservative, Judeo-Evangelical Christian, Creation-based worldview.">{% endblock %}
-{% block meta_keywords %}<meta name="keywords" content="homeschool curriculum, Christian homeschool, K-12 education, creation science, biblical worldview, homeschool LMS, Bible-based learning, free homeschool, young earth creationism, classical Christian education, homeschool courses">{% endblock %}
 {% block og_meta %}
 <meta property="og:title" content="Standard Bearer Academy - K-12 Christian Homeschool Curriculum">
 <meta property="og:description" content="Free K-12 homeschool LMS with 115 courses across 10 subjects. Creation-based science, providential history, and Scripture-rooted education for every grade.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url_root }}">
+<meta property="og:url" content="{{ canonical_url }}">
 {% endblock %}
 {% block twitter_meta %}
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Standard Bearer Academy - K-12 Christian Homeschool Curriculum">
 <meta name="twitter:description" content="Free K-12 homeschool LMS with 115 courses across 10 subjects. Creation-based science, providential history, and Scripture-rooted education.">
 {% endblock %}
 {% block structured_data %}
-<script type="application/ld+json">
-{
+{% set organization_schema = {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
+  "@id": site_url ~ "/#organization",
   "name": "Standard Bearer Academy",
-  "description": "A comprehensive K-12 homeschool learning management system offering 115 courses across 10 subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based (Young Earth/Biblical) worldview.",
-  "url": "{{ request.url_root }}",
+  "description": "A comprehensive K-12 Christian homeschool learning platform.",
+  "url": site_url ~ "/",
   "email": "boundlessvolumes@gmail.com",
-  "founder": {
-    "@type": "Person",
-    "name": "Mike Mallek",
-    "email": "boundlessvolumes@gmail.com"
-  },
-  "educationalCredentialAwarded": "Homeschool Curriculum Completion",
-  "isAccessibleForFree": true,
-  "sameAs": []
-}
-</script>
-<script type="application/ld+json">
-{
+  "founder": {"@type": "Person", "name": "Mike Mallek"},
+  "isAccessibleForFree": true
+} %}
+<script type="application/ld+json">{{ organization_schema|tojson }}</script>
+{% set website_schema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
+  "@id": site_url ~ "/#website",
   "name": "Standard Bearer Academy",
-  "url": "{{ request.url_root }}",
+  "url": site_url ~ "/",
   "description": "K-12 Homeschool Learning Management System",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "{{ request.url_root }}dashboard?search={search_term_string}"
-    },
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
+  "publisher": {"@id": site_url ~ "/#organization"}
+} %}
+<script type="application/ld+json">{{ website_schema|tojson }}</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -59,7 +45,7 @@
       "name": "What is Standard Bearer Academy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) that provides a complete curriculum from Pre-K through 12th grade. Every course is built on a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. Our platform currently offers 115 courses across 10 subjects, with over 900 individual lessons designed for homeschooling families."
+        "text": "Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) that provides curriculum from Pre-K through 12th grade. Every course is built on a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. The platform currently offers {{ curriculum_stats.course_count }} courses across 10 subjects, with {{ curriculum_stats.lesson_count }} lessons for homeschooling families."
       }
     },
     {
@@ -83,7 +69,7 @@
       "name": "How many courses and lessons are available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The platform currently offers 115 courses containing over 900 individual lessons and quizzes. Each course typically includes 6 detailed lessons and a comprehensive quiz. The curriculum spans 15 grade levels (PreK through 12th grade)."
+        "text": "The platform currently offers {{ curriculum_stats.course_count }} courses containing {{ curriculum_stats.lesson_count }} lessons and {{ curriculum_stats.quiz_count }} course quizzes. The curriculum spans 15 grade levels (PreK through 12th grade)."
       }
     },
     {
@@ -361,7 +347,7 @@
                         <span class="faq-icon">+</span>
                     </button>
                     <div class="faq-answer">
-                        <p>Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) that provides a complete curriculum from Pre-K through 12th grade. Every course is built on a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. Our platform currently offers 115 courses across 10 subjects, with over 900 individual lessons designed for homeschooling families.</p>
+                        <p>Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) that provides a complete curriculum from Pre-K through 12th grade. Every course is built on a conservative, Judeo-Evangelical Christian, and Creation-based (Young Earth/Biblical) worldview. Our platform currently offers {{ curriculum_stats.course_count }} courses across 10 subjects, with {{ curriculum_stats.lesson_count }} lessons designed for homeschooling families.</p>
                     </div>
                 </div>
 

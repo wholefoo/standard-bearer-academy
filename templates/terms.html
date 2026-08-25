@@ -5,7 +5,17 @@
 <meta property="og:title" content="Terms of Use - Standard Bearer Academy">
 <meta property="og:description" content="Read the Terms of Use for Standard Bearer Academy, the K-12 Christian homeschool learning platform.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url }}">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Terms of Use - Standard Bearer Academy">
+<meta name="twitter:description" content="Terms for using the Standard Bearer Academy Christian homeschool platform.">
+<meta name="twitter:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block structured_data %}
+{% set schema = {"@context":"https://schema.org","@type":"WebPage","@id":canonical_url ~ "#page","url":canonical_url,"name":"Terms of Use","isPartOf":{"@id":site_url ~ "/#website"}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}

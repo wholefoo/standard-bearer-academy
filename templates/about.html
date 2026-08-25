@@ -5,7 +5,17 @@
 <meta property="og:title" content="About Standard Bearer Academy">
 <meta property="og:description" content="A Christ-centered K-12 homeschool platform built on Scripture, Creation-based science, and Biblical worldview. Learn our story and mission.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url }}">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About Standard Bearer Academy">
+<meta name="twitter:description" content="Learn about our Christ-centered K-12 homeschool mission and Biblical worldview.">
+<meta name="twitter:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block structured_data %}
+{% set schema = {"@context":"https://schema.org","@type":"AboutPage","@id":canonical_url ~ "#page","url":canonical_url,"name":"About Standard Bearer Academy","about":{"@id":site_url ~ "/#organization"},"isPartOf":{"@id":site_url ~ "/#website"}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}

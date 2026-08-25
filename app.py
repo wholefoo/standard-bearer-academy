@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify, redirect, url_for, Response, make_response
+from flask import Flask, render_template, request, jsonify, redirect, url_for, Response, make_response, abort
 import os
 import logging
 from datetime import datetime
@@ -55,6 +55,32 @@ def get_subject_info(subject):
     return SUBJECTS.get(subject, {"name": subject.title(), "icon": "📚"})
 
 
+@app.context_processor
+def inject_seo_helpers():
+    base_url = request.url_root.rstrip("/")
+    return {
+        "canonical_url": request.base_url,
+        "site_url": base_url,
+        "social_image_url": f"{base_url}{url_for('static', filename='images/social-share.png')}",
+    }
+
+
+def get_curriculum_stats(available_courses=None):
+    courses = available_courses if available_courses is not None else get_available_courses()
+    lesson_count = 0
+    quiz_count = 0
+    for course_info in courses:
+        lessons, course_data = get_all_lessons_for_course(course_info["grade"], course_info["subject"])
+        lesson_count += len(lessons)
+        if course_data and course_data.get("quiz_id"):
+            quiz_count += 1
+    return {
+        "course_count": len(courses),
+        "lesson_count": lesson_count,
+        "quiz_count": quiz_count,
+    }
+
+
 @app.route("/health")
 def health():
     return "ok", 200
@@ -68,7 +94,8 @@ def homepage():
         logging.error(f"Error loading courses: {e}")
         available_courses = []
     return render_template("index.html", roles=USER_ROLES, grades=GRADE_LEVELS,
-                           subjects=SUBJECTS, available_courses=available_courses)
+                           subjects=SUBJECTS, available_courses=available_courses,
+                           curriculum_stats=get_curriculum_stats(available_courses))
 
 
 @app.route("/dashboard")
@@ -101,11 +128,13 @@ def grade_page(grade):
 @app.route("/course/<grade>/<subject>")
 def course(grade, subject):
     grade_info = GRADE_LEVELS.get(grade)
+    if not grade_info or subject not in SUBJECTS:
+        abort(404)
     subject_info = get_subject_info(subject)
-    if not grade_info:
-        return redirect(url_for("dashboard"))
 
     lessons, course_data = get_all_lessons_for_course(grade, subject)
+    if not course_data:
+        abort(404)
     return render_template("course.html", grade=grade, grade_info=grade_info,
                            subject=subject, subject_info=subject_info,
                            lessons=lessons, course_data=course_data)
@@ -114,9 +143,9 @@ def course(grade, subject):
 @app.route("/lesson/<grade>/<subject>/<lesson_id>")
 def lesson(grade, subject, lesson_id):
     grade_info = GRADE_LEVELS.get(grade)
+    if not grade_info or subject not in SUBJECTS:
+        abort(404)
     subject_info = get_subject_info(subject)
-    if not grade_info:
-        return redirect(url_for("dashboard"))
 
     prev_lesson, lesson_data, next_lesson = get_lesson_navigation(grade, subject, lesson_id)
     if not lesson_data:
@@ -137,9 +166,9 @@ def lesson(grade, subject, lesson_id):
 @app.route("/quiz/<grade>/<subject>")
 def quiz(grade, subject):
     grade_info = GRADE_LEVELS.get(grade)
+    if not grade_info or subject not in SUBJECTS:
+        abort(404)
     subject_info = get_subject_info(subject)
-    if not grade_info:
-        return redirect(url_for("dashboard"))
 
     course_data = load_course(grade, subject)
     if not course_data:
@@ -293,6 +322,8 @@ def sitemap_xml():
     pages.append({"loc": f"{base_url}/about", "priority": "0.6", "changefreq": "monthly"})
     pages.append({"loc": f"{base_url}/privacy", "priority": "0.4", "changefreq": "yearly"})
     pages.append({"loc": f"{base_url}/terms", "priority": "0.4", "changefreq": "yearly"})
+    pages.append({"loc": f"{base_url}/llms.txt", "priority": "0.3", "changefreq": "monthly"})
+    pages.append({"loc": f"{base_url}/llms-full.txt", "priority": "0.3", "changefreq": "monthly"})
 
     for grade_key in GRADE_LEVELS:
         pages.append({"loc": f"{base_url}/grade/{grade_key}", "priority": "0.8", "changefreq": "monthly"})
@@ -325,16 +356,18 @@ def sitemap_xml():
 
 @app.route("/llms.txt")
 def llms_txt():
-    content = """# Standard Bearer Academy
+    available_courses = get_available_courses()
+    stats = get_curriculum_stats(available_courses)
+    content = f"""# Standard Bearer Academy
 
 ## About
-Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) offering 115 courses across 10 subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based (Young Earth/Biblical) worldview.
+Standard Bearer Academy is a comprehensive K-12 homeschool learning management system (LMS) offering {stats['course_count']} courses across {len(SUBJECTS)} subjects, all from a conservative, Judeo-Evangelical Christian, Creation-based (Young Earth/Biblical) worldview.
 
 ## Contact
 - Email: boundlessvolumes@gmail.com
 - Founded by: Mike Mallek
 
-## Subjects (10 total)
+## Subjects ({len(SUBJECTS)} total)
 - Science (PreK-12): Creation-based, Young Earth Creationist, Intelligent Design perspective
 - Mathematics (PreK-12): Standard curriculum with Biblical stewardship applications
 - Reading & Language Arts (PreK-12): Phonics-based, Biblical values, Christian literary analysis
@@ -350,9 +383,9 @@ Standard Bearer Academy is a comprehensive K-12 homeschool learning management s
 PreK, Kindergarten, 1st Grade through 12th Grade (15 levels total)
 
 ## Curriculum Stats
-- 115 courses
-- 905+ JSON lesson/quiz files
-- 6 lessons per course plus a quiz
+- {stats['course_count']} courses
+- {stats['lesson_count']} lessons
+- {stats['quiz_count']} course quizzes
 - Free and open during beta
 
 ## Lesson Formats
@@ -390,6 +423,7 @@ All content strictly adheres to:
 def llms_full_txt():
     base_url = request.url_root.rstrip("/")
     available_courses = get_available_courses()
+    stats = get_curriculum_stats(available_courses)
     content = f"""# Standard Bearer Academy — Full Course Catalog
 
 > url: {base_url}
@@ -397,7 +431,7 @@ def llms_full_txt():
 > founder: Mike Mallek
 
 ## Overview
-115 courses across 10 subjects, PreK through 12th Grade.
+{stats['course_count']} courses, {stats['lesson_count']} lessons, and {stats['quiz_count']} quizzes across {len(SUBJECTS)} subjects, PreK through 12th Grade.
 All content from a conservative, Judeo-Evangelical Christian, Creation-based worldview.
 Free to use during beta.
 
@@ -424,6 +458,11 @@ Free to use during beta.
             content += f"\n### {current_grade}\n"
         subject_name = SUBJECTS.get(c["subject"], {}).get("name", c["subject"])
         content += f"- {subject_name}: {c['title']} ({base_url}/course/{c['grade']}/{c['subject']})\n"
+        lessons, course_data = get_all_lessons_for_course(c["grade"], c["subject"])
+        for lesson_info in lessons:
+            content += f"  - Lesson: {lesson_info['title']} ({base_url}/lesson/{c['grade']}/{c['subject']}/{lesson_info['id']})\n"
+        if course_data and course_data.get("quiz_id"):
+            content += f"  - Quiz: {base_url}/quiz/{c['grade']}/{c['subject']}\n"
 
     return Response(content, mimetype="text/plain")
 

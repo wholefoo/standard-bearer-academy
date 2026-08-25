@@ -1,38 +1,22 @@
 {% extends "base.html" %}
 {% block title %}{{ quiz_data.title }} Quiz - {{ grade_info.name }} {{ subject_info.name }} - Standard Bearer Academy{% endblock %}
 {% block meta_description %}<meta name="description" content="Take the {{ quiz_data.title }} quiz for {{ grade_info.name }} {{ subject_info.name }}. Test your knowledge with {{ questions|length }} questions from Standard Bearer Academy's Bible-based curriculum.">{% endblock %}
-{% block meta_keywords %}<meta name="keywords" content="{{ quiz_data.title }} quiz, {{ grade_info.name }} {{ subject_info.name }} quiz, homeschool quiz, Christian education quiz">{% endblock %}
 {% block og_meta %}
 <meta property="og:title" content="{{ quiz_data.title }} Quiz - Standard Bearer Academy">
 <meta property="og:description" content="{{ grade_info.name }} {{ subject_info.name }} quiz with {{ questions|length }} questions. Test your knowledge!">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url }}">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ quiz_data.title }} Quiz - Standard Bearer Academy">
+<meta name="twitter:description" content="{{ grade_info.name }} {{ subject_info.name }} quiz with {{ questions|length }} questions.">
+<meta name="twitter:url" content="{{ canonical_url }}">
 {% endblock %}
 {% block structured_data %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Quiz",
-  "name": "{{ quiz_data.title }} Quiz",
-  "about": "{{ grade_info.name }} {{ subject_info.name }}",
-  "educationalLevel": "{{ grade_info.name }}",
-  "numberOfQuestions": {{ questions|length }},
-  "isAccessibleForFree": true,
-  "provider": {
-    "@type": "EducationalOrganization",
-    "name": "Standard Bearer Academy"
-  },
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ request.url_root }}"},
-      {"@type": "ListItem", "position": 2, "name": "{{ grade_info.name }}", "item": "{{ request.url_root }}grade/{{ grade }}"},
-      {"@type": "ListItem", "position": 3, "name": "{{ subject_info.name }}", "item": "{{ request.url_root }}course/{{ grade }}/{{ subject }}"},
-      {"@type": "ListItem", "position": 4, "name": "Quiz"}
-    ]
-  }
-}
-</script>
+{% set course_url = site_url ~ "/course/" ~ grade ~ "/" ~ subject %}
+{% set schema = {"@context":"https://schema.org","@type":"Quiz","@id":canonical_url ~ "#quiz","url":canonical_url,"name":quiz_data.title ~ " Quiz","about":grade_info.name ~ " " ~ subject_info.name,"educationalLevel":grade_info.name,"numberOfQuestions":questions|length,"isAccessibleForFree":true,"provider":{"@id":site_url ~ "/#organization"},"isPartOf":{"@type":"Course","url":course_url},"breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":site_url ~ "/"},{"@type":"ListItem","position":2,"name":grade_info.name,"item":site_url ~ "/grade/" ~ grade},{"@type":"ListItem","position":3,"name":subject_info.name,"item":course_url},{"@type":"ListItem","position":4,"name":"Quiz","item":canonical_url}]}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}

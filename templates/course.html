@@ -1,38 +1,21 @@
 {% extends "base.html" %}
 {% block title %}{{ course_data.title if course_data else grade_info.name ~ ' ' ~ subject_info.name }} - Standard Bearer Academy{% endblock %}
 {% block meta_description %}<meta name="description" content="{{ course_data.title if course_data else grade_info.name ~ ' ' ~ subject_info.name }} — {{ course_data.description if course_data else 'Bible-based homeschool curriculum' }}. Christian homeschool course from Standard Bearer Academy.">{% endblock %}
-{% block meta_keywords %}<meta name="keywords" content="{{ grade_info.name }} {{ subject_info.name }}, homeschool {{ subject_info.name|lower }}, Christian {{ subject_info.name|lower }}, {{ course_data.title if course_data else '' }}">{% endblock %}
 {% block og_meta %}
 <meta property="og:title" content="{{ course_data.title if course_data else grade_info.name ~ ' ' ~ subject_info.name }} - Standard Bearer Academy">
 <meta property="og:description" content="{{ course_data.description if course_data else 'Bible-based homeschool curriculum from Standard Bearer Academy.' }}">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ request.url }}">
+<meta property="og:url" content="{{ canonical_url }}">
+{% endblock %}
+{% block twitter_meta %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ course_data.title }} - Standard Bearer Academy">
+<meta name="twitter:description" content="{{ course_data.description }}">
+<meta name="twitter:url" content="{{ canonical_url }}">
 {% endblock %}
 {% block structured_data %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Course",
-  "name": "{{ course_data.title if course_data else grade_info.name ~ ' ' ~ subject_info.name }}",
-  "description": "{{ course_data.description if course_data else 'Homeschool course from Standard Bearer Academy' }}",
-  "provider": {
-    "@type": "EducationalOrganization",
-    "name": "Standard Bearer Academy"
-  },
-  "educationalLevel": "{{ grade_info.name }}",
-  "about": "{{ subject_info.name }}",
-  "isAccessibleForFree": true,
-  "inLanguage": "en",
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ request.url_root }}"},
-      {"@type": "ListItem", "position": 2, "name": "{{ grade_info.name }}", "item": "{{ request.url_root }}grade/{{ grade }}"},
-      {"@type": "ListItem", "position": 3, "name": "{{ subject_info.name }}"}
-    ]
-  }
-}
-</script>
+{% set schema = {"@context":"https://schema.org","@type":"Course","@id":canonical_url ~ "#course","url":canonical_url,"name":course_data.title,"description":course_data.description,"provider":{"@type":"EducationalOrganization","@id":site_url ~ "/#organization","name":"Standard Bearer Academy","url":site_url ~ "/"},"educationalLevel":grade_info.name,"about":subject_info.name,"isAccessibleForFree":true,"inLanguage":"en","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":site_url ~ "/"},{"@type":"ListItem","position":2,"name":grade_info.name,"item":site_url ~ "/grade/" ~ grade},{"@type":"ListItem","position":3,"name":subject_info.name,"item":canonical_url}]}} %}
+<script type="application/ld+json">{{ schema|tojson }}</script>
 {% endblock %}
 
 {% block content %}
